@@ -38,3 +38,19 @@ The 2nd component is the file sha. We should be able to run the `tree` command a
 We can then split that line on the `;` character, which will give us the file sha. Once we have the file sha, we can run the `showCnt blob 1` command on the file to get its contents on a single line. 
 
 This processs could be repeated for each commit we'd like to analyze, and for different files.
+
+
+#### Finding the Language of a Repository
+This is shown as part of Activity 6, and shows how to get the repository and the language their written in. The basemap is stored on da3. The command is shown below, with example format
+```
+zcat -f /da3_data/basemaps/c2PtAbflPkgFullU2.s | grep java
+
+
+# Example output
+ # commit;deforked repo;timestamp;Aliased author;blob;filename;language (as used in WoC);module1;module2;..
+
+
+0200ffd8f1c2251661c9dd4421d0ccf3284293b9;AnilWesley_nova-agritech-ems;1551362127;VamsiSmart <vsmartdisk@gmail.com>;07683060a271de6105afec211b547ebf48567ede;app/src/main/java/com/agritech/empmanager/HolidaysActivity.java;java;android.content.Context;androidx.databinding.DataBindingUtil;com.agritech.empmanager.databinding.ActivityHolidaysBinding;androidx.appcompat.app.AppCompatActivity;android.os.Bundle;android.app.AlertDialog;android.view.MenuItem;com.agritech.empmanager.fragments.HolidaysFragment;android.view.Menu;android.content.Intent
+```
+
+This gives a general summary of the projects they've mined. The summary shows the fields mentioned in the comments. One of those fields is Java, so this would give us a way to relate a repository, lanague, commit and other important information together.

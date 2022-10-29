@@ -5,12 +5,12 @@ import github.GitRelease
 
 def print_release_details(repository):
 
-  # Releases - these are the real releases, typically they have a tag associated
+  # Releases - these are the real releases, typically they have a tag associated (so we could use it to look at patch/minor/major)
   releases = repository.get_releases()
   print(f'The total releases in {repository.name} is: {releases.totalCount}.')
 
-  # You can access a specific release page with the following, or a specific release using the 
-  page = repository.get_releases()[0]
+  # You can access a specific release page with the following (so we could just look at the first 100 returned releases if we wanted)
+  firstPage = repository.get_releases()[0]
 
   # Print some release details, including - Title, Tag Name, Published at, Prerelease
   print('\nRelease Details:')

@@ -26,7 +26,7 @@ def print_tags(repository):
     print(f'Name: {tag.name} Commit: {tag.commit}')
 
 # Access token from Github account
-access_token = "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"
+access_token = ""
 g = Github(access_token, per_page=100) # override default results returned per page to 100
 
 repo_owner_name = "PyGithub/PyGithub"

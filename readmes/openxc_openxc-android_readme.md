@@ -1,0 +1,86 @@
+OpenXC Android Library
+=========================
+
+[![Build Status](https://travis-ci.org/openxc/openxc-android.svg?branch=master)](https://travis-ci.org/openxc/openxc-android)
+
+This library is a part of the [OpenXC](http://openxcplatform.com) project.
+
+This Android library contains the tools required to read vehicle data from the
+vehicle's CAN bus through the OpenXC vehicle interface in any Android
+application.
+
+Visit the [OpenXC](http://openxcplatform.com) project page for
+[installation
+instructions](http://openxcplatform.com/getting-started/library-installation.html),
+[usage details](http://openxcplatform.com/android/api-guide.html), and the
+[source code documentation](http://android.openxcplatform.com).
+
+## Building from Android Studio
+
+Make sure you have Android SDK 22 installed (the default in newer versions of
+Android Studio might be later, e.g. 23 - you need to install SDK 22 to build
+OpenXC).
+
+Open the `library` or `enabler` projects in Android Studio - done!
+
+## Tests
+
+To run the unit tests suite:
+
+    $ ./gradlew test
+
+To run the instrumentation tests (must have an attached Android device or
+emulator):
+
+    $ ./gradlew conectedCheck
+
+## Building from Command Line
+
+The project requires Android Studio and is configured to build with Gradle.
+
+## Releasing the App and Library
+
+* Update `CHANGELOG.mkd`.
+* Update `enabler/src/main/play/en-US/whatsnew`
+* Merge into `master`, run `fab release` which will tag and push to GitHub.
+* Travis CI will take care of the rest.
+* Check out `next`, bump the version in `build.grade` to the next release.
+
+The release of the Enabler to the Play store and the library to JCenter and the
+Maven Central Repository is managed automatically with Travis CI. The Travis
+build environment must be configured with these encrypted environment variables:
+
+* `KEYSTORE_PASS` - password to the release keystore in this repository.
+* `ALIAS_NAME` - alias of the release key in the keystore.
+* `ALIAS_PASS` - password for the release key.
+* `SERVICE_EMAIL` - Google Play service account email, for API access to the
+    Play store.
+* `BUGSNAG_TOKEN` - Bugsnag API key, used to upload the Proguard mapping
+    during the build and crash reporting in the release version of the app.
+
+If you want to deploy from a local machine, you can either define those in your
+environment or in the `local.properties` file.
+
+## Crash Reporting
+
+The pre-built version of the Enabler available through GitHub and the Google
+Play store uses [Android Crash Reporting](https://bugsnag.com/platforms/android)
+by Bugsnag. We're thankful to Bugsnag for offering their service to open source
+projects for free.
+
+If you wish to link your own build of the app to a different Bugsnag account,
+you can set your own `BUGSNAG_TOKEN` in the build config (see above).
+
+## Contributing
+
+Please see our [Contribution Documents](https://github.com/openxc/openxc-android/blob/master/CONTRIBUTING.mkd).
+
+## License
+
+Copyright (c) 2011-2017 Ford Motor Company
+Licensed under the BSD license.
+
+[binding]: http://developer.android.com/guide/topics/fundamentals/bound-services.html#Binding
+[services]: http://developer.android.com/guide/topics/fundamentals/services.html
+[AIDL]: http://developer.android.com/guide/developing/tools/aidl.html
+[OpenXC]: http://openxcplatform.com

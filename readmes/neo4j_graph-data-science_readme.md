@@ -1,0 +1,248 @@
+= Neo4j Graph Data Science
+
+image:https://github.com/neo4j/graph-data-science/actions/workflows/gradle_cipr.yml/badge.svg?branch=master[https://github.com/neo4j/graph-data-science/actions/workflows/gradle_cipr.yml]
+image:https://img.shields.io/maven-central/v/org.neo4j.gds/proc.svg?label=Maven%20Central[https://search.maven.org/search?q=g:%22org.neo4j.gds%22%20AND%20a:%22proc%22]
+https://neo4j.com/docs/graph-data-science/preview/installation/[image:https://img.shields.io/badge/Documentation-latest-blue[Documentation]]
+https://discord.gg/neo4j[image:https://img.shields.io/discord/787399249741479977?label=Chat&logo=discord&style=flat-square[Discord]]
+https://community.neo4j.com/[image:https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Forums&logo=discourse&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Fcommunity.neo4j.com%2F[Forums online status]]
+
+This repository hosts the open sources of the Neo4j Graph Data Science (GDS) library.
+The GDS library is a plugin for the Neo4j graph database.
+The library consists of a number of graph algorithms, exposed as procedures and executed in Neo4j.
+
+The Neo4j Graph Data Science library is the successor of the Neo4j Graph Algorithms library.
+
+
+== Downloading and installing releases
+
+The latest releases of Neo4j GDS can always be found at the https://neo4j.com/graph-data-science-software/[Neo4j Graph Data Science Download Page].
+To install the plugin in Neo4j place the downloaded JAR file it in the `plugins` directory of your Neo4j database and restart the database.
+For further instructions, see our https://neo4j.com/docs/graph-data-science/current/installation/[documentation].
+
+If you are using Neo4j Desktop you can simply add the Graph Data Science library on the plugins page of your project.
+
+.Compatibility matrix
+|===
+|GDS version | Neo4j version | Java Version
+
+|GDS 1.0.x
+|Neo4j 3.5.9 - 3.5.20
+.2+<.^|Java 1.8
+
+|GDS 1.1.x
+|Neo4j 3.5.9 - 3.5.33
+
+|GDS 1.2.x
+|Neo4j 4.0.0 – 4.0.6
+.24+.^|Java 11
+
+.2+<.^|GDS 1.3.x
+|Neo4j 4.0.0 - 4.0.9
+|Neo4j 4.1.0 - 4.1.5
+
+.3+<.^|GDS 1.4.x
+|Neo4j 4.0.0 - 4.0.11
+|Neo4j 4.1.0 - 4.1.7
+|Neo4j 4.2.0 - 4.2.3
+
+.3+<.^|GDS 1.5.x
+|Neo4j 4.0.0 - 4.0.11
+|Neo4j 4.1.0 - 4.1.8
+|Neo4j 4.2.0 - 4.2.5
+
+.4+<.^|GDS 1.6.x
+|Neo4j 4.0.0 - 4.0.12
+|Neo4j 4.1.0 - 4.1.10
+|Neo4j 4.2.0 - 4.2.15
+|Neo4j 4.3.0 - 4.3.4
+
+.3+<.^|GDS 1.7.x
+|Neo4j 4.1.0 - 4.1.11
+|Neo4j 4.2.0 - 4.2.15
+|Neo4j 4.3.0 - 4.3.12
+
+.4+<.^|GDS 1.8.x
+|Neo4j 4.1.0 - 4.1.11
+|Neo4j 4.2.0 - 4.2.18
+|Neo4j 4.3.0 - 4.3.12
+|Neo4j 4.4.0 - 4.4.5
+
+.2+<.^|GDS 2.0.x
+|Neo4j 4.3.0 - 4.3.14
+|Neo4j 4.4.0 - 4.4.7
+
+.2+<.^|GDS 2.1.x
+|Neo4j 4.3.0 - 4.3.18
+|Neo4j 4.4.0 - 4.4.11
+
+.2+<.^|GDS 2.2.x
+|Neo4j 4.3.15 - 4.3.20
+.4+.^|Java 11 & Java 17
+|Neo4j 4.4.9 - 4.4.12
+.2+<.^|GDS 2.3.x
+|Neo4j 4.3.15 - 4.3.20
+|Neo4j 4.4.9 - 4.4.12
+|===
+
+NOTE: Preview releases are not automatically made available in Neo4j Desktop. They need to be installed manually.
+
+
+== OpenGDS
+
+The Neo4j Graph Data Science library as built and distributed by Neo4j includes the sources in this repository as well a suite of closed sources.
+Neo4j GDS is available to download and use under the constraints of its license.
+
+However, the sources in this repository can be also be assembled into a fully functioning library, which we call OpenGDS.
+OpenGDS is available to build, use, and extend under the constraints of the GNU Public License version 3.0.
+
+== Using the Pregel API
+
+To build your own algorithms using the Pregel API (see at https://neo4j.com/docs/graph-data-science/current/algorithms/pregel-api/#algorithms-pregel-api-example[docs]), we recommend starting with the https://github.com/neo4j/graph-data-science/tree/1.8.0/examples/pregel-bootstrap[pregel-bootstrap project].
+
+NOTE: The module on `master` depends on the unpublished version of this library. The GDS version can be changed in the `build.gradle` of the `pregel-bootstrap` module.
+
+
+== Python client
+
+The library comes with a Python client called `graphdatascience`. It enables users to write pure Python code to project graphs, run algorithms, as well as define and use machine learning pipelines in GDS.
+
+The API is designed to mimic the GDS Cypher procedure API in Python code. It abstracts the necessary operations of the Neo4j Python driver to offer a simpler surface.
+
+`graphdatascience` is only guaranteed to work with GDS versions 2.0+.
+
+You can find the `graphdatascience` source code https://github.com/neo4j/graph-data-science-client[here].
+
+
+== Developing with OpenGDS
+
+OpenGDS is also available on https://search.maven.org/search?q=g:org.neo4j.gds[Maven Central].
+If you want to include the OpenGDS in your own project you can simply add it as a dependency.
+
+For the most basic set of features, like graph loading and the graph representation, you need to include the `core` module:
+
+[source]
+----
+<dependency>
+  <groupId>org.neo4j.gds</groupId>
+  <artifactId>core</artifactId>
+  <version>2.2.3</version>
+</dependency>
+----
+
+The algorithms are located in the `algo-common`, `algo` and `alpha-algo` modules:
+
+[source]
+----
+<!-- Contains the basic algorithm infrastructure -->
+<dependency>
+  <groupId>org.neo4j.gds</groupId>
+  <artifactId>algo-common</artifactId>
+  <version>2.2.3</version>
+</dependency>
+
+<!-- Contains the productized algorithms -->
+<dependency>
+  <groupId>org.neo4j.gds</groupId>
+  <artifactId>algo</artifactId>
+  <version>2.2.3</version>
+</dependency>
+
+<!-- Contains some alpha algorithms -->
+<dependency>
+    <groupId>org.neo4j.gds</groupId>
+    <artifactId>alpha-algo</artifactId>
+    <version>2.2.3</version>
+</dependency>
+----
+
+The procedures are located in the `proc-common`, `proc` and `alpha-proc` modules:
+
+[source]
+----
+<!-- Contains the basic procedure infrastructure -->
+<dependency>
+  <groupId>org.neo4j.gds</groupId>
+  <artifactId>proc-common</artifactId>
+  <version>2.2.3</version>
+</dependency>
+
+<!-- Contains the productized algorithm procedures -->
+<dependency>
+  <groupId>org.neo4j.gds</groupId>
+  <artifactId>proc</artifactId>
+  <version>2.2.3</version>
+</dependency>
+
+<!-- Contains some alpha algorithm procedures-->
+<dependency>
+    <groupId>org.neo4j.gds</groupId>
+    <artifactId>alpha-proc</artifactId>
+    <version>2.2.3</version>
+</dependency>
+
+<!-- Required by the write execution modes, this artifact is responsible for providing the various exporters -->
+<dependency>
+  <groupId>org.neo4j.gds</groupId>
+  <artifactId>write-services</artifactId>
+  <version>2.2.3</version>
+</dependency>
+----
+
+
+== Building the library
+
+Installing JDKs::
+
+Install https://sdkman.io/[SKDMAN]
+
+[source]
+----
+curl -s "https://get.sdkman.io" | bash
+source "$HOME/.sdkman/bin/sdkman-init.sh"
+----
+
+Install both JDK 11 and JDK 17 Temurin:
+[source]
+----
+sdk install java 11.0.13-tem
+sdk install java 17.0.1-tem
+----
+
+NOTE: These versions were the latest at the time of writing these notes. To see a list of the available versions you can run `sdk list java`.
+
+NOTE: You do not need to set them as default JDK
+
+If you want to opt out of `Temurin`, you can override `javaLanguageVendor` and `javaLanguageVersion` in your project-local `gradle.properties`.
+https://docs.gradle.org/current/javadoc/org/gradle/jvm/toolchain/JvmVendorSpec.html[List of Gradle supported language vendors]
+
+NOTE: The `javaLanguageVendor` and `javaLanguageVersion` overrides have to be installed locally on your system.
+
+
+OpenGDS uses the build tool `Gradle`.
+Gradle is shipped with this repository using the Gradle Wrapper.
+This means you can simply run any Gradle task by running `./gradlew TASK` from the repository root.
+
+Running tests::
+To run all tests you can simply run `./gradlew check`
+
+Packaging the library::
+To package the library you can run `./gradlew :open-packaging:shadowCopy`.
+This will create a bundled JAR called `open-gds-VERSION.jar` in the directory `build/distributions/`.
+To use the bundled JAR in Neo4j, place the JAR file in the `plugins` directory of your Neo4j database and restart the database.
+For further instructions, see our https://neo4j.com/docs/graph-data-science/current/installation/[documentation].
+
+Preview of the documentation::
+A preview of the latest documentation can be found at https://neo4j.com/docs/graph-data-science/2.3-preview/.
+
+
+== Contributing
+
+Please report any bugs, concerns, or other questions as GitHub issues to this repository.
+
+For more information see the link:CONTRIBUTING.md[contribution guidelines for this project].
+
+
+== License
+
+OpenGDS is licensed under the GNU Public License version 3.0.
+All content is copyright © Neo4j Sweden AB.

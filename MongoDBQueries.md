@@ -3,18 +3,18 @@ Next please type in `use WoC` to access the correct database. You can them use a
 
 
 Query to projects that have the following poperties:
-* >200 commits
-* > 20 authors
-* > 30 files that are java
+* greater than 200 commits
+* greater than 20 contributors
+* greater than 30 files that are java
 * `library` in the project name
 ```
 db.P_metadata.U.findOne({$and: [{NumCommits:{$gt:200}}, {ProjectID:{$regex:"library"}}, {NumAuthors:{$gt:20}}, {"FileInfo.Java":{$gt:30}} ]})
 ```
 
 Query projects that have the following properties:
-* >200 commits
-* > 20 authors
-* > 30 files that are python
+* greater than 200 commits
+* greater than 20 contributors
+* greater than 30 files that are python
 * `library` in the project name
 ```
 db.P_metadata.U.findOne({$and: [{NumCommits:{$gt:200}}, {ProjectID:{$regex:"library"}}, {NumAuthors:{$gt:20}}, {"FileInfo.Python":{$gt:30}} ]})

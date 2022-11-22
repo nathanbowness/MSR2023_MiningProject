@@ -1,0 +1,217 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+if(!require(jsonlite)) { install.packages("jsonlite", dependencies = TRUE) }; library("jsonlite")
+if(!require(dplyr)) { install.packages("dplyr", dependencies = TRUE) }; library("dplyr")
+if(!require(psych)) { install.packages("psych", dependencies = TRUE) }; library("psych")
+if(!require(ggplot2)) { install.packages("ggplot2", dependencies = TRUE) }; library("ggplot2")
+if(!require(BTM)) { install.packages("BTM", dependencies = TRUE) }; library("BTM")
+if(!require(udpipe)) { install.packages("udpipe", dependencies = TRUE) }; library("udpipe")
+if(!require(LDAvis)) { install.packages("LDAvis", dependencies = TRUE) }; library("LDAvis")
+
+dataset <- read.csv("processed_readmes_java.csv", sep=";", quote="'", encoding="UTF-8");
+
+format_number <- function(x, digits=2) { 
+    ncode <- paste0("%.", digits, "f");
+    return(sub("^(-?)0.", "\\1.", sprintf(ncode, x)));
+}
+
+n_max_context <- -1; # -1 means no maximum
+min_term_repo_count <- 100 # the minimum number of repositories in which a term must occur to be used in topic modeling
+```
+
+Obtaining total term counts
+
+```{r}
+
+dataset_terms <- c();
+for(row_id in 1:nrow(dataset)){
+  contexts <- fromJSON(dataset[row_id,"CONTEXTS"]);
+  for (context_id in 1:length(contexts)){
+    if (n_max_context > 0 && context_id >= n_max_context){
+      break;
+    }
+    context <- contexts[[context_id]];
+    for (token_id in 1:length(context)){
+      # print(context[token_id]);
+      dataset_terms <- c(dataset_terms, context[token_id]);
+    }
+  }
+}
+dataset_terms <- dataset_terms[!is.na(dataset_terms)];
+
+dataset_terms_unique <- unique(dataset_terms);
+
+dataset_term_counts <- data.frame(matrix(NA, nrow = length(dataset_terms_unique), ncol = 2));
+colnames(dataset_term_counts) <- c("TERM", "COUNT");
+
+for (i in 1:length(dataset_terms_unique)){
+  term <- dataset_terms_unique[[i]];
+  count <- length(which(dataset_terms==term));
+  dataset_term_counts[i,c("TERM", "COUNT")] <- c(term, count);
+}
+dataset_term_counts$COUNT <- as.integer(dataset_term_counts$COUNT);
+
+describe(dataset_term_counts)
+
+qqnorm(dataset_term_counts$COUNT, pch=1, frame=FALSE);
+qqline(dataset_term_counts$COUNT, col="steelblue", lwd=2);
+```
+Obtaining the number of repositories in which each term has occurred:
+
+```{r}
+
+dataset_term_counts_repos <- dataset_term_counts;
+last_printed_progress <- 0;
+for (i in 1:length(dataset_terms_unique)){
+  term <- dataset_terms_unique[[i]];
+  counter <- 0; # number of repositories in which the term exists
+  # print(term);
+  if (is.null(term)){
+    next;
+  }
+  progress <- as.integer(100*i/length(dataset_terms_unique));
+  if (progress %% 10 == 0 && progress > last_printed_progress){
+    print(paste0("Progress: ",format_number(progress, 2),"%"));
+    last_printed_progress <- progress;
+  }
+  for(row_id in 1:nrow(dataset)){
+    contexts <- fromJSON(dataset[row_id,"CONTEXTS"]);
+    found <- F;
+    for (context_id in 1:length(contexts)){
+      if (n_max_context > 0 && context_id >= n_max_context){
+        break;
+      }
+      context <- contexts[[context_id]];
+      # print(context);
+      if (found == T){
+        break;
+      }
+      for (token_id in 1:length(context)){
+        # print(context[[token_id]]);
+        # print(term);
+        # print("-------");
+        if (found == T){
+          break;
+        } else if (context[[token_id]] == term){
+          counter <- counter + 1;
+          found <- T;
+        }
+      }
+    }
+  }
+  dataset_term_counts_repos[i,"COUNT"] <- counter;
+}
+
+qqnorm(dataset_term_counts_repos$COUNT, pch=1, frame=FALSE);
+qqline(dataset_term_counts_repos$COUNT, col="steelblue", lwd=2);
+
+```
+
+Calculating the co-occurrence counts in a matrix for terms that were used by at least 5 repos:
+
+```{r}
+filtered_terms <- (dataset_term_counts_repos %>% filter(COUNT >= min_term_repo_count) %>% arrange(TERM))$TERM;
+
+term_cooc <- matrix(0, nrow=length(filtered_terms), ncol=length(filtered_terms));
+rownames(term_cooc) <- filtered_terms;
+colnames(term_cooc) <- filtered_terms;
+
+filtered_terms;
+```
+
+```{r}
+generate_terms_biterms <- function(dataset, filtered_terms, save_files=F, terms_file_name="terms_temp.csv", biterms_file_name="biterms_temp.csv"){
+  
+  terms <- data.frame("doc_id"=integer(), "term"=character(), stringsAsFactors=F);
+  write.table(terms, terms_file_name, sep=",", row.names=F, append=F, fileEncoding="UTF-8");
+  
+  biterms <- data.frame("doc_id"=integer(), "term1"=character(), "term2"=character(), "cooc"=integer(), stringsAsFactors=F);
+  write.table(biterms, biterms_file_name, sep=",", row.names=F, append=F, fileEncoding="UTF-8");
+  last_printed_progress <- 0;
+  for(row_id in 1:nrow(dataset)){
+    progress <- as.integer(100*row_id/nrow(dataset));
+    if (progress %% 10 == 0 && progress > last_printed_progress){
+      print(paste0("Progress: ",format_number(progress, 2),"%"));
+      last_printed_progress <- progress;
+    }
+    repo_biterms <- data.frame("doc_id"=integer(), "term1"=character(), "term2"=character(), "cooc"=integer(), stringsAsFactors=F);
+    
+    contexts <- fromJSON(dataset[row_id,"CONTEXTS"]);
+    for (context_id in 1:length(contexts)){
+      if (n_max_context > 0 && context_id >= n_max_context){
+        break;
+      }
+      context <- contexts[[context_id]];
+      unique_tokens <- sort(unique(context));
+      unique_tokens <- unique_tokens[unique_tokens %in% filtered_terms];
+      # print(unique_tokens);
+      if (length(unique_tokens) > 1){
+        for (token_i in 1:(length(unique_tokens)-1)){
+          term <- data.frame("doc_id"=dataset[row_id, "ID"], "term1"=unique_tokens[[token_i]], stringsAsFactors=F);
+          write.table(term, terms_file_name, sep=",", row.names=F, col.names=!file.exists(terms_file_name), append=T, fileEncoding="UTF-8");
+          for (token_j in (token_i+1):length(unique_tokens)){
+            # print(paste(token_i, token_j));
+            # print(paste(unique_tokens[[token_i]], unique_tokens[[token_j]]));
+            biterm <- data.frame("doc_id"=dataset[row_id, "ID"], "term1"=unique_tokens[[token_i]], "term2"=unique_tokens[[token_j]], "cooc"=1, stringsAsFactors=F);
+            repo_biterms <- rbind(repo_biterms, biterm);
+          }
+          term <- data.frame("doc_id"=dataset[row_id, "ID"], "term1"=unique_tokens[[token_j]], stringsAsFactors=F);
+          write.table(term, terms_file_name, sep=",", row.names=F, col.names=!file.exists(terms_file_name), append=T, fileEncoding="UTF-8");
+        }
+      }
+    }
+    repo_biterms <- repo_biterms %>% group_by(doc_id, term1, term2) %>% summarise(cooc=sum(cooc), .groups="keep");
+    # biterms <- rbind(biterms, repo_biterms);
+    write.table(repo_biterms, biterms_file_name, sep=",", row.names=F, col.names=!file.exists(biterms_file_name), append=T, fileEncoding="UTF-8");
+  }
+  terms <- read.csv(file=terms_file_name, sep=",", row.names=NULL, fileEncoding="UTF-8");
+  biterms <- read.csv(file=biterms_file_name, sep=",", row.names=NULL, fileEncoding="UTF-8");
+  if (save_files){
+    print(paste0("Terms are saved in ", terms_file_name, " and biterms are saved in ", biterms_file_name, "."));
+  } else {
+    file.remove(terms_file_name);
+    file.remove(biterms_file_name);
+  }
+  out <- list("terms"=terms, "biterms"=biterms);
+  return(out);
+}
+
+terms_biterms <- generate_terms_biterms(dataset, filtered_terms, save_files=T);
+terms <- terms_biterms$terms;
+biterms <- terms_biterms$biterms;
+remove(terms_biterms);
+# biterms <- biterms[, c(2,3,4,5)];
+# colnames(biterms) <- c("doc_id", "term1", "term2", "cooc");
+```
+
+
+Biterm topic modeling:
+
+```{r}
+
+set.seed(1);
+btm <- BTM(
+  data=terms,
+  k = 20,
+  # alpha = 0.001,
+  beta = 0.01,
+  iter = 1000,
+  background = FALSE,
+  trace = FALSE,
+  biterms = biterms,
+  detailed = T
+);
+
+docsize <- table(terms$doc_id);
+scores <- predict(btm, terms);
+# scores <- scores[rownames(terms), ];
+json <- createJSON(phi = t(btm$phi), theta = scores, doc.length = as.integer(docsize), 
+                   vocab = btm$vocabulary$token, term.frequency = btm$vocabulary$freq, R = 10);
+
+serVis(json);
+
+```

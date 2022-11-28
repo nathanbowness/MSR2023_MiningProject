@@ -1,0 +1,6848 @@
+[
+	{
+		"_id" : ObjectId("629018a88b2efbc6e39f6769"),
+		"NumAuthors" : 66,
+		"ProjectID" : "cfabianski_json_translate",
+		"NumStars" : 243
+	},
+	{
+		"_id" : ObjectId("629018aa8b2efbc6e3a023f9"),
+		"NumAuthors" : 29,
+		"ProjectID" : "instructure_switchman",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("629018ae8b2efbc6e3a1b87f"),
+		"NumAuthors" : 68,
+		"ProjectID" : "karafka_karafka",
+		"NumStars" : 1162
+	},
+	{
+		"_id" : ObjectId("629018b18b2efbc6e3a2fa66"),
+		"NumAuthors" : 19,
+		"ProjectID" : "xwmx_pandoc-ruby",
+		"NumStars" : 252
+	},
+	{
+		"_id" : ObjectId("629018b28b2efbc6e3a32d65"),
+		"NumAuthors" : 20,
+		"ProjectID" : "mrkamel_search_cop",
+		"NumStars" : 644
+	},
+	{
+		"_id" : ObjectId("629018b38b2efbc6e3a3c2dd"),
+		"NumAuthors" : 41,
+		"ProjectID" : "seattlerb_flog",
+		"NumStars" : 560
+	},
+	{
+		"_id" : ObjectId("629018bb8b2efbc6e3a6aad3"),
+		"NumAuthors" : 142,
+		"ProjectID" : "intercom_intercom-rails",
+		"NumStars" : 262
+	},
+	{
+		"_id" : ObjectId("629018bb8b2efbc6e3a6c905"),
+		"NumAuthors" : 91,
+		"ProjectID" : "ruby-gnome2_ruby-gnome2",
+		"NumStars" : 335
+	},
+	{
+		"_id" : ObjectId("629018bc8b2efbc6e3a7422b"),
+		"NumAuthors" : 30,
+		"ProjectID" : "sudocrystal_cs-fundamentals",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629018bd8b2efbc6e3a75c9a"),
+		"NumAuthors" : 62,
+		"ProjectID" : "chaadow_active_record-acts_as",
+		"NumStars" : 330
+	},
+	{
+		"_id" : ObjectId("629018c28b2efbc6e3a91bd3"),
+		"NumAuthors" : 119,
+		"ProjectID" : "cinchrb_cinch",
+		"NumStars" : 559
+	},
+	{
+		"_id" : ObjectId("629018c58b2efbc6e3aaa2f4"),
+		"NumAuthors" : 23,
+		"ProjectID" : "apicollective_apibuilder-cli",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("629018d58b2efbc6e3afcef9"),
+		"NumAuthors" : 31,
+		"ProjectID" : "DmitryTsepelev_store_model",
+		"NumStars" : 334
+	},
+	{
+		"_id" : ObjectId("629018d78b2efbc6e3b03759"),
+		"NumAuthors" : 153,
+		"ProjectID" : "mattheworiordan_capybara-screenshot",
+		"NumStars" : 681
+	},
+	{
+		"_id" : ObjectId("629018da8b2efbc6e3b1584d"),
+		"NumAuthors" : 34,
+		"ProjectID" : "dub357_sharepoint-ruby",
+		"NumStars" : 60
+	},
+	{
+		"_id" : ObjectId("629018de8b2efbc6e3b29b32"),
+		"NumAuthors" : 93,
+		"ProjectID" : "omniauth_omniauth-github",
+		"NumStars" : 357
+	},
+	{
+		"_id" : ObjectId("629018de8b2efbc6e3b2c9bc"),
+		"NumAuthors" : 18,
+		"ProjectID" : "djberg96_sys-filesystem",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629018df8b2efbc6e3b2e3b2"),
+		"NumAuthors" : 28,
+		"ProjectID" : "roodi_roodi",
+		"NumStars" : 197
+	},
+	{
+		"_id" : ObjectId("629018df8b2efbc6e3b2eb29"),
+		"NumAuthors" : 44,
+		"ProjectID" : "dry-rb_dry-logic",
+		"NumStars" : 116
+	},
+	{
+		"_id" : ObjectId("629018e08b2efbc6e3b34d33"),
+		"NumAuthors" : 46,
+		"ProjectID" : "choria-legacy_mcollective-puppet-agent",
+		"NumStars" : 61
+	},
+	{
+		"_id" : ObjectId("629018e88b2efbc6e3b62813"),
+		"NumAuthors" : 49,
+		"ProjectID" : "jeffreywildman_homebrew-virt-manager",
+		"NumStars" : 693
+	},
+	{
+		"_id" : ObjectId("629018ee8b2efbc6e3b84fd1"),
+		"NumAuthors" : 19,
+		"ProjectID" : "3mundi_kaminari-mongoid",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("629018f68b2efbc6e3bacff3"),
+		"NumAuthors" : 33,
+		"ProjectID" : "yujinakayama_guard-rubocop",
+		"NumStars" : 255
+	},
+	{
+		"_id" : ObjectId("629018f98b2efbc6e3bbdac2"),
+		"NumAuthors" : 30,
+		"ProjectID" : "tpitale_mail_room",
+		"NumStars" : 157
+	},
+	{
+		"_id" : ObjectId("629018fd8b2efbc6e3bd4d15"),
+		"NumAuthors" : 93,
+		"ProjectID" : "rtomayko_rack-cache",
+		"NumStars" : 443
+	},
+	{
+		"_id" : ObjectId("629018fd8b2efbc6e3bd5088"),
+		"NumAuthors" : 50,
+		"ProjectID" : "makandra_active_type",
+		"NumStars" : 803
+	},
+	{
+		"_id" : ObjectId("629018fe8b2efbc6e3bdd4ac"),
+		"NumAuthors" : 186,
+		"ProjectID" : "attr-encrypted_attr_encrypted",
+		"NumStars" : 1309
+	},
+	{
+		"_id" : ObjectId("629019018b2efbc6e3be6e7a"),
+		"NumAuthors" : 15,
+		"ProjectID" : "dahlia_homebrew-dotnet-sdk-versions",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("629019078b2efbc6e3c10c92"),
+		"NumAuthors" : 34,
+		"ProjectID" : "socketry_timers",
+		"NumStars" : 302
+	},
+	{
+		"_id" : ObjectId("6290190e8b2efbc6e3c32509"),
+		"NumAuthors" : 25,
+		"ProjectID" : "mirego_activerecord_json_validator",
+		"NumStars" : 203
+	},
+	{
+		"_id" : ObjectId("6290190f8b2efbc6e3c39ef6"),
+		"NumAuthors" : 28,
+		"ProjectID" : "flavorjones_mini_portile",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("629019148b2efbc6e3c4fb1b"),
+		"NumAuthors" : 33,
+		"ProjectID" : "rngtng_massive_sitemap",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("629019178b2efbc6e3c63346"),
+		"NumAuthors" : 72,
+		"ProjectID" : "nats-io_ruby-nats",
+		"NumStars" : 516
+	},
+	{
+		"_id" : ObjectId("629019198b2efbc6e3c7073b"),
+		"NumAuthors" : 25,
+		"ProjectID" : "JoshCheek_seeing_is_believing",
+		"NumStars" : 976
+	},
+	{
+		"_id" : ObjectId("6290191b8b2efbc6e3c78fcd"),
+		"NumAuthors" : 58,
+		"ProjectID" : "Shopify_packwerk",
+		"NumStars" : 479
+	},
+	{
+		"_id" : ObjectId("629019208b2efbc6e3c91e18"),
+		"NumAuthors" : 20,
+		"ProjectID" : "TwP_bones",
+		"NumStars" : 60
+	},
+	{
+		"_id" : ObjectId("629019218b2efbc6e3c952bc"),
+		"NumAuthors" : 38,
+		"ProjectID" : "test-kitchen_busser-serverspec",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("629019288b2efbc6e3cb798c"),
+		"NumAuthors" : 27,
+		"ProjectID" : "treasure-data_presto-client-ruby",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("6290192b8b2efbc6e3cc16f1"),
+		"NumAuthors" : 12,
+		"ProjectID" : "envato_rack-ecg",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("6290192f8b2efbc6e3cddb24"),
+		"NumAuthors" : 84,
+		"ProjectID" : "sds_haml-lint",
+		"NumStars" : 239
+	},
+	{
+		"_id" : ObjectId("6290193a8b2efbc6e3d1b016"),
+		"NumAuthors" : 13,
+		"ProjectID" : "ekyfauzi_numbers_in_words",
+		"NumStars" : 77
+	},
+	{
+		"_id" : ObjectId("6290193d8b2efbc6e3d2c430"),
+		"NumAuthors" : 51,
+		"ProjectID" : "rails_rails-html-sanitizer",
+		"NumStars" : 228
+	},
+	{
+		"_id" : ObjectId("6290193d8b2efbc6e3d2ea8c"),
+		"NumAuthors" : 36,
+		"ProjectID" : "zendesk_stronger_parameters",
+		"NumStars" : 219
+	},
+	{
+		"_id" : ObjectId("629019468b2efbc6e3d55690"),
+		"NumAuthors" : 25,
+		"ProjectID" : "relevance_edn-ruby",
+		"NumStars" : 114
+	},
+	{
+		"_id" : ObjectId("629019468b2efbc6e3d5628c"),
+		"NumAuthors" : 23,
+		"ProjectID" : "gel-rb_gel",
+		"NumStars" : 408
+	},
+	{
+		"_id" : ObjectId("629019488b2efbc6e3d5e649"),
+		"NumAuthors" : 202,
+		"ProjectID" : "adimichele_hubspot-ruby",
+		"NumStars" : 171
+	},
+	{
+		"_id" : ObjectId("6290194e8b2efbc6e3d73a7d"),
+		"NumAuthors" : 76,
+		"ProjectID" : "graylog-labs_gelf-rb",
+		"NumStars" : 123
+	},
+	{
+		"_id" : ObjectId("629019558b2efbc6e3d97b8f"),
+		"NumAuthors" : 111,
+		"ProjectID" : "mgomes_api_auth",
+		"NumStars" : 461
+	},
+	{
+		"_id" : ObjectId("6290195c8b2efbc6e3dc0390"),
+		"NumAuthors" : 30,
+		"ProjectID" : "castle_castle-ruby",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("629019628b2efbc6e3ddbe1f"),
+		"NumAuthors" : 46,
+		"ProjectID" : "jwagener-soundcloud_httmultiparty",
+		"NumStars" : 119
+	},
+	{
+		"_id" : ObjectId("629019678b2efbc6e3df2f0a"),
+		"NumAuthors" : 118,
+		"ProjectID" : "k1LoW_awspec",
+		"NumStars" : 1047
+	},
+	{
+		"_id" : ObjectId("6290196b8b2efbc6e3e053d5"),
+		"NumAuthors" : 133,
+		"ProjectID" : "natritmeyer_site_prism",
+		"NumStars" : 957
+	},
+	{
+		"_id" : ObjectId("6290196b8b2efbc6e3e05cf2"),
+		"NumAuthors" : 22,
+		"ProjectID" : "gocardless_gocardless-pro-ruby",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("6290196d8b2efbc6e3e0c8bb"),
+		"NumAuthors" : 20,
+		"ProjectID" : "splitrb_split-analytics",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("629019718b2efbc6e3e21000"),
+		"NumAuthors" : 18,
+		"ProjectID" : "gosu_releasy",
+		"NumStars" : 301
+	},
+	{
+		"_id" : ObjectId("629019718b2efbc6e3e22a6e"),
+		"NumAuthors" : 51,
+		"ProjectID" : "voxpupuli_modulesync",
+		"NumStars" : 74
+	},
+	{
+		"_id" : ObjectId("629019728b2efbc6e3e2385f"),
+		"NumAuthors" : 134,
+		"ProjectID" : "bluepill-rb_bluepill",
+		"NumStars" : 683
+	},
+	{
+		"_id" : ObjectId("629019738b2efbc6e3e28b3d"),
+		"NumAuthors" : 22,
+		"ProjectID" : "samvera_rubydora",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629019738b2efbc6e3e2b256"),
+		"NumAuthors" : 30,
+		"ProjectID" : "bigcommerce_gruf",
+		"NumStars" : 355
+	},
+	{
+		"_id" : ObjectId("629019768b2efbc6e3e37dbf"),
+		"NumAuthors" : 38,
+		"ProjectID" : "DamirSvrtan_fasterer",
+		"NumStars" : 1364
+	},
+	{
+		"_id" : ObjectId("629019768b2efbc6e3e39dc7"),
+		"NumAuthors" : 132,
+		"ProjectID" : "savagegus_ansible-consul",
+		"NumStars" : 259
+	},
+	{
+		"_id" : ObjectId("629019778b2efbc6e3e402d7"),
+		"NumAuthors" : 22,
+		"ProjectID" : "robdimarco_omniauth_crowd",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("629019888b2efbc6e3e8bdf7"),
+		"NumAuthors" : 94,
+		"ProjectID" : "joost_phony_rails",
+		"NumStars" : 469
+	},
+	{
+		"_id" : ObjectId("6290198e8b2efbc6e3ea723f"),
+		"NumAuthors" : 17,
+		"ProjectID" : "doctolib_safe-pg-migrations",
+		"NumStars" : 142
+	},
+	{
+		"_id" : ObjectId("629019918b2efbc6e3eb6157"),
+		"NumAuthors" : 102,
+		"ProjectID" : "pagseguro_ruby",
+		"NumStars" : 169
+	},
+	{
+		"_id" : ObjectId("629019948b2efbc6e3ec6953"),
+		"NumAuthors" : 28,
+		"ProjectID" : "mrmans0n_localio",
+		"NumStars" : 130
+	},
+	{
+		"_id" : ObjectId("629019968b2efbc6e3ecbe68"),
+		"NumAuthors" : 12,
+		"ProjectID" : "bfoz_geometry",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("629019988b2efbc6e3ed4750"),
+		"NumAuthors" : 39,
+		"ProjectID" : "PNixx_clickhouse-activerecord",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("629019988b2efbc6e3ed5139"),
+		"NumAuthors" : 112,
+		"ProjectID" : "textmate_ruby.tmbundle",
+		"NumStars" : 130
+	},
+	{
+		"_id" : ObjectId("629019a98b2efbc6e3f26758"),
+		"NumAuthors" : 86,
+		"ProjectID" : "iain_http_accept_language",
+		"NumStars" : 587
+	},
+	{
+		"_id" : ObjectId("629019ab8b2efbc6e3f3002a"),
+		"NumAuthors" : 43,
+		"ProjectID" : "unosk_carrierwave-azure",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629019ab8b2efbc6e3f3210f"),
+		"NumAuthors" : 37,
+		"ProjectID" : "envato_double_entry",
+		"NumStars" : 247
+	},
+	{
+		"_id" : ObjectId("629019ac8b2efbc6e3f381d3"),
+		"NumAuthors" : 60,
+		"ProjectID" : "TimMensch_git-media",
+		"NumStars" : 539
+	},
+	{
+		"_id" : ObjectId("629019b08b2efbc6e3f4de83"),
+		"NumAuthors" : 12,
+		"ProjectID" : "plu_simctl",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("629019b58b2efbc6e3f5ecd9"),
+		"NumAuthors" : 37,
+		"ProjectID" : "jekyll_jekyll-compose",
+		"NumStars" : 531
+	},
+	{
+		"_id" : ObjectId("629019c88b2efbc6e3fbccec"),
+		"NumAuthors" : 29,
+		"ProjectID" : "artofhuman_activeadmin_settings_cached",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("629019d08b2efbc6e3fd8413"),
+		"NumAuthors" : 15,
+		"ProjectID" : "markets_jekyll-timeago",
+		"NumStars" : 135
+	},
+	{
+		"_id" : ObjectId("629019d28b2efbc6e3fe0191"),
+		"NumAuthors" : 61,
+		"ProjectID" : "urvin-compliance_caracal",
+		"NumStars" : 263
+	},
+	{
+		"_id" : ObjectId("629019e88b2efbc6e304c94e"),
+		"NumAuthors" : 160,
+		"ProjectID" : "equivalent_mandrill-api-ruby",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629019f78b2efbc6e3091cb2"),
+		"NumAuthors" : 62,
+		"ProjectID" : "seattlerb_ruby_parser",
+		"NumStars" : 344
+	},
+	{
+		"_id" : ObjectId("629019f78b2efbc6e309697c"),
+		"NumAuthors" : 79,
+		"ProjectID" : "rgrove_sanitize",
+		"NumStars" : 1014
+	},
+	{
+		"_id" : ObjectId("629019fc8b2efbc6e30ad46b"),
+		"NumAuthors" : 209,
+		"ProjectID" : "hashie_hashie",
+		"NumStars" : 1990
+	},
+	{
+		"_id" : ObjectId("629019fe8b2efbc6e30b799e"),
+		"NumAuthors" : 43,
+		"ProjectID" : "prawnpdf_ttfunk",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("62901a0c8b2efbc6e30f6e34"),
+		"NumAuthors" : 45,
+		"ProjectID" : "eitoball_net-ping",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("62901a0d8b2efbc6e30ff19f"),
+		"NumAuthors" : 62,
+		"ProjectID" : "unwire_handsoap",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("62901a128b2efbc6e311775d"),
+		"NumAuthors" : 37,
+		"ProjectID" : "coinbase_terraform-landscape",
+		"NumStars" : 1117
+	},
+	{
+		"_id" : ObjectId("62901a128b2efbc6e31183ff"),
+		"NumAuthors" : 121,
+		"ProjectID" : "sciyoshi_redmine-slack",
+		"NumStars" : 422
+	},
+	{
+		"_id" : ObjectId("62901a138b2efbc6e311943e"),
+		"NumAuthors" : 28,
+		"ProjectID" : "test-kitchen_kitchen-hyperv",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62901a178b2efbc6e31333c3"),
+		"NumAuthors" : 108,
+		"ProjectID" : "plataformatec_responders",
+		"NumStars" : 1498
+	},
+	{
+		"_id" : ObjectId("62901a238b2efbc6e3171846"),
+		"NumAuthors" : 11,
+		"ProjectID" : "kigster_sym",
+		"NumStars" : 134
+	},
+	{
+		"_id" : ObjectId("62901a268b2efbc6e3182527"),
+		"NumAuthors" : 36,
+		"ProjectID" : "fluent_fluent-plugin-webhdfs",
+		"NumStars" : 60
+	},
+	{
+		"_id" : ObjectId("62901a278b2efbc6e3185e9d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "eagleas_webmoney",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("62901a378b2efbc6e31cd9a6"),
+		"NumAuthors" : 19,
+		"ProjectID" : "kufu_activerecord-bitemporal",
+		"NumStars" : 96
+	},
+	{
+		"_id" : ObjectId("62901a658b2efbc6e3203145"),
+		"NumAuthors" : 32,
+		"ProjectID" : "apotonick_disposable",
+		"NumStars" : 141
+	},
+	{
+		"_id" : ObjectId("62901aa78b2efbc6e323daec"),
+		"NumAuthors" : 47,
+		"ProjectID" : "Shopify_graphql-batch",
+		"NumStars" : 1051
+	},
+	{
+		"_id" : ObjectId("62901ac28b2efbc6e325b1c7"),
+		"NumAuthors" : 56,
+		"ProjectID" : "hanami_validations",
+		"NumStars" : 193
+	},
+	{
+		"_id" : ObjectId("62901ac38b2efbc6e325e588"),
+		"NumAuthors" : 29,
+		"ProjectID" : "contribsys_faktory_worker_ruby",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("62901ac48b2efbc6e3262b6f"),
+		"NumAuthors" : 32,
+		"ProjectID" : "ruby_ostruct",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("62901ac98b2efbc6e326a4a2"),
+		"NumAuthors" : 148,
+		"ProjectID" : "dwilkie_carrierwave_direct",
+		"NumStars" : 511
+	},
+	{
+		"_id" : ObjectId("62901aef8b2efbc6e3293927"),
+		"NumAuthors" : 99,
+		"ProjectID" : "vmware_rbvmomi",
+		"NumStars" : 369
+	},
+	{
+		"_id" : ObjectId("62901af78b2efbc6e329b091"),
+		"NumAuthors" : 146,
+		"ProjectID" : "kpumuk_meta-tags",
+		"NumStars" : 1900
+	},
+	{
+		"_id" : ObjectId("62901b288b2efbc6e32ccd8c"),
+		"NumAuthors" : 81,
+		"ProjectID" : "ruby_mspec",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("62901b3d8b2efbc6e32e4472"),
+		"NumAuthors" : 72,
+		"ProjectID" : "jsn_rbot",
+		"NumStars" : 115
+	},
+	{
+		"_id" : ObjectId("62901b578b2efbc6e32fd2ef"),
+		"NumAuthors" : 43,
+		"ProjectID" : "savonrb_gyoku",
+		"NumStars" : 206
+	},
+	{
+		"_id" : ObjectId("62901b978b2efbc6e3341e67"),
+		"NumAuthors" : 301,
+		"ProjectID" : "brianmario_mysql2",
+		"NumStars" : 1640
+	},
+	{
+		"_id" : ObjectId("62901baa8b2efbc6e3359ffc"),
+		"NumAuthors" : 142,
+		"ProjectID" : "sds_mock_redis",
+		"NumStars" : 269
+	},
+	{
+		"_id" : ObjectId("62901bb28b2efbc6e33629bb"),
+		"NumAuthors" : 18,
+		"ProjectID" : "skaes_time_bandits",
+		"NumStars" : 106
+	},
+	{
+		"_id" : ObjectId("62901bc28b2efbc6e336e151"),
+		"NumAuthors" : 25,
+		"ProjectID" : "OutOfOrder_multidb",
+		"NumStars" : 56
+	},
+	{
+		"_id" : ObjectId("62901bea8b2efbc6e33a064f"),
+		"NumAuthors" : 76,
+		"ProjectID" : "perfectline_validates_url",
+		"NumStars" : 352
+	},
+	{
+		"_id" : ObjectId("62901bfa8b2efbc6e33b08f9"),
+		"NumAuthors" : 38,
+		"ProjectID" : "motemen_git-pr-release",
+		"NumStars" : 466
+	},
+	{
+		"_id" : ObjectId("62901c058b2efbc6e33bdb1d"),
+		"NumAuthors" : 33,
+		"ProjectID" : "aptible_aptible-cli",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("62901c368b2efbc6e33f53cb"),
+		"NumAuthors" : 23,
+		"ProjectID" : "seomoz_linkscape-gem",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62901c898b2efbc6e34526d4"),
+		"NumAuthors" : 46,
+		"ProjectID" : "sensu-plugins_sensu-plugins-kubernetes",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("62901cd38b2efbc6e34a3e13"),
+		"NumAuthors" : 24,
+		"ProjectID" : "DanielVartanov_ruby-geometry",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("62901cd88b2efbc6e34a917b"),
+		"NumAuthors" : 41,
+		"ProjectID" : "wirecardBrasil_moip-sdk-ruby",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("62901cf88b2efbc6e34cac20"),
+		"NumAuthors" : 22,
+		"ProjectID" : "nesaulov_surrealist",
+		"NumStars" : 253
+	},
+	{
+		"_id" : ObjectId("62901d008b2efbc6e34d4567"),
+		"NumAuthors" : 28,
+		"ProjectID" : "mxenabled_action_subscriber",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62901d068b2efbc6e34d735a"),
+		"NumAuthors" : 22,
+		"ProjectID" : "zbruhnke_bloggy",
+		"NumStars" : 170
+	},
+	{
+		"_id" : ObjectId("62901d1d8b2efbc6e34f2f2e"),
+		"NumAuthors" : 34,
+		"ProjectID" : "AllAlgorithms_ruby",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("62901d228b2efbc6e34f8d06"),
+		"NumAuthors" : 23,
+		"ProjectID" : "WinRb_rubyntlm",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("62901d568b2efbc6e352c9be"),
+		"NumAuthors" : 25,
+		"ProjectID" : "salsify_goldiloader",
+		"NumStars" : 987
+	},
+	{
+		"_id" : ObjectId("62901d668b2efbc6e353c76c"),
+		"NumAuthors" : 85,
+		"ProjectID" : "cburnette_boxr",
+		"NumStars" : 97
+	},
+	{
+		"_id" : ObjectId("62901d728b2efbc6e354ac35"),
+		"NumAuthors" : 16,
+		"ProjectID" : "puppetlabs_rubocop-i18n",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62901d888b2efbc6e3562a75"),
+		"NumAuthors" : 69,
+		"ProjectID" : "rails_actionpack-action_caching",
+		"NumStars" : 242
+	},
+	{
+		"_id" : ObjectId("62901d9c8b2efbc6e3575c8a"),
+		"NumAuthors" : 58,
+		"ProjectID" : "y9v_carrierwave-base64",
+		"NumStars" : 253
+	},
+	{
+		"_id" : ObjectId("62901d9e8b2efbc6e357864a"),
+		"NumAuthors" : 185,
+		"ProjectID" : "test-kitchen_kitchen-vagrant",
+		"NumStars" : 346
+	},
+	{
+		"_id" : ObjectId("62901daf8b2efbc6e3587fc1"),
+		"NumAuthors" : 20,
+		"ProjectID" : "aquasync_ruby-msg",
+		"NumStars" : 61
+	},
+	{
+		"_id" : ObjectId("62901dbc8b2efbc6e3592db2"),
+		"NumAuthors" : 42,
+		"ProjectID" : "treasure-data_td-client-ruby",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62901dbe8b2efbc6e35934f1"),
+		"NumAuthors" : 15,
+		"ProjectID" : "Homebrew_homebrew-portable-ruby",
+		"NumStars" : 76
+	},
+	{
+		"_id" : ObjectId("62901dc88b2efbc6e359e799"),
+		"NumAuthors" : 54,
+		"ProjectID" : "Shopify_verdict",
+		"NumStars" : 162
+	},
+	{
+		"_id" : ObjectId("62901dce8b2efbc6e35a3757"),
+		"NumAuthors" : 32,
+		"ProjectID" : "tpitale_staccato",
+		"NumStars" : 357
+	},
+	{
+		"_id" : ObjectId("62901ddf8b2efbc6e35b5b9b"),
+		"NumAuthors" : 37,
+		"ProjectID" : "XeroAPI_xero-ruby",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("62901def8b2efbc6e35c7b95"),
+		"NumAuthors" : 32,
+		"ProjectID" : "thibaudgg_rb-fsevent",
+		"NumStars" : 145
+	},
+	{
+		"_id" : ObjectId("62901e028b2efbc6e35dc412"),
+		"NumAuthors" : 31,
+		"ProjectID" : "wooga_homebrew-unityversions",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62901e0d8b2efbc6e35e70f4"),
+		"NumAuthors" : 87,
+		"ProjectID" : "thibaudgg_video_info",
+		"NumStars" : 310
+	},
+	{
+		"_id" : ObjectId("62901e0f8b2efbc6e35e81b4"),
+		"NumAuthors" : 25,
+		"ProjectID" : "plataformatec_devise-encryptable",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("62901e158b2efbc6e35ef5b8"),
+		"NumAuthors" : 39,
+		"ProjectID" : "freerobby_sendgrid_toolkit",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("62901e2b8b2efbc6e3604cbc"),
+		"NumAuthors" : 116,
+		"ProjectID" : "hanami_model",
+		"NumStars" : 412
+	},
+	{
+		"_id" : ObjectId("62901e408b2efbc6e3619914"),
+		"NumAuthors" : 16,
+		"ProjectID" : "readysteady_mailgunner",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("62901e918b2efbc6e3670a2c"),
+		"NumAuthors" : 45,
+		"ProjectID" : "jakesgordon_sprite-factory",
+		"NumStars" : 328
+	},
+	{
+		"_id" : ObjectId("62901ea38b2efbc6e36845ae"),
+		"NumAuthors" : 137,
+		"ProjectID" : "QueueClassic_queue_classic",
+		"NumStars" : 916
+	},
+	{
+		"_id" : ObjectId("62901eb58b2efbc6e3694968"),
+		"NumAuthors" : 55,
+		"ProjectID" : "chef_vagrant-omnibus",
+		"NumStars" : 406
+	},
+	{
+		"_id" : ObjectId("62901eb98b2efbc6e369840b"),
+		"NumAuthors" : 22,
+		"ProjectID" : "synth_omniauth-microsoft_graph",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62901ebb8b2efbc6e369a957"),
+		"NumAuthors" : 105,
+		"ProjectID" : "hanami_utils",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("62901ec38b2efbc6e36a2f87"),
+		"NumAuthors" : 47,
+		"ProjectID" : "madeintandem_jsonb_accessor",
+		"NumStars" : 543
+	},
+	{
+		"_id" : ObjectId("62901ed68b2efbc6e36b542d"),
+		"NumAuthors" : 44,
+		"ProjectID" : "fluent_fluent-plugin-sql",
+		"NumStars" : 80
+	},
+	{
+		"_id" : ObjectId("62901ee98b2efbc6e36cb90b"),
+		"NumAuthors" : 77,
+		"ProjectID" : "dry-rb_dry-types",
+		"NumStars" : 647
+	},
+	{
+		"_id" : ObjectId("62901eeb8b2efbc6e36cc1fd"),
+		"NumAuthors" : 21,
+		"ProjectID" : "codus_codelog",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62901f188b2efbc6e36fc413"),
+		"NumAuthors" : 52,
+		"ProjectID" : "sensu-plugins_sensu-plugins-windows",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("62901f1f8b2efbc6e37085e0"),
+		"NumAuthors" : 41,
+		"ProjectID" : "ranguba_rroonga",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("62901f278b2efbc6e370d058"),
+		"NumAuthors" : 21,
+		"ProjectID" : "minimul_qbo_api",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("62901f428b2efbc6e37290a5"),
+		"NumAuthors" : 50,
+		"ProjectID" : "actindi_act-fluent-logger-rails",
+		"NumStars" : 115
+	},
+	{
+		"_id" : ObjectId("62901f5a8b2efbc6e3741939"),
+		"NumAuthors" : 13,
+		"ProjectID" : "dry-rb_dry-effects",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("62901f638b2efbc6e3749266"),
+		"NumAuthors" : 62,
+		"ProjectID" : "jimweirich_builder",
+		"NumStars" : 327
+	},
+	{
+		"_id" : ObjectId("62901fe08b2efbc6e37ab88d"),
+		"NumAuthors" : 29,
+		"ProjectID" : "grosser_rspec-instafail",
+		"NumStars" : 169
+	},
+	{
+		"_id" : ObjectId("62901ff48b2efbc6e37bcc5e"),
+		"NumAuthors" : 34,
+		"ProjectID" : "andreapavoni_panoramic",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("6290205b8b2efbc6e3807683"),
+		"NumAuthors" : 53,
+		"ProjectID" : "amatsuda_database_rewinder",
+		"NumStars" : 574
+	},
+	{
+		"_id" : ObjectId("6290205b8b2efbc6e380dbe4"),
+		"NumAuthors" : 86,
+		"ProjectID" : "nulldb_nulldb",
+		"NumStars" : 386
+	},
+	{
+		"_id" : ObjectId("6290206c8b2efbc6e3816916"),
+		"NumAuthors" : 25,
+		"ProjectID" : "puppetlabs_mcollective-shell-agent",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("629020958b2efbc6e383a5b9"),
+		"NumAuthors" : 16,
+		"ProjectID" : "piotrmurach_tty-progressbar",
+		"NumStars" : 355
+	},
+	{
+		"_id" : ObjectId("629020aa8b2efbc6e3846524"),
+		"NumAuthors" : 34,
+		"ProjectID" : "Mic92_mina-sidekiq",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629020b18b2efbc6e384ee5c"),
+		"NumAuthors" : 19,
+		"ProjectID" : "sorah_acmesmith",
+		"NumStars" : 111
+	},
+	{
+		"_id" : ObjectId("629020bc8b2efbc6e385b15d"),
+		"NumAuthors" : 52,
+		"ProjectID" : "mperham_deadlock_retry",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629020d18b2efbc6e3868c43"),
+		"NumAuthors" : 11,
+		"ProjectID" : "MaximeD_gem_updater",
+		"NumStars" : 208
+	},
+	{
+		"_id" : ObjectId("629020d58b2efbc6e386bfdd"),
+		"NumAuthors" : 29,
+		"ProjectID" : "uswitch_terrafying",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629020f18b2efbc6e3881ef2"),
+		"NumAuthors" : 46,
+		"ProjectID" : "ytkt_multi_db",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("629021228b2efbc6e38a5cdb"),
+		"NumAuthors" : 31,
+		"ProjectID" : "markaby_markaby",
+		"NumStars" : 119
+	},
+	{
+		"_id" : ObjectId("6290212c8b2efbc6e38adff6"),
+		"NumAuthors" : 20,
+		"ProjectID" : "songkick_transport",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629021478b2efbc6e38c3328"),
+		"NumAuthors" : 13,
+		"ProjectID" : "floraison_fugit",
+		"NumStars" : 147
+	},
+	{
+		"_id" : ObjectId("629021748b2efbc6e38e69cb"),
+		"NumAuthors" : 35,
+		"ProjectID" : "saucelabs-training_demo-ruby",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("6290217f8b2efbc6e38ef2bc"),
+		"NumAuthors" : 78,
+		"ProjectID" : "d12frosted_homebrew-emacs-plus",
+		"NumStars" : 944
+	},
+	{
+		"_id" : ObjectId("6290217f8b2efbc6e38efcb8"),
+		"NumAuthors" : 13,
+		"ProjectID" : "xotahal_fastlane-plugin-semantic_release",
+		"NumStars" : 91
+	},
+	{
+		"_id" : ObjectId("629021878b2efbc6e38f4d40"),
+		"NumAuthors" : 168,
+		"ProjectID" : "nirvdrum_svn2git",
+		"NumStars" : 1315
+	},
+	{
+		"_id" : ObjectId("629021b08b2efbc6e3916173"),
+		"NumAuthors" : 45,
+		"ProjectID" : "luan_carrierwave-ftp",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("629021be8b2efbc6e39201c2"),
+		"NumAuthors" : 223,
+		"ProjectID" : "arsduo_koala",
+		"NumStars" : 2511
+	},
+	{
+		"_id" : ObjectId("629021c58b2efbc6e3922e79"),
+		"NumAuthors" : 22,
+		"ProjectID" : "janko_image_processing",
+		"NumStars" : 489
+	},
+	{
+		"_id" : ObjectId("629021f78b2efbc6e394b11e"),
+		"NumAuthors" : 20,
+		"ProjectID" : "boazsegev_iodine",
+		"NumStars" : 693
+	},
+	{
+		"_id" : ObjectId("629022468b2efbc6e398bf36"),
+		"NumAuthors" : 21,
+		"ProjectID" : "pcaprub_pcaprub",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("6290225a8b2efbc6e399aee3"),
+		"NumAuthors" : 18,
+		"ProjectID" : "appium_ruby_console",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("6290228c8b2efbc6e39c404f"),
+		"NumAuthors" : 35,
+		"ProjectID" : "Kong_homebrew-kong",
+		"NumStars" : 70
+	},
+	{
+		"_id" : ObjectId("6290228c8b2efbc6e39c501e"),
+		"NumAuthors" : 26,
+		"ProjectID" : "phobos_phobos",
+		"NumStars" : 160
+	},
+	{
+		"_id" : ObjectId("6290228f8b2efbc6e39c5dc0"),
+		"NumAuthors" : 177,
+		"ProjectID" : "rack_rack-contrib",
+		"NumStars" : 877
+	},
+	{
+		"_id" : ObjectId("629022bb8b2efbc6e39ea39a"),
+		"NumAuthors" : 14,
+		"ProjectID" : "aptible_docker-nginx",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629022bb8b2efbc6e39e91c7"),
+		"NumAuthors" : 13,
+		"ProjectID" : "kumar91gopi_Algorithms-and-Data-Structures-in-Ruby",
+		"NumStars" : 484
+	},
+	{
+		"_id" : ObjectId("629022f38b2efbc6e3a1a886"),
+		"NumAuthors" : 11,
+		"ProjectID" : "pothosware_homebrew-pothos",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629022fd8b2efbc6e3a22b59"),
+		"NumAuthors" : 13,
+		"ProjectID" : "ankane_field_test",
+		"NumStars" : 318
+	},
+	{
+		"_id" : ObjectId("629023238b2efbc6e3a3d741"),
+		"NumAuthors" : 303,
+		"ProjectID" : "hercules-team_augeas",
+		"NumStars" : 440
+	},
+	{
+		"_id" : ObjectId("629023398b2efbc6e3a4ff35"),
+		"NumAuthors" : 92,
+		"ProjectID" : "whomwah_rqrcode",
+		"NumStars" : 1047
+	},
+	{
+		"_id" : ObjectId("6290234d8b2efbc6e3a6167e"),
+		"NumAuthors" : 37,
+		"ProjectID" : "paul_progress_bar",
+		"NumStars" : 352
+	},
+	{
+		"_id" : ObjectId("629023578b2efbc6e3a64ee2"),
+		"NumAuthors" : 118,
+		"ProjectID" : "ruby-grape_grape-entity",
+		"NumStars" : 678
+	},
+	{
+		"_id" : ObjectId("629023598b2efbc6e3a6a2a7"),
+		"NumAuthors" : 35,
+		"ProjectID" : "isaacsanders_omniauth-stripe-connect",
+		"NumStars" : 116
+	},
+	{
+		"_id" : ObjectId("629023818b2efbc6e3a8b0e1"),
+		"NumAuthors" : 16,
+		"ProjectID" : "jimm_midilib",
+		"NumStars" : 112
+	},
+	{
+		"_id" : ObjectId("629023858b2efbc6e3a8c416"),
+		"NumAuthors" : 92,
+		"ProjectID" : "deivid-rodriguez_pry-byebug",
+		"NumStars" : 2100
+	},
+	{
+		"_id" : ObjectId("629023908b2efbc6e3a96734"),
+		"NumAuthors" : 19,
+		"ProjectID" : "t6d_smart_properties",
+		"NumStars" : 138
+	},
+	{
+		"_id" : ObjectId("6290239a8b2efbc6e3a9e3dc"),
+		"NumAuthors" : 20,
+		"ProjectID" : "khamusa_rspec-graphql_matchers",
+		"NumStars" : 99
+	},
+	{
+		"_id" : ObjectId("629023df8b2efbc6e3ad4e72"),
+		"NumAuthors" : 58,
+		"ProjectID" : "t-k_gmo-payment-ruby",
+		"NumStars" : 97
+	},
+	{
+		"_id" : ObjectId("629024068b2efbc6e3af7aef"),
+		"NumAuthors" : 15,
+		"ProjectID" : "wata727_elastic_whenever",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629024658b2efbc6e3b48c93"),
+		"NumAuthors" : 12,
+		"ProjectID" : "socketry_async-io",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("6290247e8b2efbc6e3b5c439"),
+		"NumAuthors" : 110,
+		"ProjectID" : "thetron_mongoid-enum",
+		"NumStars" : 123
+	},
+	{
+		"_id" : ObjectId("629024878b2efbc6e3b63ad2"),
+		"NumAuthors" : 47,
+		"ProjectID" : "dnsimple_dnsimple-ruby",
+		"NumStars" : 123
+	},
+	{
+		"_id" : ObjectId("629024908b2efbc6e3b6988b"),
+		"NumAuthors" : 54,
+		"ProjectID" : "hw-cookbooks_lxc",
+		"NumStars" : 193
+	},
+	{
+		"_id" : ObjectId("629024c78b2efbc6e3b9c76d"),
+		"NumAuthors" : 62,
+		"ProjectID" : "teeparham_paperclip-meta",
+		"NumStars" : 135
+	},
+	{
+		"_id" : ObjectId("629024d18b2efbc6e3ba56d6"),
+		"NumAuthors" : 11,
+		"ProjectID" : "dark-panda_ffi-geos",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("629024f28b2efbc6e3bbed5c"),
+		"NumAuthors" : 28,
+		"ProjectID" : "adzerk_adzerk-api",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("629024fc8b2efbc6e3bc7904"),
+		"NumAuthors" : 91,
+		"ProjectID" : "tilo_smarter_csv",
+		"NumStars" : 1035
+	},
+	{
+		"_id" : ObjectId("629025008b2efbc6e3bc9c48"),
+		"NumAuthors" : 52,
+		"ProjectID" : "the-refinery_sparkpost_rails",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("629025288b2efbc6e3be90c7"),
+		"NumAuthors" : 27,
+		"ProjectID" : "softwareinmotion_ibanizator",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("6290254d8b2efbc6e3c0c642"),
+		"NumAuthors" : 20,
+		"ProjectID" : "oreoshake_hackerone-client",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("629025828b2efbc6e3c3640e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "tinco_BridgeSupport",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629025bd8b2efbc6e3c634a4"),
+		"NumAuthors" : 24,
+		"ProjectID" : "nebulab_simple_command",
+		"NumStars" : 444
+	},
+	{
+		"_id" : ObjectId("629025be8b2efbc6e3c63844"),
+		"NumAuthors" : 33,
+		"ProjectID" : "spotify_homebrew-public",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("629025f68b2efbc6e3c90a99"),
+		"NumAuthors" : 106,
+		"ProjectID" : "hashrocket_decent_exposure",
+		"NumStars" : 1519
+	},
+	{
+		"_id" : ObjectId("6290263b8b2efbc6e3cc4a76"),
+		"NumAuthors" : 58,
+		"ProjectID" : "EasyPost_easypost-ruby",
+		"NumStars" : 93
+	},
+	{
+		"_id" : ObjectId("629026468b2efbc6e3ccec1a"),
+		"NumAuthors" : 27,
+		"ProjectID" : "exAspArk_batch-loader",
+		"NumStars" : 731
+	},
+	{
+		"_id" : ObjectId("629026518b2efbc6e3cd4a71"),
+		"NumAuthors" : 23,
+		"ProjectID" : "dry-rb_dry-core",
+		"NumStars" : 101
+	},
+	{
+		"_id" : ObjectId("6290265e8b2efbc6e3ce3003"),
+		"NumAuthors" : 31,
+		"ProjectID" : "HipByte_motion-cocoapods",
+		"NumStars" : 146
+	},
+	{
+		"_id" : ObjectId("629026968b2efbc6e3d0ea29"),
+		"NumAuthors" : 75,
+		"ProjectID" : "lantins_resque-retry",
+		"NumStars" : 198
+	},
+	{
+		"_id" : ObjectId("6290269c8b2efbc6e3d12b44"),
+		"NumAuthors" : 108,
+		"ProjectID" : "fluent_fluent-plugin-kafka",
+		"NumStars" : 251
+	},
+	{
+		"_id" : ObjectId("629026a98b2efbc6e3d1d28e"),
+		"NumAuthors" : 24,
+		"ProjectID" : "clio_polymorphic_integer_type",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629026ef8b2efbc6e3d531e0"),
+		"NumAuthors" : 46,
+		"ProjectID" : "svenfuchs_gem-release",
+		"NumStars" : 324
+	},
+	{
+		"_id" : ObjectId("6290272a8b2efbc6e3d8347f"),
+		"NumAuthors" : 31,
+		"ProjectID" : "spryker_devvm",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("629027648b2efbc6e3db089f"),
+		"NumAuthors" : 25,
+		"ProjectID" : "auxesis_cucumber-nagios",
+		"NumStars" : 86
+	},
+	{
+		"_id" : ObjectId("629027a08b2efbc6e3de54ce"),
+		"NumAuthors" : 49,
+		"ProjectID" : "zendesk_active_record_shards",
+		"NumStars" : 143
+	},
+	{
+		"_id" : ObjectId("629027ca8b2efbc6e3e01a07"),
+		"NumAuthors" : 29,
+		"ProjectID" : "carlosantoniodasilva_i18n_alchemy",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("6290280f8b2efbc6e3e396bd"),
+		"NumAuthors" : 14,
+		"ProjectID" : "paradox460_snoo",
+		"NumStars" : 94
+	},
+	{
+		"_id" : ObjectId("629028328b2efbc6e3e55c28"),
+		"NumAuthors" : 68,
+		"ProjectID" : "stevenosloan_slack-notifier",
+		"NumStars" : 1393
+	},
+	{
+		"_id" : ObjectId("629028488b2efbc6e3e66d95"),
+		"NumAuthors" : 20,
+		"ProjectID" : "Shopify_spoom",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("629028538b2efbc6e3e732c0"),
+		"NumAuthors" : 56,
+		"ProjectID" : "realdoug_omniauth-salesforce",
+		"NumStars" : 68
+	},
+	{
+		"_id" : ObjectId("629028808b2efbc6e3e9822a"),
+		"NumAuthors" : 33,
+		"ProjectID" : "dgilperez_validates_zipcode",
+		"NumStars" : 94
+	},
+	{
+		"_id" : ObjectId("629028908b2efbc6e3ea35a4"),
+		"NumAuthors" : 25,
+		"ProjectID" : "minad_lmdb",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("629028938b2efbc6e3ea4c4d"),
+		"NumAuthors" : 54,
+		"ProjectID" : "appsignal_rdkafka-ruby",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("629028bf8b2efbc6e3ecb649"),
+		"NumAuthors" : 26,
+		"ProjectID" : "seattlerb_ruby2ruby",
+		"NumStars" : 127
+	},
+	{
+		"_id" : ObjectId("629028ca8b2efbc6e3ed2b4d"),
+		"NumAuthors" : 30,
+		"ProjectID" : "mikamai_onesignal-ruby",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("629028f48b2efbc6e3ef3155"),
+		"NumAuthors" : 151,
+		"ProjectID" : "jondkinney_docusign_rest",
+		"NumStars" : 109
+	},
+	{
+		"_id" : ObjectId("629028f98b2efbc6e3ef7ffc"),
+		"NumAuthors" : 27,
+		"ProjectID" : "jimweirich_rspec-given",
+		"NumStars" : 433
+	},
+	{
+		"_id" : ObjectId("629029018b2efbc6e3efed8f"),
+		"NumAuthors" : 33,
+		"ProjectID" : "JustinLove_autoscaler",
+		"NumStars" : 181
+	},
+	{
+		"_id" : ObjectId("6290291f8b2efbc6e3f15b63"),
+		"NumAuthors" : 48,
+		"ProjectID" : "judofyr_temple",
+		"NumStars" : 247
+	},
+	{
+		"_id" : ObjectId("629029338b2efbc6e3f255e5"),
+		"NumAuthors" : 142,
+		"ProjectID" : "roidrage_lograge",
+		"NumStars" : 2392
+	},
+	{
+		"_id" : ObjectId("629029588b2efbc6e3f458e8"),
+		"NumAuthors" : 151,
+		"ProjectID" : "phstc_shoryuken",
+		"NumStars" : 1630
+	},
+	{
+		"_id" : ObjectId("629029588b2efbc6e3f46872"),
+		"NumAuthors" : 40,
+		"ProjectID" : "twilio_authy-ruby",
+		"NumStars" : 152
+	},
+	{
+		"_id" : ObjectId("6290296d8b2efbc6e3f556c4"),
+		"NumAuthors" : 61,
+		"ProjectID" : "hgmnz_truncate_html",
+		"NumStars" : 139
+	},
+	{
+		"_id" : ObjectId("629029c68b2efbc6e3f9e47a"),
+		"NumAuthors" : 14,
+		"ProjectID" : "hellostealth_stealth",
+		"NumStars" : 472
+	},
+	{
+		"_id" : ObjectId("629029e28b2efbc6e3fb01b5"),
+		"NumAuthors" : 86,
+		"ProjectID" : "pivotal-legacy_git_scripts",
+		"NumStars" : 240
+	},
+	{
+		"_id" : ObjectId("629029ea8b2efbc6e3fb8873"),
+		"NumAuthors" : 228,
+		"ProjectID" : "ruby-ldap_ruby-net-ldap",
+		"NumStars" : 311
+	},
+	{
+		"_id" : ObjectId("629029ea8b2efbc6e3fbd533"),
+		"NumAuthors" : 17,
+		"ProjectID" : "kufu_kirico",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("62902a128b2efbc6e3fdc331"),
+		"NumAuthors" : 165,
+		"ProjectID" : "salesforce-marketingcloud_FuelSDK-Ruby",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("62902a1d8b2efbc6e3fe0c13"),
+		"NumAuthors" : 483,
+		"ProjectID" : "Homebrew_homebrew-cask-fonts",
+		"NumStars" : 1892
+	},
+	{
+		"_id" : ObjectId("62902a5a8b2efbc6e3011ee7"),
+		"NumAuthors" : 13,
+		"ProjectID" : "palkan_action-cable-testing",
+		"NumStars" : 188
+	},
+	{
+		"_id" : ObjectId("62902a778b2efbc6e3028f1d"),
+		"NumAuthors" : 19,
+		"ProjectID" : "zendesk_ultragrep",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("62902aa58b2efbc6e304e405"),
+		"NumAuthors" : 29,
+		"ProjectID" : "adzap_active_enum",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("62902ac98b2efbc6e306bce7"),
+		"NumAuthors" : 26,
+		"ProjectID" : "bdurand_lumberjack",
+		"NumStars" : 162
+	},
+	{
+		"_id" : ObjectId("62902ad18b2efbc6e3078dea"),
+		"NumAuthors" : 18,
+		"ProjectID" : "Druwerd_hudson-remote-api",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62902af58b2efbc6e3092b6c"),
+		"NumAuthors" : 40,
+		"ProjectID" : "dry-rb_dry-configurable",
+		"NumStars" : 265
+	},
+	{
+		"_id" : ObjectId("62902b178b2efbc6e30b1599"),
+		"NumAuthors" : 16,
+		"ProjectID" : "bacongravy_macinbox",
+		"NumStars" : 495
+	},
+	{
+		"_id" : ObjectId("62902b788b2efbc6e30ff8ec"),
+		"NumAuthors" : 177,
+		"ProjectID" : "taf2_curb",
+		"NumStars" : 773
+	},
+	{
+		"_id" : ObjectId("62902b8e8b2efbc6e310cc62"),
+		"NumAuthors" : 63,
+		"ProjectID" : "hanami_router",
+		"NumStars" : 338
+	},
+	{
+		"_id" : ObjectId("62902b8e8b2efbc6e310ef21"),
+		"NumAuthors" : 34,
+		"ProjectID" : "herval_yahoo-finance",
+		"NumStars" : 207
+	},
+	{
+		"_id" : ObjectId("62902bab8b2efbc6e3123153"),
+		"NumAuthors" : 11,
+		"ProjectID" : "baldowl_rack_csrf",
+		"NumStars" : 150
+	},
+	{
+		"_id" : ObjectId("62902bb38b2efbc6e3129626"),
+		"NumAuthors" : 120,
+		"ProjectID" : "roidrage_redis-session-store",
+		"NumStars" : 259
+	},
+	{
+		"_id" : ObjectId("62902bf28b2efbc6e3159cfa"),
+		"NumAuthors" : 27,
+		"ProjectID" : "pixielabs_letsencrypt-rails-heroku",
+		"NumStars" : 249
+	},
+	{
+		"_id" : ObjectId("62902c0e8b2efbc6e3173491"),
+		"NumAuthors" : 38,
+		"ProjectID" : "logstash-plugins_logstash-codec-cef",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62902c2d8b2efbc6e318c9b6"),
+		"NumAuthors" : 164,
+		"ProjectID" : "voormedia_rails-erd",
+		"NumStars" : 2989
+	},
+	{
+		"_id" : ObjectId("62902c418b2efbc6e3199ad4"),
+		"NumAuthors" : 23,
+		"ProjectID" : "rspec_rspec-collection_matchers",
+		"NumStars" : 159
+	},
+	{
+		"_id" : ObjectId("62902c4a8b2efbc6e31a0356"),
+		"NumAuthors" : 24,
+		"ProjectID" : "wireframe_multitenant",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("62902c548b2efbc6e31ab6cf"),
+		"NumAuthors" : 18,
+		"ProjectID" : "companygardener_lookup_by",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("62902c908b2efbc6e31d82f6"),
+		"NumAuthors" : 36,
+		"ProjectID" : "IFTTT_polo",
+		"NumStars" : 643
+	},
+	{
+		"_id" : ObjectId("62902ca28b2efbc6e31e7177"),
+		"NumAuthors" : 77,
+		"ProjectID" : "cloudfoundry_capi-release",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62902ca48b2efbc6e31eb735"),
+		"NumAuthors" : 17,
+		"ProjectID" : "tilfin_ougai",
+		"NumStars" : 162
+	},
+	{
+		"_id" : ObjectId("62902cd78b2efbc6e320e0a5"),
+		"NumAuthors" : 19,
+		"ProjectID" : "tjchambers_rspec-jumpstart",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("62902cd78b2efbc6e3211ad5"),
+		"NumAuthors" : 36,
+		"ProjectID" : "hallidave_ruby-snmp",
+		"NumStars" : 114
+	},
+	{
+		"_id" : ObjectId("62902cf28b2efbc6e322559f"),
+		"NumAuthors" : 20,
+		"ProjectID" : "18F_kubernetes-release",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62902cfc8b2efbc6e322d409"),
+		"NumAuthors" : 14,
+		"ProjectID" : "GlobalNamesArchitecture_damerau-levenshtein",
+		"NumStars" : 106
+	},
+	{
+		"_id" : ObjectId("62902d728b2efbc6e328bad2"),
+		"NumAuthors" : 13,
+		"ProjectID" : "stackshareio_graphql-cache",
+		"NumStars" : 269
+	},
+	{
+		"_id" : ObjectId("62902e168b2efbc6e3312ea4"),
+		"NumAuthors" : 23,
+		"ProjectID" : "tokaido_tokaidoapp",
+		"NumStars" : 435
+	},
+	{
+		"_id" : ObjectId("62902e168b2efbc6e3314066"),
+		"NumAuthors" : 75,
+		"ProjectID" : "hanami_view",
+		"NumStars" : 277
+	},
+	{
+		"_id" : ObjectId("62902e258b2efbc6e3320b1c"),
+		"NumAuthors" : 26,
+		"ProjectID" : "betterplace_acts_as_account",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("62902e8d8b2efbc6e33742f1"),
+		"NumAuthors" : 26,
+		"ProjectID" : "geemus_formatador",
+		"NumStars" : 327
+	},
+	{
+		"_id" : ObjectId("62902e958b2efbc6e33778f8"),
+		"NumAuthors" : 14,
+		"ProjectID" : "k-tsj_power_assert",
+		"NumStars" : 129
+	},
+	{
+		"_id" : ObjectId("62902eab8b2efbc6e3389523"),
+		"NumAuthors" : 45,
+		"ProjectID" : "sosedoff_goodreads",
+		"NumStars" : 232
+	},
+	{
+		"_id" : ObjectId("62902eab8b2efbc6e338a431"),
+		"NumAuthors" : 143,
+		"ProjectID" : "travisjeffery_timecop",
+		"NumStars" : 1966
+	},
+	{
+		"_id" : ObjectId("62902ee58b2efbc6e33b88ae"),
+		"NumAuthors" : 22,
+		"ProjectID" : "sportngin_brew-gem",
+		"NumStars" : 220
+	},
+	{
+		"_id" : ObjectId("62902f1a8b2efbc6e33e548f"),
+		"NumAuthors" : 28,
+		"ProjectID" : "increments_qiita-markdown",
+		"NumStars" : 331
+	},
+	{
+		"_id" : ObjectId("62902f378b2efbc6e33fae9f"),
+		"NumAuthors" : 23,
+		"ProjectID" : "mezis_git-whistles",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("62902f4f8b2efbc6e340fc09"),
+		"NumAuthors" : 105,
+		"ProjectID" : "philostler_rspec-sidekiq",
+		"NumStars" : 487
+	},
+	{
+		"_id" : ObjectId("62902f5c8b2efbc6e341bcc5"),
+		"NumAuthors" : 150,
+		"ProjectID" : "guilhermesad_rspotify",
+		"NumStars" : 557
+	},
+	{
+		"_id" : ObjectId("62902f788b2efbc6e342ee4a"),
+		"NumAuthors" : 55,
+		"ProjectID" : "codegram_spinach",
+		"NumStars" : 272
+	},
+	{
+		"_id" : ObjectId("62902f9f8b2efbc6e344c415"),
+		"NumAuthors" : 30,
+		"ProjectID" : "sirupsen_airrecord",
+		"NumStars" : 183
+	},
+	{
+		"_id" : ObjectId("62902fce8b2efbc6e3478b5c"),
+		"NumAuthors" : 21,
+		"ProjectID" : "rspec_rspec-activemodel-mocks",
+		"NumStars" : 107
+	},
+	{
+		"_id" : ObjectId("62902ff58b2efbc6e349787d"),
+		"NumAuthors" : 21,
+		"ProjectID" : "janlelis_paint",
+		"NumStars" : 254
+	},
+	{
+		"_id" : ObjectId("6290300f8b2efbc6e34aab4e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "yoshoku_rumale",
+		"NumStars" : 361
+	},
+	{
+		"_id" : ObjectId("629030718b2efbc6e34fbf3f"),
+		"NumAuthors" : 37,
+		"ProjectID" : "dblock_iex-ruby-client",
+		"NumStars" : 81
+	},
+	{
+		"_id" : ObjectId("6290308d8b2efbc6e3516f6c"),
+		"NumAuthors" : 12,
+		"ProjectID" : "kzkn_dekiru",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629030a08b2efbc6e3524e30"),
+		"NumAuthors" : 39,
+		"ProjectID" : "ruby-marc_ruby-marc",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("629030c88b2efbc6e35410d0"),
+		"NumAuthors" : 26,
+		"ProjectID" : "arirusso_ffi-coremidi",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("629031228b2efbc6e358d49a"),
+		"NumAuthors" : 41,
+		"ProjectID" : "digidentity_libsaml",
+		"NumStars" : 73
+	},
+	{
+		"_id" : ObjectId("629031258b2efbc6e358f775"),
+		"NumAuthors" : 11,
+		"ProjectID" : "kaitai-io_kaitai_struct_visualizer",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("6290314c8b2efbc6e35b10e1"),
+		"NumAuthors" : 16,
+		"ProjectID" : "AKSW_jekyll-rdf",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("629031608b2efbc6e35bfe5a"),
+		"NumAuthors" : 477,
+		"ProjectID" : "ytti_oxidized",
+		"NumStars" : 1524
+	},
+	{
+		"_id" : ObjectId("629031798b2efbc6e35d7ed2"),
+		"NumAuthors" : 138,
+		"ProjectID" : "gshutler_useragent",
+		"NumStars" : 412
+	},
+	{
+		"_id" : ObjectId("629031a28b2efbc6e35f7549"),
+		"NumAuthors" : 55,
+		"ProjectID" : "plataformatec_show_for",
+		"NumStars" : 262
+	},
+	{
+		"_id" : ObjectId("629031a78b2efbc6e35fd472"),
+		"NumAuthors" : 40,
+		"ProjectID" : "iancanderson_ingreedy",
+		"NumStars" : 192
+	},
+	{
+		"_id" : ObjectId("629031b98b2efbc6e3608141"),
+		"NumAuthors" : 24,
+		"ProjectID" : "thinreports_thinreports-generator",
+		"NumStars" : 254
+	},
+	{
+		"_id" : ObjectId("629031b98b2efbc6e36087a5"),
+		"NumAuthors" : 39,
+		"ProjectID" : "benjaminoakes_maid",
+		"NumStars" : 1438
+	},
+	{
+		"_id" : ObjectId("629031ba8b2efbc6e3608980"),
+		"NumAuthors" : 55,
+		"ProjectID" : "state-machines_state_machines-activerecord",
+		"NumStars" : 339
+	},
+	{
+		"_id" : ObjectId("629031c18b2efbc6e360fad3"),
+		"NumAuthors" : 19,
+		"ProjectID" : "tonytonyjan_jaro_winkler",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("629031d08b2efbc6e361f645"),
+		"NumAuthors" : 67,
+		"ProjectID" : "tobmatth_rack-ssl-enforcer",
+		"NumStars" : 320
+	},
+	{
+		"_id" : ObjectId("629031dd8b2efbc6e3629bc6"),
+		"NumAuthors" : 53,
+		"ProjectID" : "chef_mixlib-config",
+		"NumStars" : 139
+	},
+	{
+		"_id" : ObjectId("629031f88b2efbc6e36404e6"),
+		"NumAuthors" : 112,
+		"ProjectID" : "svenfuchs_i18n-active_record",
+		"NumStars" : 233
+	},
+	{
+		"_id" : ObjectId("629032108b2efbc6e365067d"),
+		"NumAuthors" : 13,
+		"ProjectID" : "dragostis_mrusty",
+		"NumStars" : 211
+	},
+	{
+		"_id" : ObjectId("629032178b2efbc6e365c402"),
+		"NumAuthors" : 102,
+		"ProjectID" : "intridea_multi_json",
+		"NumStars" : 466
+	},
+	{
+		"_id" : ObjectId("6290321a8b2efbc6e365fb0f"),
+		"NumAuthors" : 38,
+		"ProjectID" : "AfterShip_aftership-sdk-ruby",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("629032468b2efbc6e368508b"),
+		"NumAuthors" : 47,
+		"ProjectID" : "CocoaPods_cocoapods-downloader",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("6290325a8b2efbc6e3693ee7"),
+		"NumAuthors" : 27,
+		"ProjectID" : "nixme_pry-nav",
+		"NumStars" : 275
+	},
+	{
+		"_id" : ObjectId("629032768b2efbc6e36afc08"),
+		"NumAuthors" : 68,
+		"ProjectID" : "samg_diffy",
+		"NumStars" : 877
+	},
+	{
+		"_id" : ObjectId("629032a38b2efbc6e36d2233"),
+		"NumAuthors" : 53,
+		"ProjectID" : "seattlerb_hoe",
+		"NumStars" : 202
+	},
+	{
+		"_id" : ObjectId("629032a48b2efbc6e36d702f"),
+		"NumAuthors" : 23,
+		"ProjectID" : "fnando_factory_bot-preload",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("629032ac8b2efbc6e36d8e39"),
+		"NumAuthors" : 24,
+		"ProjectID" : "chaps-io_access-granted",
+		"NumStars" : 726
+	},
+	{
+		"_id" : ObjectId("629032e38b2efbc6e370d7aa"),
+		"NumAuthors" : 26,
+		"ProjectID" : "tmtm_ruby-mysql",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("6290330e8b2efbc6e372e5a0"),
+		"NumAuthors" : 13,
+		"ProjectID" : "Fatsoma_busser",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("6290333a8b2efbc6e37559a5"),
+		"NumAuthors" : 33,
+		"ProjectID" : "makandra_consul",
+		"NumStars" : 272
+	},
+	{
+		"_id" : ObjectId("629033428b2efbc6e375befb"),
+		"NumAuthors" : 25,
+		"ProjectID" : "SiarheiFedartsou_fastlane-plugin-versioning",
+		"NumStars" : 331
+	},
+	{
+		"_id" : ObjectId("629033628b2efbc6e3778046"),
+		"NumAuthors" : 35,
+		"ProjectID" : "Shopify_cli-ui",
+		"NumStars" : 501
+	},
+	{
+		"_id" : ObjectId("6290336e8b2efbc6e37848e6"),
+		"NumAuthors" : 23,
+		"ProjectID" : "luislavena_bench-micro",
+		"NumStars" : 219
+	},
+	{
+		"_id" : ObjectId("629033718b2efbc6e3785ab2"),
+		"NumAuthors" : 66,
+		"ProjectID" : "leonid-shevtsov_headless",
+		"NumStars" : 636
+	},
+	{
+		"_id" : ObjectId("6290337c8b2efbc6e378d58e"),
+		"NumAuthors" : 12,
+		"ProjectID" : "Trevoke_SGFParser",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629033928b2efbc6e379dd57"),
+		"NumAuthors" : 24,
+		"ProjectID" : "gocardless_coach",
+		"NumStars" : 156
+	},
+	{
+		"_id" : ObjectId("629033958b2efbc6e37a00f2"),
+		"NumAuthors" : 41,
+		"ProjectID" : "soundcloud_soundcloud-ruby",
+		"NumStars" : 363
+	},
+	{
+		"_id" : ObjectId("629033b48b2efbc6e37bba0f"),
+		"NumAuthors" : 15,
+		"ProjectID" : "soutaro_querly",
+		"NumStars" : 210
+	},
+	{
+		"_id" : ObjectId("629033cf8b2efbc6e37d1c0d"),
+		"NumAuthors" : 20,
+		"ProjectID" : "adzap_timeliness",
+		"NumStars" : 107
+	},
+	{
+		"_id" : ObjectId("629033fa8b2efbc6e37f4c69"),
+		"NumAuthors" : 85,
+		"ProjectID" : "annacruz_ofx",
+		"NumStars" : 405
+	},
+	{
+		"_id" : ObjectId("629034028b2efbc6e37fc528"),
+		"NumAuthors" : 18,
+		"ProjectID" : "tuwukee_jwt_sessions",
+		"NumStars" : 388
+	},
+	{
+		"_id" : ObjectId("6290341d8b2efbc6e380f443"),
+		"NumAuthors" : 86,
+		"ProjectID" : "jmettraux_rufus-scheduler",
+		"NumStars" : 1999
+	},
+	{
+		"_id" : ObjectId("6290343e8b2efbc6e3826577"),
+		"NumAuthors" : 67,
+		"ProjectID" : "inspec_kitchen-inspec",
+		"NumStars" : 97
+	},
+	{
+		"_id" : ObjectId("6290346e8b2efbc6e3851e8f"),
+		"NumAuthors" : 92,
+		"ProjectID" : "holidays_definitions",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("629034da8b2efbc6e38a7a49"),
+		"NumAuthors" : 84,
+		"ProjectID" : "comma-csv_comma",
+		"NumStars" : 191
+	},
+	{
+		"_id" : ObjectId("629034f78b2efbc6e38c00c9"),
+		"NumAuthors" : 26,
+		"ProjectID" : "zendesk_delivery_boy",
+		"NumStars" : 171
+	},
+	{
+		"_id" : ObjectId("629034fb8b2efbc6e38c3299"),
+		"NumAuthors" : 39,
+		"ProjectID" : "yob_puma-plugin-statsd",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629034fe8b2efbc6e38c87d8"),
+		"NumAuthors" : 56,
+		"ProjectID" : "ankane_strong_migrations",
+		"NumStars" : 2156
+	},
+	{
+		"_id" : ObjectId("629035178b2efbc6e38dd24f"),
+		"NumAuthors" : 75,
+		"ProjectID" : "mrrooijen_mongoid-paperclip",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("6290351b8b2efbc6e38e13d8"),
+		"NumAuthors" : 20,
+		"ProjectID" : "PerfectMemory_mongoid-multitenancy",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629035688b2efbc6e391c8ed"),
+		"NumAuthors" : 102,
+		"ProjectID" : "mongoid_mongoid-history",
+		"NumStars" : 235
+	},
+	{
+		"_id" : ObjectId("629035998b2efbc6e39444e8"),
+		"NumAuthors" : 49,
+		"ProjectID" : "customerio_customerio-ruby",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("629035a28b2efbc6e394f0d6"),
+		"NumAuthors" : 22,
+		"ProjectID" : "musaffa_file_validators",
+		"NumStars" : 240
+	},
+	{
+		"_id" : ObjectId("629035c98b2efbc6e396d8f2"),
+		"NumAuthors" : 20,
+		"ProjectID" : "reproio_ecs_deploy",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629035dd8b2efbc6e3977743"),
+		"NumAuthors" : 25,
+		"ProjectID" : "ruby_curses",
+		"NumStars" : 261
+	},
+	{
+		"_id" : ObjectId("629036188b2efbc6e39adc43"),
+		"NumAuthors" : 54,
+		"ProjectID" : "ostinelli_apnotic",
+		"NumStars" : 354
+	},
+	{
+		"_id" : ObjectId("629036488b2efbc6e39d5aa2"),
+		"NumAuthors" : 40,
+		"ProjectID" : "leandromoreira_redlock-rb",
+		"NumStars" : 492
+	},
+	{
+		"_id" : ObjectId("629036718b2efbc6e39f917b"),
+		"NumAuthors" : 39,
+		"ProjectID" : "SamSaffron_memory_profiler",
+		"NumStars" : 1346
+	},
+	{
+		"_id" : ObjectId("629036828b2efbc6e3a06552"),
+		"NumAuthors" : 55,
+		"ProjectID" : "openstack_cookbook-openstack-ops-database",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("629036ba8b2efbc6e3a3329d"),
+		"NumAuthors" : 38,
+		"ProjectID" : "taylorbrooks_closeio",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("629036cc8b2efbc6e3a425b1"),
+		"NumAuthors" : 13,
+		"ProjectID" : "palkan_isolator",
+		"NumStars" : 256
+	},
+	{
+		"_id" : ObjectId("629037028b2efbc6e3a71a5c"),
+		"NumAuthors" : 38,
+		"ProjectID" : "tmm1_rbtrace",
+		"NumStars" : 1004
+	},
+	{
+		"_id" : ObjectId("629037338b2efbc6e3a96733"),
+		"NumAuthors" : 31,
+		"ProjectID" : "facebook_chef-utils",
+		"NumStars" : 263
+	},
+	{
+		"_id" : ObjectId("6290375e8b2efbc6e3abaf3f"),
+		"NumAuthors" : 11,
+		"ProjectID" : "rom-rb_rom-yesql",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("629037638b2efbc6e3abeeef"),
+		"NumAuthors" : 339,
+		"ProjectID" : "mizzy_specinfra",
+		"NumStars" : 288
+	},
+	{
+		"_id" : ObjectId("629037778b2efbc6e3acf5da"),
+		"NumAuthors" : 13,
+		"ProjectID" : "jgarber623_svgeez",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("629037838b2efbc6e3ad79ba"),
+		"NumAuthors" : 28,
+		"ProjectID" : "Shopify_liquid-c",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("629037968b2efbc6e3ae5701"),
+		"NumAuthors" : 16,
+		"ProjectID" : "flexport_quarantine",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629037a88b2efbc6e3af92d9"),
+		"NumAuthors" : 15,
+		"ProjectID" : "ohler55_agoo",
+		"NumStars" : 603
+	},
+	{
+		"_id" : ObjectId("629037ca8b2efbc6e3b13b1a"),
+		"NumAuthors" : 125,
+		"ProjectID" : "jqr_heroku_san",
+		"NumStars" : 445
+	},
+	{
+		"_id" : ObjectId("629037df8b2efbc6e3b251ec"),
+		"NumAuthors" : 46,
+		"ProjectID" : "prodis_correios-frete",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("629037e88b2efbc6e3b2da9c"),
+		"NumAuthors" : 36,
+		"ProjectID" : "ruby-amqp_rabbitmq_http_api_client",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("629037f58b2efbc6e3b3aafc"),
+		"NumAuthors" : 76,
+		"ProjectID" : "mailjet_mailjet-gem",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("6290381b8b2efbc6e3b5d5df"),
+		"NumAuthors" : 17,
+		"ProjectID" : "FortySource_forty_facets",
+		"NumStars" : 267
+	},
+	{
+		"_id" : ObjectId("629038378b2efbc6e3b72b10"),
+		"NumAuthors" : 32,
+		"ProjectID" : "kanet77_togglv8",
+		"NumStars" : 87
+	},
+	{
+		"_id" : ObjectId("629038598b2efbc6e3b92504"),
+		"NumAuthors" : 21,
+		"ProjectID" : "sconover_wrong",
+		"NumStars" : 214
+	},
+	{
+		"_id" : ObjectId("629038828b2efbc6e3bb0c2a"),
+		"NumAuthors" : 24,
+		"ProjectID" : "Shopify_rubocop-sorbet",
+		"NumStars" : 59
+	},
+	{
+		"_id" : ObjectId("629038918b2efbc6e3bc0dfe"),
+		"NumAuthors" : 21,
+		"ProjectID" : "jaen_bundix",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("6290389e8b2efbc6e3bd589e"),
+		"NumAuthors" : 56,
+		"ProjectID" : "jfqd_redmine_helpdesk",
+		"NumStars" : 155
+	},
+	{
+		"_id" : ObjectId("629038b58b2efbc6e3be75de"),
+		"NumAuthors" : 53,
+		"ProjectID" : "rspec_rspec-dev",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("629038bc8b2efbc6e3bec5f0"),
+		"NumAuthors" : 234,
+		"ProjectID" : "rails_jbuilder",
+		"NumStars" : 3031
+	},
+	{
+		"_id" : ObjectId("629038d08b2efbc6e3bf7f9c"),
+		"NumAuthors" : 52,
+		"ProjectID" : "igrigorik_http-2",
+		"NumStars" : 685
+	},
+	{
+		"_id" : ObjectId("629038d18b2efbc6e3bfb68d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "moumar_ruby-audioinfo",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("629038e98b2efbc6e3c12a48"),
+		"NumAuthors" : 51,
+		"ProjectID" : "mvidner_ruby-dbus",
+		"NumStars" : 104
+	},
+	{
+		"_id" : ObjectId("629038fb8b2efbc6e3c266c4"),
+		"NumAuthors" : 26,
+		"ProjectID" : "sachin87_week-of-month",
+		"NumStars" : 60
+	},
+	{
+		"_id" : ObjectId("629039038b2efbc6e3c2a54c"),
+		"NumAuthors" : 28,
+		"ProjectID" : "rom-rb_rom-factory",
+		"NumStars" : 94
+	},
+	{
+		"_id" : ObjectId("629039038b2efbc6e3c2d79e"),
+		"NumAuthors" : 34,
+		"ProjectID" : "kellerben_dudle",
+		"NumStars" : 226
+	},
+	{
+		"_id" : ObjectId("629039178b2efbc6e3c3a7c1"),
+		"NumAuthors" : 38,
+		"ProjectID" : "tzinfo_tzinfo",
+		"NumStars" : 300
+	},
+	{
+		"_id" : ObjectId("629039178b2efbc6e3c3c897"),
+		"NumAuthors" : 73,
+		"ProjectID" : "grocer_grocer",
+		"NumStars" : 831
+	},
+	{
+		"_id" : ObjectId("629039448b2efbc6e3c617c7"),
+		"NumAuthors" : 241,
+		"ProjectID" : "pdfkit_pdfkit",
+		"NumStars" : 1494
+	},
+	{
+		"_id" : ObjectId("6290396d8b2efbc6e3c7e848"),
+		"NumAuthors" : 11,
+		"ProjectID" : "GeorgeKaraszi_ActiveRecordExtended",
+		"NumStars" : 728
+	},
+	{
+		"_id" : ObjectId("629039b98b2efbc6e3cbf65d"),
+		"NumAuthors" : 41,
+		"ProjectID" : "CloudHealth_amazon-pricing",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("629039e18b2efbc6e3cdadd5"),
+		"NumAuthors" : 170,
+		"ProjectID" : "prontolabs_pronto",
+		"NumStars" : 2232
+	},
+	{
+		"_id" : ObjectId("62903a328b2efbc6e3d21895"),
+		"NumAuthors" : 29,
+		"ProjectID" : "github_github-ds",
+		"NumStars" : 597
+	},
+	{
+		"_id" : ObjectId("62903a358b2efbc6e3d24344"),
+		"NumAuthors" : 91,
+		"ProjectID" : "mruby_mgem-list",
+		"NumStars" : 126
+	},
+	{
+		"_id" : ObjectId("62903a358b2efbc6e3d24fc5"),
+		"NumAuthors" : 46,
+		"ProjectID" : "sverrirs_jekyll-paginate-v2",
+		"NumStars" : 420
+	},
+	{
+		"_id" : ObjectId("62903a4d8b2efbc6e3d412ae"),
+		"NumAuthors" : 34,
+		"ProjectID" : "thoughtbot_formulaic",
+		"NumStars" : 423
+	},
+	{
+		"_id" : ObjectId("62903a558b2efbc6e3d47a99"),
+		"NumAuthors" : 30,
+		"ProjectID" : "radar_by_star",
+		"NumStars" : 699
+	},
+	{
+		"_id" : ObjectId("62903a738b2efbc6e3d5d48f"),
+		"NumAuthors" : 70,
+		"ProjectID" : "jekyll_jekyll-sitemap",
+		"NumStars" : 788
+	},
+	{
+		"_id" : ObjectId("62903abd8b2efbc6e3d9af21"),
+		"NumAuthors" : 61,
+		"ProjectID" : "grnhse_greenhouse_io",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("62903aed8b2efbc6e3dc1b1d"),
+		"NumAuthors" : 36,
+		"ProjectID" : "yammer_circuitbox",
+		"NumStars" : 281
+	},
+	{
+		"_id" : ObjectId("62903b0c8b2efbc6e3de1aa3"),
+		"NumAuthors" : 27,
+		"ProjectID" : "onk_mackerel-client-ruby",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("62903b168b2efbc6e3de94fa"),
+		"NumAuthors" : 11,
+		"ProjectID" : "okuramasafumi_alba",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("62903b1f8b2efbc6e3defc3d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "woothee_woothee-ruby",
+		"NumStars" : 66
+	},
+	{
+		"_id" : ObjectId("62903b208b2efbc6e3df0b99"),
+		"NumAuthors" : 465,
+		"ProjectID" : "Homebrew_homebrew-cask-drivers",
+		"NumStars" : 273
+	},
+	{
+		"_id" : ObjectId("62903b2c8b2efbc6e3df7b56"),
+		"NumAuthors" : 23,
+		"ProjectID" : "CocoaPods_CLAide",
+		"NumStars" : 144
+	},
+	{
+		"_id" : ObjectId("62903b3f8b2efbc6e3e0dda4"),
+		"NumAuthors" : 31,
+		"ProjectID" : "doorkeeper-gem_doorkeeper-mongodb",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62903b4c8b2efbc6e3e17fd1"),
+		"NumAuthors" : 29,
+		"ProjectID" : "ResultadosDigitais_rdstation-ruby-client",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62903b588b2efbc6e3e221e3"),
+		"NumAuthors" : 51,
+		"ProjectID" : "fluent_fluent-plugin-mongo",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("62903ba88b2efbc6e3e66965"),
+		"NumAuthors" : 18,
+		"ProjectID" : "waiting-for-dev_warden-jwt_auth",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("62903ba88b2efbc6e3e69a88"),
+		"NumAuthors" : 27,
+		"ProjectID" : "fastlane-community_trainer",
+		"NumStars" : 199
+	},
+	{
+		"_id" : ObjectId("62903ba98b2efbc6e3e6be40"),
+		"NumAuthors" : 15,
+		"ProjectID" : "optoro_amazon_seller_central",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62903be48b2efbc6e3e963f0"),
+		"NumAuthors" : 38,
+		"ProjectID" : "dannnylo_rtesseract",
+		"NumStars" : 425
+	},
+	{
+		"_id" : ObjectId("62903bec8b2efbc6e3e9fd6b"),
+		"NumAuthors" : 33,
+		"ProjectID" : "mbj_devtools",
+		"NumStars" : 81
+	},
+	{
+		"_id" : ObjectId("62903c368b2efbc6e3edbaad"),
+		"NumAuthors" : 29,
+		"ProjectID" : "dry-rb_dry-web-roda",
+		"NumStars" : 111
+	},
+	{
+		"_id" : ObjectId("62903c608b2efbc6e3f06162"),
+		"NumAuthors" : 12,
+		"ProjectID" : "petrovich_petrovich-ruby",
+		"NumStars" : 241
+	},
+	{
+		"_id" : ObjectId("62903c7f8b2efbc6e3f1b8bc"),
+		"NumAuthors" : 21,
+		"ProjectID" : "Skalar_google_distance_matrix",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("62903c8a8b2efbc6e3f28be6"),
+		"NumAuthors" : 45,
+		"ProjectID" : "localytics_odbc_adapter",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("62903cf18b2efbc6e3f80c0a"),
+		"NumAuthors" : 166,
+		"ProjectID" : "roomorama_liangzan-contacts",
+		"NumStars" : 182
+	},
+	{
+		"_id" : ObjectId("62903d178b2efbc6e3fa36ea"),
+		"NumAuthors" : 16,
+		"ProjectID" : "meilisearch_meilisearch-ruby",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("62903d178b2efbc6e3fa56be"),
+		"NumAuthors" : 26,
+		"ProjectID" : "cchandler_certificate_authority",
+		"NumStars" : 107
+	},
+	{
+		"_id" : ObjectId("62903d4c8b2efbc6e3fd1fd0"),
+		"NumAuthors" : 13,
+		"ProjectID" : "jhass_DeBot",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("62903d7f8b2efbc6e3ffb9a1"),
+		"NumAuthors" : 39,
+		"ProjectID" : "copiousfreetime_launchy",
+		"NumStars" : 524
+	},
+	{
+		"_id" : ObjectId("62903d908b2efbc6e300522f"),
+		"NumAuthors" : 38,
+		"ProjectID" : "ConradIrwin_pry-rescue",
+		"NumStars" : 593
+	},
+	{
+		"_id" : ObjectId("62903d908b2efbc6e30063d2"),
+		"NumAuthors" : 30,
+		"ProjectID" : "mongoid_mongoid_orderable",
+		"NumStars" : 86
+	},
+	{
+		"_id" : ObjectId("62903dbc8b2efbc6e302f6ac"),
+		"NumAuthors" : 49,
+		"ProjectID" : "github_homebrew-bootstrap",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("62903dda8b2efbc6e3044da9"),
+		"NumAuthors" : 87,
+		"ProjectID" : "davidcelis_api-pagination",
+		"NumStars" : 629
+	},
+	{
+		"_id" : ObjectId("62903dec8b2efbc6e3055cc6"),
+		"NumAuthors" : 14,
+		"ProjectID" : "sshaw_ddex",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("62903dfb8b2efbc6e30655f1"),
+		"NumAuthors" : 160,
+		"ProjectID" : "sporkmonger_addressable",
+		"NumStars" : 1331
+	},
+	{
+		"_id" : ObjectId("62903e048b2efbc6e306cf51"),
+		"NumAuthors" : 50,
+		"ProjectID" : "fringd_zipline",
+		"NumStars" : 175
+	},
+	{
+		"_id" : ObjectId("62903e248b2efbc6e3088612"),
+		"NumAuthors" : 198,
+		"ProjectID" : "mizzy_serverspec",
+		"NumStars" : 1861
+	},
+	{
+		"_id" : ObjectId("62903e2d8b2efbc6e308ee87"),
+		"NumAuthors" : 24,
+		"ProjectID" : "Juniper_ruby-junos-ez-stdlib",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("62903e408b2efbc6e309e820"),
+		"NumAuthors" : 61,
+		"ProjectID" : "redis_hiredis-rb",
+		"NumStars" : 212
+	},
+	{
+		"_id" : ObjectId("62903e6f8b2efbc6e30c3516"),
+		"NumAuthors" : 26,
+		"ProjectID" : "makandra_cucumber_factory",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("62903e7a8b2efbc6e30cd676"),
+		"NumAuthors" : 60,
+		"ProjectID" : "jm81_ach",
+		"NumStars" : 86
+	},
+	{
+		"_id" : ObjectId("62903e948b2efbc6e30e1739"),
+		"NumAuthors" : 140,
+		"ProjectID" : "guard_listen",
+		"NumStars" : 1507
+	},
+	{
+		"_id" : ObjectId("62903e9b8b2efbc6e30eb80d"),
+		"NumAuthors" : 73,
+		"ProjectID" : "fog_fog-core",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("62903ea78b2efbc6e30fd763"),
+		"NumAuthors" : 215,
+		"ProjectID" : "minimagick_minimagick",
+		"NumStars" : 1855
+	},
+	{
+		"_id" : ObjectId("62903eaf8b2efbc6e3103ca6"),
+		"NumAuthors" : 18,
+		"ProjectID" : "swisscom_ruby-netsnmp",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62903ec38b2efbc6e31100ce"),
+		"NumAuthors" : 25,
+		"ProjectID" : "LOUISINTERNET_redmine_rate",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("62903ee88b2efbc6e312ea7c"),
+		"NumAuthors" : 135,
+		"ProjectID" : "jaswope_rack-reverse-proxy",
+		"NumStars" : 320
+	},
+	{
+		"_id" : ObjectId("62903ef98b2efbc6e3142dfd"),
+		"NumAuthors" : 27,
+		"ProjectID" : "hecbuma_capistrano_mailer",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62903f098b2efbc6e315276a"),
+		"NumAuthors" : 34,
+		"ProjectID" : "larsch_ocra",
+		"NumStars" : 533
+	},
+	{
+		"_id" : ObjectId("62903f3c8b2efbc6e3179fea"),
+		"NumAuthors" : 44,
+		"ProjectID" : "kostya_eye",
+		"NumStars" : 889
+	},
+	{
+		"_id" : ObjectId("62903f458b2efbc6e3180823"),
+		"NumAuthors" : 11,
+		"ProjectID" : "anycable_anycable-rails",
+		"NumStars" : 319
+	},
+	{
+		"_id" : ObjectId("62903f478b2efbc6e318422f"),
+		"NumAuthors" : 138,
+		"ProjectID" : "lostisland_faraday_middleware",
+		"NumStars" : 342
+	},
+	{
+		"_id" : ObjectId("62903f4b8b2efbc6e31896c2"),
+		"NumAuthors" : 298,
+		"ProjectID" : "pry_pry",
+		"NumStars" : 5137
+	},
+	{
+		"_id" : ObjectId("62903f508b2efbc6e318f399"),
+		"NumAuthors" : 412,
+		"ProjectID" : "pat_thinking-sphinx",
+		"NumStars" : 1755
+	},
+	{
+		"_id" : ObjectId("62903f5c8b2efbc6e319e977"),
+		"NumAuthors" : 39,
+		"ProjectID" : "tupl-tufts_rdl",
+		"NumStars" : 614
+	},
+	{
+		"_id" : ObjectId("62903f6b8b2efbc6e31abd8c"),
+		"NumAuthors" : 83,
+		"ProjectID" : "segmentio_analytics-ruby",
+		"NumStars" : 338
+	},
+	{
+		"_id" : ObjectId("62903f718b2efbc6e31af76e"),
+		"NumAuthors" : 54,
+		"ProjectID" : "moiristo_deep_cloneable",
+		"NumStars" : 546
+	},
+	{
+		"_id" : ObjectId("62903f868b2efbc6e31c0733"),
+		"NumAuthors" : 70,
+		"ProjectID" : "cristianoliveira_awesome4girls",
+		"NumStars" : 379
+	},
+	{
+		"_id" : ObjectId("62903f868b2efbc6e31c1973"),
+		"NumAuthors" : 16,
+		"ProjectID" : "diasks2_pragmatic_segmenter",
+		"NumStars" : 450
+	},
+	{
+		"_id" : ObjectId("62903fa98b2efbc6e31dd733"),
+		"NumAuthors" : 54,
+		"ProjectID" : "bamlab_fastlane-plugin-cordova",
+		"NumStars" : 169
+	},
+	{
+		"_id" : ObjectId("62903fa98b2efbc6e31df45e"),
+		"NumAuthors" : 81,
+		"ProjectID" : "sj26_rspec_junit_formatter",
+		"NumStars" : 243
+	},
+	{
+		"_id" : ObjectId("62903fb88b2efbc6e31eb377"),
+		"NumAuthors" : 27,
+		"ProjectID" : "GetStream_stream-rails",
+		"NumStars" : 256
+	},
+	{
+		"_id" : ObjectId("62903fc68b2efbc6e31f4c20"),
+		"NumAuthors" : 46,
+		"ProjectID" : "sakura-internet_cloud-startupscripts",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629040048b2efbc6e322d83e"),
+		"NumAuthors" : 34,
+		"ProjectID" : "adamniedzielski_tiddle",
+		"NumStars" : 356
+	},
+	{
+		"_id" : ObjectId("629040048b2efbc6e322ef48"),
+		"NumAuthors" : 27,
+		"ProjectID" : "jekyll_jekyll-sass-converter",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("6290403a8b2efbc6e325ab22"),
+		"NumAuthors" : 37,
+		"ProjectID" : "mapbox_mapbox-sdk-rb",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("6290404e8b2efbc6e326e2a7"),
+		"NumAuthors" : 78,
+		"ProjectID" : "xijo_reverse_markdown",
+		"NumStars" : 488
+	},
+	{
+		"_id" : ObjectId("6290404e8b2efbc6e3270164"),
+		"NumAuthors" : 101,
+		"ProjectID" : "weppos_breadcrumbs_on_rails",
+		"NumStars" : 737
+	},
+	{
+		"_id" : ObjectId("6290405b8b2efbc6e327e014"),
+		"NumAuthors" : 21,
+		"ProjectID" : "logstash-plugins_logstash-codec-protobuf",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("6290406a8b2efbc6e32898e9"),
+		"NumAuthors" : 72,
+		"ProjectID" : "mattt_sinatra-param",
+		"NumStars" : 339
+	},
+	{
+		"_id" : ObjectId("629040c78b2efbc6e32dc426"),
+		"NumAuthors" : 57,
+		"ProjectID" : "chriskite_jimson",
+		"NumStars" : 123
+	},
+	{
+		"_id" : ObjectId("629040f38b2efbc6e32ff6b6"),
+		"NumAuthors" : 79,
+		"ProjectID" : "FooBarWidget_default_value_for",
+		"NumStars" : 368
+	},
+	{
+		"_id" : ObjectId("629041018b2efbc6e3309e69"),
+		"NumAuthors" : 27,
+		"ProjectID" : "ifad_chronomodel",
+		"NumStars" : 140
+	},
+	{
+		"_id" : ObjectId("6290411b8b2efbc6e3327793"),
+		"NumAuthors" : 18,
+		"ProjectID" : "technion_ruby-argon2",
+		"NumStars" : 185
+	},
+	{
+		"_id" : ObjectId("629041398b2efbc6e333d9d5"),
+		"NumAuthors" : 13,
+		"ProjectID" : "lifull-dev_bucky-core",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("629041398b2efbc6e333e279"),
+		"NumAuthors" : 65,
+		"ProjectID" : "forward3d_rbhive",
+		"NumStars" : 86
+	},
+	{
+		"_id" : ObjectId("6290414d8b2efbc6e334e683"),
+		"NumAuthors" : 70,
+		"ProjectID" : "samg_timetrap",
+		"NumStars" : 929
+	},
+	{
+		"_id" : ObjectId("629041658b2efbc6e3361732"),
+		"NumAuthors" : 23,
+		"ProjectID" : "hired_reactor",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("6290418d8b2efbc6e33847c9"),
+		"NumAuthors" : 32,
+		"ProjectID" : "shaynekang_omniauth-kakao",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("629041958b2efbc6e3388ae6"),
+		"NumAuthors" : 176,
+		"ProjectID" : "rack-test_rack-test",
+		"NumStars" : 452
+	},
+	{
+		"_id" : ObjectId("629041c38b2efbc6e33b83f4"),
+		"NumAuthors" : 59,
+		"ProjectID" : "biola_rack-cas",
+		"NumStars" : 144
+	},
+	{
+		"_id" : ObjectId("629041c58b2efbc6e33b8f6b"),
+		"NumAuthors" : 44,
+		"ProjectID" : "chef_cheffish",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("629041d28b2efbc6e33c2a50"),
+		"NumAuthors" : 28,
+		"ProjectID" : "jm_toml",
+		"NumStars" : 132
+	},
+	{
+		"_id" : ObjectId("629041de8b2efbc6e33cef99"),
+		"NumAuthors" : 74,
+		"ProjectID" : "capistrano-plugins_capistrano-unicorn-nginx",
+		"NumStars" : 192
+	},
+	{
+		"_id" : ObjectId("629041fb8b2efbc6e33e5555"),
+		"NumAuthors" : 98,
+		"ProjectID" : "spree_deface",
+		"NumStars" : 315
+	},
+	{
+		"_id" : ObjectId("629042138b2efbc6e33fcf7c"),
+		"NumAuthors" : 34,
+		"ProjectID" : "asenchi_scrolls",
+		"NumStars" : 138
+	},
+	{
+		"_id" : ObjectId("629042188b2efbc6e34059c7"),
+		"NumAuthors" : 46,
+		"ProjectID" : "Renuo_i18n-docs",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("6290422a8b2efbc6e34137b7"),
+		"NumAuthors" : 32,
+		"ProjectID" : "iugu_iugu-ruby",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("629042528b2efbc6e343048a"),
+		"NumAuthors" : 23,
+		"ProjectID" : "benbalter_jekyll-remote-theme",
+		"NumStars" : 183
+	},
+	{
+		"_id" : ObjectId("629042618b2efbc6e3440106"),
+		"NumAuthors" : 21,
+		"ProjectID" : "Shopify_cli-kit",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("629042698b2efbc6e34488ef"),
+		"NumAuthors" : 199,
+		"ProjectID" : "floere_phony",
+		"NumStars" : 590
+	},
+	{
+		"_id" : ObjectId("6290428e8b2efbc6e346d8a4"),
+		"NumAuthors" : 52,
+		"ProjectID" : "raszi_mrkt",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("629042968b2efbc6e347163f"),
+		"NumAuthors" : 24,
+		"ProjectID" : "dryrb_dry-equalizer",
+		"NumStars" : 286
+	},
+	{
+		"_id" : ObjectId("629042a28b2efbc6e347d185"),
+		"NumAuthors" : 17,
+		"ProjectID" : "kevinhughes27_shopify-sinatra-app",
+		"NumStars" : 70
+	},
+	{
+		"_id" : ObjectId("629042c68b2efbc6e349e47f"),
+		"NumAuthors" : 82,
+		"ProjectID" : "WinRb_WinRM",
+		"NumStars" : 295
+	},
+	{
+		"_id" : ObjectId("629043078b2efbc6e34db732"),
+		"NumAuthors" : 20,
+		"ProjectID" : "Shopify_deprecation_toolkit",
+		"NumStars" : 174
+	},
+	{
+		"_id" : ObjectId("629043498b2efbc6e351b5bb"),
+		"NumAuthors" : 43,
+		"ProjectID" : "Mon-Ouie_pry-remote",
+		"NumStars" : 459
+	},
+	{
+		"_id" : ObjectId("6290435e8b2efbc6e352b608"),
+		"NumAuthors" : 126,
+		"ProjectID" : "chef_knife-vsphere",
+		"NumStars" : 212
+	},
+	{
+		"_id" : ObjectId("629043688b2efbc6e35301af"),
+		"NumAuthors" : 17,
+		"ProjectID" : "mojotech_capybara-ui",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("6290438f8b2efbc6e35586a6"),
+		"NumAuthors" : 62,
+		"ProjectID" : "gottfrois_link_thumbnailer",
+		"NumStars" : 496
+	},
+	{
+		"_id" : ObjectId("6290438f8b2efbc6e355a4e5"),
+		"NumAuthors" : 37,
+		"ProjectID" : "plataformatec_mail_form",
+		"NumStars" : 488
+	},
+	{
+		"_id" : ObjectId("6290438f8b2efbc6e355b05f"),
+		"NumAuthors" : 24,
+		"ProjectID" : "mbryzek_schema-evolution-manager",
+		"NumStars" : 244
+	},
+	{
+		"_id" : ObjectId("629043998b2efbc6e355e05f"),
+		"NumAuthors" : 49,
+		"ProjectID" : "mikestephens_chef-gluster",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629043b08b2efbc6e35735de"),
+		"NumAuthors" : 49,
+		"ProjectID" : "prawnpdf_prawn-table",
+		"NumStars" : 169
+	},
+	{
+		"_id" : ObjectId("629043ca8b2efbc6e3584020"),
+		"NumAuthors" : 28,
+		"ProjectID" : "heroku_heroku-bouncer",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("629043d78b2efbc6e359311b"),
+		"NumAuthors" : 36,
+		"ProjectID" : "brunofacca_active-record-query-trace",
+		"NumStars" : 660
+	},
+	{
+		"_id" : ObjectId("629044008b2efbc6e35b6e16"),
+		"NumAuthors" : 40,
+		"ProjectID" : "evilmartians_chef-prometheus-exporters",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("6290445a8b2efbc6e36082b7"),
+		"NumAuthors" : 151,
+		"ProjectID" : "Shopify_identity_cache",
+		"NumStars" : 1006
+	},
+	{
+		"_id" : ObjectId("6290446e8b2efbc6e3616b08"),
+		"NumAuthors" : 55,
+		"ProjectID" : "globalize_globalize-accessors",
+		"NumStars" : 125
+	},
+	{
+		"_id" : ObjectId("629044718b2efbc6e361a043"),
+		"NumAuthors" : 27,
+		"ProjectID" : "janko_down",
+		"NumStars" : 728
+	},
+	{
+		"_id" : ObjectId("629044b88b2efbc6e3652e53"),
+		"NumAuthors" : 19,
+		"ProjectID" : "fastlane_fastlane-plugin-firebase_test_lab",
+		"NumStars" : 59
+	},
+	{
+		"_id" : ObjectId("629044c48b2efbc6e365cc98"),
+		"NumAuthors" : 23,
+		"ProjectID" : "objects-on-rails_display-case",
+		"NumStars" : 184
+	},
+	{
+		"_id" : ObjectId("629044cc8b2efbc6e3663717"),
+		"NumAuthors" : 40,
+		"ProjectID" : "trailblazer_reform-rails",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("629044ef8b2efbc6e3686450"),
+		"NumAuthors" : 24,
+		"ProjectID" : "emrekutlu_paperclip-compression",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("629045148b2efbc6e36a36ad"),
+		"NumAuthors" : 19,
+		"ProjectID" : "dustymabe_vagrant-sshfs",
+		"NumStars" : 212
+	},
+	{
+		"_id" : ObjectId("6290453a8b2efbc6e36c3c54"),
+		"NumAuthors" : 13,
+		"ProjectID" : "RecastAI_SDK-ruby",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629045728b2efbc6e36fb22d"),
+		"NumAuthors" : 34,
+		"ProjectID" : "ResultadosDigitais_feature_flagger",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("6290457e8b2efbc6e37048e8"),
+		"NumAuthors" : 23,
+		"ProjectID" : "github_hoosegow",
+		"NumStars" : 353
+	},
+	{
+		"_id" : ObjectId("6290459f8b2efbc6e3722d37"),
+		"NumAuthors" : 66,
+		"ProjectID" : "pivotal-legacy_pivotal_ide_prefs",
+		"NumStars" : 76
+	},
+	{
+		"_id" : ObjectId("629045fb8b2efbc6e3771e8a"),
+		"NumAuthors" : 26,
+		"ProjectID" : "arches_table_print",
+		"NumStars" : 608
+	},
+	{
+		"_id" : ObjectId("629045fb8b2efbc6e3775c42"),
+		"NumAuthors" : 40,
+		"ProjectID" : "dry-rb_dry-transaction",
+		"NumStars" : 327
+	},
+	{
+		"_id" : ObjectId("629046038b2efbc6e3777e10"),
+		"NumAuthors" : 47,
+		"ProjectID" : "Kong_unirest-ruby",
+		"NumStars" : 307
+	},
+	{
+		"_id" : ObjectId("6290460d8b2efbc6e3782af8"),
+		"NumAuthors" : 13,
+		"ProjectID" : "tyrauber_sec_query",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("6290462b8b2efbc6e3799d97"),
+		"NumAuthors" : 219,
+		"ProjectID" : "theforeman_community-templates",
+		"NumStars" : 132
+	},
+	{
+		"_id" : ObjectId("6290463e8b2efbc6e37a64f0"),
+		"NumAuthors" : 22,
+		"ProjectID" : "quirkey_vegas",
+		"NumStars" : 61
+	},
+	{
+		"_id" : ObjectId("629046718b2efbc6e37db3e0"),
+		"NumAuthors" : 15,
+		"ProjectID" : "mobiruby_mruby-cfunc",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("6290467a8b2efbc6e37e1553"),
+		"NumAuthors" : 23,
+		"ProjectID" : "threedaymonk_htmlbeautifier",
+		"NumStars" : 203
+	},
+	{
+		"_id" : ObjectId("629046848b2efbc6e37eb643"),
+		"NumAuthors" : 81,
+		"ProjectID" : "thuss_standalone-migrations",
+		"NumStars" : 769
+	},
+	{
+		"_id" : ObjectId("6290468f8b2efbc6e37f21a0"),
+		"NumAuthors" : 44,
+		"ProjectID" : "devmynd_hstore_accessor",
+		"NumStars" : 241
+	},
+	{
+		"_id" : ObjectId("629046998b2efbc6e37fb49b"),
+		"NumAuthors" : 58,
+		"ProjectID" : "keenlabs_keen-gem",
+		"NumStars" : 161
+	},
+	{
+		"_id" : ObjectId("629046b68b2efbc6e3814d17"),
+		"NumAuthors" : 27,
+		"ProjectID" : "pyromaniac_active_data",
+		"NumStars" : 102
+	},
+	{
+		"_id" : ObjectId("629046bb8b2efbc6e381c20b"),
+		"NumAuthors" : 22,
+		"ProjectID" : "BerlinVagrant_vagrant-dns",
+		"NumStars" : 351
+	},
+	{
+		"_id" : ObjectId("6290471c8b2efbc6e38711e6"),
+		"NumAuthors" : 77,
+		"ProjectID" : "test-kitchen_kitchen-dokken",
+		"NumStars" : 174
+	},
+	{
+		"_id" : ObjectId("629047308b2efbc6e387eaf8"),
+		"NumAuthors" : 22,
+		"ProjectID" : "tomykaira_rspec-parameterized",
+		"NumStars" : 247
+	},
+	{
+		"_id" : ObjectId("629047708b2efbc6e38b6770"),
+		"NumAuthors" : 30,
+		"ProjectID" : "prawnpdf_pdf-core",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("6290478d8b2efbc6e38cd3e4"),
+		"NumAuthors" : 11,
+		"ProjectID" : "dyet92k_dockly",
+		"NumStars" : 214
+	},
+	{
+		"_id" : ObjectId("629047978b2efbc6e38d39e6"),
+		"NumAuthors" : 41,
+		"ProjectID" : "taf2_cld2",
+		"NumStars" : 163
+	},
+	{
+		"_id" : ObjectId("629047d58b2efbc6e390e52a"),
+		"NumAuthors" : 103,
+		"ProjectID" : "riemann_riemann-tools",
+		"NumStars" : 177
+	},
+	{
+		"_id" : ObjectId("6290480a8b2efbc6e393680f"),
+		"NumAuthors" : 50,
+		"ProjectID" : "PX4_homebrew-px4",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("6290480f8b2efbc6e393c0e2"),
+		"NumAuthors" : 33,
+		"ProjectID" : "dry-rb_dry-initializer",
+		"NumStars" : 143
+	},
+	{
+		"_id" : ObjectId("629048208b2efbc6e394a463"),
+		"NumAuthors" : 147,
+		"ProjectID" : "carrierwaveuploader_carrierwave-mongoid",
+		"NumStars" : 188
+	},
+	{
+		"_id" : ObjectId("629048298b2efbc6e39548d9"),
+		"NumAuthors" : 52,
+		"ProjectID" : "piotrmurach_tty-prompt",
+		"NumStars" : 1180
+	},
+	{
+		"_id" : ObjectId("629048328b2efbc6e395cce6"),
+		"NumAuthors" : 22,
+		"ProjectID" : "woodruffw_yossarian-bot",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("6290484a8b2efbc6e3971a27"),
+		"NumAuthors" : 33,
+		"ProjectID" : "localhots_musicbrainz",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("629048548b2efbc6e397a6b1"),
+		"NumAuthors" : 60,
+		"ProjectID" : "fog_fog-vsphere",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("6290485f8b2efbc6e397e131"),
+		"NumAuthors" : 25,
+		"ProjectID" : "m0wfo_cups",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("629048878b2efbc6e39a3cb3"),
+		"NumAuthors" : 23,
+		"ProjectID" : "jeremyevans_fixture_dependencies",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629048e88b2efbc6e39f7cd9"),
+		"NumAuthors" : 32,
+		"ProjectID" : "dev-sec_windows-baseline",
+		"NumStars" : 150
+	},
+	{
+		"_id" : ObjectId("629048f18b2efbc6e39fcc2a"),
+		"NumAuthors" : 68,
+		"ProjectID" : "crowdint_acts_as_shopping_cart",
+		"NumStars" : 305
+	},
+	{
+		"_id" : ObjectId("629049358b2efbc6e3a38a5f"),
+		"NumAuthors" : 51,
+		"ProjectID" : "stellar_xdrgen",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629049628b2efbc6e3a5f909"),
+		"NumAuthors" : 64,
+		"ProjectID" : "Nexmo_nexmo-ruby",
+		"NumStars" : 197
+	},
+	{
+		"_id" : ObjectId("629049778b2efbc6e3a6d8c9"),
+		"NumAuthors" : 72,
+		"ProjectID" : "kazasiki_omniauth-line",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629049af8b2efbc6e3a9b0ee"),
+		"NumAuthors" : 18,
+		"ProjectID" : "discourse_mini_sql",
+		"NumStars" : 220
+	},
+	{
+		"_id" : ObjectId("629049b98b2efbc6e3aa6f78"),
+		"NumAuthors" : 153,
+		"ProjectID" : "nateware_redis-objects",
+		"NumStars" : 1211
+	},
+	{
+		"_id" : ObjectId("629049d58b2efbc6e3abf01f"),
+		"NumAuthors" : 36,
+		"ProjectID" : "beyonddream_daemons",
+		"NumStars" : 562
+	},
+	{
+		"_id" : ObjectId("629049f68b2efbc6e3adcf55"),
+		"NumAuthors" : 58,
+		"ProjectID" : "enkessler_childprocess",
+		"NumStars" : 341
+	},
+	{
+		"_id" : ObjectId("62904a1e8b2efbc6e3b05166"),
+		"NumAuthors" : 20,
+		"ProjectID" : "threedaymonk_htmlentities",
+		"NumStars" : 221
+	},
+	{
+		"_id" : ObjectId("62904a278b2efbc6e3b0aafc"),
+		"NumAuthors" : 24,
+		"ProjectID" : "supportify_paperclip-azure",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62904a318b2efbc6e3b11f15"),
+		"NumAuthors" : 21,
+		"ProjectID" : "dry-rb_dry-rails",
+		"NumStars" : 157
+	},
+	{
+		"_id" : ObjectId("62904a318b2efbc6e3b12755"),
+		"NumAuthors" : 39,
+		"ProjectID" : "sensu-plugins_sensu-extensions-influxdb2",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("62904a478b2efbc6e3b265a6"),
+		"NumAuthors" : 33,
+		"ProjectID" : "jonmbake_discourse-ldap-auth",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("62904a4b8b2efbc6e3b29b9d"),
+		"NumAuthors" : 25,
+		"ProjectID" : "yhirose_maxminddb",
+		"NumStars" : 253
+	},
+	{
+		"_id" : ObjectId("62904a538b2efbc6e3b36989"),
+		"NumAuthors" : 64,
+		"ProjectID" : "cloudfoundry_cf-uaa-lib",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("62904a598b2efbc6e3b3a9f3"),
+		"NumAuthors" : 36,
+		"ProjectID" : "coderhs_ruby_open_weather_map",
+		"NumStars" : 87
+	},
+	{
+		"_id" : ObjectId("62904a6a8b2efbc6e3b4be46"),
+		"NumAuthors" : 16,
+		"ProjectID" : "Unleash_unleash-client-ruby",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62904aa78b2efbc6e3b7a80c"),
+		"NumAuthors" : 36,
+		"ProjectID" : "RESTpack_restpack-serializer",
+		"NumStars" : 186
+	},
+	{
+		"_id" : ObjectId("62904aaf8b2efbc6e3b7e7f5"),
+		"NumAuthors" : 40,
+		"ProjectID" : "rspec_rspec-its",
+		"NumStars" : 206
+	},
+	{
+		"_id" : ObjectId("62904ab68b2efbc6e3b89fb5"),
+		"NumAuthors" : 15,
+		"ProjectID" : "ammar_regexp_parser",
+		"NumStars" : 96
+	},
+	{
+		"_id" : ObjectId("62904aba8b2efbc6e3b8e455"),
+		"NumAuthors" : 13,
+		"ProjectID" : "rom-rb_rom-elasticsearch",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("62904abb8b2efbc6e3b92568"),
+		"NumAuthors" : 173,
+		"ProjectID" : "logstash-plugins_logstash-patterns-core",
+		"NumStars" : 1783
+	},
+	{
+		"_id" : ObjectId("62904abb8b2efbc6e3b92265"),
+		"NumAuthors" : 36,
+		"ProjectID" : "iyzico_iyzipay-ruby",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("62904ad58b2efbc6e3ba9af5"),
+		"NumAuthors" : 14,
+		"ProjectID" : "nerab_dropcaster",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("62904ad58b2efbc6e3bab43a"),
+		"NumAuthors" : 37,
+		"ProjectID" : "pauldix_domainatrix",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("62904b188b2efbc6e3be98a1"),
+		"NumAuthors" : 41,
+		"ProjectID" : "GemHQ_money-tree",
+		"NumStars" : 230
+	},
+	{
+		"_id" : ObjectId("62904b248b2efbc6e3bf565c"),
+		"NumAuthors" : 47,
+		"ProjectID" : "facebook_taste-tester",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("62904b308b2efbc6e3c021de"),
+		"NumAuthors" : 18,
+		"ProjectID" : "rootstrap_yaaf",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("62904b398b2efbc6e3c054de"),
+		"NumAuthors" : 13,
+		"ProjectID" : "lang_unicode_utils",
+		"NumStars" : 102
+	},
+	{
+		"_id" : ObjectId("62904b398b2efbc6e3c06236"),
+		"NumAuthors" : 33,
+		"ProjectID" : "thoughtbot_homebrew-formulae",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("62904b3a8b2efbc6e3c08e51"),
+		"NumAuthors" : 75,
+		"ProjectID" : "sangster_spirit_hands",
+		"NumStars" : 711
+	},
+	{
+		"_id" : ObjectId("62904b558b2efbc6e3c1bef7"),
+		"NumAuthors" : 12,
+		"ProjectID" : "tarantool_tarantool-ruby",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("62904b588b2efbc6e3c1f50f"),
+		"NumAuthors" : 27,
+		"ProjectID" : "dev-sec_cis-docker-benchmark",
+		"NumStars" : 284
+	},
+	{
+		"_id" : ObjectId("62904b628b2efbc6e3c28860"),
+		"NumAuthors" : 42,
+		"ProjectID" : "resque_resque-loner",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("62904b718b2efbc6e3c345b0"),
+		"NumAuthors" : 23,
+		"ProjectID" : "halfdan_piwik-ruby-tracking",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("62904b728b2efbc6e3c36e58"),
+		"NumAuthors" : 11,
+		"ProjectID" : "yhirano55_approval",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("62904b8b8b2efbc6e3c4f959"),
+		"NumAuthors" : 25,
+		"ProjectID" : "albertbellonch_piet",
+		"NumStars" : 184
+	},
+	{
+		"_id" : ObjectId("62904b8b8b2efbc6e3c50c77"),
+		"NumAuthors" : 88,
+		"ProjectID" : "fastly_fastly-ruby",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("62904b9f8b2efbc6e3c5cb0e"),
+		"NumAuthors" : 78,
+		"ProjectID" : "chef_chef-vault",
+		"NumStars" : 385
+	},
+	{
+		"_id" : ObjectId("62904bce8b2efbc6e3c87ca1"),
+		"NumAuthors" : 13,
+		"ProjectID" : "fullstaq-labs_fullstaq-ruby-server-edition",
+		"NumStars" : 124
+	},
+	{
+		"_id" : ObjectId("62904bef8b2efbc6e3ca7f85"),
+		"NumAuthors" : 24,
+		"ProjectID" : "nathwill_chef-systemd",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("62904bf68b2efbc6e3cac7cd"),
+		"NumAuthors" : 24,
+		"ProjectID" : "chef_win32-service",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("62904c088b2efbc6e3cba5d7"),
+		"NumAuthors" : 31,
+		"ProjectID" : "bgarret_google-analytics-rails",
+		"NumStars" : 256
+	},
+	{
+		"_id" : ObjectId("62904c2e8b2efbc6e3cdc2ef"),
+		"NumAuthors" : 92,
+		"ProjectID" : "basecamp_marginalia",
+		"NumStars" : 1285
+	},
+	{
+		"_id" : ObjectId("62904c318b2efbc6e3cdf42a"),
+		"NumAuthors" : 43,
+		"ProjectID" : "Shopify_job-iteration",
+		"NumStars" : 358
+	},
+	{
+		"_id" : ObjectId("62904c3b8b2efbc6e3cea718"),
+		"NumAuthors" : 69,
+		"ProjectID" : "podio_podio-rb",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("62904c7e8b2efbc6e3d1fd31"),
+		"NumAuthors" : 79,
+		"ProjectID" : "adacosta_mongoid_rails_migrations",
+		"NumStars" : 132
+	},
+	{
+		"_id" : ObjectId("62904c7e8b2efbc6e3d210f1"),
+		"NumAuthors" : 12,
+		"ProjectID" : "mbj_anima",
+		"NumStars" : 166
+	},
+	{
+		"_id" : ObjectId("62904c8a8b2efbc6e3d2bc16"),
+		"NumAuthors" : 74,
+		"ProjectID" : "plataformatec_faraday-http-cache",
+		"NumStars" : 272
+	},
+	{
+		"_id" : ObjectId("62904cee8b2efbc6e3d805ed"),
+		"NumAuthors" : 17,
+		"ProjectID" : "jabbrwcky_prawn-qrcode",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("62904cf58b2efbc6e3d89c7a"),
+		"NumAuthors" : 20,
+		"ProjectID" : "DomT4_homebrew-autoupdate",
+		"NumStars" : 329
+	},
+	{
+		"_id" : ObjectId("62904d058b2efbc6e3d9a8a9"),
+		"NumAuthors" : 36,
+		"ProjectID" : "bo-oz_vimeo_me2",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("62904d248b2efbc6e3dae9ca"),
+		"NumAuthors" : 276,
+		"ProjectID" : "vcr_vcr",
+		"NumStars" : 4230
+	},
+	{
+		"_id" : ObjectId("62904d248b2efbc6e3db2dca"),
+		"NumAuthors" : 133,
+		"ProjectID" : "sparklemotion_sqlite3-ruby",
+		"NumStars" : 546
+	},
+	{
+		"_id" : ObjectId("62904d2e8b2efbc6e3db6376"),
+		"NumAuthors" : 19,
+		"ProjectID" : "joenorton_rubyretriever",
+		"NumStars" : 147
+	},
+	{
+		"_id" : ObjectId("62904d2e8b2efbc6e3db7925"),
+		"NumAuthors" : 11,
+		"ProjectID" : "siaw23_kovid",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("62904d538b2efbc6e3dd942b"),
+		"NumAuthors" : 47,
+		"ProjectID" : "seattlerb_flay",
+		"NumStars" : 474
+	},
+	{
+		"_id" : ObjectId("62904d598b2efbc6e3de1a0a"),
+		"NumAuthors" : 48,
+		"ProjectID" : "cookpad_presentations",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("62904d668b2efbc6e3dea78b"),
+		"NumAuthors" : 34,
+		"ProjectID" : "grosser_kennel",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("62904db48b2efbc6e3e2d2e9"),
+		"NumAuthors" : 56,
+		"ProjectID" : "logstash-plugins_logstash-output-mongodb",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("62904dbe8b2efbc6e3e351b4"),
+		"NumAuthors" : 15,
+		"ProjectID" : "rapid7_dap",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("62904dbe8b2efbc6e3e3612d"),
+		"NumAuthors" : 11,
+		"ProjectID" : "crashtech_torque-postgresql",
+		"NumStars" : 110
+	},
+	{
+		"_id" : ObjectId("62904dbe8b2efbc6e3e376d7"),
+		"NumAuthors" : 19,
+		"ProjectID" : "square_sqeduler",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62904df28b2efbc6e3e5f918"),
+		"NumAuthors" : 48,
+		"ProjectID" : "guard_rb-inotify",
+		"NumStars" : 168
+	},
+	{
+		"_id" : ObjectId("62904df78b2efbc6e3e6431e"),
+		"NumAuthors" : 122,
+		"ProjectID" : "cloudfoundry_docs-buildpacks",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62904e158b2efbc6e3e81bc4"),
+		"NumAuthors" : 259,
+		"ProjectID" : "lardawge_carrierwave_backgrounder",
+		"NumStars" : 536
+	},
+	{
+		"_id" : ObjectId("62904e288b2efbc6e3e916ab"),
+		"NumAuthors" : 33,
+		"ProjectID" : "ruby-llvm_ruby-llvm",
+		"NumStars" : 272
+	},
+	{
+		"_id" : ObjectId("62904e288b2efbc6e3e9385f"),
+		"NumAuthors" : 48,
+		"ProjectID" : "chef_artifactory-client",
+		"NumStars" : 68
+	},
+	{
+		"_id" : ObjectId("62904e328b2efbc6e3e9a6a6"),
+		"NumAuthors" : 229,
+		"ProjectID" : "Casecommons_pg_search",
+		"NumStars" : 2401
+	},
+	{
+		"_id" : ObjectId("62904e5a8b2efbc6e3eb9f4e"),
+		"NumAuthors" : 95,
+		"ProjectID" : "lemurheavy_coveralls-ruby",
+		"NumStars" : 146
+	},
+	{
+		"_id" : ObjectId("62904e6c8b2efbc6e3ecb0be"),
+		"NumAuthors" : 24,
+		"ProjectID" : "webtranslateit_webtranslateit",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("62904e908b2efbc6e3eebe62"),
+		"NumAuthors" : 42,
+		"ProjectID" : "flyerhzm_uniform_notifier",
+		"NumStars" : 193
+	},
+	{
+		"_id" : ObjectId("62904ea58b2efbc6e3efd239"),
+		"NumAuthors" : 22,
+		"ProjectID" : "amatsuda_html5_validators",
+		"NumStars" : 189
+	},
+	{
+		"_id" : ObjectId("62904eb88b2efbc6e3f0a914"),
+		"NumAuthors" : 42,
+		"ProjectID" : "nateleavitt_infusionsoft",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("62904ec58b2efbc6e3f1a5ec"),
+		"NumAuthors" : 106,
+		"ProjectID" : "xmpp4r_xmpp4r",
+		"NumStars" : 220
+	},
+	{
+		"_id" : ObjectId("62904ecc8b2efbc6e3f25a1d"),
+		"NumAuthors" : 25,
+		"ProjectID" : "fluent-plugin-systemd_fluent-plugin-systemd",
+		"NumStars" : 127
+	},
+	{
+		"_id" : ObjectId("62904ed28b2efbc6e3f299fa"),
+		"NumAuthors" : 33,
+		"ProjectID" : "hanami_cli",
+		"NumStars" : 201
+	},
+	{
+		"_id" : ObjectId("62904f0f8b2efbc6e3f59550"),
+		"NumAuthors" : 197,
+		"ProjectID" : "apotonick_representable",
+		"NumStars" : 1868
+	},
+	{
+		"_id" : ObjectId("62904f238b2efbc6e3f6f03d"),
+		"NumAuthors" : 77,
+		"ProjectID" : "fotinakis_jsonapi-serializers",
+		"NumStars" : 420
+	},
+	{
+		"_id" : ObjectId("62904f398b2efbc6e3f858e1"),
+		"NumAuthors" : 16,
+		"ProjectID" : "feed2imap_feed2imap",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("62904f3d8b2efbc6e3f87b56"),
+		"NumAuthors" : 22,
+		"ProjectID" : "wistia_nsq-ruby",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("62904f728b2efbc6e3fb1674"),
+		"NumAuthors" : 22,
+		"ProjectID" : "looker-open-source_gzr",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("62904fae8b2efbc6e3fe78ae"),
+		"NumAuthors" : 83,
+		"ProjectID" : "salesking_sepa_king",
+		"NumStars" : 134
+	},
+	{
+		"_id" : ObjectId("62904ff68b2efbc6e30288b5"),
+		"NumAuthors" : 33,
+		"ProjectID" : "teoljungberg_fx",
+		"NumStars" : 248
+	},
+	{
+		"_id" : ObjectId("6290501c8b2efbc6e304197a"),
+		"NumAuthors" : 65,
+		"ProjectID" : "test-unit_test-unit",
+		"NumStars" : 213
+	},
+	{
+		"_id" : ObjectId("629050598b2efbc6e3081de2"),
+		"NumAuthors" : 16,
+		"ProjectID" : "dry-rb_dry-matcher",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("629050fb8b2efbc6e310c929"),
+		"NumAuthors" : 125,
+		"ProjectID" : "jekyll_classifier-reborn",
+		"NumStars" : 993
+	},
+	{
+		"_id" : ObjectId("629051008b2efbc6e311272d"),
+		"NumAuthors" : 20,
+		"ProjectID" : "asonas_chatwork-ruby",
+		"NumStars" : 60
+	},
+	{
+		"_id" : ObjectId("629051048b2efbc6e311654b"),
+		"NumAuthors" : 46,
+		"ProjectID" : "telegram-bot-rb_telegram-bot",
+		"NumStars" : 434
+	},
+	{
+		"_id" : ObjectId("629051048b2efbc6e311957a"),
+		"NumAuthors" : 60,
+		"ProjectID" : "magnetis_spok",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("629051148b2efbc6e312873f"),
+		"NumAuthors" : 19,
+		"ProjectID" : "digininja_pipal",
+		"NumStars" : 429
+	},
+	{
+		"_id" : ObjectId("629051228b2efbc6e31317ca"),
+		"NumAuthors" : 44,
+		"ProjectID" : "jenseng_hair_trigger",
+		"NumStars" : 463
+	},
+	{
+		"_id" : ObjectId("629051818b2efbc6e31830c8"),
+		"NumAuthors" : 55,
+		"ProjectID" : "DockYard_capybara-email",
+		"NumStars" : 246
+	},
+	{
+		"_id" : ObjectId("629051838b2efbc6e3185577"),
+		"NumAuthors" : 27,
+		"ProjectID" : "salemove_jaeger-client-ruby",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629051838b2efbc6e3187578"),
+		"NumAuthors" : 17,
+		"ProjectID" : "crystal-community_msgpack-crystal",
+		"NumStars" : 125
+	},
+	{
+		"_id" : ObjectId("629051998b2efbc6e31941ec"),
+		"NumAuthors" : 24,
+		"ProjectID" : "sparklemotion_http-cookie",
+		"NumStars" : 93
+	},
+	{
+		"_id" : ObjectId("629051c68b2efbc6e31ba8fb"),
+		"NumAuthors" : 48,
+		"ProjectID" : "nviennot_nobrainer",
+		"NumStars" : 374
+	},
+	{
+		"_id" : ObjectId("629051cd8b2efbc6e31c429f"),
+		"NumAuthors" : 28,
+		"ProjectID" : "Homebrew_homebrew-command-not-found",
+		"NumStars" : 246
+	},
+	{
+		"_id" : ObjectId("629051e78b2efbc6e31dc98b"),
+		"NumAuthors" : 92,
+		"ProjectID" : "qoobaa_s3",
+		"NumStars" : 125
+	},
+	{
+		"_id" : ObjectId("629051e88b2efbc6e31df602"),
+		"NumAuthors" : 78,
+		"ProjectID" : "adelevie_parse_resource",
+		"NumStars" : 156
+	},
+	{
+		"_id" : ObjectId("629052048b2efbc6e31f2c4a"),
+		"NumAuthors" : 26,
+		"ProjectID" : "ManageIQ_linux_admin",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629052138b2efbc6e31ff232"),
+		"NumAuthors" : 17,
+		"ProjectID" : "thoughtbot_write-yourself-a-roguelike",
+		"NumStars" : 154
+	},
+	{
+		"_id" : ObjectId("6290521b8b2efbc6e320461b"),
+		"NumAuthors" : 19,
+		"ProjectID" : "vifreefly_kimuraframework",
+		"NumStars" : 615
+	},
+	{
+		"_id" : ObjectId("629052238b2efbc6e320e0da"),
+		"NumAuthors" : 153,
+		"ProjectID" : "rubysec_bundler-audit",
+		"NumStars" : 2077
+	},
+	{
+		"_id" : ObjectId("629052268b2efbc6e320fa43"),
+		"NumAuthors" : 23,
+		"ProjectID" : "amatsuda_i18n_generators",
+		"NumStars" : 140
+	},
+	{
+		"_id" : ObjectId("629052458b2efbc6e322f068"),
+		"NumAuthors" : 14,
+		"ProjectID" : "kickstarter_replica_pools",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("6290526f8b2efbc6e324d579"),
+		"NumAuthors" : 21,
+		"ProjectID" : "travis-ci_kubernetes-config",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("6290529d8b2efbc6e327895c"),
+		"NumAuthors" : 32,
+		"ProjectID" : "pboling_sanitize_email",
+		"NumStars" : 131
+	},
+	{
+		"_id" : ObjectId("6290529e8b2efbc6e327d499"),
+		"NumAuthors" : 32,
+		"ProjectID" : "djberg96_sys-proctable",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("6290529e8b2efbc6e327cfbb"),
+		"NumAuthors" : 85,
+		"ProjectID" : "neillturner_kitchen-ansible",
+		"NumStars" : 354
+	},
+	{
+		"_id" : ObjectId("629052c98b2efbc6e329c9f1"),
+		"NumAuthors" : 24,
+		"ProjectID" : "asakusarb_action_args",
+		"NumStars" : 325
+	},
+	{
+		"_id" : ObjectId("629052e78b2efbc6e32b535d"),
+		"NumAuthors" : 21,
+		"ProjectID" : "contentful_jekyll-contentful-data-import",
+		"NumStars" : 97
+	},
+	{
+		"_id" : ObjectId("629053558b2efbc6e3313a1c"),
+		"NumAuthors" : 11,
+		"ProjectID" : "karafka_example-app",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("6290535c8b2efbc6e331bc8c"),
+		"NumAuthors" : 85,
+		"ProjectID" : "ruby-docx_docx",
+		"NumStars" : 279
+	},
+	{
+		"_id" : ObjectId("6290536b8b2efbc6e3328a4d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "piotrmurach_tty-command",
+		"NumStars" : 351
+	},
+	{
+		"_id" : ObjectId("629053718b2efbc6e332d52d"),
+		"NumAuthors" : 13,
+		"ProjectID" : "aj0strow_espn-scraper",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("6290538a8b2efbc6e3340dcb"),
+		"NumAuthors" : 15,
+		"ProjectID" : "reproio_wrapbox",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("629053988b2efbc6e334a733"),
+		"NumAuthors" : 21,
+		"ProjectID" : "qoobaa_vcard",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("629053ae8b2efbc6e335f9de"),
+		"NumAuthors" : 17,
+		"ProjectID" : "cvent_octopus-deploy-cookbook",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("629053b18b2efbc6e336130d"),
+		"NumAuthors" : 29,
+		"ProjectID" : "oivoodoo_devise_masquerade",
+		"NumStars" : 359
+	},
+	{
+		"_id" : ObjectId("629053b88b2efbc6e336b9b8"),
+		"NumAuthors" : 125,
+		"ProjectID" : "collectiveidea_delayed_job_mongoid",
+		"NumStars" : 132
+	},
+	{
+		"_id" : ObjectId("629053bb8b2efbc6e336cd3a"),
+		"NumAuthors" : 14,
+		"ProjectID" : "fbernier_tomlrb",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("629053d88b2efbc6e33861d6"),
+		"NumAuthors" : 299,
+		"ProjectID" : "petergoldstein_dalli",
+		"NumStars" : 2201
+	},
+	{
+		"_id" : ObjectId("629053da8b2efbc6e338adba"),
+		"NumAuthors" : 39,
+		"ProjectID" : "dry-rb_dry-container",
+		"NumStars" : 230
+	},
+	{
+		"_id" : ObjectId("629053f88b2efbc6e339df64"),
+		"NumAuthors" : 17,
+		"ProjectID" : "lpender_bummr",
+		"NumStars" : 247
+	},
+	{
+		"_id" : ObjectId("6290540a8b2efbc6e33ae3f5"),
+		"NumAuthors" : 22,
+		"ProjectID" : "davissp14_etcdv3-ruby",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629054698b2efbc6e340287d"),
+		"NumAuthors" : 30,
+		"ProjectID" : "amoeba-rb_amoeba",
+		"NumStars" : 542
+	},
+	{
+		"_id" : ObjectId("629054908b2efbc6e3427d33"),
+		"NumAuthors" : 57,
+		"ProjectID" : "jekyll_jekyll-redirect-from",
+		"NumStars" : 641
+	},
+	{
+		"_id" : ObjectId("6290549f8b2efbc6e3434b13"),
+		"NumAuthors" : 43,
+		"ProjectID" : "matthewrudy_memoist",
+		"NumStars" : 675
+	},
+	{
+		"_id" : ObjectId("629054a78b2efbc6e3437bcb"),
+		"NumAuthors" : 28,
+		"ProjectID" : "hoetmaaiers_url2png-gem",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("629054a78b2efbc6e3438d47"),
+		"NumAuthors" : 16,
+		"ProjectID" : "skroutz_rspecq",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("629054c38b2efbc6e3450c33"),
+		"NumAuthors" : 23,
+		"ProjectID" : "appfolio_gemsurance",
+		"NumStars" : 218
+	},
+	{
+		"_id" : ObjectId("629054cc8b2efbc6e345859b"),
+		"NumAuthors" : 67,
+		"ProjectID" : "renz45_mandrill_mailer",
+		"NumStars" : 253
+	},
+	{
+		"_id" : ObjectId("629055268b2efbc6e34aa99e"),
+		"NumAuthors" : 39,
+		"ProjectID" : "qrush_m",
+		"NumStars" : 276
+	},
+	{
+		"_id" : ObjectId("629055598b2efbc6e34d247d"),
+		"NumAuthors" : 24,
+		"ProjectID" : "falko-org_Falko-API",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("6290556e8b2efbc6e34e6edd"),
+		"NumAuthors" : 16,
+		"ProjectID" : "infinum_enumerations",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("629055928b2efbc6e3501ff9"),
+		"NumAuthors" : 13,
+		"ProjectID" : "trailblazer_trailblazer-activity",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("629055988b2efbc6e350ee9c"),
+		"NumAuthors" : 85,
+		"ProjectID" : "westonganger_protected_attributes_continued",
+		"NumStars" : 256
+	},
+	{
+		"_id" : ObjectId("629055a48b2efbc6e351675c"),
+		"NumAuthors" : 19,
+		"ProjectID" : "cainlevy_snail",
+		"NumStars" : 59
+	},
+	{
+		"_id" : ObjectId("629055ae8b2efbc6e3520d47"),
+		"NumAuthors" : 12,
+		"ProjectID" : "ericqweinstein_ruumba",
+		"NumStars" : 85
+	},
+	{
+		"_id" : ObjectId("629055b88b2efbc6e3526626"),
+		"NumAuthors" : 49,
+		"ProjectID" : "huobazi_carrierwave-qiniu",
+		"NumStars" : 186
+	},
+	{
+		"_id" : ObjectId("629055c18b2efbc6e352ed90"),
+		"NumAuthors" : 25,
+		"ProjectID" : "github_github-ldap",
+		"NumStars" : 156
+	},
+	{
+		"_id" : ObjectId("629055ce8b2efbc6e3539844"),
+		"NumAuthors" : 82,
+		"ProjectID" : "drbrain_net-http-persistent",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("6290560a8b2efbc6e3570e56"),
+		"NumAuthors" : 43,
+		"ProjectID" : "0x9fff00_futurerestore",
+		"NumStars" : 1061
+	},
+	{
+		"_id" : ObjectId("629056208b2efbc6e3580a67"),
+		"NumAuthors" : 30,
+		"ProjectID" : "heroku_netrc",
+		"NumStars" : 97
+	},
+	{
+		"_id" : ObjectId("6290563e8b2efbc6e359883e"),
+		"NumAuthors" : 375,
+		"ProjectID" : "javan_whenever",
+		"NumStars" : 7399
+	},
+	{
+		"_id" : ObjectId("629056a38b2efbc6e35f5e5e"),
+		"NumAuthors" : 39,
+		"ProjectID" : "busyloop_lolcat",
+		"NumStars" : 3818
+	},
+	{
+		"_id" : ObjectId("629056b68b2efbc6e360bac0"),
+		"NumAuthors" : 51,
+		"ProjectID" : "schneems_puma_worker_killer",
+		"NumStars" : 614
+	},
+	{
+		"_id" : ObjectId("629056c58b2efbc6e361c338"),
+		"NumAuthors" : 32,
+		"ProjectID" : "Yleisradio_homebrew-terraforms",
+		"NumStars" : 172
+	},
+	{
+		"_id" : ObjectId("629056f28b2efbc6e3643a00"),
+		"NumAuthors" : 74,
+		"ProjectID" : "jasl_wx_pay",
+		"NumStars" : 440
+	},
+	{
+		"_id" : ObjectId("629057448b2efbc6e36884c8"),
+		"NumAuthors" : 67,
+		"ProjectID" : "yaroslav_russian",
+		"NumStars" : 241
+	},
+	{
+		"_id" : ObjectId("629057448b2efbc6e3689090"),
+		"NumAuthors" : 16,
+		"ProjectID" : "ruby_chkbuild",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("629057448b2efbc6e368b248"),
+		"NumAuthors" : 11,
+		"ProjectID" : "nathanl_searchlight",
+		"NumStars" : 349
+	},
+	{
+		"_id" : ObjectId("629057728b2efbc6e36b282b"),
+		"NumAuthors" : 22,
+		"ProjectID" : "sonatype_chef-nexus-repository-manager",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("6290579c8b2efbc6e36dc0b1"),
+		"NumAuthors" : 42,
+		"ProjectID" : "madmimi_madmimi-gem",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("629057ea8b2efbc6e371edba"),
+		"NumAuthors" : 118,
+		"ProjectID" : "Shopify_active_utils",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629057f38b2efbc6e372a6b1"),
+		"NumAuthors" : 15,
+		"ProjectID" : "ktheory_maildir",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("629058258b2efbc6e374d74b"),
+		"NumAuthors" : 34,
+		"ProjectID" : "asciidoctor_jekyll-asciidoc",
+		"NumStars" : 248
+	},
+	{
+		"_id" : ObjectId("6290582d8b2efbc6e37561ab"),
+		"NumAuthors" : 23,
+		"ProjectID" : "WeTransfer_zip_tricks",
+		"NumStars" : 161
+	},
+	{
+		"_id" : ObjectId("629058378b2efbc6e375cc4f"),
+		"NumAuthors" : 125,
+		"ProjectID" : "notahat_machinist",
+		"NumStars" : 840
+	},
+	{
+		"_id" : ObjectId("629058378b2efbc6e375d5b6"),
+		"NumAuthors" : 46,
+		"ProjectID" : "sickill_rainbow",
+		"NumStars" : 498
+	},
+	{
+		"_id" : ObjectId("629058528b2efbc6e377a7f1"),
+		"NumAuthors" : 17,
+		"ProjectID" : "Restream_redmine_elasticsearch",
+		"NumStars" : 78
+	},
+	{
+		"_id" : ObjectId("629058588b2efbc6e377c15b"),
+		"NumAuthors" : 91,
+		"ProjectID" : "weppos_publicsuffix-ruby",
+		"NumStars" : 396
+	},
+	{
+		"_id" : ObjectId("629058818b2efbc6e379fed3"),
+		"NumAuthors" : 51,
+		"ProjectID" : "Shopify_tapioca",
+		"NumStars" : 124
+	},
+	{
+		"_id" : ObjectId("629058bc8b2efbc6e37d5844"),
+		"NumAuthors" : 53,
+		"ProjectID" : "jackc_tod",
+		"NumStars" : 270
+	},
+	{
+		"_id" : ObjectId("629058db8b2efbc6e37eb96a"),
+		"NumAuthors" : 53,
+		"ProjectID" : "redbooth_departure",
+		"NumStars" : 186
+	},
+	{
+		"_id" : ObjectId("629058db8b2efbc6e37ebed9"),
+		"NumAuthors" : 34,
+		"ProjectID" : "clio_jit_preloader",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("629058ef8b2efbc6e37fbe11"),
+		"NumAuthors" : 23,
+		"ProjectID" : "ostinelli_net-http2",
+		"NumStars" : 136
+	},
+	{
+		"_id" : ObjectId("629058fa8b2efbc6e3807d1d"),
+		"NumAuthors" : 31,
+		"ProjectID" : "substancelab_rconomic",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("629059028b2efbc6e381111e"),
+		"NumAuthors" : 35,
+		"ProjectID" : "eval_envied",
+		"NumStars" : 290
+	},
+	{
+		"_id" : ObjectId("629059208b2efbc6e3823ff3"),
+		"NumAuthors" : 19,
+		"ProjectID" : "WinRb_winrm-fs",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("6290592a8b2efbc6e382d058"),
+		"NumAuthors" : 11,
+		"ProjectID" : "donv_capybara-screenshot-diff",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("629059538b2efbc6e384b54e"),
+		"NumAuthors" : 30,
+		"ProjectID" : "appfolio_store_base_sti_class",
+		"NumStars" : 66
+	},
+	{
+		"_id" : ObjectId("6290595b8b2efbc6e3851f7b"),
+		"NumAuthors" : 35,
+		"ProjectID" : "fxn_zeitwerk",
+		"NumStars" : 928
+	},
+	{
+		"_id" : ObjectId("629059648b2efbc6e385bfba"),
+		"NumAuthors" : 24,
+		"ProjectID" : "fantasticfears_ffi-icu",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("629059648b2efbc6e385e4be"),
+		"NumAuthors" : 28,
+		"ProjectID" : "dry-rb_dry-auto_inject",
+		"NumStars" : 152
+	},
+	{
+		"_id" : ObjectId("6290596b8b2efbc6e386591f"),
+		"NumAuthors" : 117,
+		"ProjectID" : "Homebrew_homebrew-bundle",
+		"NumStars" : 3232
+	},
+	{
+		"_id" : ObjectId("6290598a8b2efbc6e38837c9"),
+		"NumAuthors" : 28,
+		"ProjectID" : "balvig_spyke",
+		"NumStars" : 614
+	},
+	{
+		"_id" : ObjectId("629059928b2efbc6e3889a4d"),
+		"NumAuthors" : 18,
+		"ProjectID" : "seattlerb_sexp_processor",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("6290599b8b2efbc6e389088d"),
+		"NumAuthors" : 48,
+		"ProjectID" : "ruby-debug_ruby-debug-ide",
+		"NumStars" : 222
+	},
+	{
+		"_id" : ObjectId("629059cc8b2efbc6e38bd8a6"),
+		"NumAuthors" : 68,
+		"ProjectID" : "RubyMoney_monetize",
+		"NumStars" : 283
+	},
+	{
+		"_id" : ObjectId("629059d38b2efbc6e38c4cb3"),
+		"NumAuthors" : 104,
+		"ProjectID" : "krobertson_deb-s3",
+		"NumStars" : 501
+	},
+	{
+		"_id" : ObjectId("62905a1f8b2efbc6e3906879"),
+		"NumAuthors" : 14,
+		"ProjectID" : "hlascelles_que-scheduler",
+		"NumStars" : 61
+	},
+	{
+		"_id" : ObjectId("62905a328b2efbc6e391bd7b"),
+		"NumAuthors" : 22,
+		"ProjectID" : "braintree_pg_ha_migrations",
+		"NumStars" : 85
+	},
+	{
+		"_id" : ObjectId("62905a378b2efbc6e391f759"),
+		"NumAuthors" : 39,
+		"ProjectID" : "facebook_between-meals",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("62905a398b2efbc6e3922627"),
+		"NumAuthors" : 37,
+		"ProjectID" : "zilverline_sequent",
+		"NumStars" : 377
+	},
+	{
+		"_id" : ObjectId("62905a418b2efbc6e3929c20"),
+		"NumAuthors" : 16,
+		"ProjectID" : "fluent_fluent-plugin-windows-eventlog",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62905a4a8b2efbc6e3930e5c"),
+		"NumAuthors" : 13,
+		"ProjectID" : "Shopify_graphql-metrics",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("62905a5f8b2efbc6e394007b"),
+		"NumAuthors" : 15,
+		"ProjectID" : "craigw_dns-zonefile",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("62905a7d8b2efbc6e3958c0a"),
+		"NumAuthors" : 36,
+		"ProjectID" : "ruby_matrix",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62905a7d8b2efbc6e395acca"),
+		"NumAuthors" : 61,
+		"ProjectID" : "ledermann_unread",
+		"NumStars" : 573
+	},
+	{
+		"_id" : ObjectId("62905a848b2efbc6e3961678"),
+		"NumAuthors" : 20,
+		"ProjectID" : "saucelabs_sauce_whisk",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62905aa08b2efbc6e397eca9"),
+		"NumAuthors" : 63,
+		"ProjectID" : "drewblas_aws-ses",
+		"NumStars" : 242
+	},
+	{
+		"_id" : ObjectId("62905ab18b2efbc6e398cc0a"),
+		"NumAuthors" : 38,
+		"ProjectID" : "chef_knife-ec-backup",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("62905ae88b2efbc6e39bb003"),
+		"NumAuthors" : 120,
+		"ProjectID" : "brainspec_enumerize",
+		"NumStars" : 1029
+	},
+	{
+		"_id" : ObjectId("62905aed8b2efbc6e39be559"),
+		"NumAuthors" : 54,
+		"ProjectID" : "hanami_helpers",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("62905b078b2efbc6e39dadbe"),
+		"NumAuthors" : 30,
+		"ProjectID" : "quipper_sbpayment.rb",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("62905b2b8b2efbc6e39f86cc"),
+		"NumAuthors" : 41,
+		"ProjectID" : "gocardless_business",
+		"NumStars" : 317
+	},
+	{
+		"_id" : ObjectId("62905b658b2efbc6e3a2ae5f"),
+		"NumAuthors" : 31,
+		"ProjectID" : "rails_kredis",
+		"NumStars" : 631
+	},
+	{
+		"_id" : ObjectId("62905b678b2efbc6e3a2c4c4"),
+		"NumAuthors" : 167,
+		"ProjectID" : "chaps-io_public_activity",
+		"NumStars" : 1908
+	},
+	{
+		"_id" : ObjectId("62905b6f8b2efbc6e3a3314d"),
+		"NumAuthors" : 45,
+		"ProjectID" : "travis-ci_travis-logs",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("62905b7e8b2efbc6e3a40566"),
+		"NumAuthors" : 63,
+		"ProjectID" : "hashicorp_vault-rails",
+		"NumStars" : 292
+	},
+	{
+		"_id" : ObjectId("62905b8c8b2efbc6e3a4be89"),
+		"NumAuthors" : 17,
+		"ProjectID" : "3dcl_proj4rb",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62905bd98b2efbc6e3a9055a"),
+		"NumAuthors" : 61,
+		"ProjectID" : "SumoLogic_fluentd-kubernetes-sumologic",
+		"NumStars" : 56
+	},
+	{
+		"_id" : ObjectId("62905c038b2efbc6e3ab1950"),
+		"NumAuthors" : 41,
+		"ProjectID" : "hhvm_homebrew-hhvm",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("62905c1f8b2efbc6e3ac6d15"),
+		"NumAuthors" : 35,
+		"ProjectID" : "openstack_cookbook-openstack-ops-messaging",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("62905c3e8b2efbc6e3ae7086"),
+		"NumAuthors" : 25,
+		"ProjectID" : "bploetz_versionist",
+		"NumStars" : 755
+	},
+	{
+		"_id" : ObjectId("62905c3f8b2efbc6e3ae887b"),
+		"NumAuthors" : 11,
+		"ProjectID" : "thisduck_purgatory",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("62905c648b2efbc6e3b0128e"),
+		"NumAuthors" : 48,
+		"ProjectID" : "evanphx_benchmark-ips",
+		"NumStars" : 1387
+	},
+	{
+		"_id" : ObjectId("62905c658b2efbc6e3b05d16"),
+		"NumAuthors" : 14,
+		"ProjectID" : "KnapsackPro_knapsack_pro-ruby",
+		"NumStars" : 78
+	},
+	{
+		"_id" : ObjectId("62905c6f8b2efbc6e3b09288"),
+		"NumAuthors" : 95,
+		"ProjectID" : "rails_rails-dom-testing",
+		"NumStars" : 502
+	},
+	{
+		"_id" : ObjectId("62905c7a8b2efbc6e3b1324e"),
+		"NumAuthors" : 26,
+		"ProjectID" : "Intrepidd_working_hours",
+		"NumStars" : 366
+	},
+	{
+		"_id" : ObjectId("62905c7a8b2efbc6e3b130cc"),
+		"NumAuthors" : 100,
+		"ProjectID" : "devopsgroup-io_vagrant-hostmanager",
+		"NumStars" : 1352
+	},
+	{
+		"_id" : ObjectId("62905c848b2efbc6e3b1f185"),
+		"NumAuthors" : 35,
+		"ProjectID" : "koraktor_steam-condenser-ruby",
+		"NumStars" : 92
+	},
+	{
+		"_id" : ObjectId("62905cca8b2efbc6e3b5d777"),
+		"NumAuthors" : 37,
+		"ProjectID" : "puppetlabs_vmfloaty",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("62905d198b2efbc6e3ba0009"),
+		"NumAuthors" : 21,
+		"ProjectID" : "tenderlove_dnssd",
+		"NumStars" : 137
+	},
+	{
+		"_id" : ObjectId("62905d308b2efbc6e3bb51da"),
+		"NumAuthors" : 28,
+		"ProjectID" : "chef_mixlib-log",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62905d458b2efbc6e3bc4800"),
+		"NumAuthors" : 77,
+		"ProjectID" : "cgriego_active_attr",
+		"NumStars" : 906
+	},
+	{
+		"_id" : ObjectId("62905d8f8b2efbc6e3c06d02"),
+		"NumAuthors" : 165,
+		"ProjectID" : "airbnb_ruby",
+		"NumStars" : 3403
+	},
+	{
+		"_id" : ObjectId("62905dcb8b2efbc6e3c3bc03"),
+		"NumAuthors" : 30,
+		"ProjectID" : "circleci_minitest-ci",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("62905dd38b2efbc6e3c450cb"),
+		"NumAuthors" : 60,
+		"ProjectID" : "fluent_fluent-logger-ruby",
+		"NumStars" : 210
+	},
+	{
+		"_id" : ObjectId("62905e118b2efbc6e3c74c86"),
+		"NumAuthors" : 126,
+		"ProjectID" : "JuanitoFatas_fast-ruby",
+		"NumStars" : 5060
+	},
+	{
+		"_id" : ObjectId("62905e398b2efbc6e3c9a84f"),
+		"NumAuthors" : 52,
+		"ProjectID" : "rweng_pry-rails",
+		"NumStars" : 991
+	},
+	{
+		"_id" : ObjectId("62905e568b2efbc6e3caff63"),
+		"NumAuthors" : 12,
+		"ProjectID" : "vcflib_bio-vcf",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("62905e748b2efbc6e3cc90d7"),
+		"NumAuthors" : 30,
+		"ProjectID" : "cantino_reckon",
+		"NumStars" : 369
+	},
+	{
+		"_id" : ObjectId("62905e848b2efbc6e3cd82e4"),
+		"NumAuthors" : 26,
+		"ProjectID" : "parndt_seo_meta",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("62905e8c8b2efbc6e3cddee5"),
+		"NumAuthors" : 13,
+		"ProjectID" : "fazaton_isolate",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("62905ec18b2efbc6e3d0cf44"),
+		"NumAuthors" : 20,
+		"ProjectID" : "dry-rb_dry-monitor",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("62905ec78b2efbc6e3d13e0c"),
+		"NumAuthors" : 26,
+		"ProjectID" : "kontena_kong-client-ruby",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("62905ecb8b2efbc6e3d1956d"),
+		"NumAuthors" : 14,
+		"ProjectID" : "SmartBear_ruby-handlebars",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("62905edb8b2efbc6e3d23b8c"),
+		"NumAuthors" : 82,
+		"ProjectID" : "flexirest_flexirest",
+		"NumStars" : 441
+	},
+	{
+		"_id" : ObjectId("62905ef88b2efbc6e3d3f57d"),
+		"NumAuthors" : 48,
+		"ProjectID" : "fedora-ruby_gem2rpm",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("62905f048b2efbc6e3d4c6e8"),
+		"NumAuthors" : 11,
+		"ProjectID" : "Wardrop_Scorched",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("62905f0a8b2efbc6e3d4e7fb"),
+		"NumAuthors" : 21,
+		"ProjectID" : "wyue_weibo",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("62905f1e8b2efbc6e3d619e9"),
+		"NumAuthors" : 27,
+		"ProjectID" : "sophsec_ruby-nmap",
+		"NumStars" : 215
+	},
+	{
+		"_id" : ObjectId("62905f288b2efbc6e3d67911"),
+		"NumAuthors" : 116,
+		"ProjectID" : "cloudfoundry-incubator_bosh-openstack-cpi-release",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62905f358b2efbc6e3d72fc2"),
+		"NumAuthors" : 18,
+		"ProjectID" : "Nexmo_oas_parser",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("62905f438b2efbc6e3d7d79a"),
+		"NumAuthors" : 45,
+		"ProjectID" : "tagomoris_fluent-plugin-mysql",
+		"NumStars" : 105
+	},
+	{
+		"_id" : ObjectId("62905f628b2efbc6e3d9e1c0"),
+		"NumAuthors" : 17,
+		"ProjectID" : "upgradeya_redmine-contracts-with-time-tracking-plugin",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62905fbc8b2efbc6e3deba02"),
+		"NumAuthors" : 52,
+		"ProjectID" : "dasch_avro_turf",
+		"NumStars" : 99
+	},
+	{
+		"_id" : ObjectId("62905fd78b2efbc6e3e04cab"),
+		"NumAuthors" : 23,
+		"ProjectID" : "ankane_pgslice",
+		"NumStars" : 710
+	},
+	{
+		"_id" : ObjectId("6290601d8b2efbc6e3e3f24e"),
+		"NumAuthors" : 19,
+		"ProjectID" : "yaocloud_yao",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("629060258b2efbc6e3e432f2"),
+		"NumAuthors" : 79,
+		"ProjectID" : "rails_globalid",
+		"NumStars" : 902
+	},
+	{
+		"_id" : ObjectId("629060368b2efbc6e3e52e80"),
+		"NumAuthors" : 22,
+		"ProjectID" : "yourabi_chef-puma",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("6290605e8b2efbc6e3e742f5"),
+		"NumAuthors" : 17,
+		"ProjectID" : "zencoder_zenflow",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("6290605f8b2efbc6e3e77ea5"),
+		"NumAuthors" : 12,
+		"ProjectID" : "c10l_vagrant-butcher",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("629060b18b2efbc6e3ec5752"),
+		"NumAuthors" : 16,
+		"ProjectID" : "httprb_form_data",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("629060d08b2efbc6e3edd595"),
+		"NumAuthors" : 49,
+		"ProjectID" : "kzk_unicorn-worker-killer",
+		"NumStars" : 665
+	},
+	{
+		"_id" : ObjectId("629060da8b2efbc6e3ee34c3"),
+		"NumAuthors" : 22,
+		"ProjectID" : "thiagoarrais_rodf",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629060ea8b2efbc6e3ef0349"),
+		"NumAuthors" : 14,
+		"ProjectID" : "berkmancenter_namae",
+		"NumStars" : 136
+	},
+	{
+		"_id" : ObjectId("629060fa8b2efbc6e3f00233"),
+		"NumAuthors" : 37,
+		"ProjectID" : "papertrail_papertrail-cli",
+		"NumStars" : 400
+	},
+	{
+		"_id" : ObjectId("6290610d8b2efbc6e3f11f55"),
+		"NumAuthors" : 33,
+		"ProjectID" : "wouterdebie_i2cssh",
+		"NumStars" : 491
+	},
+	{
+		"_id" : ObjectId("6290610d8b2efbc6e3f159e8"),
+		"NumAuthors" : 13,
+		"ProjectID" : "discourse_rails_multisite",
+		"NumStars" : 81
+	},
+	{
+		"_id" : ObjectId("6290611f8b2efbc6e3f220ac"),
+		"NumAuthors" : 17,
+		"ProjectID" : "AndrewRadev_vimrunner",
+		"NumStars" : 225
+	},
+	{
+		"_id" : ObjectId("6290616b8b2efbc6e3f6056a"),
+		"NumAuthors" : 18,
+		"ProjectID" : "cloocher_xmlhasher",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("629061888b2efbc6e3f7c0e1"),
+		"NumAuthors" : 133,
+		"ProjectID" : "supermarin_xcpretty",
+		"NumStars" : 3024
+	},
+	{
+		"_id" : ObjectId("629061ba8b2efbc6e3fa5221"),
+		"NumAuthors" : 28,
+		"ProjectID" : "danielpclark_rutie",
+		"NumStars" : 403
+	},
+	{
+		"_id" : ObjectId("629061c88b2efbc6e3fb3893"),
+		"NumAuthors" : 86,
+		"ProjectID" : "troessner_transitions",
+		"NumStars" : 768
+	},
+	{
+		"_id" : ObjectId("629061e48b2efbc6e3fcfe34"),
+		"NumAuthors" : 24,
+		"ProjectID" : "ankane_distribute_reads",
+		"NumStars" : 220
+	},
+	{
+		"_id" : ObjectId("6290620d8b2efbc6e3ff110e"),
+		"NumAuthors" : 35,
+		"ProjectID" : "test-kitchen_kitchen-google",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("629062428b2efbc6e3020333"),
+		"NumAuthors" : 12,
+		"ProjectID" : "sue445_rubicure",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("629062428b2efbc6e3021aa1"),
+		"NumAuthors" : 26,
+		"ProjectID" : "ryanmelt_qtbindings",
+		"NumStars" : 273
+	},
+	{
+		"_id" : ObjectId("629062608b2efbc6e303884f"),
+		"NumAuthors" : 28,
+		"ProjectID" : "uploadcare_uploadcare-ruby",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629062a98b2efbc6e3074d0c"),
+		"NumAuthors" : 12,
+		"ProjectID" : "tongueroo_dynomite",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("629062f98b2efbc6e30b5684"),
+		"NumAuthors" : 21,
+		"ProjectID" : "clearbit_clearbit-ruby",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("629063008b2efbc6e30bd6d6"),
+		"NumAuthors" : 26,
+		"ProjectID" : "zendesk_prop",
+		"NumStars" : 67
+	},
+	{
+		"_id" : ObjectId("629063018b2efbc6e30c2ad5"),
+		"NumAuthors" : 118,
+		"ProjectID" : "sgruhier_capistrano-db-tasks",
+		"NumStars" : 363
+	},
+	{
+		"_id" : ObjectId("629063118b2efbc6e30cd0c6"),
+		"NumAuthors" : 19,
+		"ProjectID" : "mobi_telephone_number",
+		"NumStars" : 235
+	},
+	{
+		"_id" : ObjectId("629063428b2efbc6e30f933c"),
+		"NumAuthors" : 30,
+		"ProjectID" : "envato_event_sourcery",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("6290635c8b2efbc6e310d66e"),
+		"NumAuthors" : 62,
+		"ProjectID" : "oscardelben_firebase-ruby",
+		"NumStars" : 657
+	},
+	{
+		"_id" : ObjectId("6290638f8b2efbc6e31423f0"),
+		"NumAuthors" : 14,
+		"ProjectID" : "gocardless_activerecord-safer_migrations",
+		"NumStars" : 105
+	},
+	{
+		"_id" : ObjectId("629063a38b2efbc6e3152e42"),
+		"NumAuthors" : 23,
+		"ProjectID" : "sosedoff_xml-sitemap",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629064218b2efbc6e31c1cff"),
+		"NumAuthors" : 142,
+		"ProjectID" : "ryanb_letter_opener",
+		"NumStars" : 2177
+	},
+	{
+		"_id" : ObjectId("629064388b2efbc6e31d5c6a"),
+		"NumAuthors" : 71,
+		"ProjectID" : "amatsuda_active_decorator",
+		"NumStars" : 747
+	},
+	{
+		"_id" : ObjectId("629064498b2efbc6e31e64a0"),
+		"NumAuthors" : 22,
+		"ProjectID" : "qcam_3llo",
+		"NumStars" : 224
+	},
+	{
+		"_id" : ObjectId("629064548b2efbc6e31f03ac"),
+		"NumAuthors" : 387,
+		"ProjectID" : "ankane_searchkick",
+		"NumStars" : 4493
+	},
+	{
+		"_id" : ObjectId("629064648b2efbc6e31fdeae"),
+		"NumAuthors" : 81,
+		"ProjectID" : "mhfs_sidekiq-failures",
+		"NumStars" : 403
+	},
+	{
+		"_id" : ObjectId("6290648d8b2efbc6e321e960"),
+		"NumAuthors" : 105,
+		"ProjectID" : "hashicorp_vault-ruby",
+		"NumStars" : 299
+	},
+	{
+		"_id" : ObjectId("629064958b2efbc6e3223770"),
+		"NumAuthors" : 24,
+		"ProjectID" : "openstack_cookbook-openstack-integration-test",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("629064a78b2efbc6e32379af"),
+		"NumAuthors" : 13,
+		"ProjectID" : "take-five_activerecord-hierarchical_query",
+		"NumStars" : 100
+	},
+	{
+		"_id" : ObjectId("6290650a8b2efbc6e3289ef4"),
+		"NumAuthors" : 19,
+		"ProjectID" : "dblue_zxing_cpp.rb",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("6290651d8b2efbc6e329d5a4"),
+		"NumAuthors" : 11,
+		"ProjectID" : "w1zeman1p_resque-restriction",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629065308b2efbc6e32aeae9"),
+		"NumAuthors" : 47,
+		"ProjectID" : "javierav_mongoid_userstamp",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("6290653a8b2efbc6e32b5f38"),
+		"NumAuthors" : 20,
+		"ProjectID" : "samesystem_graphql_rails",
+		"NumStars" : 68
+	},
+	{
+		"_id" : ObjectId("6290653a8b2efbc6e32b61a6"),
+		"NumAuthors" : 52,
+		"ProjectID" : "Mangopay_mangopay2-ruby-sdk",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629065438b2efbc6e32bda51"),
+		"NumAuthors" : 12,
+		"ProjectID" : "rkrage_pg_party",
+		"NumStars" : 275
+	},
+	{
+		"_id" : ObjectId("6290657e8b2efbc6e32f2d14"),
+		"NumAuthors" : 26,
+		"ProjectID" : "grosser_i18n_data",
+		"NumStars" : 146
+	},
+	{
+		"_id" : ObjectId("629065838b2efbc6e32f5952"),
+		"NumAuthors" : 46,
+		"ProjectID" : "eddiezane_sendgrid-actionmailer",
+		"NumStars" : 183
+	},
+	{
+		"_id" : ObjectId("629065848b2efbc6e32f87f8"),
+		"NumAuthors" : 28,
+		"ProjectID" : "knu_ruby-unf_ext",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("629065c68b2efbc6e332d2ec"),
+		"NumAuthors" : 28,
+		"ProjectID" : "hanami_mailer",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("629065d98b2efbc6e333f133"),
+		"NumAuthors" : 11,
+		"ProjectID" : "karafka_sidekiq-backend",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("629065ee8b2efbc6e33529e5"),
+		"NumAuthors" : 14,
+		"ProjectID" : "postmodern_digest-crc",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("629065f78b2efbc6e335ed7d"),
+		"NumAuthors" : 15,
+		"ProjectID" : "imgproxy_imgproxy.rb",
+		"NumStars" : 80
+	},
+	{
+		"_id" : ObjectId("6290662e8b2efbc6e338d504"),
+		"NumAuthors" : 31,
+		"ProjectID" : "ruby_io-console",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("6290667d8b2efbc6e33d69d4"),
+		"NumAuthors" : 11,
+		"ProjectID" : "saturnflyer_casting",
+		"NumStars" : 142
+	},
+	{
+		"_id" : ObjectId("629066988b2efbc6e33e9340"),
+		"NumAuthors" : 23,
+		"ProjectID" : "ankane_authtrail",
+		"NumStars" : 262
+	},
+	{
+		"_id" : ObjectId("629066b58b2efbc6e33ff107"),
+		"NumAuthors" : 31,
+		"ProjectID" : "makandra_geordi",
+		"NumStars" : 85
+	},
+	{
+		"_id" : ObjectId("629066b58b2efbc6e3401ce4"),
+		"NumAuthors" : 61,
+		"ProjectID" : "scoutapp_scout_apm_ruby",
+		"NumStars" : 137
+	},
+	{
+		"_id" : ObjectId("629066bd8b2efbc6e340d9e3"),
+		"NumAuthors" : 38,
+		"ProjectID" : "aerospike_aerospike-client-ruby",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("629066d18b2efbc6e34219c7"),
+		"NumAuthors" : 23,
+		"ProjectID" : "rubiety_nilify_blanks",
+		"NumStars" : 254
+	},
+	{
+		"_id" : ObjectId("629066e38b2efbc6e3432338"),
+		"NumAuthors" : 77,
+		"ProjectID" : "pauldix_sax-machine",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("629066f68b2efbc6e343f357"),
+		"NumAuthors" : 11,
+		"ProjectID" : "spraints_resqued",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629067148b2efbc6e34558dd"),
+		"NumAuthors" : 54,
+		"ProjectID" : "hakanensari_peddler",
+		"NumStars" : 283
+	},
+	{
+		"_id" : ObjectId("6290671e8b2efbc6e345dc30"),
+		"NumAuthors" : 72,
+		"ProjectID" : "ncr_rack-proxy",
+		"NumStars" : 193
+	},
+	{
+		"_id" : ObjectId("6290671e8b2efbc6e345eff0"),
+		"NumAuthors" : 32,
+		"ProjectID" : "amazeeio_pygmy",
+		"NumStars" : 123
+	},
+	{
+		"_id" : ObjectId("629067318b2efbc6e3471664"),
+		"NumAuthors" : 92,
+		"ProjectID" : "litaio_lita-slack",
+		"NumStars" : 134
+	},
+	{
+		"_id" : ObjectId("629067358b2efbc6e3477988"),
+		"NumAuthors" : 18,
+		"ProjectID" : "killbill_killbill-client-ruby",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629067588b2efbc6e3495071"),
+		"NumAuthors" : 40,
+		"ProjectID" : "dry-rb_dry-struct",
+		"NumStars" : 231
+	},
+	{
+		"_id" : ObjectId("6290675a8b2efbc6e34968a5"),
+		"NumAuthors" : 131,
+		"ProjectID" : "mailgun_mailgun-ruby",
+		"NumStars" : 397
+	},
+	{
+		"_id" : ObjectId("6290675c8b2efbc6e34996cf"),
+		"NumAuthors" : 77,
+		"ProjectID" : "flyerhzm_switch_user",
+		"NumStars" : 462
+	},
+	{
+		"_id" : ObjectId("629067838b2efbc6e34b8c5d"),
+		"NumAuthors" : 74,
+		"ProjectID" : "rubocop-hq_rubocop-ast",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("629067a58b2efbc6e34dcf55"),
+		"NumAuthors" : 37,
+		"ProjectID" : "dart-lang_homebrew-dart",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("629067bb8b2efbc6e34f1bef"),
+		"NumAuthors" : 50,
+		"ProjectID" : "activeadmin_arbre",
+		"NumStars" : 591
+	},
+	{
+		"_id" : ObjectId("629067d08b2efbc6e34ff343"),
+		"NumAuthors" : 23,
+		"ProjectID" : "spritlesoftware_chargebee-rails-subscriptions",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629067d88b2efbc6e35051a9"),
+		"NumAuthors" : 64,
+		"ProjectID" : "grosser_fast_gettext",
+		"NumStars" : 225
+	},
+	{
+		"_id" : ObjectId("629067dc8b2efbc6e350e2d1"),
+		"NumAuthors" : 33,
+		"ProjectID" : "Shopify_memcached_store",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("629067ee8b2efbc6e3517aa4"),
+		"NumAuthors" : 47,
+		"ProjectID" : "KDE_wacomtablet",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629067f68b2efbc6e3524fb3"),
+		"NumAuthors" : 56,
+		"ProjectID" : "seamusabshere_upsert",
+		"NumStars" : 487
+	},
+	{
+		"_id" : ObjectId("629068028b2efbc6e3530e68"),
+		"NumAuthors" : 62,
+		"ProjectID" : "ohler55_ox",
+		"NumStars" : 528
+	},
+	{
+		"_id" : ObjectId("629068098b2efbc6e35384fd"),
+		"NumAuthors" : 72,
+		"ProjectID" : "thoughtbot_gitsh",
+		"NumStars" : 1140
+	},
+	{
+		"_id" : ObjectId("629068198b2efbc6e354a63a"),
+		"NumAuthors" : 88,
+		"ProjectID" : "AuthorizeNet_sdk-ruby",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("629068198b2efbc6e354a96b"),
+		"NumAuthors" : 69,
+		"ProjectID" : "lob_lob-ruby",
+		"NumStars" : 87
+	},
+	{
+		"_id" : ObjectId("629068478b2efbc6e356dcfd"),
+		"NumAuthors" : 28,
+		"ProjectID" : "johnli_property_sets",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("629068568b2efbc6e3576bef"),
+		"NumAuthors" : 19,
+		"ProjectID" : "mongoid_mongoid-locker",
+		"NumStars" : 66
+	},
+	{
+		"_id" : ObjectId("629068788b2efbc6e359c013"),
+		"NumAuthors" : 30,
+		"ProjectID" : "inukshuk_bibtex-ruby",
+		"NumStars" : 140
+	},
+	{
+		"_id" : ObjectId("6290688b8b2efbc6e35ab02f"),
+		"NumAuthors" : 41,
+		"ProjectID" : "ruby_tk",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("629068968b2efbc6e35b3532"),
+		"NumAuthors" : 104,
+		"ProjectID" : "DataDog_dogapi-rb",
+		"NumStars" : 70
+	},
+	{
+		"_id" : ObjectId("629068be8b2efbc6e35ce421"),
+		"NumAuthors" : 185,
+		"ProjectID" : "fluent_fluent-plugin-s3",
+		"NumStars" : 362
+	},
+	{
+		"_id" : ObjectId("629068e58b2efbc6e35f6a30"),
+		"NumAuthors" : 98,
+		"ProjectID" : "mperham_connection_pool",
+		"NumStars" : 1011
+	},
+	{
+		"_id" : ObjectId("6290694b8b2efbc6e3659855"),
+		"NumAuthors" : 14,
+		"ProjectID" : "cafonso_nandi",
+		"NumStars" : 105
+	},
+	{
+		"_id" : ObjectId("629069538b2efbc6e365d968"),
+		"NumAuthors" : 39,
+		"ProjectID" : "lucascaton_enumerate_it",
+		"NumStars" : 173
+	},
+	{
+		"_id" : ObjectId("629069958b2efbc6e3694c71"),
+		"NumAuthors" : 68,
+		"ProjectID" : "yolk_valvat",
+		"NumStars" : 204
+	},
+	{
+		"_id" : ObjectId("629069a88b2efbc6e36a77d0"),
+		"NumAuthors" : 26,
+		"ProjectID" : "grosser_wwtd",
+		"NumStars" : 319
+	},
+	{
+		"_id" : ObjectId("629069e68b2efbc6e36e3c59"),
+		"NumAuthors" : 17,
+		"ProjectID" : "DmitryTsepelev_ar_lazy_preload",
+		"NumStars" : 244
+	},
+	{
+		"_id" : ObjectId("629069f18b2efbc6e36ec30b"),
+		"NumAuthors" : 15,
+		"ProjectID" : "simonc_memfs",
+		"NumStars" : 329
+	},
+	{
+		"_id" : ObjectId("62906a058b2efbc6e36fa7bf"),
+		"NumAuthors" : 24,
+		"ProjectID" : "pry_pry-doc",
+		"NumStars" : 156
+	},
+	{
+		"_id" : ObjectId("62906a058b2efbc6e36fc0f4"),
+		"NumAuthors" : 20,
+		"ProjectID" : "fastlane_fastlane-plugin-firebase_app_distribution",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("62906a188b2efbc6e370fd46"),
+		"NumAuthors" : 47,
+		"ProjectID" : "rtomayko_replicate",
+		"NumStars" : 304
+	},
+	{
+		"_id" : ObjectId("62906a2a8b2efbc6e372472b"),
+		"NumAuthors" : 56,
+		"ProjectID" : "sensu-plugins_sensu-plugins-docker",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("62906a3d8b2efbc6e3732a5b"),
+		"NumAuthors" : 11,
+		"ProjectID" : "mht208_homebrew-formal",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("62906a5c8b2efbc6e3748eee"),
+		"NumAuthors" : 45,
+		"ProjectID" : "djoos-cookbooks_composer",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("62906a718b2efbc6e375be6a"),
+		"NumAuthors" : 24,
+		"ProjectID" : "dmendel_bindata",
+		"NumStars" : 498
+	},
+	{
+		"_id" : ObjectId("62906a828b2efbc6e376a2a0"),
+		"NumAuthors" : 101,
+		"ProjectID" : "alphagov_govspeak",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("62906a898b2efbc6e377217c"),
+		"NumAuthors" : 31,
+		"ProjectID" : "rapid7_rex-powershell",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("62906a898b2efbc6e3774254"),
+		"NumAuthors" : 33,
+		"ProjectID" : "seejohnrun_easy_translate",
+		"NumStars" : 176
+	},
+	{
+		"_id" : ObjectId("62906a9d8b2efbc6e378a7de"),
+		"NumAuthors" : 13,
+		"ProjectID" : "socketry_async-redis",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("62906aa98b2efbc6e37947f0"),
+		"NumAuthors" : 57,
+		"ProjectID" : "inukshuk_jekyll-scholar",
+		"NumStars" : 823
+	},
+	{
+		"_id" : ObjectId("62906ad18b2efbc6e37b62ef"),
+		"NumAuthors" : 12,
+		"ProjectID" : "mruby-esp32_mruby-esp32",
+		"NumStars" : 67
+	},
+	{
+		"_id" : ObjectId("62906aec8b2efbc6e37cfe4d"),
+		"NumAuthors" : 200,
+		"ProjectID" : "activemerchant_offsite_payments",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("62906b038b2efbc6e37e3196"),
+		"NumAuthors" : 95,
+		"ProjectID" : "rails-api_rails-api",
+		"NumStars" : 3670
+	},
+	{
+		"_id" : ObjectId("62906b098b2efbc6e37eb07a"),
+		"NumAuthors" : 36,
+		"ProjectID" : "Crowd9_redis-sentinel",
+		"NumStars" : 175
+	},
+	{
+		"_id" : ObjectId("62906b2c8b2efbc6e3809ed5"),
+		"NumAuthors" : 60,
+		"ProjectID" : "voxpupuli_puppet-syntax",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("62906b378b2efbc6e3811b20"),
+		"NumAuthors" : 61,
+		"ProjectID" : "henrypoydar_chronic_duration",
+		"NumStars" : 184
+	},
+	{
+		"_id" : ObjectId("62906b378b2efbc6e3814540"),
+		"NumAuthors" : 211,
+		"ProjectID" : "sparklemotion_mechanize",
+		"NumStars" : 3844
+	},
+	{
+		"_id" : ObjectId("62906b4c8b2efbc6e3825225"),
+		"NumAuthors" : 28,
+		"ProjectID" : "rmodbus_rmodbus",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("62906b668b2efbc6e383d2ca"),
+		"NumAuthors" : 170,
+		"ProjectID" : "nomad_shenzhen",
+		"NumStars" : 4098
+	},
+	{
+		"_id" : ObjectId("62906b698b2efbc6e383f2d6"),
+		"NumAuthors" : 19,
+		"ProjectID" : "ITV_aws-assume-role",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62906b808b2efbc6e385a1bd"),
+		"NumAuthors" : 25,
+		"ProjectID" : "okkez_fluent-plugin-redis",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("62906ba08b2efbc6e3872ab2"),
+		"NumAuthors" : 14,
+		"ProjectID" : "trailblazer_trailblazer-operation",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("62906c298b2efbc6e38f1cde"),
+		"NumAuthors" : 73,
+		"ProjectID" : "rom-rb_rom-sql",
+		"NumStars" : 175
+	},
+	{
+		"_id" : ObjectId("62906c3d8b2efbc6e39014cb"),
+		"NumAuthors" : 20,
+		"ProjectID" : "copiousfreetime_amalgalite",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("62906c548b2efbc6e3916bf0"),
+		"NumAuthors" : 42,
+		"ProjectID" : "TinderBox_dynamics_crm",
+		"NumStars" : 73
+	},
+	{
+		"_id" : ObjectId("62906c618b2efbc6e39269ea"),
+		"NumAuthors" : 21,
+		"ProjectID" : "mjackson_citrus",
+		"NumStars" : 253
+	},
+	{
+		"_id" : ObjectId("62906c808b2efbc6e39402c3"),
+		"NumAuthors" : 115,
+		"ProjectID" : "honeybadger-io_honeybadger-ruby",
+		"NumStars" : 173
+	},
+	{
+		"_id" : ObjectId("62906c818b2efbc6e3941146"),
+		"NumAuthors" : 131,
+		"ProjectID" : "zdavatz_spreadsheet",
+		"NumStars" : 917
+	},
+	{
+		"_id" : ObjectId("62906c948b2efbc6e3952ad9"),
+		"NumAuthors" : 21,
+		"ProjectID" : "jellymann_mittsu",
+		"NumStars" : 427
+	},
+	{
+		"_id" : ObjectId("62906cb08b2efbc6e3967ad1"),
+		"NumAuthors" : 17,
+		"ProjectID" : "braintree_runbook",
+		"NumStars" : 102
+	},
+	{
+		"_id" : ObjectId("62906cb48b2efbc6e396e702"),
+		"NumAuthors" : 77,
+		"ProjectID" : "sorentwo_carrierwave-aws",
+		"NumStars" : 369
+	},
+	{
+		"_id" : ObjectId("62906cb98b2efbc6e3972e35"),
+		"NumAuthors" : 86,
+		"ProjectID" : "testdouble_standard",
+		"NumStars" : 1223
+	},
+	{
+		"_id" : ObjectId("62906cb98b2efbc6e3972fb0"),
+		"NumAuthors" : 44,
+		"ProjectID" : "puppetlabs_homebrew-puppet",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("62906cc08b2efbc6e39776cb"),
+		"NumAuthors" : 41,
+		"ProjectID" : "dev-sec_cis-dil-benchmark",
+		"NumStars" : 91
+	},
+	{
+		"_id" : ObjectId("62906ce28b2efbc6e39998a5"),
+		"NumAuthors" : 11,
+		"ProjectID" : "kbsecret_kbsecret",
+		"NumStars" : 449
+	},
+	{
+		"_id" : ObjectId("62906d168b2efbc6e39bea9b"),
+		"NumAuthors" : 150,
+		"ProjectID" : "JsonApiClient_json_api_client",
+		"NumStars" : 335
+	},
+	{
+		"_id" : ObjectId("62906d208b2efbc6e39c9665"),
+		"NumAuthors" : 37,
+		"ProjectID" : "ridiculous_grape-middleware-logger",
+		"NumStars" : 59
+	},
+	{
+		"_id" : ObjectId("62906d3c8b2efbc6e39ea9e5"),
+		"NumAuthors" : 26,
+		"ProjectID" : "arturictus_sidekiq_alive",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("62906d448b2efbc6e39f1787"),
+		"NumAuthors" : 189,
+		"ProjectID" : "guard_guard-rspec",
+		"NumStars" : 819
+	},
+	{
+		"_id" : ObjectId("62906d4e8b2efbc6e39fbbb3"),
+		"NumAuthors" : 28,
+		"ProjectID" : "rigrassm_firewalld-cookbook",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62906d588b2efbc6e3a048aa"),
+		"NumAuthors" : 143,
+		"ProjectID" : "mongoid_mongoid-slug",
+		"NumStars" : 149
+	},
+	{
+		"_id" : ObjectId("62906da38b2efbc6e3a3f87c"),
+		"NumAuthors" : 11,
+		"ProjectID" : "WeTransfer_sqewer",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62906df48b2efbc6e3a85df8"),
+		"NumAuthors" : 14,
+		"ProjectID" : "benbalter_jekyll-titles-from-headings",
+		"NumStars" : 76
+	},
+	{
+		"_id" : ObjectId("62906dff8b2efbc6e3a8dd9c"),
+		"NumAuthors" : 40,
+		"ProjectID" : "aws_aws-xray-sdk-ruby",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("62906e008b2efbc6e3a90391"),
+		"NumAuthors" : 53,
+		"ProjectID" : "comfy_active_link_to",
+		"NumStars" : 658
+	},
+	{
+		"_id" : ObjectId("62906e018b2efbc6e3a934b8"),
+		"NumAuthors" : 62,
+		"ProjectID" : "pardot_ruby-pardot",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62906e218b2efbc6e3ab744b"),
+		"NumAuthors" : 44,
+		"ProjectID" : "hamstergem_hamster",
+		"NumStars" : 1352
+	},
+	{
+		"_id" : ObjectId("62906e2c8b2efbc6e3ac50e6"),
+		"NumAuthors" : 109,
+		"ProjectID" : "rom-rb_rom",
+		"NumStars" : 1749
+	},
+	{
+		"_id" : ObjectId("62906e368b2efbc6e3acf7f8"),
+		"NumAuthors" : 22,
+		"ProjectID" : "pepabo_active_merchant-epsilon",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62906e4d8b2efbc6e3ae3064"),
+		"NumAuthors" : 65,
+		"ProjectID" : "sensu-plugins_sensu-plugins-rabbitmq",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62906e898b2efbc6e3b16345"),
+		"NumAuthors" : 11,
+		"ProjectID" : "ahodesuka_ahoviewer",
+		"NumStars" : 379
+	},
+	{
+		"_id" : ObjectId("62906e8f8b2efbc6e3b1c942"),
+		"NumAuthors" : 19,
+		"ProjectID" : "toshimaru_rubocop-rails_config",
+		"NumStars" : 94
+	},
+	{
+		"_id" : ObjectId("62906e9f8b2efbc6e3b30ba6"),
+		"NumAuthors" : 53,
+		"ProjectID" : "heapsource_active_model_otp",
+		"NumStars" : 534
+	},
+	{
+		"_id" : ObjectId("62906eaa8b2efbc6e3b3998b"),
+		"NumAuthors" : 38,
+		"ProjectID" : "toothrot_amplitude-api",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("62906eb58b2efbc6e3b3d71b"),
+		"NumAuthors" : 43,
+		"ProjectID" : "zold-io_zold",
+		"NumStars" : 179
+	},
+	{
+		"_id" : ObjectId("62906ee38b2efbc6e3b6b61d"),
+		"NumAuthors" : 11,
+		"ProjectID" : "team-formalist_formalist-rb",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62906f168b2efbc6e3b9a6ee"),
+		"NumAuthors" : 53,
+		"ProjectID" : "SergioFierens_ai4r",
+		"NumStars" : 471
+	},
+	{
+		"_id" : ObjectId("62906f1d8b2efbc6e3ba0e33"),
+		"NumAuthors" : 84,
+		"ProjectID" : "rapid7_nexpose-client",
+		"NumStars" : 154
+	},
+	{
+		"_id" : ObjectId("62906f408b2efbc6e3bbd919"),
+		"NumAuthors" : 50,
+		"ProjectID" : "sds_slim-lint",
+		"NumStars" : 168
+	},
+	{
+		"_id" : ObjectId("62906f548b2efbc6e3bce8c8"),
+		"NumAuthors" : 29,
+		"ProjectID" : "rejeep_evm",
+		"NumStars" : 198
+	},
+	{
+		"_id" : ObjectId("62906f608b2efbc6e3bddc04"),
+		"NumAuthors" : 65,
+		"ProjectID" : "castwide_solargraph",
+		"NumStars" : 1057
+	},
+	{
+		"_id" : ObjectId("62906f8f8b2efbc6e3c05d73"),
+		"NumAuthors" : 21,
+		"ProjectID" : "m247_epp-client",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("62906fa38b2efbc6e3c17ad3"),
+		"NumAuthors" : 38,
+		"ProjectID" : "aetherknight_recursive-open-struct",
+		"NumStars" : 223
+	},
+	{
+		"_id" : ObjectId("62906fc38b2efbc6e3c36c87"),
+		"NumAuthors" : 34,
+		"ProjectID" : "ankane_mailkick",
+		"NumStars" : 478
+	},
+	{
+		"_id" : ObjectId("62906fd48b2efbc6e3c45121"),
+		"NumAuthors" : 474,
+		"ProjectID" : "braintree_braintree_ruby",
+		"NumStars" : 298
+	},
+	{
+		"_id" : ObjectId("629070168b2efbc6e3c82fc4"),
+		"NumAuthors" : 37,
+		"ProjectID" : "papertrail_papertrail-services",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("629070808b2efbc6e3ce1dfd"),
+		"NumAuthors" : 18,
+		"ProjectID" : "Fullscreen_squid",
+		"NumStars" : 206
+	},
+	{
+		"_id" : ObjectId("6290708c8b2efbc6e3cf0902"),
+		"NumAuthors" : 26,
+		"ProjectID" : "treasure-data_serverengine",
+		"NumStars" : 337
+	},
+	{
+		"_id" : ObjectId("629070bf8b2efbc6e3d1e793"),
+		"NumAuthors" : 120,
+		"ProjectID" : "gocardless_statesman",
+		"NumStars" : 1034
+	},
+	{
+		"_id" : ObjectId("629070d98b2efbc6e3d3809a"),
+		"NumAuthors" : 31,
+		"ProjectID" : "maccman_nestful",
+		"NumStars" : 165
+	},
+	{
+		"_id" : ObjectId("629070ec8b2efbc6e3d491b7"),
+		"NumAuthors" : 12,
+		"ProjectID" : "datocms_middleman-dato",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("6290710a8b2efbc6e3d62788"),
+		"NumAuthors" : 125,
+		"ProjectID" : "trailblazer_reform",
+		"NumStars" : 1563
+	},
+	{
+		"_id" : ObjectId("6290711a8b2efbc6e3d733d3"),
+		"NumAuthors" : 55,
+		"ProjectID" : "craysiii_binance",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629071228b2efbc6e3d78e01"),
+		"NumAuthors" : 44,
+		"ProjectID" : "mbj_unparser",
+		"NumStars" : 248
+	},
+	{
+		"_id" : ObjectId("629071968b2efbc6e3de52dd"),
+		"NumAuthors" : 51,
+		"ProjectID" : "tiagopog_jsonapi-utils",
+		"NumStars" : 207
+	},
+	{
+		"_id" : ObjectId("629071ad8b2efbc6e3df7d8b"),
+		"NumAuthors" : 28,
+		"ProjectID" : "mattn_mruby-thread",
+		"NumStars" : 61
+	},
+	{
+		"_id" : ObjectId("629071ae8b2efbc6e3df82db"),
+		"NumAuthors" : 32,
+		"ProjectID" : "rapid7_ruby_smb",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629071b18b2efbc6e3dfda5f"),
+		"NumAuthors" : 193,
+		"ProjectID" : "test-kitchen_kitchen-docker",
+		"NumStars" : 475
+	},
+	{
+		"_id" : ObjectId("629071b78b2efbc6e3dfddc0"),
+		"NumAuthors" : 32,
+		"ProjectID" : "aws_aws-sdk-ruby-record",
+		"NumStars" : 257
+	},
+	{
+		"_id" : ObjectId("629071c68b2efbc6e3e098a7"),
+		"NumAuthors" : 35,
+		"ProjectID" : "andreapavoni_simple_form_fancy_uploads",
+		"NumStars" : 163
+	},
+	{
+		"_id" : ObjectId("629071db8b2efbc6e3e1a28d"),
+		"NumAuthors" : 18,
+		"ProjectID" : "kevinelliott_agent_orange",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629071e58b2efbc6e3e24362"),
+		"NumAuthors" : 22,
+		"ProjectID" : "jsonapi-rb_serializable",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("629071ee8b2efbc6e3e28fc8"),
+		"NumAuthors" : 15,
+		"ProjectID" : "pajapro_fastlane-plugin-changelog",
+		"NumStars" : 161
+	},
+	{
+		"_id" : ObjectId("629071ef8b2efbc6e3e2bb10"),
+		"NumAuthors" : 50,
+		"ProjectID" : "brainopia_sidekiq-limit_fetch",
+		"NumStars" : 655
+	},
+	{
+		"_id" : ObjectId("629072058b2efbc6e3e407b7"),
+		"NumAuthors" : 386,
+		"ProjectID" : "bblimke_webmock",
+		"NumStars" : 2915
+	},
+	{
+		"_id" : ObjectId("629072088b2efbc6e3e444f4"),
+		"NumAuthors" : 95,
+		"ProjectID" : "zevarito_mixpanel",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629072468b2efbc6e3e77361"),
+		"NumAuthors" : 182,
+		"ProjectID" : "rubocop-hq_rubocop-rspec",
+		"NumStars" : 605
+	},
+	{
+		"_id" : ObjectId("6290727c8b2efbc6e3ea8011"),
+		"NumAuthors" : 18,
+		"ProjectID" : "cpetersen_srt",
+		"NumStars" : 67
+	},
+	{
+		"_id" : ObjectId("6290727d8b2efbc6e3ea8b67"),
+		"NumAuthors" : 26,
+		"ProjectID" : "huboard_ghee",
+		"NumStars" : 154
+	},
+	{
+		"_id" : ObjectId("629072b08b2efbc6e3ec3636"),
+		"NumAuthors" : 38,
+		"ProjectID" : "ruby2d_ruby2d",
+		"NumStars" : 398
+	},
+	{
+		"_id" : ObjectId("629072c98b2efbc6e3ecfd77"),
+		"NumAuthors" : 48,
+		"ProjectID" : "aliyun_aliyun-oss-ruby-sdk",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("629072d88b2efbc6e3edc927"),
+		"NumAuthors" : 13,
+		"ProjectID" : "myronmarston_mail_safe",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("6290731f8b2efbc6e3f0228b"),
+		"NumAuthors" : 59,
+		"ProjectID" : "rubygems_rubygems-mirror",
+		"NumStars" : 269
+	},
+	{
+		"_id" : ObjectId("629073568b2efbc6e3f210b5"),
+		"NumAuthors" : 57,
+		"ProjectID" : "dry-rb_dry-monads",
+		"NumStars" : 405
+	},
+	{
+		"_id" : ObjectId("629073a58b2efbc6e3f45466"),
+		"NumAuthors" : 50,
+		"ProjectID" : "fluent-plugins-nursery_fluent-plugin-out-http",
+		"NumStars" : 67
+	},
+	{
+		"_id" : ObjectId("629073b38b2efbc6e3f507c1"),
+		"NumAuthors" : 32,
+		"ProjectID" : "WeTransfer_format_parser",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("629073d78b2efbc6e3f67944"),
+		"NumAuthors" : 155,
+		"ProjectID" : "omniauth_omniauth-saml",
+		"NumStars" : 275
+	},
+	{
+		"_id" : ObjectId("629074938b2efbc6e3fca0bf"),
+		"NumAuthors" : 24,
+		"ProjectID" : "gjtorikian_jekyll-last-modified-at",
+		"NumStars" : 174
+	},
+	{
+		"_id" : ObjectId("629074b58b2efbc6e3fe1a8e"),
+		"NumAuthors" : 84,
+		"ProjectID" : "pythonicrubyist_creek",
+		"NumStars" : 246
+	},
+	{
+		"_id" : ObjectId("629074c58b2efbc6e3fe80f7"),
+		"NumAuthors" : 80,
+		"ProjectID" : "youpy_ruby-lastfm",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("629074db8b2efbc6e3ff4922"),
+		"NumAuthors" : 41,
+		"ProjectID" : "ruby_rss",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("629074db8b2efbc6e3ff4eda"),
+		"NumAuthors" : 53,
+		"ProjectID" : "boazsegev_combine_pdf",
+		"NumStars" : 508
+	},
+	{
+		"_id" : ObjectId("629074ec8b2efbc6e3ffc229"),
+		"NumAuthors" : 14,
+		"ProjectID" : "adamcooke_authie",
+		"NumStars" : 154
+	},
+	{
+		"_id" : ObjectId("629074ec8b2efbc6e3ffcdab"),
+		"NumAuthors" : 55,
+		"ProjectID" : "alexrabarts_iso_country_codes",
+		"NumStars" : 137
+	},
+	{
+		"_id" : ObjectId("6290750a8b2efbc6e300df0b"),
+		"NumAuthors" : 15,
+		"ProjectID" : "phrase_slimkeyfy",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("629075238b2efbc6e301d399"),
+		"NumAuthors" : 162,
+		"ProjectID" : "kern_minitest-reporters",
+		"NumStars" : 671
+	},
+	{
+		"_id" : ObjectId("6290755b8b2efbc6e30376a6"),
+		"NumAuthors" : 20,
+		"ProjectID" : "willnet_gimei",
+		"NumStars" : 312
+	},
+	{
+		"_id" : ObjectId("6290757c8b2efbc6e304c8cd"),
+		"NumAuthors" : 20,
+		"ProjectID" : "Shopify_measured-rails",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("629075878b2efbc6e305060b"),
+		"NumAuthors" : 38,
+		"ProjectID" : "damog_feedbag",
+		"NumStars" : 149
+	},
+	{
+		"_id" : ObjectId("629075c98b2efbc6e3073299"),
+		"NumAuthors" : 37,
+		"ProjectID" : "mogest_prawn-svg",
+		"NumStars" : 125
+	},
+	{
+		"_id" : ObjectId("629076048b2efbc6e3090c1e"),
+		"NumAuthors" : 37,
+		"ProjectID" : "phatworx_easy_captcha",
+		"NumStars" : 107
+	},
+	{
+		"_id" : ObjectId("6290767e8b2efbc6e30d0e33"),
+		"NumAuthors" : 50,
+		"ProjectID" : "ueno_ruby-gpgme",
+		"NumStars" : 208
+	},
+	{
+		"_id" : ObjectId("629076e88b2efbc6e31052a8"),
+		"NumAuthors" : 11,
+		"ProjectID" : "godfat_rest-more",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("6290774c8b2efbc6e313d366"),
+		"NumAuthors" : 49,
+		"ProjectID" : "layer8x_youtube-dl.rb",
+		"NumStars" : 164
+	},
+	{
+		"_id" : ObjectId("6290776f8b2efbc6e3153583"),
+		"NumAuthors" : 61,
+		"ProjectID" : "github_rubocop-github",
+		"NumStars" : 576
+	},
+	{
+		"_id" : ObjectId("629077b68b2efbc6e317e06e"),
+		"NumAuthors" : 47,
+		"ProjectID" : "erikh_ruby-dbi",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629077d28b2efbc6e318beb8"),
+		"NumAuthors" : 31,
+		"ProjectID" : "emilianodellacasa_ruby-asterisk",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("629078008b2efbc6e31a0f4d"),
+		"NumAuthors" : 28,
+		"ProjectID" : "mhgbrown_cached_resource",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629078138b2efbc6e31abafa"),
+		"NumAuthors" : 24,
+		"ProjectID" : "rwz_nestive",
+		"NumStars" : 127
+	},
+	{
+		"_id" : ObjectId("6290787e8b2efbc6e31ecb29"),
+		"NumAuthors" : 45,
+		"ProjectID" : "tmm1_test-queue",
+		"NumStars" : 306
+	},
+	{
+		"_id" : ObjectId("629078a58b2efbc6e32021d0"),
+		"NumAuthors" : 23,
+		"ProjectID" : "infrablocks_ruby_terraform",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629078ad8b2efbc6e320604f"),
+		"NumAuthors" : 47,
+		"ProjectID" : "onomojo_i18n_country_select",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("629078d18b2efbc6e3217550"),
+		"NumAuthors" : 69,
+		"ProjectID" : "TheAlgorithms_Ruby",
+		"NumStars" : 422
+	},
+	{
+		"_id" : ObjectId("629078fe8b2efbc6e323571b"),
+		"NumAuthors" : 53,
+		"ProjectID" : "coinbase_coinbase-exchange-ruby",
+		"NumStars" : 129
+	},
+	{
+		"_id" : ObjectId("6290793f8b2efbc6e32586a6"),
+		"NumAuthors" : 57,
+		"ProjectID" : "net-ssh_net-sftp",
+		"NumStars" : 226
+	},
+	{
+		"_id" : ObjectId("629079518b2efbc6e325fb20"),
+		"NumAuthors" : 31,
+		"ProjectID" : "undees_rforce",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("6290796b8b2efbc6e3272241"),
+		"NumAuthors" : 26,
+		"ProjectID" : "toddsundsted_stunt",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("629079768b2efbc6e327a910"),
+		"NumAuthors" : 28,
+		"ProjectID" : "dgutov_robe",
+		"NumStars" : 531
+	},
+	{
+		"_id" : ObjectId("629079768b2efbc6e327b906"),
+		"NumAuthors" : 79,
+		"ProjectID" : "thoughtbot_appraisal",
+		"NumStars" : 783
+	},
+	{
+		"_id" : ObjectId("62907a348b2efbc6e32e1ef6"),
+		"NumAuthors" : 38,
+		"ProjectID" : "ckruse_CFPropertyList",
+		"NumStars" : 149
+	},
+	{
+		"_id" : ObjectId("62907a3b8b2efbc6e32e2ced"),
+		"NumAuthors" : 17,
+		"ProjectID" : "xinminlabs_synvert-snippets",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("62907a4c8b2efbc6e32f030d"),
+		"NumAuthors" : 95,
+		"ProjectID" : "typhoeus_ethon",
+		"NumStars" : 96
+	},
+	{
+		"_id" : ObjectId("62907a868b2efbc6e331098e"),
+		"NumAuthors" : 40,
+		"ProjectID" : "alexdalitz_dnsruby",
+		"NumStars" : 142
+	},
+	{
+		"_id" : ObjectId("62907a938b2efbc6e331673a"),
+		"NumAuthors" : 54,
+		"ProjectID" : "socketry_multipart-post",
+		"NumStars" : 184
+	},
+	{
+		"_id" : ObjectId("62907b0b8b2efbc6e33592dc"),
+		"NumAuthors" : 22,
+		"ProjectID" : "salsify_avromatic",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("62907b6d8b2efbc6e338e6ff"),
+		"NumAuthors" : 45,
+		"ProjectID" : "locomotivecms_custom_fields",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("62907b968b2efbc6e33a2599"),
+		"NumAuthors" : 38,
+		"ProjectID" : "dry-rb_dry-system",
+		"NumStars" : 214
+	},
+	{
+		"_id" : ObjectId("62907bfc8b2efbc6e33db474"),
+		"NumAuthors" : 83,
+		"ProjectID" : "hallelujah_valid_email",
+		"NumStars" : 200
+	},
+	{
+		"_id" : ObjectId("62907c678b2efbc6e34174d7"),
+		"NumAuthors" : 25,
+		"ProjectID" : "sorentwo_readthis",
+		"NumStars" : 521
+	},
+	{
+		"_id" : ObjectId("62907c9c8b2efbc6e343318a"),
+		"NumAuthors" : 39,
+		"ProjectID" : "CocoaPods_Rome",
+		"NumStars" : 631
+	},
+	{
+		"_id" : ObjectId("62907cac8b2efbc6e343e8e2"),
+		"NumAuthors" : 54,
+		"ProjectID" : "wildbit_postmark-gem",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("62907cdc8b2efbc6e34516c1"),
+		"NumAuthors" : 87,
+		"ProjectID" : "collectiveidea_interactor",
+		"NumStars" : 2255
+	},
+	{
+		"_id" : ObjectId("62907cf08b2efbc6e345ef7d"),
+		"NumAuthors" : 11,
+		"ProjectID" : "Yuki-Inoue_jupyter_on_rails",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62907d248b2efbc6e34773d2"),
+		"NumAuthors" : 37,
+		"ProjectID" : "byroot_activerecord-typedstore",
+		"NumStars" : 252
+	},
+	{
+		"_id" : ObjectId("62907da48b2efbc6e34bc316"),
+		"NumAuthors" : 14,
+		"ProjectID" : "rom-rb_rom-http",
+		"NumStars" : 60
+	},
+	{
+		"_id" : ObjectId("62907db48b2efbc6e34c167a"),
+		"NumAuthors" : 46,
+		"ProjectID" : "ManageIQ_optimist",
+		"NumStars" : 231
+	},
+	{
+		"_id" : ObjectId("62907ddd8b2efbc6e34dac36"),
+		"NumAuthors" : 59,
+		"ProjectID" : "hexlet-codebattle_battle_asserts",
+		"NumStars" : 74
+	},
+	{
+		"_id" : ObjectId("62907e008b2efbc6e34eb57c"),
+		"NumAuthors" : 58,
+		"ProjectID" : "aserafin_grape_logging",
+		"NumStars" : 135
+	},
+	{
+		"_id" : ObjectId("62907e128b2efbc6e34f3949"),
+		"NumAuthors" : 197,
+		"ProjectID" : "geokit_geokit-rails",
+		"NumStars" : 951
+	},
+	{
+		"_id" : ObjectId("62907e528b2efbc6e35195ab"),
+		"NumAuthors" : 45,
+		"ProjectID" : "a2800276_8583",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("62907e618b2efbc6e351fe6b"),
+		"NumAuthors" : 18,
+		"ProjectID" : "instructure_ruby-saml2",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("62907e708b2efbc6e352688b"),
+		"NumAuthors" : 68,
+		"ProjectID" : "rbuchberger_jekyll_picture_tag",
+		"NumStars" : 653
+	},
+	{
+		"_id" : ObjectId("62907e708b2efbc6e3529ea5"),
+		"NumAuthors" : 90,
+		"ProjectID" : "tumblr_tumblr_client",
+		"NumStars" : 294
+	},
+	{
+		"_id" : ObjectId("62907e8e8b2efbc6e35369fe"),
+		"NumAuthors" : 19,
+		"ProjectID" : "bodepd_librarian-puppet-simple",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62907ea68b2efbc6e3545988"),
+		"NumAuthors" : 28,
+		"ProjectID" : "CocoaPods_Molinillo",
+		"NumStars" : 351
+	},
+	{
+		"_id" : ObjectId("62907ea98b2efbc6e354a1be"),
+		"NumAuthors" : 79,
+		"ProjectID" : "Ada-Developers-Academy_ada-build",
+		"NumStars" : 600
+	},
+	{
+		"_id" : ObjectId("62907eb28b2efbc6e354bac4"),
+		"NumAuthors" : 18,
+		"ProjectID" : "piotrmurach_tty-table",
+		"NumStars" : 154
+	},
+	{
+		"_id" : ObjectId("62907f018b2efbc6e3573c9f"),
+		"NumAuthors" : 22,
+		"ProjectID" : "ankane_lockbox",
+		"NumStars" : 741
+	},
+	{
+		"_id" : ObjectId("62907f118b2efbc6e357b5d0"),
+		"NumAuthors" : 23,
+		"ProjectID" : "jasonfb_nondestructive_migrations",
+		"NumStars" : 127
+	},
+	{
+		"_id" : ObjectId("62907f1b8b2efbc6e3582b5f"),
+		"NumAuthors" : 37,
+		"ProjectID" : "collectiveidea_sunspot_test",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("62907f4e8b2efbc6e35a0915"),
+		"NumAuthors" : 84,
+		"ProjectID" : "unixcharles_acme-client",
+		"NumStars" : 434
+	},
+	{
+		"_id" : ObjectId("62907f688b2efbc6e35a9c4f"),
+		"NumAuthors" : 27,
+		"ProjectID" : "ruby-gnome2_pkg-config",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("62907f838b2efbc6e35b7bae"),
+		"NumAuthors" : 19,
+		"ProjectID" : "gemnasium_gemnasium-parser",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("62907fba8b2efbc6e35d4685"),
+		"NumAuthors" : 28,
+		"ProjectID" : "mkocher_soloist",
+		"NumStars" : 132
+	},
+	{
+		"_id" : ObjectId("629080098b2efbc6e35feffd"),
+		"NumAuthors" : 12,
+		"ProjectID" : "envato_ami-spec",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("629080388b2efbc6e3614aa4"),
+		"NumAuthors" : 123,
+		"ProjectID" : "amro_gibbon",
+		"NumStars" : 841
+	},
+	{
+		"_id" : ObjectId("629080598b2efbc6e362520f"),
+		"NumAuthors" : 15,
+		"ProjectID" : "pote_planet.rb",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("629080718b2efbc6e363491c"),
+		"NumAuthors" : 18,
+		"ProjectID" : "GoogleCloudPlatform_inspec-gcp-cis-benchmark",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("6290807d8b2efbc6e363c80e"),
+		"NumAuthors" : 17,
+		"ProjectID" : "IF977_if977",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("629080898b2efbc6e3642003"),
+		"NumAuthors" : 119,
+		"ProjectID" : "instacart_makara",
+		"NumStars" : 725
+	},
+	{
+		"_id" : ObjectId("629081378b2efbc6e3698f29"),
+		"NumAuthors" : 22,
+		"ProjectID" : "barsoom_attr_extras",
+		"NumStars" : 479
+	},
+	{
+		"_id" : ObjectId("6290814b8b2efbc6e36a3d9a"),
+		"NumAuthors" : 77,
+		"ProjectID" : "JEG2_highline",
+		"NumStars" : 1050
+	},
+	{
+		"_id" : ObjectId("629081818b2efbc6e36c7f2d"),
+		"NumAuthors" : 12,
+		"ProjectID" : "gonzedge_rambling-trie",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("629081938b2efbc6e36ca699"),
+		"NumAuthors" : 14,
+		"ProjectID" : "watir_watir-rails",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("629081bb8b2efbc6e36e42eb"),
+		"NumAuthors" : 20,
+		"ProjectID" : "rzane_baby_squeel",
+		"NumStars" : 366
+	},
+	{
+		"_id" : ObjectId("629082a88b2efbc6e376158f"),
+		"NumAuthors" : 14,
+		"ProjectID" : "hughbien_thyme",
+		"NumStars" : 301
+	},
+	{
+		"_id" : ObjectId("629082c88b2efbc6e3775fb6"),
+		"NumAuthors" : 19,
+		"ProjectID" : "matt-lowe_ProfanityFE",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629082d88b2efbc6e377f458"),
+		"NumAuthors" : 38,
+		"ProjectID" : "davidalger_capistrano-magento2",
+		"NumStars" : 201
+	},
+	{
+		"_id" : ObjectId("629082f68b2efbc6e378c2f8"),
+		"NumAuthors" : 71,
+		"ProjectID" : "Shopify_erb-lint",
+		"NumStars" : 207
+	},
+	{
+		"_id" : ObjectId("6290837c8b2efbc6e37cf0a7"),
+		"NumAuthors" : 19,
+		"ProjectID" : "DavyJonesLocker_client_side_validations-mongoid",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("6290837e8b2efbc6e37cfbed"),
+		"NumAuthors" : 40,
+		"ProjectID" : "rmm5t_strip_attributes",
+		"NumStars" : 354
+	},
+	{
+		"_id" : ObjectId("629083948b2efbc6e37d8aa0"),
+		"NumAuthors" : 36,
+		"ProjectID" : "kubo_ruby-oci8",
+		"NumStars" : 143
+	},
+	{
+		"_id" : ObjectId("629083a28b2efbc6e37e15b6"),
+		"NumAuthors" : 47,
+		"ProjectID" : "dry-rb_dry-schema",
+		"NumStars" : 209
+	},
+	{
+		"_id" : ObjectId("629083ba8b2efbc6e37f0aca"),
+		"NumAuthors" : 18,
+		"ProjectID" : "nning_transmission-rss",
+		"NumStars" : 346
+	},
+	{
+		"_id" : ObjectId("629084e68b2efbc6e388c1b8"),
+		"NumAuthors" : 72,
+		"ProjectID" : "Shopify_active_fulfillment",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("629084f88b2efbc6e38979c9"),
+		"NumAuthors" : 91,
+		"ProjectID" : "carmen-ruby_carmen-rails",
+		"NumStars" : 177
+	},
+	{
+		"_id" : ObjectId("6290850d8b2efbc6e38a54c8"),
+		"NumAuthors" : 15,
+		"ProjectID" : "openstack_cookbook-openstack-bare-metal",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("6290852c8b2efbc6e38b4cb9"),
+		"NumAuthors" : 104,
+		"ProjectID" : "gocardless_hutch",
+		"NumStars" : 613
+	},
+	{
+		"_id" : ObjectId("6290855f8b2efbc6e38ca049"),
+		"NumAuthors" : 46,
+		"ProjectID" : "hirefire_hirefire-resource",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("629085988b2efbc6e38ee717"),
+		"NumAuthors" : 16,
+		"ProjectID" : "piotrmurach_tty-spinner",
+		"NumStars" : 342
+	},
+	{
+		"_id" : ObjectId("629085c68b2efbc6e39040cf"),
+		"NumAuthors" : 13,
+		"ProjectID" : "geemus_shindo",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629085e18b2efbc6e39159f1"),
+		"NumAuthors" : 108,
+		"ProjectID" : "jnicklas_turnip",
+		"NumStars" : 561
+	},
+	{
+		"_id" : ObjectId("629085ec8b2efbc6e391b80b"),
+		"NumAuthors" : 38,
+		"ProjectID" : "mindeavor_staticmatic2",
+		"NumStars" : 84
+	},
+	{
+		"_id" : ObjectId("629085ec8b2efbc6e391da31"),
+		"NumAuthors" : 333,
+		"ProjectID" : "rails_activeresource",
+		"NumStars" : 859
+	},
+	{
+		"_id" : ObjectId("6290861a8b2efbc6e3931340"),
+		"NumAuthors" : 16,
+		"ProjectID" : "asciidoctor_asciidoctor-bibtex",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("6290861a8b2efbc6e393293d"),
+		"NumAuthors" : 48,
+		"ProjectID" : "street-address-rb_street-address",
+		"NumStars" : 167
+	},
+	{
+		"_id" : ObjectId("6290866e8b2efbc6e396440c"),
+		"NumAuthors" : 13,
+		"ProjectID" : "Freshly_flow",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("629086808b2efbc6e396d797"),
+		"NumAuthors" : 35,
+		"ProjectID" : "pboling_activerecord-tablefree",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("629086b18b2efbc6e3980f2b"),
+		"NumAuthors" : 16,
+		"ProjectID" : "midori-rb_midori.rb",
+		"NumStars" : 906
+	},
+	{
+		"_id" : ObjectId("629086df8b2efbc6e399deb6"),
+		"NumAuthors" : 23,
+		"ProjectID" : "3scale_3scale_ws_api_for_ruby",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("6290871f8b2efbc6e39ba2c4"),
+		"NumAuthors" : 18,
+		"ProjectID" : "arnau_ISO8601",
+		"NumStars" : 72
+	},
+	{
+		"_id" : ObjectId("629087558b2efbc6e39d7a16"),
+		"NumAuthors" : 51,
+		"ProjectID" : "radar_humanize",
+		"NumStars" : 296
+	},
+	{
+		"_id" : ObjectId("629087668b2efbc6e39dd242"),
+		"NumAuthors" : 18,
+		"ProjectID" : "ruby-i18n_ruby-cldr",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("6290879b8b2efbc6e39fa073"),
+		"NumAuthors" : 12,
+		"ProjectID" : "t27duck_active_reporting",
+		"NumStars" : 78
+	},
+	{
+		"_id" : ObjectId("629087d28b2efbc6e3a17e9a"),
+		"NumAuthors" : 109,
+		"ProjectID" : "SchemaPlus_schema_plus",
+		"NumStars" : 694
+	},
+	{
+		"_id" : ObjectId("629088128b2efbc6e3a394d6"),
+		"NumAuthors" : 90,
+		"ProjectID" : "sorbet_sorbet-typed",
+		"NumStars" : 159
+	},
+	{
+		"_id" : ObjectId("629088b08b2efbc6e3a8b958"),
+		"NumAuthors" : 39,
+		"ProjectID" : "Shopify_oktakit",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("629089118b2efbc6e3abe72d"),
+		"NumAuthors" : 62,
+		"ProjectID" : "rails_actionpack-page_caching",
+		"NumStars" : 324
+	},
+	{
+		"_id" : ObjectId("6290891e8b2efbc6e3ac4268"),
+		"NumAuthors" : 11,
+		"ProjectID" : "onk_onkcop",
+		"NumStars" : 139
+	},
+	{
+		"_id" : ObjectId("629089b38b2efbc6e3b182b7"),
+		"NumAuthors" : 51,
+		"ProjectID" : "subwindow_negative-captcha",
+		"NumStars" : 192
+	},
+	{
+		"_id" : ObjectId("62908a048b2efbc6e3b4311d"),
+		"NumAuthors" : 30,
+		"ProjectID" : "rcairo_rcairo",
+		"NumStars" : 104
+	},
+	{
+		"_id" : ObjectId("62908a238b2efbc6e3b500c0"),
+		"NumAuthors" : 26,
+		"ProjectID" : "asciidoctor_asciidoctor-epub3",
+		"NumStars" : 164
+	},
+	{
+		"_id" : ObjectId("62908a538b2efbc6e3b68fd3"),
+		"NumAuthors" : 90,
+		"ProjectID" : "activewarehouse_activewarehouse-etl",
+		"NumStars" : 196
+	},
+	{
+		"_id" : ObjectId("62908a538b2efbc6e3b67497"),
+		"NumAuthors" : 58,
+		"ProjectID" : "refinery_refinerycms-search",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("62908a718b2efbc6e3b7a37d"),
+		"NumAuthors" : 39,
+		"ProjectID" : "voxxit_opensrs",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62908a928b2efbc6e3b85fc4"),
+		"NumAuthors" : 14,
+		"ProjectID" : "maxmind_MaxMind-DB-Reader-ruby",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("62908ac28b2efbc6e3b9faed"),
+		"NumAuthors" : 27,
+		"ProjectID" : "proton_mongoid_rateable",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("62908acd8b2efbc6e3ba436b"),
+		"NumAuthors" : 44,
+		"ProjectID" : "Casecommons_pg_audit_log",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62908aff8b2efbc6e3bca032"),
+		"NumAuthors" : 30,
+		"ProjectID" : "jekyll_jekyll-paginate",
+		"NumStars" : 106
+	},
+	{
+		"_id" : ObjectId("62908b3e8b2efbc6e3be44ee"),
+		"NumAuthors" : 58,
+		"ProjectID" : "prerender_prerender_rails",
+		"NumStars" : 328
+	},
+	{
+		"_id" : ObjectId("62908b618b2efbc6e3bfdea7"),
+		"NumAuthors" : 99,
+		"ProjectID" : "urbanadventurer_WhatWeb",
+		"NumStars" : 2614
+	},
+	{
+		"_id" : ObjectId("62908b618b2efbc6e3bfea80"),
+		"NumAuthors" : 27,
+		"ProjectID" : "soutaro_steep",
+		"NumStars" : 728
+	},
+	{
+		"_id" : ObjectId("62908b8f8b2efbc6e3c145cd"),
+		"NumAuthors" : 33,
+		"ProjectID" : "envato_pagerduty",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("62908b908b2efbc6e3c192cc"),
+		"NumAuthors" : 21,
+		"ProjectID" : "yuki24_rambulance",
+		"NumStars" : 333
+	},
+	{
+		"_id" : ObjectId("62908bea8b2efbc6e3c471a0"),
+		"NumAuthors" : 14,
+		"ProjectID" : "ahoward_map",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("62908c908b2efbc6e3c9e133"),
+		"NumAuthors" : 126,
+		"ProjectID" : "elixir-editors_vim-elixir",
+		"NumStars" : 1173
+	},
+	{
+		"_id" : ObjectId("62908cc78b2efbc6e3cbfa75"),
+		"NumAuthors" : 85,
+		"ProjectID" : "cloudfoundry_docs-cloudfoundry-concepts",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("62908d2f8b2efbc6e3cf3968"),
+		"NumAuthors" : 28,
+		"ProjectID" : "afair_email_address",
+		"NumStars" : 177
+	},
+	{
+		"_id" : ObjectId("62908d348b2efbc6e3cf7dfa"),
+		"NumAuthors" : 125,
+		"ProjectID" : "express42_zabbixapi",
+		"NumStars" : 180
+	},
+	{
+		"_id" : ObjectId("62908d5e8b2efbc6e3d0ce06"),
+		"NumAuthors" : 24,
+		"ProjectID" : "training-mode_ruby",
+		"NumStars" : 187
+	},
+	{
+		"_id" : ObjectId("62908da68b2efbc6e3d30e6f"),
+		"NumAuthors" : 28,
+		"ProjectID" : "pat_gutentag",
+		"NumStars" : 302
+	},
+	{
+		"_id" : ObjectId("62908da78b2efbc6e3d32d0b"),
+		"NumAuthors" : 54,
+		"ProjectID" : "marcandre_backports",
+		"NumStars" : 268
+	},
+	{
+		"_id" : ObjectId("62908dbe8b2efbc6e3d4599c"),
+		"NumAuthors" : 148,
+		"ProjectID" : "Shopify_homebrew-shopify",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("62908dbe8b2efbc6e3d46648"),
+		"NumAuthors" : 45,
+		"ProjectID" : "ankane_pgsync",
+		"NumStars" : 1872
+	},
+	{
+		"_id" : ObjectId("62908e288b2efbc6e3d81ce0"),
+		"NumAuthors" : 29,
+		"ProjectID" : "wildbit_postmark-rails",
+		"NumStars" : 168
+	},
+	{
+		"_id" : ObjectId("62908e748b2efbc6e3da76e1"),
+		"NumAuthors" : 14,
+		"ProjectID" : "joeyates_imap-backup",
+		"NumStars" : 478
+	},
+	{
+		"_id" : ObjectId("62908e748b2efbc6e3da91dd"),
+		"NumAuthors" : 20,
+		"ProjectID" : "rubykube_kite",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("62908e9c8b2efbc6e3dbf15e"),
+		"NumAuthors" : 49,
+		"ProjectID" : "tjackiw_obscenity",
+		"NumStars" : 223
+	},
+	{
+		"_id" : ObjectId("62908eca8b2efbc6e3dd7ab2"),
+		"NumAuthors" : 31,
+		"ProjectID" : "stas_jsonapi.rb",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("62908f908b2efbc6e3e443aa"),
+		"NumAuthors" : 72,
+		"ProjectID" : "codecov_codecov-ruby",
+		"NumStars" : 66
+	},
+	{
+		"_id" : ObjectId("62908fad8b2efbc6e3e52a31"),
+		"NumAuthors" : 35,
+		"ProjectID" : "GetStream_stream-ruby",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("62908fdc8b2efbc6e3e6970e"),
+		"NumAuthors" : 77,
+		"ProjectID" : "bogdan_datagrid",
+		"NumStars" : 602
+	},
+	{
+		"_id" : ObjectId("6290902f8b2efbc6e3e9759a"),
+		"NumAuthors" : 19,
+		"ProjectID" : "veger_ruby-bbcode",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("6290902f8b2efbc6e3e9883f"),
+		"NumAuthors" : 20,
+		"ProjectID" : "seven1m_natalie",
+		"NumStars" : 97
+	},
+	{
+		"_id" : ObjectId("629090418b2efbc6e3ea1924"),
+		"NumAuthors" : 66,
+		"ProjectID" : "ruby_bigdecimal",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629090948b2efbc6e3ecce56"),
+		"NumAuthors" : 33,
+		"ProjectID" : "nruth_show_me_the_cookies",
+		"NumStars" : 130
+	},
+	{
+		"_id" : ObjectId("629090c38b2efbc6e3ee36f7"),
+		"NumAuthors" : 300,
+		"ProjectID" : "Punchbowl_attachment_fu",
+		"NumStars" : 1489
+	},
+	{
+		"_id" : ObjectId("629090cf8b2efbc6e3ee9b00"),
+		"NumAuthors" : 22,
+		"ProjectID" : "makandra_assignable_values",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("629090eb8b2efbc6e3efd90d"),
+		"NumAuthors" : 12,
+		"ProjectID" : "judofyr_timeless",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("6290915f8b2efbc6e3f3cff6"),
+		"NumAuthors" : 15,
+		"ProjectID" : "piotrmurach_pastel",
+		"NumStars" : 550
+	},
+	{
+		"_id" : ObjectId("629091838b2efbc6e3f4eef3"),
+		"NumAuthors" : 122,
+		"ProjectID" : "influxdata_influxdb-ruby",
+		"NumStars" : 349
+	},
+	{
+		"_id" : ObjectId("629091bd8b2efbc6e3f6b907"),
+		"NumAuthors" : 22,
+		"ProjectID" : "GSA_asis",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629091f48b2efbc6e3f8e4db"),
+		"NumAuthors" : 49,
+		"ProjectID" : "waiting-for-dev_devise-jwt",
+		"NumStars" : 765
+	},
+	{
+		"_id" : ObjectId("629091fb8b2efbc6e3f8f4d3"),
+		"NumAuthors" : 11,
+		"ProjectID" : "chocoby_jp_prefecture",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("629091fe8b2efbc6e3f94534"),
+		"NumAuthors" : 74,
+		"ProjectID" : "cypriss_mutations",
+		"NumStars" : 792
+	},
+	{
+		"_id" : ObjectId("629092108b2efbc6e3f9afe7"),
+		"NumAuthors" : 64,
+		"ProjectID" : "Homebrew_homebrew-services",
+		"NumStars" : 1548
+	},
+	{
+		"_id" : ObjectId("629092108b2efbc6e3f9c1ff"),
+		"NumAuthors" : 23,
+		"ProjectID" : "JustQyx_vimrc",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("6290924b8b2efbc6e3fb6dc0"),
+		"NumAuthors" : 85,
+		"ProjectID" : "wardencommunity_warden",
+		"NumStars" : 1338
+	},
+	{
+		"_id" : ObjectId("6290924b8b2efbc6e3fb6fba"),
+		"NumAuthors" : 35,
+		"ProjectID" : "astro_socksify-ruby",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("629092968b2efbc6e3fe2125"),
+		"NumAuthors" : 84,
+		"ProjectID" : "janko_sinatra-activerecord",
+		"NumStars" : 578
+	},
+	{
+		"_id" : ObjectId("629092a98b2efbc6e3fe65bd"),
+		"NumAuthors" : 121,
+		"ProjectID" : "rails_activerecord-session_store",
+		"NumStars" : 411
+	},
+	{
+		"_id" : ObjectId("629092b68b2efbc6e3feea1c"),
+		"NumAuthors" : 43,
+		"ProjectID" : "travis-ci_travis-yaml",
+		"NumStars" : 165
+	},
+	{
+		"_id" : ObjectId("629092c58b2efbc6e3ff9eeb"),
+		"NumAuthors" : 25,
+		"ProjectID" : "karafka_waterdrop",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("629092d18b2efbc6e3ffe8aa"),
+		"NumAuthors" : 23,
+		"ProjectID" : "jue58_kintone",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629092d18b2efbc6e3000b0f"),
+		"NumAuthors" : 203,
+		"ProjectID" : "tigrish_devise-i18n",
+		"NumStars" : 531
+	},
+	{
+		"_id" : ObjectId("629092fd8b2efbc6e3019297"),
+		"NumAuthors" : 118,
+		"ProjectID" : "Shopify_statsd-instrument",
+		"NumStars" : 325
+	},
+	{
+		"_id" : ObjectId("6290931d8b2efbc6e3027499"),
+		"NumAuthors" : 96,
+		"ProjectID" : "heroku_rack-timeout",
+		"NumStars" : 711
+	},
+	{
+		"_id" : ObjectId("6290932b8b2efbc6e302f7a8"),
+		"NumAuthors" : 22,
+		"ProjectID" : "breamware_sidekiq-batch",
+		"NumStars" : 206
+	},
+	{
+		"_id" : ObjectId("629093378b2efbc6e303ae3d"),
+		"NumAuthors" : 40,
+		"ProjectID" : "basecrm_basecrm-ruby",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("629093538b2efbc6e3049a59"),
+		"NumAuthors" : 23,
+		"ProjectID" : "two-pack_redmine_xls_export",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("629093c18b2efbc6e30869e7"),
+		"NumAuthors" : 48,
+		"ProjectID" : "prontolabs_pronto-rubocop",
+		"NumStars" : 56
+	},
+	{
+		"_id" : ObjectId("629093f58b2efbc6e30a1d5e"),
+		"NumAuthors" : 99,
+		"ProjectID" : "slim-template_slim-rails",
+		"NumStars" : 502
+	}
+]

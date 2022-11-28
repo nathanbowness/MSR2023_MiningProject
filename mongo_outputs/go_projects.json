@@ -1,0 +1,5564 @@
+[
+	{
+		"_id" : ObjectId("629018a88b2efbc6e39fa827"),
+		"NumAuthors" : 19,
+		"ProjectID" : "stakater_Konfigurator",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("629018b08b2efbc6e3a2c1e2"),
+		"NumAuthors" : 57,
+		"ProjectID" : "go-ole_go-ole",
+		"NumStars" : 687
+	},
+	{
+		"_id" : ObjectId("629018b58b2efbc6e3a483eb"),
+		"NumAuthors" : 20,
+		"ProjectID" : "theoremoon_ShellgeiBot",
+		"NumStars" : 94
+	},
+	{
+		"_id" : ObjectId("629018b78b2efbc6e3a53902"),
+		"NumAuthors" : 93,
+		"ProjectID" : "creack_pty",
+		"NumStars" : 838
+	},
+	{
+		"_id" : ObjectId("629018ba8b2efbc6e3a6354c"),
+		"NumAuthors" : 32,
+		"ProjectID" : "rthornton128_goncurses",
+		"NumStars" : 308
+	},
+	{
+		"_id" : ObjectId("629018bd8b2efbc6e3a7a615"),
+		"NumAuthors" : 34,
+		"ProjectID" : "pinterest_knox",
+		"NumStars" : 886
+	},
+	{
+		"_id" : ObjectId("629018c38b2efbc6e3a9aec4"),
+		"NumAuthors" : 16,
+		"ProjectID" : "ungerik_go3d",
+		"NumStars" : 201
+	},
+	{
+		"_id" : ObjectId("629018c58b2efbc6e3aa5dba"),
+		"NumAuthors" : 16,
+		"ProjectID" : "webdevops_azure-devops-exporter",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("629018c78b2efbc6e3ab61f8"),
+		"NumAuthors" : 13,
+		"ProjectID" : "melbahja_got",
+		"NumStars" : 481
+	},
+	{
+		"_id" : ObjectId("629018c98b2efbc6e3abdba0"),
+		"NumAuthors" : 18,
+		"ProjectID" : "thejerf_suture",
+		"NumStars" : 926
+	},
+	{
+		"_id" : ObjectId("629018cf8b2efbc6e3adf027"),
+		"NumAuthors" : 15,
+		"ProjectID" : "bogem_id3v2",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("629018e08b2efbc6e3b339bf"),
+		"NumAuthors" : 30,
+		"ProjectID" : "go-macaron_session",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("629018e68b2efbc6e3b4f947"),
+		"NumAuthors" : 26,
+		"ProjectID" : "kata-containers_ksm-throttler",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629018ed8b2efbc6e3b7b2a5"),
+		"NumAuthors" : 37,
+		"ProjectID" : "pkg_term",
+		"NumStars" : 284
+	},
+	{
+		"_id" : ObjectId("629018ee8b2efbc6e3b80ded"),
+		"NumAuthors" : 20,
+		"ProjectID" : "livepeer_lpms",
+		"NumStars" : 188
+	},
+	{
+		"_id" : ObjectId("629018f28b2efbc6e3b97635"),
+		"NumAuthors" : 32,
+		"ProjectID" : "vmware_vmware-go-kcl",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629018f78b2efbc6e3bb0d8c"),
+		"NumAuthors" : 38,
+		"ProjectID" : "mvdan_gofumpt",
+		"NumStars" : 691
+	},
+	{
+		"_id" : ObjectId("629018fa8b2efbc6e3bc54c7"),
+		"NumAuthors" : 54,
+		"ProjectID" : "jimeh_tmux-themepack",
+		"NumStars" : 1170
+	},
+	{
+		"_id" : ObjectId("629018fc8b2efbc6e3bd0b77"),
+		"NumAuthors" : 18,
+		"ProjectID" : "rogpeppe_go-internal",
+		"NumStars" : 254
+	},
+	{
+		"_id" : ObjectId("629019018b2efbc6e3be61de"),
+		"NumAuthors" : 66,
+		"ProjectID" : "smartwalle_alipay",
+		"NumStars" : 901
+	},
+	{
+		"_id" : ObjectId("629019048b2efbc6e3c026ce"),
+		"NumAuthors" : 25,
+		"ProjectID" : "jonas-p_go-shp",
+		"NumStars" : 196
+	},
+	{
+		"_id" : ObjectId("629019088b2efbc6e3c162ad"),
+		"NumAuthors" : 80,
+		"ProjectID" : "graphql-go_handler",
+		"NumStars" : 359
+	},
+	{
+		"_id" : ObjectId("629019118b2efbc6e3c44589"),
+		"NumAuthors" : 60,
+		"ProjectID" : "TencentCloud_tencentcloud-sdk-go",
+		"NumStars" : 257
+	},
+	{
+		"_id" : ObjectId("629019138b2efbc6e3c4c017"),
+		"NumAuthors" : 30,
+		"ProjectID" : "mdlayher_raw",
+		"NumStars" : 344
+	},
+	{
+		"_id" : ObjectId("6290191a8b2efbc6e3c72161"),
+		"NumAuthors" : 19,
+		"ProjectID" : "bifurcation_mint",
+		"NumStars" : 203
+	},
+	{
+		"_id" : ObjectId("629019208b2efbc6e3c9130c"),
+		"NumAuthors" : 223,
+		"ProjectID" : "asaskevich_govalidator",
+		"NumStars" : 4387
+	},
+	{
+		"_id" : ObjectId("629019228b2efbc6e3c9a566"),
+		"NumAuthors" : 245,
+		"ProjectID" : "gomodule_redigo",
+		"NumStars" : 7992
+	},
+	{
+		"_id" : ObjectId("629019228b2efbc6e3c9b58c"),
+		"NumAuthors" : 15,
+		"ProjectID" : "chebyrash_promise",
+		"NumStars" : 132
+	},
+	{
+		"_id" : ObjectId("629019258b2efbc6e3ca775c"),
+		"NumAuthors" : 26,
+		"ProjectID" : "fishworks_gofish",
+		"NumStars" : 579
+	},
+	{
+		"_id" : ObjectId("629019258b2efbc6e3ca9276"),
+		"NumAuthors" : 13,
+		"ProjectID" : "naoina_migu",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("6290192b8b2efbc6e3cc3f0b"),
+		"NumAuthors" : 12,
+		"ProjectID" : "muesli_reflow",
+		"NumStars" : 97
+	},
+	{
+		"_id" : ObjectId("6290192c8b2efbc6e3ccbd75"),
+		"NumAuthors" : 25,
+		"ProjectID" : "aquasecurity_kubectl-who-can",
+		"NumStars" : 321
+	},
+	{
+		"_id" : ObjectId("6290192f8b2efbc6e3cdbb3b"),
+		"NumAuthors" : 19,
+		"ProjectID" : "cycloidio_terracognita",
+		"NumStars" : 250
+	},
+	{
+		"_id" : ObjectId("629019328b2efbc6e3cf167a"),
+		"NumAuthors" : 39,
+		"ProjectID" : "keikoproj_upgrade-manager",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("629019348b2efbc6e3cf604f"),
+		"NumAuthors" : 30,
+		"ProjectID" : "ziutek_gst",
+		"NumStars" : 175
+	},
+	{
+		"_id" : ObjectId("6290193a8b2efbc6e3d1c8b3"),
+		"NumAuthors" : 19,
+		"ProjectID" : "github_vulcanizer",
+		"NumStars" : 512
+	},
+	{
+		"_id" : ObjectId("629019408b2efbc6e3d38ef8"),
+		"NumAuthors" : 15,
+		"ProjectID" : "google_gonids",
+		"NumStars" : 76
+	},
+	{
+		"_id" : ObjectId("629019418b2efbc6e3d402d6"),
+		"NumAuthors" : 51,
+		"ProjectID" : "grpc-ecosystem_go-grpc-prometheus",
+		"NumStars" : 871
+	},
+	{
+		"_id" : ObjectId("629019448b2efbc6e3d49f2f"),
+		"NumAuthors" : 18,
+		"ProjectID" : "CosmWasm_wasmvm",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("6290194c8b2efbc6e3d6c36f"),
+		"NumAuthors" : 23,
+		"ProjectID" : "hellofresh_health-go",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("6290194e8b2efbc6e3d7bcf2"),
+		"NumAuthors" : 29,
+		"ProjectID" : "dhowden_tag",
+		"NumStars" : 298
+	},
+	{
+		"_id" : ObjectId("629019518b2efbc6e3d84fb5"),
+		"NumAuthors" : 79,
+		"ProjectID" : "alexellis_arkade",
+		"NumStars" : 959
+	},
+	{
+		"_id" : ObjectId("629019518b2efbc6e3d87a29"),
+		"NumAuthors" : 33,
+		"ProjectID" : "prestodb_presto-go-client",
+		"NumStars" : 173
+	},
+	{
+		"_id" : ObjectId("6290195a8b2efbc6e3db2c4b"),
+		"NumAuthors" : 32,
+		"ProjectID" : "fahedouch_nerdctl",
+		"NumStars" : 431
+	},
+	{
+		"_id" : ObjectId("6290195c8b2efbc6e3dbfa39"),
+		"NumAuthors" : 52,
+		"ProjectID" : "unrolled_render",
+		"NumStars" : 1429
+	},
+	{
+		"_id" : ObjectId("629019618b2efbc6e3dd65d8"),
+		"NumAuthors" : 25,
+		"ProjectID" : "ejssik_nmap",
+		"NumStars" : 301
+	},
+	{
+		"_id" : ObjectId("629019658b2efbc6e3deb757"),
+		"NumAuthors" : 14,
+		"ProjectID" : "lazyledger_smt",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("629019668b2efbc6e3df117a"),
+		"NumAuthors" : 28,
+		"ProjectID" : "lamoda_gonkey",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("6290197b8b2efbc6e3e51a2f"),
+		"NumAuthors" : 47,
+		"ProjectID" : "loong_go-concurrency-exercises",
+		"NumStars" : 217
+	},
+	{
+		"_id" : ObjectId("629019868b2efbc6e3e83f02"),
+		"NumAuthors" : 12,
+		"ProjectID" : "larrabee_s3sync",
+		"NumStars" : 172
+	},
+	{
+		"_id" : ObjectId("629019878b2efbc6e3e89f73"),
+		"NumAuthors" : 38,
+		"ProjectID" : "canonical_dqlite",
+		"NumStars" : 1694
+	},
+	{
+		"_id" : ObjectId("629019918b2efbc6e3eb8976"),
+		"NumAuthors" : 14,
+		"ProjectID" : "dbl0null_malgo",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("629019988b2efbc6e3ed5b7d"),
+		"NumAuthors" : 12,
+		"ProjectID" : "qedus_nds",
+		"NumStars" : 160
+	},
+	{
+		"_id" : ObjectId("6290199a8b2efbc6e3edc6af"),
+		"NumAuthors" : 52,
+		"ProjectID" : "mailru_go-clickhouse",
+		"NumStars" : 223
+	},
+	{
+		"_id" : ObjectId("629019ab8b2efbc6e3f31721"),
+		"NumAuthors" : 47,
+		"ProjectID" : "secsy_goftp",
+		"NumStars" : 126
+	},
+	{
+		"_id" : ObjectId("629019af8b2efbc6e3f47219"),
+		"NumAuthors" : 19,
+		"ProjectID" : "servicebinding_spec",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("629019b08b2efbc6e3f4c555"),
+		"NumAuthors" : 12,
+		"ProjectID" : "tcncloud_protoc-gen-persist",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("629019c08b2efbc6e3f9404e"),
+		"NumAuthors" : 17,
+		"ProjectID" : "dgv_godocdown",
+		"NumStars" : 438
+	},
+	{
+		"_id" : ObjectId("629019c78b2efbc6e3fb8c5e"),
+		"NumAuthors" : 36,
+		"ProjectID" : "asdine_storm",
+		"NumStars" : 1643
+	},
+	{
+		"_id" : ObjectId("629019cc8b2efbc6e3fc773a"),
+		"NumAuthors" : 23,
+		"ProjectID" : "xalanq_cf-tool",
+		"NumStars" : 573
+	},
+	{
+		"_id" : ObjectId("629019cc8b2efbc6e3fcb974"),
+		"NumAuthors" : 53,
+		"ProjectID" : "jaytaylor_html2text",
+		"NumStars" : 330
+	},
+	{
+		"_id" : ObjectId("629019d68b2efbc6e3ff8ebd"),
+		"NumAuthors" : 19,
+		"ProjectID" : "k-sone_snmpgo",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("629019d68b2efbc6e3ff9543"),
+		"NumAuthors" : 14,
+		"ProjectID" : "FooSoft_homemaker",
+		"NumStars" : 212
+	},
+	{
+		"_id" : ObjectId("629019dd8b2efbc6e30195d7"),
+		"NumAuthors" : 30,
+		"ProjectID" : "onrik_ethrpc",
+		"NumStars" : 197
+	},
+	{
+		"_id" : ObjectId("629019e88b2efbc6e304e19f"),
+		"NumAuthors" : 164,
+		"ProjectID" : "prometheus_procfs",
+		"NumStars" : 363
+	},
+	{
+		"_id" : ObjectId("629019f48b2efbc6e308850e"),
+		"NumAuthors" : 47,
+		"ProjectID" : "vanng822_go-solr",
+		"NumStars" : 204
+	},
+	{
+		"_id" : ObjectId("629019fc8b2efbc6e30aba1b"),
+		"NumAuthors" : 40,
+		"ProjectID" : "naoina_toml",
+		"NumStars" : 303
+	},
+	{
+		"_id" : ObjectId("629019fe8b2efbc6e30bae44"),
+		"NumAuthors" : 131,
+		"ProjectID" : "kubernetes_gengo",
+		"NumStars" : 294
+	},
+	{
+		"_id" : ObjectId("62901a058b2efbc6e30d6f9d"),
+		"NumAuthors" : 13,
+		"ProjectID" : "mvdan_unparam",
+		"NumStars" : 307
+	},
+	{
+		"_id" : ObjectId("62901a068b2efbc6e30dca70"),
+		"NumAuthors" : 25,
+		"ProjectID" : "domainr_whois",
+		"NumStars" : 251
+	},
+	{
+		"_id" : ObjectId("62901a068b2efbc6e30ddf97"),
+		"NumAuthors" : 24,
+		"ProjectID" : "hashicorp_hil",
+		"NumStars" : 345
+	},
+	{
+		"_id" : ObjectId("62901a0b8b2efbc6e30f3630"),
+		"NumAuthors" : 26,
+		"ProjectID" : "adams-sarah_test2doc",
+		"NumStars" : 346
+	},
+	{
+		"_id" : ObjectId("62901a138b2efbc6e311fcda"),
+		"NumAuthors" : 15,
+		"ProjectID" : "isgasho_gta",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("62901a148b2efbc6e3121fe7"),
+		"NumAuthors" : 15,
+		"ProjectID" : "renproject_hyperdrive",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("62901a148b2efbc6e3123c21"),
+		"NumAuthors" : 25,
+		"ProjectID" : "QubitProducts_exporter_exporter",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("62901a158b2efbc6e312a548"),
+		"NumAuthors" : 30,
+		"ProjectID" : "greymd_ojichat",
+		"NumStars" : 686
+	},
+	{
+		"_id" : ObjectId("62901a168b2efbc6e312c732"),
+		"NumAuthors" : 11,
+		"ProjectID" : "fujiwara_fluent-agent-hydra",
+		"NumStars" : 100
+	},
+	{
+		"_id" : ObjectId("62901a208b2efbc6e3161705"),
+		"NumAuthors" : 16,
+		"ProjectID" : "guonaihong_gout",
+		"NumStars" : 431
+	},
+	{
+		"_id" : ObjectId("62901a238b2efbc6e31733ba"),
+		"NumAuthors" : 23,
+		"ProjectID" : "billputer_go-namecheap",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("62901a258b2efbc6e317f15d"),
+		"NumAuthors" : 26,
+		"ProjectID" : "vzex_dog-tunnel",
+		"NumStars" : 1818
+	},
+	{
+		"_id" : ObjectId("62901a288b2efbc6e318c81d"),
+		"NumAuthors" : 11,
+		"ProjectID" : "bytesparadise_libasciidoc",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("62901a398b2efbc6e31cf11c"),
+		"NumAuthors" : 66,
+		"ProjectID" : "buchgr_bazel-remote",
+		"NumStars" : 213
+	},
+	{
+		"_id" : ObjectId("62901a6a8b2efbc6e32076fb"),
+		"NumAuthors" : 23,
+		"ProjectID" : "iand_logr",
+		"NumStars" : 325
+	},
+	{
+		"_id" : ObjectId("62901ab68b2efbc6e324f881"),
+		"NumAuthors" : 22,
+		"ProjectID" : "pingcap_failpoint",
+		"NumStars" : 439
+	},
+	{
+		"_id" : ObjectId("62901abb8b2efbc6e3253d72"),
+		"NumAuthors" : 15,
+		"ProjectID" : "timescale_outflux",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("62901ac78b2efbc6e3263f9c"),
+		"NumAuthors" : 25,
+		"ProjectID" : "TylerBrock_saw",
+		"NumStars" : 877
+	},
+	{
+		"_id" : ObjectId("62901acf8b2efbc6e326dc28"),
+		"NumAuthors" : 29,
+		"ProjectID" : "ybbus_jsonrpc",
+		"NumStars" : 163
+	},
+	{
+		"_id" : ObjectId("62901ad08b2efbc6e3271d76"),
+		"NumAuthors" : 12,
+		"ProjectID" : "xyproto_simpleredis",
+		"NumStars" : 139
+	},
+	{
+		"_id" : ObjectId("62901ad68b2efbc6e3275bb8"),
+		"NumAuthors" : 101,
+		"ProjectID" : "zmb3_spotify",
+		"NumStars" : 622
+	},
+	{
+		"_id" : ObjectId("62901ae58b2efbc6e3288cac"),
+		"NumAuthors" : 11,
+		"ProjectID" : "getsolus_usysconf",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("62901af08b2efbc6e32951e6"),
+		"NumAuthors" : 27,
+		"ProjectID" : "lileio_lile",
+		"NumStars" : 1159
+	},
+	{
+		"_id" : ObjectId("62901b278b2efbc6e32cb3cc"),
+		"NumAuthors" : 32,
+		"ProjectID" : "c-bata_kube-prompt",
+		"NumStars" : 1348
+	},
+	{
+		"_id" : ObjectId("62901b2e8b2efbc6e32d1fb9"),
+		"NumAuthors" : 11,
+		"ProjectID" : "cwdsuzhou_tensile-kube",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("62901b458b2efbc6e32edd3b"),
+		"NumAuthors" : 113,
+		"ProjectID" : "envoyproxy_ratelimit",
+		"NumStars" : 950
+	},
+	{
+		"_id" : ObjectId("62901b4c8b2efbc6e32f29ef"),
+		"NumAuthors" : 25,
+		"ProjectID" : "servicemeshinterface_smi-sdk-go",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62901b608b2efbc6e3303a4b"),
+		"NumAuthors" : 26,
+		"ProjectID" : "ikeikeikeike_go-sitemap-generator",
+		"NumStars" : 149
+	},
+	{
+		"_id" : ObjectId("62901b778b2efbc6e331ae72"),
+		"NumAuthors" : 30,
+		"ProjectID" : "mikkyang_id3-go",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("62901b848b2efbc6e332a217"),
+		"NumAuthors" : 65,
+		"ProjectID" : "jinzhu_copier",
+		"NumStars" : 1444
+	},
+	{
+		"_id" : ObjectId("62901b908b2efbc6e3337d14"),
+		"NumAuthors" : 36,
+		"ProjectID" : "diamondburned_arikawa",
+		"NumStars" : 123
+	},
+	{
+		"_id" : ObjectId("62901b9d8b2efbc6e3349a56"),
+		"NumAuthors" : 21,
+		"ProjectID" : "mum4k_termdash",
+		"NumStars" : 1396
+	},
+	{
+		"_id" : ObjectId("62901be98b2efbc6e339ea48"),
+		"NumAuthors" : 32,
+		"ProjectID" : "kubesphere_fluentbit-operator",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("62901bf18b2efbc6e33a7259"),
+		"NumAuthors" : 14,
+		"ProjectID" : "vrischmann_envconfig",
+		"NumStars" : 177
+	},
+	{
+		"_id" : ObjectId("62901bf88b2efbc6e33ae613"),
+		"NumAuthors" : 16,
+		"ProjectID" : "ByteArena_box2d",
+		"NumStars" : 196
+	},
+	{
+		"_id" : ObjectId("62901c278b2efbc6e33e53f3"),
+		"NumAuthors" : 28,
+		"ProjectID" : "cloudfoundry_lager",
+		"NumStars" : 67
+	},
+	{
+		"_id" : ObjectId("62901c5d8b2efbc6e341d081"),
+		"NumAuthors" : 32,
+		"ProjectID" : "cactus_go-statsd-client",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("62901c6f8b2efbc6e3430fc6"),
+		"NumAuthors" : 30,
+		"ProjectID" : "fauna_faunadb-go",
+		"NumStars" : 115
+	},
+	{
+		"_id" : ObjectId("62901c6f8b2efbc6e3433a0a"),
+		"NumAuthors" : 24,
+		"ProjectID" : "funtoy_go-tdlib",
+		"NumStars" : 228
+	},
+	{
+		"_id" : ObjectId("62901c898b2efbc6e3451484"),
+		"NumAuthors" : 19,
+		"ProjectID" : "1dustindavis_gorilla",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("62901ca58b2efbc6e3471dae"),
+		"NumAuthors" : 15,
+		"ProjectID" : "dvyukov_go-fuzz-corpus",
+		"NumStars" : 81
+	},
+	{
+		"_id" : ObjectId("62901cad8b2efbc6e3479bdf"),
+		"NumAuthors" : 12,
+		"ProjectID" : "secrethub_secrethub-cli",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("62901cb78b2efbc6e348554d"),
+		"NumAuthors" : 18,
+		"ProjectID" : "gookit_validate",
+		"NumStars" : 276
+	},
+	{
+		"_id" : ObjectId("62901ce78b2efbc6e34bb361"),
+		"NumAuthors" : 43,
+		"ProjectID" : "honeycombio_buildevents",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("62901cea8b2efbc6e34bd421"),
+		"NumAuthors" : 23,
+		"ProjectID" : "antchfx_xpath",
+		"NumStars" : 327
+	},
+	{
+		"_id" : ObjectId("62901cf68b2efbc6e34c790a"),
+		"NumAuthors" : 30,
+		"ProjectID" : "lensesio_lenses-go",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("62901d228b2efbc6e34f72b2"),
+		"NumAuthors" : 20,
+		"ProjectID" : "danielpacak_harbor-scanner-trivy",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("62901d478b2efbc6e351b2de"),
+		"NumAuthors" : 22,
+		"ProjectID" : "diskfs_go-diskfs",
+		"NumStars" : 155
+	},
+	{
+		"_id" : ObjectId("62901d648b2efbc6e353abd5"),
+		"NumAuthors" : 24,
+		"ProjectID" : "kolide_osquery-go",
+		"NumStars" : 219
+	},
+	{
+		"_id" : ObjectId("62901d9c8b2efbc6e3576c91"),
+		"NumAuthors" : 15,
+		"ProjectID" : "apache_skywalking-swck",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62901dc08b2efbc6e359794f"),
+		"NumAuthors" : 14,
+		"ProjectID" : "prisma_prisma-client-go",
+		"NumStars" : 500
+	},
+	{
+		"_id" : ObjectId("62901dc38b2efbc6e3599e77"),
+		"NumAuthors" : 46,
+		"ProjectID" : "mattn_go-redmine",
+		"NumStars" : 153
+	},
+	{
+		"_id" : ObjectId("62901dfe8b2efbc6e35d7c00"),
+		"NumAuthors" : 20,
+		"ProjectID" : "bradleyjkemp_cupaloy",
+		"NumStars" : 112
+	},
+	{
+		"_id" : ObjectId("62901e2c8b2efbc6e360735a"),
+		"NumAuthors" : 23,
+		"ProjectID" : "dnsimple_dnsimple-go",
+		"NumStars" : 70
+	},
+	{
+		"_id" : ObjectId("62901e4c8b2efbc6e362662e"),
+		"NumAuthors" : 136,
+		"ProjectID" : "go-co-op_gocron",
+		"NumStars" : 2880
+	},
+	{
+		"_id" : ObjectId("62901e5f8b2efbc6e3638edc"),
+		"NumAuthors" : 168,
+		"ProjectID" : "digitalocean_godo",
+		"NumStars" : 1021
+	},
+	{
+		"_id" : ObjectId("62901e7a8b2efbc6e3659739"),
+		"NumAuthors" : 35,
+		"ProjectID" : "cri-o_ocicni",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62901e7a8b2efbc6e3659b47"),
+		"NumAuthors" : 34,
+		"ProjectID" : "eBay_go-ovn",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("62901e918b2efbc6e366fc54"),
+		"NumAuthors" : 13,
+		"ProjectID" : "skupperproject_skupper",
+		"NumStars" : 112
+	},
+	{
+		"_id" : ObjectId("62901efc8b2efbc6e36de397"),
+		"NumAuthors" : 26,
+		"ProjectID" : "seiflotfy_cuckoofilter",
+		"NumStars" : 680
+	},
+	{
+		"_id" : ObjectId("62901f108b2efbc6e36f7416"),
+		"NumAuthors" : 36,
+		"ProjectID" : "tencentyun_cos-go-sdk-v5",
+		"NumStars" : 74
+	},
+	{
+		"_id" : ObjectId("62901f188b2efbc6e37001e0"),
+		"NumAuthors" : 15,
+		"ProjectID" : "redhat-cop_keepalived-operator",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("62901f2f8b2efbc6e3716a27"),
+		"NumAuthors" : 13,
+		"ProjectID" : "akavel_rsrc",
+		"NumStars" : 704
+	},
+	{
+		"_id" : ObjectId("62901f488b2efbc6e3730159"),
+		"NumAuthors" : 24,
+		"ProjectID" : "getevo_mysql",
+		"NumStars" : 72
+	},
+	{
+		"_id" : ObjectId("62901f4a8b2efbc6e373142b"),
+		"NumAuthors" : 24,
+		"ProjectID" : "packethost_packet-ccm",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("62901f4e8b2efbc6e3736b3f"),
+		"NumAuthors" : 12,
+		"ProjectID" : "billziss-gh_cgofuse",
+		"NumStars" : 235
+	},
+	{
+		"_id" : ObjectId("62901f7e8b2efbc6e375bbd1"),
+		"NumAuthors" : 44,
+		"ProjectID" : "jarcoal_httpmock",
+		"NumStars" : 851
+	},
+	{
+		"_id" : ObjectId("62901fb18b2efbc6e3788446"),
+		"NumAuthors" : 14,
+		"ProjectID" : "blevesearch_blevex",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("62901fec8b2efbc6e37b6ccb"),
+		"NumAuthors" : 43,
+		"ProjectID" : "kubernetes-sigs_go-open-service-broker-client",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("62901ff58b2efbc6e37bf0e2"),
+		"NumAuthors" : 26,
+		"ProjectID" : "nokia_danm",
+		"NumStars" : 207
+	},
+	{
+		"_id" : ObjectId("629020338b2efbc6e37eb9cc"),
+		"NumAuthors" : 36,
+		"ProjectID" : "haproxytech_client-native",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("6290203d8b2efbc6e37f3994"),
+		"NumAuthors" : 25,
+		"ProjectID" : "webdevops_azure-resourcemanager-exporter",
+		"NumStars" : 157
+	},
+	{
+		"_id" : ObjectId("6290203d8b2efbc6e37f6367"),
+		"NumAuthors" : 41,
+		"ProjectID" : "r3labs_sse",
+		"NumStars" : 201
+	},
+	{
+		"_id" : ObjectId("6290203e8b2efbc6e37f6408"),
+		"NumAuthors" : 26,
+		"ProjectID" : "ahmetb_go-linq",
+		"NumStars" : 2118
+	},
+	{
+		"_id" : ObjectId("629020468b2efbc6e37f8bed"),
+		"NumAuthors" : 34,
+		"ProjectID" : "firecracker-microvm_firecracker-go-sdk",
+		"NumStars" : 204
+	},
+	{
+		"_id" : ObjectId("629020518b2efbc6e38007ad"),
+		"NumAuthors" : 15,
+		"ProjectID" : "jtyr_gbt",
+		"NumStars" : 295
+	},
+	{
+		"_id" : ObjectId("629020648b2efbc6e3812e3a"),
+		"NumAuthors" : 30,
+		"ProjectID" : "vmware-tanzu_vm-operator-api",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("629020948b2efbc6e3838b16"),
+		"NumAuthors" : 88,
+		"ProjectID" : "flosch_pongo2",
+		"NumStars" : 1903
+	},
+	{
+		"_id" : ObjectId("629020bc8b2efbc6e3858cd9"),
+		"NumAuthors" : 19,
+		"ProjectID" : "FuzzyStatic_blizzard",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("629020c78b2efbc6e385f982"),
+		"NumAuthors" : 46,
+		"ProjectID" : "labd_terraform-provider-commercetools",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("629020e08b2efbc6e3873c2b"),
+		"NumAuthors" : 26,
+		"ProjectID" : "gravitational_trace",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("629021cd8b2efbc6e392d693"),
+		"NumAuthors" : 15,
+		"ProjectID" : "jacobsa_crypto",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("629021dc8b2efbc6e3938486"),
+		"NumAuthors" : 28,
+		"ProjectID" : "cavaliercoder_grab",
+		"NumStars" : 744
+	},
+	{
+		"_id" : ObjectId("629022538b2efbc6e3996d0a"),
+		"NumAuthors" : 15,
+		"ProjectID" : "kbst_terraform-provider-kustomize",
+		"NumStars" : 126
+	},
+	{
+		"_id" : ObjectId("629022698b2efbc6e39a6e0e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "a8m_tree",
+		"NumStars" : 56
+	},
+	{
+		"_id" : ObjectId("629022828b2efbc6e39bab5a"),
+		"NumAuthors" : 11,
+		"ProjectID" : "weaveworks_go-odp",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("629022e58b2efbc6e3a0973a"),
+		"NumAuthors" : 14,
+		"ProjectID" : "kiwiirc_webircgateway",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("629023218b2efbc6e3a3bdfc"),
+		"NumAuthors" : 15,
+		"ProjectID" : "aisuko_ctlptl",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("629023278b2efbc6e3a42722"),
+		"NumAuthors" : 63,
+		"ProjectID" : "teralytics_prometheus-ecs-discovery",
+		"NumStars" : 129
+	},
+	{
+		"_id" : ObjectId("6290236d8b2efbc6e3a76555"),
+		"NumAuthors" : 16,
+		"ProjectID" : "decred_dcrtime",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629023938b2efbc6e3a9a184"),
+		"NumAuthors" : 43,
+		"ProjectID" : "c9s_goprocinfo",
+		"NumStars" : 597
+	},
+	{
+		"_id" : ObjectId("629023b98b2efbc6e3ab4118"),
+		"NumAuthors" : 23,
+		"ProjectID" : "uber-go_config",
+		"NumStars" : 212
+	},
+	{
+		"_id" : ObjectId("629024568b2efbc6e3b3c9fc"),
+		"NumAuthors" : 27,
+		"ProjectID" : "lyft_cni-ipvlan-vpc-k8s",
+		"NumStars" : 300
+	},
+	{
+		"_id" : ObjectId("6290245e8b2efbc6e3b45469"),
+		"NumAuthors" : 13,
+		"ProjectID" : "andygabby_sre-tools",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629024678b2efbc6e3b48fa6"),
+		"NumAuthors" : 12,
+		"ProjectID" : "Simi-Paxleal-J_GO-Workshop",
+		"NumStars" : 78
+	},
+	{
+		"_id" : ObjectId("629024f68b2efbc6e3bc13fb"),
+		"NumAuthors" : 11,
+		"ProjectID" : "dgrr_http2",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("629024fb8b2efbc6e3bc6512"),
+		"NumAuthors" : 36,
+		"ProjectID" : "juju_errors",
+		"NumStars" : 1168
+	},
+	{
+		"_id" : ObjectId("6290250f8b2efbc6e3bd6f1f"),
+		"NumAuthors" : 37,
+		"ProjectID" : "olahol_melody",
+		"NumStars" : 1969
+	},
+	{
+		"_id" : ObjectId("629025138b2efbc6e3bd87c6"),
+		"NumAuthors" : 37,
+		"ProjectID" : "moovweb_rubex",
+		"NumStars" : 239
+	},
+	{
+		"_id" : ObjectId("6290254b8b2efbc6e3c0830c"),
+		"NumAuthors" : 18,
+		"ProjectID" : "kurin_blazer",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("6290254c8b2efbc6e3c09d51"),
+		"NumAuthors" : 68,
+		"ProjectID" : "h2non_filetype",
+		"NumStars" : 1180
+	},
+	{
+		"_id" : ObjectId("6290254c8b2efbc6e3c0a941"),
+		"NumAuthors" : 17,
+		"ProjectID" : "cloudtools_ssh-cert-authority",
+		"NumStars" : 590
+	},
+	{
+		"_id" : ObjectId("629025558b2efbc6e3c0ffb9"),
+		"NumAuthors" : 14,
+		"ProjectID" : "caarlos0_postgresql_exporter",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("629025a68b2efbc6e3c51de8"),
+		"NumAuthors" : 19,
+		"ProjectID" : "domainr_dnsr",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("629025b18b2efbc6e3c5839b"),
+		"NumAuthors" : 13,
+		"ProjectID" : "google_rpmpack",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("629025bc8b2efbc6e3c603fb"),
+		"NumAuthors" : 70,
+		"ProjectID" : "go-gota_gota",
+		"NumStars" : 1408
+	},
+	{
+		"_id" : ObjectId("629025ec8b2efbc6e3c88025"),
+		"NumAuthors" : 23,
+		"ProjectID" : "microsoft_azure-devops-go-api",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629025f68b2efbc6e3c8e5f4"),
+		"NumAuthors" : 15,
+		"ProjectID" : "nanmu42_etherscan-api",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("629025f68b2efbc6e3c910ac"),
+		"NumAuthors" : 37,
+		"ProjectID" : "softlayer_softlayer-go",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629026308b2efbc6e3cbd548"),
+		"NumAuthors" : 81,
+		"ProjectID" : "gonum_plot",
+		"NumStars" : 1748
+	},
+	{
+		"_id" : ObjectId("629026328b2efbc6e3cc2897"),
+		"NumAuthors" : 19,
+		"ProjectID" : "C2FO_vfs",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("6290263c8b2efbc6e3cca512"),
+		"NumAuthors" : 12,
+		"ProjectID" : "bitfield_terraform-provider-checkly",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629026578b2efbc6e3cdb610"),
+		"NumAuthors" : 25,
+		"ProjectID" : "dave_jennifer",
+		"NumStars" : 1713
+	},
+	{
+		"_id" : ObjectId("629026628b2efbc6e3ce98ae"),
+		"NumAuthors" : 12,
+		"ProjectID" : "heetch_avro",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("6290267f8b2efbc6e3cfb523"),
+		"NumAuthors" : 28,
+		"ProjectID" : "Mongey_terraform-provider-confluentcloud",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629026968b2efbc6e3d0c71e"),
+		"NumAuthors" : 172,
+		"ProjectID" : "rs_zerolog",
+		"NumStars" : 3808
+	},
+	{
+		"_id" : ObjectId("629026b68b2efbc6e3d2a55b"),
+		"NumAuthors" : 15,
+		"ProjectID" : "Staudey_solbuild",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629026bd8b2efbc6e3d2eede"),
+		"NumAuthors" : 21,
+		"ProjectID" : "dchote_go-openal",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("629026d18b2efbc6e3d3b6f3"),
+		"NumAuthors" : 18,
+		"ProjectID" : "bitleak_lmstfy",
+		"NumStars" : 185
+	},
+	{
+		"_id" : ObjectId("629026db8b2efbc6e3d44235"),
+		"NumAuthors" : 24,
+		"ProjectID" : "yanyiwu_gojieba",
+		"NumStars" : 1331
+	},
+	{
+		"_id" : ObjectId("6290270a8b2efbc6e3d6bd3b"),
+		"NumAuthors" : 30,
+		"ProjectID" : "skanehira_docui",
+		"NumStars" : 1448
+	},
+	{
+		"_id" : ObjectId("629027458b2efbc6e3d9aac5"),
+		"NumAuthors" : 48,
+		"ProjectID" : "zalando-incubator_kube-metrics-adapter",
+		"NumStars" : 240
+	},
+	{
+		"_id" : ObjectId("6290276f8b2efbc6e3dbd74d"),
+		"NumAuthors" : 36,
+		"ProjectID" : "justinas_nosurf",
+		"NumStars" : 1065
+	},
+	{
+		"_id" : ObjectId("629027d38b2efbc6e3e08eb9"),
+		"NumAuthors" : 36,
+		"ProjectID" : "google_googet",
+		"NumStars" : 79
+	},
+	{
+		"_id" : ObjectId("629028068b2efbc6e3e3348e"),
+		"NumAuthors" : 35,
+		"ProjectID" : "strava_go.strava",
+		"NumStars" : 220
+	},
+	{
+		"_id" : ObjectId("629028538b2efbc6e3e73391"),
+		"NumAuthors" : 15,
+		"ProjectID" : "WireGuard_wgctrl-go",
+		"NumStars" : 254
+	},
+	{
+		"_id" : ObjectId("6290288b8b2efbc6e3e9f7d9"),
+		"NumAuthors" : 36,
+		"ProjectID" : "opsgenie_opsgenie-go-sdk",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("629028a88b2efbc6e3eb67e1"),
+		"NumAuthors" : 11,
+		"ProjectID" : "jessfraz_bpfd",
+		"NumStars" : 367
+	},
+	{
+		"_id" : ObjectId("629028cf8b2efbc6e3ed82d1"),
+		"NumAuthors" : 12,
+		"ProjectID" : "mesosphere_bun",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629028cf8b2efbc6e3ed9929"),
+		"NumAuthors" : 12,
+		"ProjectID" : "grailbio_bigmachine",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("629028da8b2efbc6e3ee0a6d"),
+		"NumAuthors" : 23,
+		"ProjectID" : "g8rswimmer_go-sfdc",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629028da8b2efbc6e3ee149a"),
+		"NumAuthors" : 27,
+		"ProjectID" : "decred_decred-binaries",
+		"NumStars" : 154
+	},
+	{
+		"_id" : ObjectId("6290293d8b2efbc6e3f2b5e2"),
+		"NumAuthors" : 52,
+		"ProjectID" : "pebbe_zmq4",
+		"NumStars" : 911
+	},
+	{
+		"_id" : ObjectId("629029b48b2efbc6e3f8f261"),
+		"NumAuthors" : 23,
+		"ProjectID" : "cloudflare_tableflip",
+		"NumStars" : 1332
+	},
+	{
+		"_id" : ObjectId("629029c58b2efbc6e3f9b91d"),
+		"NumAuthors" : 35,
+		"ProjectID" : "beltran_gohive",
+		"NumStars" : 89
+	},
+	{
+		"_id" : ObjectId("629029d98b2efbc6e3fa9b81"),
+		"NumAuthors" : 48,
+		"ProjectID" : "donovanhide_eventsource",
+		"NumStars" : 125
+	},
+	{
+		"_id" : ObjectId("62902a438b2efbc6e3ffe208"),
+		"NumAuthors" : 33,
+		"ProjectID" : "markjaquith_WordPress-Plugin-Directory-Slurper",
+		"NumStars" : 169
+	},
+	{
+		"_id" : ObjectId("62902a6c8b2efbc6e3022bec"),
+		"NumAuthors" : 90,
+		"ProjectID" : "buger_jsonparser",
+		"NumStars" : 3657
+	},
+	{
+		"_id" : ObjectId("62902a6d8b2efbc6e3024108"),
+		"NumAuthors" : 13,
+		"ProjectID" : "mdlayher_untappd",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62902aae8b2efbc6e3054eb7"),
+		"NumAuthors" : 22,
+		"ProjectID" : "robpike_ivy",
+		"NumStars" : 934
+	},
+	{
+		"_id" : ObjectId("62902afa8b2efbc6e309539c"),
+		"NumAuthors" : 37,
+		"ProjectID" : "cloudfoundry_diego-ssh",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62902b0f8b2efbc6e30a6d00"),
+		"NumAuthors" : 39,
+		"ProjectID" : "hyperjumptech_grule-rule-engine",
+		"NumStars" : 681
+	},
+	{
+		"_id" : ObjectId("62902b1d8b2efbc6e30b2b43"),
+		"NumAuthors" : 15,
+		"ProjectID" : "teambition_gear",
+		"NumStars" : 582
+	},
+	{
+		"_id" : ObjectId("62902b1f8b2efbc6e30b698d"),
+		"NumAuthors" : 15,
+		"ProjectID" : "sipcapture_heplify",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("62902b538b2efbc6e30da4c0"),
+		"NumAuthors" : 28,
+		"ProjectID" : "canthefason_go-watcher",
+		"NumStars" : 316
+	},
+	{
+		"_id" : ObjectId("62902b5c8b2efbc6e30e3b53"),
+		"NumAuthors" : 49,
+		"ProjectID" : "schollz_progressbar",
+		"NumStars" : 1358
+	},
+	{
+		"_id" : ObjectId("62902b788b2efbc6e30fcb27"),
+		"NumAuthors" : 27,
+		"ProjectID" : "rancher_trash",
+		"NumStars" : 319
+	},
+	{
+		"_id" : ObjectId("62902b8e8b2efbc6e310c962"),
+		"NumAuthors" : 39,
+		"ProjectID" : "buildbarn_bb-remote-execution",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("62902bf88b2efbc6e315f3ef"),
+		"NumAuthors" : 12,
+		"ProjectID" : "lorenzodonini_ocpp-go",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("62902bfa8b2efbc6e31645bd"),
+		"NumAuthors" : 26,
+		"ProjectID" : "inetaf_netaddr",
+		"NumStars" : 160
+	},
+	{
+		"_id" : ObjectId("62902c228b2efbc6e31811ff"),
+		"NumAuthors" : 11,
+		"ProjectID" : "adrg_libvlc-go",
+		"NumStars" : 156
+	},
+	{
+		"_id" : ObjectId("62902c238b2efbc6e31846bc"),
+		"NumAuthors" : 20,
+		"ProjectID" : "layeh_gopher-luar",
+		"NumStars" : 149
+	},
+	{
+		"_id" : ObjectId("62902c2c8b2efbc6e318bb87"),
+		"NumAuthors" : 11,
+		"ProjectID" : "keikoproj_active-monitor",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("62902c5e8b2efbc6e31b3c35"),
+		"NumAuthors" : 13,
+		"ProjectID" : "roots_trellis-cli",
+		"NumStars" : 72
+	},
+	{
+		"_id" : ObjectId("62902c988b2efbc6e31dfae2"),
+		"NumAuthors" : 11,
+		"ProjectID" : "ierosvin_ethdo",
+		"NumStars" : 61
+	},
+	{
+		"_id" : ObjectId("62902ca98b2efbc6e31ed7b3"),
+		"NumAuthors" : 35,
+		"ProjectID" : "studio-b12_gowebdav",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("62902cb68b2efbc6e31f5ce3"),
+		"NumAuthors" : 88,
+		"ProjectID" : "Praqma_helmsman",
+		"NumStars" : 711
+	},
+	{
+		"_id" : ObjectId("62902cd98b2efbc6e3213936"),
+		"NumAuthors" : 22,
+		"ProjectID" : "fanadol_dca",
+		"NumStars" : 115
+	},
+	{
+		"_id" : ObjectId("62902cf38b2efbc6e32281b3"),
+		"NumAuthors" : 46,
+		"ProjectID" : "dghubble_oauth1",
+		"NumStars" : 111
+	},
+	{
+		"_id" : ObjectId("62902d1c8b2efbc6e324a2be"),
+		"NumAuthors" : 17,
+		"ProjectID" : "env0_terratag",
+		"NumStars" : 377
+	},
+	{
+		"_id" : ObjectId("62902d368b2efbc6e325ea35"),
+		"NumAuthors" : 94,
+		"ProjectID" : "fullsailor_pkcs7",
+		"NumStars" : 178
+	},
+	{
+		"_id" : ObjectId("62902d608b2efbc6e327fd25"),
+		"NumAuthors" : 13,
+		"ProjectID" : "110y_handy-spanner",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("62902d6a8b2efbc6e3288228"),
+		"NumAuthors" : 13,
+		"ProjectID" : "gobwas_glob",
+		"NumStars" : 617
+	},
+	{
+		"_id" : ObjectId("62902d978b2efbc6e32adbd0"),
+		"NumAuthors" : 33,
+		"ProjectID" : "splunk_splunk-operator",
+		"NumStars" : 68
+	},
+	{
+		"_id" : ObjectId("62902db78b2efbc6e32c725e"),
+		"NumAuthors" : 45,
+		"ProjectID" : "xfrr_goffmpeg",
+		"NumStars" : 419
+	},
+	{
+		"_id" : ObjectId("62902dbc8b2efbc6e32ca1ea"),
+		"NumAuthors" : 86,
+		"ProjectID" : "googlemaps_google-maps-services-go",
+		"NumStars" : 471
+	},
+	{
+		"_id" : ObjectId("62902def8b2efbc6e32f2c81"),
+		"NumAuthors" : 42,
+		"ProjectID" : "digitalocean_go-libvirt",
+		"NumStars" : 526
+	},
+	{
+		"_id" : ObjectId("62902e2f8b2efbc6e3328c3c"),
+		"NumAuthors" : 23,
+		"ProjectID" : "LK4D4_vndr",
+		"NumStars" : 141
+	},
+	{
+		"_id" : ObjectId("62902f0a8b2efbc6e33d72e3"),
+		"NumAuthors" : 19,
+		"ProjectID" : "imkira_go-libav",
+		"NumStars" : 400
+	},
+	{
+		"_id" : ObjectId("62902f148b2efbc6e33e24e0"),
+		"NumAuthors" : 19,
+		"ProjectID" : "marcosnils_bin",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("62902f1d8b2efbc6e33e617d"),
+		"NumAuthors" : 32,
+		"ProjectID" : "dominikh_go-js-dom",
+		"NumStars" : 187
+	},
+	{
+		"_id" : ObjectId("62902f298b2efbc6e33f03b9"),
+		"NumAuthors" : 12,
+		"ProjectID" : "chaosblade-io_chaosblade-operator",
+		"NumStars" : 44
+	},
+	{
+		"_id" : ObjectId("62902fce8b2efbc6e347a3a2"),
+		"NumAuthors" : 70,
+		"ProjectID" : "superedge_superedge",
+		"NumStars" : 319
+	},
+	{
+		"_id" : ObjectId("62902feb8b2efbc6e348cfea"),
+		"NumAuthors" : 33,
+		"ProjectID" : "janimo_textsecure",
+		"NumStars" : 161
+	},
+	{
+		"_id" : ObjectId("629030028b2efbc6e34a1c3d"),
+		"NumAuthors" : 27,
+		"ProjectID" : "tendermint_tm-db",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("629030138b2efbc6e34b0621"),
+		"NumAuthors" : 20,
+		"ProjectID" : "cybozu-go_aptutil",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("629030188b2efbc6e34b207e"),
+		"NumAuthors" : 15,
+		"ProjectID" : "frankban_quicktest",
+		"NumStars" : 210
+	},
+	{
+		"_id" : ObjectId("629030288b2efbc6e34bd9e9"),
+		"NumAuthors" : 71,
+		"ProjectID" : "awa_go-iap",
+		"NumStars" : 374
+	},
+	{
+		"_id" : ObjectId("6290308a8b2efbc6e3512591"),
+		"NumAuthors" : 43,
+		"ProjectID" : "rs_xid",
+		"NumStars" : 1770
+	},
+	{
+		"_id" : ObjectId("629030ab8b2efbc6e352bb40"),
+		"NumAuthors" : 124,
+		"ProjectID" : "braintree-go_braintree-go",
+		"NumStars" : 245
+	},
+	{
+		"_id" : ObjectId("629030c38b2efbc6e3540860"),
+		"NumAuthors" : 17,
+		"ProjectID" : "hzlpypy_f5-rest-client",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("629030ca8b2efbc6e3546d10"),
+		"NumAuthors" : 11,
+		"ProjectID" : "anaseto_boohu",
+		"NumStars" : 155
+	},
+	{
+		"_id" : ObjectId("629030dc8b2efbc6e3554393"),
+		"NumAuthors" : 25,
+		"ProjectID" : "andskur_mollie-api-go",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("6290313a8b2efbc6e35a5cc1"),
+		"NumAuthors" : 12,
+		"ProjectID" : "fabiofalci_sconsify",
+		"NumStars" : 598
+	},
+	{
+		"_id" : ObjectId("629031798b2efbc6e35d82a4"),
+		"NumAuthors" : 182,
+		"ProjectID" : "gotk3_gotk3",
+		"NumStars" : 1849
+	},
+	{
+		"_id" : ObjectId("629031ca8b2efbc6e3619948"),
+		"NumAuthors" : 22,
+		"ProjectID" : "rhysd_go-github-selfupdate",
+		"NumStars" : 335
+	},
+	{
+		"_id" : ObjectId("629031f48b2efbc6e363d1cd"),
+		"NumAuthors" : 32,
+		"ProjectID" : "pusher_pusher-http-go",
+		"NumStars" : 152
+	},
+	{
+		"_id" : ObjectId("6290322a8b2efbc6e366f612"),
+		"NumAuthors" : 38,
+		"ProjectID" : "vito_oci-build-task",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("629032508b2efbc6e368adf5"),
+		"NumAuthors" : 14,
+		"ProjectID" : "cristalhq_jwt",
+		"NumStars" : 223
+	},
+	{
+		"_id" : ObjectId("6290326c8b2efbc6e36a548e"),
+		"NumAuthors" : 23,
+		"ProjectID" : "keybase_go-keybase-chat-bot",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629032808b2efbc6e36b72c6"),
+		"NumAuthors" : 55,
+		"ProjectID" : "masterzen_winrm",
+		"NumStars" : 261
+	},
+	{
+		"_id" : ObjectId("629032b88b2efbc6e36e5978"),
+		"NumAuthors" : 25,
+		"ProjectID" : "aporeto-inc_tg",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629033298b2efbc6e3747f91"),
+		"NumAuthors" : 48,
+		"ProjectID" : "hetznercloud_csi-driver",
+		"NumStars" : 246
+	},
+	{
+		"_id" : ObjectId("629033588b2efbc6e376e0ac"),
+		"NumAuthors" : 13,
+		"ProjectID" : "wemeetagain_go-hdwallet",
+		"NumStars" : 96
+	},
+	{
+		"_id" : ObjectId("629033598b2efbc6e376efe8"),
+		"NumAuthors" : 49,
+		"ProjectID" : "apache_incubator-yunikorn-core",
+		"NumStars" : 172
+	},
+	{
+		"_id" : ObjectId("629033718b2efbc6e3785194"),
+		"NumAuthors" : 17,
+		"ProjectID" : "github_git-sizer",
+		"NumStars" : 1943
+	},
+	{
+		"_id" : ObjectId("6290338d8b2efbc6e379ae54"),
+		"NumAuthors" : 99,
+		"ProjectID" : "gorilla_schema",
+		"NumStars" : 808
+	},
+	{
+		"_id" : ObjectId("629033bd8b2efbc6e37c57c6"),
+		"NumAuthors" : 14,
+		"ProjectID" : "himananiito_livedl",
+		"NumStars" : 161
+	},
+	{
+		"_id" : ObjectId("6290341e8b2efbc6e38112ab"),
+		"NumAuthors" : 30,
+		"ProjectID" : "alice-lg_birdwatcher",
+		"NumStars" : 53
+	},
+	{
+		"_id" : ObjectId("629034638b2efbc6e384838c"),
+		"NumAuthors" : 19,
+		"ProjectID" : "eapache_go-resiliency",
+		"NumStars" : 1036
+	},
+	{
+		"_id" : ObjectId("6290348c8b2efbc6e386606f"),
+		"NumAuthors" : 20,
+		"ProjectID" : "ucloud_redis-cluster-operator",
+		"NumStars" : 133
+	},
+	{
+		"_id" : ObjectId("629034a18b2efbc6e3879941"),
+		"NumAuthors" : 144,
+		"ProjectID" : "hashicorp_go-getter",
+		"NumStars" : 1022
+	},
+	{
+		"_id" : ObjectId("629034ae8b2efbc6e3885c61"),
+		"NumAuthors" : 13,
+		"ProjectID" : "mewkiz_flac",
+		"NumStars" : 139
+	},
+	{
+		"_id" : ObjectId("629034c28b2efbc6e38959c1"),
+		"NumAuthors" : 20,
+		"ProjectID" : "maciekmm_messenger-platform-go-sdk",
+		"NumStars" : 122
+	},
+	{
+		"_id" : ObjectId("6290351a8b2efbc6e38df07c"),
+		"NumAuthors" : 12,
+		"ProjectID" : "fox-one_mixin-sdk-go",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629035218b2efbc6e38e29ca"),
+		"NumAuthors" : 57,
+		"ProjectID" : "google_go-querystring",
+		"NumStars" : 1151
+	},
+	{
+		"_id" : ObjectId("6290354a8b2efbc6e39029f1"),
+		"NumAuthors" : 17,
+		"ProjectID" : "bwplotka_bingo",
+		"NumStars" : 89
+	},
+	{
+		"_id" : ObjectId("629035688b2efbc6e391c7b7"),
+		"NumAuthors" : 25,
+		"ProjectID" : "buildkite_terraform-provider-buildkite",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("6290357c8b2efbc6e392e5ed"),
+		"NumAuthors" : 12,
+		"ProjectID" : "intel_telemetry-aware-scheduling",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629035d28b2efbc6e3971414"),
+		"NumAuthors" : 15,
+		"ProjectID" : "genuinetools_ghb0t",
+		"NumStars" : 313
+	},
+	{
+		"_id" : ObjectId("629035e78b2efbc6e3982cfa"),
+		"NumAuthors" : 21,
+		"ProjectID" : "doytsujin_group-sync-operator",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("629035f08b2efbc6e39884d5"),
+		"NumAuthors" : 19,
+		"ProjectID" : "karrick_godirwalk",
+		"NumStars" : 440
+	},
+	{
+		"_id" : ObjectId("629035f88b2efbc6e39907a9"),
+		"NumAuthors" : 14,
+		"ProjectID" : "bboozzoo_mconnect",
+		"NumStars" : 265
+	},
+	{
+		"_id" : ObjectId("629036138b2efbc6e39a8453"),
+		"NumAuthors" : 39,
+		"ProjectID" : "josharian_impl",
+		"NumStars" : 678
+	},
+	{
+		"_id" : ObjectId("6290362c8b2efbc6e39bd6e3"),
+		"NumAuthors" : 33,
+		"ProjectID" : "zalando_go-keyring",
+		"NumStars" : 300
+	},
+	{
+		"_id" : ObjectId("6290365c8b2efbc6e39e8f6e"),
+		"NumAuthors" : 37,
+		"ProjectID" : "fzipp_gocyclo",
+		"NumStars" : 732
+	},
+	{
+		"_id" : ObjectId("629036788b2efbc6e39fd148"),
+		"NumAuthors" : 33,
+		"ProjectID" : "loopfz_gadgeto",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629036958b2efbc6e3a16de5"),
+		"NumAuthors" : 17,
+		"ProjectID" : "grailbio_bigslice",
+		"NumStars" : 223
+	},
+	{
+		"_id" : ObjectId("629036d08b2efbc6e3a44d3b"),
+		"NumAuthors" : 44,
+		"ProjectID" : "VictoriaMetrics_operator",
+		"NumStars" : 66
+	},
+	{
+		"_id" : ObjectId("629036f38b2efbc6e3a63df0"),
+		"NumAuthors" : 17,
+		"ProjectID" : "joomcode_errorx",
+		"NumStars" : 631
+	},
+	{
+		"_id" : ObjectId("6290370e8b2efbc6e3a7a677"),
+		"NumAuthors" : 62,
+		"ProjectID" : "gojek_heimdall",
+		"NumStars" : 1652
+	},
+	{
+		"_id" : ObjectId("629037358b2efbc6e3a98b43"),
+		"NumAuthors" : 35,
+		"ProjectID" : "bradleyfalzon_ghinstallation",
+		"NumStars" : 106
+	},
+	{
+		"_id" : ObjectId("629037478b2efbc6e3aa905c"),
+		"NumAuthors" : 17,
+		"ProjectID" : "nytimes_gcp-vault",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("629037638b2efbc6e3abd87b"),
+		"NumAuthors" : 12,
+		"ProjectID" : "hashicorp_terraform-plugin-go",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629037638b2efbc6e3abe63d"),
+		"NumAuthors" : 55,
+		"ProjectID" : "deis_builder",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("6290376a8b2efbc6e3ac3706"),
+		"NumAuthors" : 18,
+		"ProjectID" : "hashicorp_secrets-store-csi-driver-provider-vault",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("629037a28b2efbc6e3af4543"),
+		"NumAuthors" : 22,
+		"ProjectID" : "iotaledger_hive.go",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("629037b38b2efbc6e3b009d2"),
+		"NumAuthors" : 27,
+		"ProjectID" : "anthonynsimon_bild",
+		"NumStars" : 2446
+	},
+	{
+		"_id" : ObjectId("629037b78b2efbc6e3b03a1e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "erka_athenadriver",
+		"NumStars" : 72
+	},
+	{
+		"_id" : ObjectId("629037b98b2efbc6e3b071b3"),
+		"NumAuthors" : 29,
+		"ProjectID" : "RocketChat_Rocket.Chat.Go.SDK",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("6290382e8b2efbc6e3b6cbf9"),
+		"NumAuthors" : 12,
+		"ProjectID" : "kitabisa_teler",
+		"NumStars" : 1200
+	},
+	{
+		"_id" : ObjectId("629038748b2efbc6e3ba72a8"),
+		"NumAuthors" : 18,
+		"ProjectID" : "cockroachdb_errors",
+		"NumStars" : 441
+	},
+	{
+		"_id" : ObjectId("6290389d8b2efbc6e3bd1101"),
+		"NumAuthors" : 11,
+		"ProjectID" : "huydx_hget",
+		"NumStars" : 889
+	},
+	{
+		"_id" : ObjectId("6290389e8b2efbc6e3bd5550"),
+		"NumAuthors" : 24,
+		"ProjectID" : "tdewolff_parse",
+		"NumStars" : 213
+	},
+	{
+		"_id" : ObjectId("629038e98b2efbc6e3c11d03"),
+		"NumAuthors" : 17,
+		"ProjectID" : "tuenti_secrets-manager",
+		"NumStars" : 70
+	},
+	{
+		"_id" : ObjectId("6290390d8b2efbc6e3c353e8"),
+		"NumAuthors" : 89,
+		"ProjectID" : "inconshreveable_log15",
+		"NumStars" : 1022
+	},
+	{
+		"_id" : ObjectId("6290393c8b2efbc6e3c58c31"),
+		"NumAuthors" : 73,
+		"ProjectID" : "GoesToEleven_golang-project",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("6290394f8b2efbc6e3c69830"),
+		"NumAuthors" : 48,
+		"ProjectID" : "emersion_go-message",
+		"NumStars" : 160
+	},
+	{
+		"_id" : ObjectId("6290396e8b2efbc6e3c80210"),
+		"NumAuthors" : 11,
+		"ProjectID" : "makasim_amqpextra",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("629039c38b2efbc6e3cc4367"),
+		"NumAuthors" : 16,
+		"ProjectID" : "forkkit_ziti",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("62903a208b2efbc6e3d11d2a"),
+		"NumAuthors" : 16,
+		"ProjectID" : "h2non_gentleman",
+		"NumStars" : 866
+	},
+	{
+		"_id" : ObjectId("62903a3c8b2efbc6e3d2ac9c"),
+		"NumAuthors" : 24,
+		"ProjectID" : "gofiber_template",
+		"NumStars" : 61
+	},
+	{
+		"_id" : ObjectId("62903a458b2efbc6e3d359dd"),
+		"NumAuthors" : 34,
+		"ProjectID" : "Graylog2_go-gelf",
+		"NumStars" : 92
+	},
+	{
+		"_id" : ObjectId("62903a8f8b2efbc6e3d71b79"),
+		"NumAuthors" : 13,
+		"ProjectID" : "redhat-cop_operator-utils",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("62903a8f8b2efbc6e3d7256c"),
+		"NumAuthors" : 173,
+		"ProjectID" : "evol262_cri-dockerd",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("62903b3e8b2efbc6e3e0a813"),
+		"NumAuthors" : 14,
+		"ProjectID" : "ceph_cn",
+		"NumStars" : 147
+	},
+	{
+		"_id" : ObjectId("62903ba08b2efbc6e3e63643"),
+		"NumAuthors" : 113,
+		"ProjectID" : "hashicorp_memberlist",
+		"NumStars" : 2124
+	},
+	{
+		"_id" : ObjectId("62903ba88b2efbc6e3e68932"),
+		"NumAuthors" : 24,
+		"ProjectID" : "google_licenseclassifier",
+		"NumStars" : 173
+	},
+	{
+		"_id" : ObjectId("62903bb18b2efbc6e3e6f8af"),
+		"NumAuthors" : 27,
+		"ProjectID" : "PaesslerAG_gval",
+		"NumStars" : 239
+	},
+	{
+		"_id" : ObjectId("62903bec8b2efbc6e3ea1270"),
+		"NumAuthors" : 50,
+		"ProjectID" : "google_stenographer",
+		"NumStars" : 1556
+	},
+	{
+		"_id" : ObjectId("62903bf28b2efbc6e3ea403b"),
+		"NumAuthors" : 70,
+		"ProjectID" : "uber-go_tally",
+		"NumStars" : 413
+	},
+	{
+		"_id" : ObjectId("62903c3b8b2efbc6e3ee3437"),
+		"NumAuthors" : 13,
+		"ProjectID" : "chr4_mqtt2prometheus",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("62903c4b8b2efbc6e3ef5dae"),
+		"NumAuthors" : 31,
+		"ProjectID" : "sselph_scraper",
+		"NumStars" : 430
+	},
+	{
+		"_id" : ObjectId("62903c6a8b2efbc6e3f0ab50"),
+		"NumAuthors" : 68,
+		"ProjectID" : "russellhaering_gosaml2",
+		"NumStars" : 166
+	},
+	{
+		"_id" : ObjectId("62903c6a8b2efbc6e3f0c29a"),
+		"NumAuthors" : 96,
+		"ProjectID" : "chzyer_readline",
+		"NumStars" : 1654
+	},
+	{
+		"_id" : ObjectId("62903c758b2efbc6e3f11f17"),
+		"NumAuthors" : 11,
+		"ProjectID" : "timshannon_bolthold",
+		"NumStars" : 437
+	},
+	{
+		"_id" : ObjectId("62903c768b2efbc6e3f15b1d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "droyo_styx",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("62903ca08b2efbc6e3f3d1db"),
+		"NumAuthors" : 19,
+		"ProjectID" : "mjibson_goon",
+		"NumStars" : 223
+	},
+	{
+		"_id" : ObjectId("62903d6b8b2efbc6e3fe8ec2"),
+		"NumAuthors" : 22,
+		"ProjectID" : "folbricht_desync",
+		"NumStars" : 113
+	},
+	{
+		"_id" : ObjectId("62903d908b2efbc6e30071f2"),
+		"NumAuthors" : 18,
+		"ProjectID" : "Kong_go-pdk",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("62903dbc8b2efbc6e302ef6b"),
+		"NumAuthors" : 11,
+		"ProjectID" : "chengjianaaa_ginskeleton",
+		"NumStars" : 59
+	},
+	{
+		"_id" : ObjectId("62903dbe8b2efbc6e302fb39"),
+		"NumAuthors" : 24,
+		"ProjectID" : "gojuno_minimock",
+		"NumStars" : 252
+	},
+	{
+		"_id" : ObjectId("62903dfc8b2efbc6e30673e8"),
+		"NumAuthors" : 11,
+		"ProjectID" : "go-bdd_gobdd",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62903e388b2efbc6e3092ae5"),
+		"NumAuthors" : 51,
+		"ProjectID" : "francoispqt_gojay",
+		"NumStars" : 1822
+	},
+	{
+		"_id" : ObjectId("62903e488b2efbc6e30a3e3f"),
+		"NumAuthors" : 22,
+		"ProjectID" : "scritchley_orc",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("62903e498b2efbc6e30a86b3"),
+		"NumAuthors" : 111,
+		"ProjectID" : "caffix_amass",
+		"NumStars" : 5351
+	},
+	{
+		"_id" : ObjectId("62903e658b2efbc6e30b909d"),
+		"NumAuthors" : 11,
+		"ProjectID" : "dwdcth_engine",
+		"NumStars" : 341
+	},
+	{
+		"_id" : ObjectId("62903e6f8b2efbc6e30c3244"),
+		"NumAuthors" : 25,
+		"ProjectID" : "lestrrat-go_libxml2",
+		"NumStars" : 159
+	},
+	{
+		"_id" : ObjectId("62903e948b2efbc6e30e578f"),
+		"NumAuthors" : 44,
+		"ProjectID" : "kumina_postfix_exporter",
+		"NumStars" : 119
+	},
+	{
+		"_id" : ObjectId("62903eaf8b2efbc6e31036a1"),
+		"NumAuthors" : 17,
+		"ProjectID" : "ianmarmour_nvidia-clerk",
+		"NumStars" : 236
+	},
+	{
+		"_id" : ObjectId("62903eb98b2efbc6e310bc9a"),
+		"NumAuthors" : 32,
+		"ProjectID" : "oschwald_maxminddb-golang",
+		"NumStars" : 275
+	},
+	{
+		"_id" : ObjectId("62903ec48b2efbc6e3114387"),
+		"NumAuthors" : 34,
+		"ProjectID" : "kudobuilder_kuttl",
+		"NumStars" : 157
+	},
+	{
+		"_id" : ObjectId("62903f2b8b2efbc6e316c181"),
+		"NumAuthors" : 34,
+		"ProjectID" : "spaolacci_murmur3",
+		"NumStars" : 680
+	},
+	{
+		"_id" : ObjectId("62903f388b2efbc6e31757e1"),
+		"NumAuthors" : 11,
+		"ProjectID" : "terra-farm_terraform-provider-xenorchestra",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("62903f4b8b2efbc6e3186ce6"),
+		"NumAuthors" : 37,
+		"ProjectID" : "containerd_go-runc",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("62903f568b2efbc6e3198caf"),
+		"NumAuthors" : 18,
+		"ProjectID" : "lytics_grid",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("62903f6b8b2efbc6e31abc83"),
+		"NumAuthors" : 39,
+		"ProjectID" : "d5_tengo",
+		"NumStars" : 1968
+	},
+	{
+		"_id" : ObjectId("62903f6f8b2efbc6e31ad610"),
+		"NumAuthors" : 15,
+		"ProjectID" : "BurntSushi_xgbutil",
+		"NumStars" : 171
+	},
+	{
+		"_id" : ObjectId("62903f868b2efbc6e31bd27d"),
+		"NumAuthors" : 64,
+		"ProjectID" : "hiddeco_cronjobber",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("62903fdf8b2efbc6e320b1d8"),
+		"NumAuthors" : 11,
+		"ProjectID" : "AknEp_go-astits",
+		"NumStars" : 332
+	},
+	{
+		"_id" : ObjectId("629040208b2efbc6e324a1be"),
+		"NumAuthors" : 17,
+		"ProjectID" : "stephens2424_php",
+		"NumStars" : 574
+	},
+	{
+		"_id" : ObjectId("629040348b2efbc6e3257c01"),
+		"NumAuthors" : 39,
+		"ProjectID" : "funny_link",
+		"NumStars" : 1444
+	},
+	{
+		"_id" : ObjectId("6290404e8b2efbc6e32707ee"),
+		"NumAuthors" : 34,
+		"ProjectID" : "unixporn_trup",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("629040558b2efbc6e32755ca"),
+		"NumAuthors" : 28,
+		"ProjectID" : "kylelemons_go-gypsy",
+		"NumStars" : 186
+	},
+	{
+		"_id" : ObjectId("6290407a8b2efbc6e32973b2"),
+		"NumAuthors" : 19,
+		"ProjectID" : "projectdiscovery_dnsx",
+		"NumStars" : 297
+	},
+	{
+		"_id" : ObjectId("629040d28b2efbc6e32e59b4"),
+		"NumAuthors" : 12,
+		"ProjectID" : "paulmach_osm",
+		"NumStars" : 118
+	},
+	{
+		"_id" : ObjectId("6290414d8b2efbc6e334b5b2"),
+		"NumAuthors" : 45,
+		"ProjectID" : "fatih_pool",
+		"NumStars" : 1180
+	},
+	{
+		"_id" : ObjectId("629041558b2efbc6e3352934"),
+		"NumAuthors" : 31,
+		"ProjectID" : "packethost_docker-machine-driver-packet",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("629041658b2efbc6e3365eb0"),
+		"NumAuthors" : 23,
+		"ProjectID" : "Kucoin_kucoin-go-sdk",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("6290416e8b2efbc6e336aea0"),
+		"NumAuthors" : 44,
+		"ProjectID" : "araddon_dateparse",
+		"NumStars" : 1271
+	},
+	{
+		"_id" : ObjectId("6290416e8b2efbc6e336cd08"),
+		"NumAuthors" : 19,
+		"ProjectID" : "tyler-sommer_stick",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("6290416e8b2efbc6e336e1a7"),
+		"NumAuthors" : 19,
+		"ProjectID" : "crossplane_provider-alibaba",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("6290418a8b2efbc6e337fdaa"),
+		"NumAuthors" : 23,
+		"ProjectID" : "pixiv_go-libjpeg",
+		"NumStars" : 89
+	},
+	{
+		"_id" : ObjectId("629041958b2efbc6e3389196"),
+		"NumAuthors" : 14,
+		"ProjectID" : "insomniacslk_irc-slack",
+		"NumStars" : 108
+	},
+	{
+		"_id" : ObjectId("629041958b2efbc6e338e3f0"),
+		"NumAuthors" : 27,
+		"ProjectID" : "inetaf_tcpproxy",
+		"NumStars" : 1152
+	},
+	{
+		"_id" : ObjectId("629041a68b2efbc6e339b2d2"),
+		"NumAuthors" : 12,
+		"ProjectID" : "fasthttp_session",
+		"NumStars" : 62
+	},
+	{
+		"_id" : ObjectId("629042208b2efbc6e3408d42"),
+		"NumAuthors" : 104,
+		"ProjectID" : "aerospike_aerospike-client-go",
+		"NumStars" : 365
+	},
+	{
+		"_id" : ObjectId("6290423e8b2efbc6e3423b09"),
+		"NumAuthors" : 18,
+		"ProjectID" : "spacemonkeygo_monkit",
+		"NumStars" : 429
+	},
+	{
+		"_id" : ObjectId("629042528b2efbc6e3432c54"),
+		"NumAuthors" : 30,
+		"ProjectID" : "hajimehoshi_oto",
+		"NumStars" : 680
+	},
+	{
+		"_id" : ObjectId("629042828b2efbc6e3462c77"),
+		"NumAuthors" : 11,
+		"ProjectID" : "containers_ocicrypt",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("629042878b2efbc6e3466344"),
+		"NumAuthors" : 136,
+		"ProjectID" : "dghubble_go-twitter",
+		"NumStars" : 1040
+	},
+	{
+		"_id" : ObjectId("629042ba8b2efbc6e348e773"),
+		"NumAuthors" : 48,
+		"ProjectID" : "influxdata_influxdb-client-go",
+		"NumStars" : 213
+	},
+	{
+		"_id" : ObjectId("629042ca8b2efbc6e34a54f9"),
+		"NumAuthors" : 34,
+		"ProjectID" : "heetch_confita",
+		"NumStars" : 305
+	},
+	{
+		"_id" : ObjectId("629042fe8b2efbc6e34d3e12"),
+		"NumAuthors" : 107,
+		"ProjectID" : "cloudevents_sdk-go",
+		"NumStars" : 257
+	},
+	{
+		"_id" : ObjectId("629043108b2efbc6e34dfd15"),
+		"NumAuthors" : 43,
+		"ProjectID" : "grpc-ecosystem_grpc-health-probe",
+		"NumStars" : 543
+	},
+	{
+		"_id" : ObjectId("629043198b2efbc6e34e7021"),
+		"NumAuthors" : 51,
+		"ProjectID" : "krolaw_dhcp4",
+		"NumStars" : 296
+	},
+	{
+		"_id" : ObjectId("6290433f8b2efbc6e350e008"),
+		"NumAuthors" : 70,
+		"ProjectID" : "google_gousb",
+		"NumStars" : 596
+	},
+	{
+		"_id" : ObjectId("629043688b2efbc6e352dd7a"),
+		"NumAuthors" : 61,
+		"ProjectID" : "caddyserver_certmagic",
+		"NumStars" : 2791
+	},
+	{
+		"_id" : ObjectId("629043998b2efbc6e35620ce"),
+		"NumAuthors" : 18,
+		"ProjectID" : "jetstack_version-checker",
+		"NumStars" : 360
+	},
+	{
+		"_id" : ObjectId("629043ad8b2efbc6e356df3d"),
+		"NumAuthors" : 54,
+		"ProjectID" : "willf_bloom",
+		"NumStars" : 894
+	},
+	{
+		"_id" : ObjectId("629043ea8b2efbc6e35a8e1f"),
+		"NumAuthors" : 11,
+		"ProjectID" : "ilibs_gosql",
+		"NumStars" : 190
+	},
+	{
+		"_id" : ObjectId("629043ec8b2efbc6e35aa8c0"),
+		"NumAuthors" : 31,
+		"ProjectID" : "Clever_leakybucket",
+		"NumStars" : 77
+	},
+	{
+		"_id" : ObjectId("629044008b2efbc6e35b9a65"),
+		"NumAuthors" : 87,
+		"ProjectID" : "mailgun_mailgun-go",
+		"NumStars" : 471
+	},
+	{
+		"_id" : ObjectId("629044418b2efbc6e35f3fa2"),
+		"NumAuthors" : 12,
+		"ProjectID" : "deadlysyn_ahab",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("629044458b2efbc6e35f6f16"),
+		"NumAuthors" : 17,
+		"ProjectID" : "ianlopshire_go-fixedwidth",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629044c68b2efbc6e3660c6e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "corneliusweig_ketall",
+		"NumStars" : 187
+	},
+	{
+		"_id" : ObjectId("629044e68b2efbc6e367e869"),
+		"NumAuthors" : 85,
+		"ProjectID" : "containers_toolbox",
+		"NumStars" : 511
+	},
+	{
+		"_id" : ObjectId("629044f88b2efbc6e3690ebb"),
+		"NumAuthors" : 32,
+		"ProjectID" : "wasmerio_wasmer-go",
+		"NumStars" : 635
+	},
+	{
+		"_id" : ObjectId("629045068b2efbc6e3699661"),
+		"NumAuthors" : 23,
+		"ProjectID" : "andrewstuart_go-robinhood",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("6290450a8b2efbc6e369f6ab"),
+		"NumAuthors" : 59,
+		"ProjectID" : "mattbaird_gochimp",
+		"NumStars" : 188
+	},
+	{
+		"_id" : ObjectId("6290450c8b2efbc6e36a0a69"),
+		"NumAuthors" : 19,
+		"ProjectID" : "ffhelicopter_Go42",
+		"NumStars" : 2854
+	},
+	{
+		"_id" : ObjectId("6290453b8b2efbc6e36c77ca"),
+		"NumAuthors" : 37,
+		"ProjectID" : "inkyblackness_imgui-go",
+		"NumStars" : 404
+	},
+	{
+		"_id" : ObjectId("629045478b2efbc6e36d2a7f"),
+		"NumAuthors" : 28,
+		"ProjectID" : "whyrusleeping_hellabot",
+		"NumStars" : 118
+	},
+	{
+		"_id" : ObjectId("629045608b2efbc6e36ec6a4"),
+		"NumAuthors" : 16,
+		"ProjectID" : "bmaupin_go-epub",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("6290457f8b2efbc6e3705784"),
+		"NumAuthors" : 43,
+		"ProjectID" : "jpillora_overseer",
+		"NumStars" : 1621
+	},
+	{
+		"_id" : ObjectId("6290459a8b2efbc6e371fc30"),
+		"NumAuthors" : 43,
+		"ProjectID" : "gosuri_uiprogress",
+		"NumStars" : 1689
+	},
+	{
+		"_id" : ObjectId("629045e18b2efbc6e375a3fd"),
+		"NumAuthors" : 55,
+		"ProjectID" : "tonistiigi_fsutil",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("629045ec8b2efbc6e3766c21"),
+		"NumAuthors" : 42,
+		"ProjectID" : "mackerelio_mkr",
+		"NumStars" : 109
+	},
+	{
+		"_id" : ObjectId("629046038b2efbc6e37784a9"),
+		"NumAuthors" : 103,
+		"ProjectID" : "thomseddon_traefik-forward-auth",
+		"NumStars" : 921
+	},
+	{
+		"_id" : ObjectId("6290463e8b2efbc6e37a73b3"),
+		"NumAuthors" : 23,
+		"ProjectID" : "simeji_jid",
+		"NumStars" : 6006
+	},
+	{
+		"_id" : ObjectId("6290467c8b2efbc6e37e46a5"),
+		"NumAuthors" : 43,
+		"ProjectID" : "square_squalor",
+		"NumStars" : 175
+	},
+	{
+		"_id" : ObjectId("629046848b2efbc6e37e8c9f"),
+		"NumAuthors" : 83,
+		"ProjectID" : "go-gl_glfw",
+		"NumStars" : 1101
+	},
+	{
+		"_id" : ObjectId("6290468d8b2efbc6e37ed449"),
+		"NumAuthors" : 47,
+		"ProjectID" : "mitchellh_cli",
+		"NumStars" : 1270
+	},
+	{
+		"_id" : ObjectId("629046f88b2efbc6e38506e5"),
+		"NumAuthors" : 23,
+		"ProjectID" : "a630140621_ufile-gosdk",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("629046fe8b2efbc6e38530d6"),
+		"NumAuthors" : 34,
+		"ProjectID" : "gkalissecapco_vault-secrets-operator",
+		"NumStars" : 144
+	},
+	{
+		"_id" : ObjectId("629047128b2efbc6e3864adf"),
+		"NumAuthors" : 23,
+		"ProjectID" : "sqshq_sampler",
+		"NumStars" : 2003
+	},
+	{
+		"_id" : ObjectId("6290471c8b2efbc6e386fd12"),
+		"NumAuthors" : 68,
+		"ProjectID" : "cosmtrek_air",
+		"NumStars" : 2635
+	},
+	{
+		"_id" : ObjectId("6290471c8b2efbc6e38700fc"),
+		"NumAuthors" : 18,
+		"ProjectID" : "redbubble_yak",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("629047678b2efbc6e38ab471"),
+		"NumAuthors" : 79,
+		"ProjectID" : "containerd_cgroups",
+		"NumStars" : 484
+	},
+	{
+		"_id" : ObjectId("629047be8b2efbc6e38f3d5c"),
+		"NumAuthors" : 11,
+		"ProjectID" : "zeebe-io_zeeqs",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("629047cc8b2efbc6e3902c6b"),
+		"NumAuthors" : 12,
+		"ProjectID" : "pivotal-gss_mock-data",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("629048238b2efbc6e394d9b6"),
+		"NumAuthors" : 12,
+		"ProjectID" : "rikatz_kubepug",
+		"NumStars" : 314
+	},
+	{
+		"_id" : ObjectId("629048618b2efbc6e3984724"),
+		"NumAuthors" : 12,
+		"ProjectID" : "fromzeus_terraform-provider-ansiblevault",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("6290488f8b2efbc6e39aacc0"),
+		"NumAuthors" : 17,
+		"ProjectID" : "deluan_fscache",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629048ab8b2efbc6e39bf5fc"),
+		"NumAuthors" : 49,
+		"ProjectID" : "asciimoo_wuzz",
+		"NumStars" : 8312
+	},
+	{
+		"_id" : ObjectId("629048b58b2efbc6e39c85cc"),
+		"NumAuthors" : 38,
+		"ProjectID" : "vanadium_go.lib",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("629048bf8b2efbc6e39d06c1"),
+		"NumAuthors" : 33,
+		"ProjectID" : "imroc_req",
+		"NumStars" : 1438
+	},
+	{
+		"_id" : ObjectId("629048d68b2efbc6e39e3214"),
+		"NumAuthors" : 73,
+		"ProjectID" : "alvaroloes_enumer",
+		"NumStars" : 339
+	},
+	{
+		"_id" : ObjectId("629048d88b2efbc6e39e59f3"),
+		"NumAuthors" : 123,
+		"ProjectID" : "go-gitea_go-sdk",
+		"NumStars" : 244
+	},
+	{
+		"_id" : ObjectId("629048e88b2efbc6e39f85ad"),
+		"NumAuthors" : 15,
+		"ProjectID" : "isiaon_esm",
+		"NumStars" : 184
+	},
+	{
+		"_id" : ObjectId("629049b88b2efbc6e3aa3de6"),
+		"NumAuthors" : 27,
+		"ProjectID" : "bicomsystems_go-libzfs",
+		"NumStars" : 92
+	},
+	{
+		"_id" : ObjectId("629049d58b2efbc6e3abdaef"),
+		"NumAuthors" : 14,
+		"ProjectID" : "andybalholm_redwood",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("62904a288b2efbc6e3b0d6a9"),
+		"NumAuthors" : 42,
+		"ProjectID" : "openconfig_goyang",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("62904a3b8b2efbc6e3b19718"),
+		"NumAuthors" : 14,
+		"ProjectID" : "proullon_ramsql",
+		"NumStars" : 231
+	},
+	{
+		"_id" : ObjectId("62904a7c8b2efbc6e3b5973f"),
+		"NumAuthors" : 55,
+		"ProjectID" : "mwitkow_go-proto-validators",
+		"NumStars" : 602
+	},
+	{
+		"_id" : ObjectId("62904a7c8b2efbc6e3b59f2e"),
+		"NumAuthors" : 35,
+		"ProjectID" : "lovoo_goka",
+		"NumStars" : 1539
+	},
+	{
+		"_id" : ObjectId("62904ae08b2efbc6e3bb2a38"),
+		"NumAuthors" : 14,
+		"ProjectID" : "andwun_go-gdpr",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("62904af38b2efbc6e3bbf04d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "spacemonkeygo_dbx",
+		"NumStars" : 72
+	},
+	{
+		"_id" : ObjectId("62904b0d8b2efbc6e3bd6011"),
+		"NumAuthors" : 12,
+		"ProjectID" : "tinvyhx_rog-go",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62904b188b2efbc6e3bea8ad"),
+		"NumAuthors" : 15,
+		"ProjectID" : "aler9_gortsplib",
+		"NumStars" : 60
+	},
+	{
+		"_id" : ObjectId("62904b4e8b2efbc6e3c19c39"),
+		"NumAuthors" : 31,
+		"ProjectID" : "zeromq_goczmq",
+		"NumStars" : 407
+	},
+	{
+		"_id" : ObjectId("62904b588b2efbc6e3c2265c"),
+		"NumAuthors" : 32,
+		"ProjectID" : "netlify_netlify-commons",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62904b6c8b2efbc6e3c30b12"),
+		"NumAuthors" : 16,
+		"ProjectID" : "hraban_opus",
+		"NumStars" : 131
+	},
+	{
+		"_id" : ObjectId("62904b838b2efbc6e3c44b26"),
+		"NumAuthors" : 12,
+		"ProjectID" : "lestrrat-go_server-starter",
+		"NumStars" : 194
+	},
+	{
+		"_id" : ObjectId("62904bcc8b2efbc6e3c84153"),
+		"NumAuthors" : 61,
+		"ProjectID" : "ghodss_yaml",
+		"NumStars" : 758
+	},
+	{
+		"_id" : ObjectId("62904bce8b2efbc6e3c886ad"),
+		"NumAuthors" : 63,
+		"ProjectID" : "mauricelam_genny",
+		"NumStars" : 1267
+	},
+	{
+		"_id" : ObjectId("62904bfa8b2efbc6e3cafdce"),
+		"NumAuthors" : 21,
+		"ProjectID" : "hetznercloud_hcloud-go",
+		"NumStars" : 213
+	},
+	{
+		"_id" : ObjectId("62904c118b2efbc6e3cc253e"),
+		"NumAuthors" : 132,
+		"ProjectID" : "coreybutler_nvm-windows",
+		"NumStars" : 13995
+	},
+	{
+		"_id" : ObjectId("62904c3d8b2efbc6e3ced469"),
+		"NumAuthors" : 34,
+		"ProjectID" : "reddit_baseplate.go",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("62904c4d8b2efbc6e3cf7e74"),
+		"NumAuthors" : 16,
+		"ProjectID" : "gdm85_go-libdeluge",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("62904c4d8b2efbc6e3cf826b"),
+		"NumAuthors" : 298,
+		"ProjectID" : "pingcap_parser",
+		"NumStars" : 728
+	},
+	{
+		"_id" : ObjectId("62904c5a8b2efbc6e3d043b3"),
+		"NumAuthors" : 23,
+		"ProjectID" : "mozillazg_go-pinyin",
+		"NumStars" : 814
+	},
+	{
+		"_id" : ObjectId("62904cc28b2efbc6e3d5b77d"),
+		"NumAuthors" : 37,
+		"ProjectID" : "rwynn_monstache",
+		"NumStars" : 611
+	},
+	{
+		"_id" : ObjectId("62904cd58b2efbc6e3d68aa1"),
+		"NumAuthors" : 92,
+		"ProjectID" : "AllenDang_w32",
+		"NumStars" : 685
+	},
+	{
+		"_id" : ObjectId("62904ce28b2efbc6e3d74d01"),
+		"NumAuthors" : 12,
+		"ProjectID" : "GoogleCloudPlatform_functions-framework-go",
+		"NumStars" : 129
+	},
+	{
+		"_id" : ObjectId("62904ceb8b2efbc6e3d7cf27"),
+		"NumAuthors" : 17,
+		"ProjectID" : "qaisjp_go-discord-irc",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("62904cec8b2efbc6e3d7da22"),
+		"NumAuthors" : 26,
+		"ProjectID" : "BurntSushi_xgb",
+		"NumStars" : 404
+	},
+	{
+		"_id" : ObjectId("62904cf28b2efbc6e3d84530"),
+		"NumAuthors" : 27,
+		"ProjectID" : "r3labs_diff",
+		"NumStars" : 204
+	},
+	{
+		"_id" : ObjectId("62904cf58b2efbc6e3d88495"),
+		"NumAuthors" : 15,
+		"ProjectID" : "Akityo_notify",
+		"NumStars" : 142
+	},
+	{
+		"_id" : ObjectId("62904cf58b2efbc6e3d8939d"),
+		"NumAuthors" : 52,
+		"ProjectID" : "optiopay_kafka-api",
+		"NumStars" : 266
+	},
+	{
+		"_id" : ObjectId("62904cfb8b2efbc6e3d9014c"),
+		"NumAuthors" : 15,
+		"ProjectID" : "c-rindi_geras",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62904cfb8b2efbc6e3d90814"),
+		"NumAuthors" : 31,
+		"ProjectID" : "pires_go-proxyproto",
+		"NumStars" : 136
+	},
+	{
+		"_id" : ObjectId("62904d1a8b2efbc6e3daa0ba"),
+		"NumAuthors" : 23,
+		"ProjectID" : "sky-uk_osprey",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("62904d338b2efbc6e3dbb105"),
+		"NumAuthors" : 11,
+		"ProjectID" : "gookit_color",
+		"NumStars" : 679
+	},
+	{
+		"_id" : ObjectId("62904d3e8b2efbc6e3dc45f8"),
+		"NumAuthors" : 35,
+		"ProjectID" : "lyft_protoc-gen-star",
+		"NumStars" : 244
+	},
+	{
+		"_id" : ObjectId("62904d598b2efbc6e3de0b80"),
+		"NumAuthors" : 67,
+		"ProjectID" : "jhillyerd_enmime",
+		"NumStars" : 255
+	},
+	{
+		"_id" : ObjectId("62904d778b2efbc6e3df4f4a"),
+		"NumAuthors" : 19,
+		"ProjectID" : "SevereCloud_vksdk",
+		"NumStars" : 74
+	},
+	{
+		"_id" : ObjectId("62904d8c8b2efbc6e3e07c84"),
+		"NumAuthors" : 17,
+		"ProjectID" : "CrunchyData_pg_featureserv",
+		"NumStars" : 144
+	},
+	{
+		"_id" : ObjectId("62904d978b2efbc6e3e10b9e"),
+		"NumAuthors" : 17,
+		"ProjectID" : "qri-io_starlib",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("62904da18b2efbc6e3e183cc"),
+		"NumAuthors" : 19,
+		"ProjectID" : "bep_s3deploy",
+		"NumStars" : 421
+	},
+	{
+		"_id" : ObjectId("62904db48b2efbc6e3e2e986"),
+		"NumAuthors" : 20,
+		"ProjectID" : "dghubble_gologin",
+		"NumStars" : 1300
+	},
+	{
+		"_id" : ObjectId("62904dd38b2efbc6e3e49b04"),
+		"NumAuthors" : 24,
+		"ProjectID" : "xhit_go-simple-mail",
+		"NumStars" : 108
+	},
+	{
+		"_id" : ObjectId("62904e0f8b2efbc6e3e7bbf0"),
+		"NumAuthors" : 17,
+		"ProjectID" : "couchbase_sg-bucket",
+		"NumStars" : 34
+	},
+	{
+		"_id" : ObjectId("62904e218b2efbc6e3e8e34f"),
+		"NumAuthors" : 16,
+		"ProjectID" : "cdipaolo_goml",
+		"NumStars" : 1189
+	},
+	{
+		"_id" : ObjectId("62904e518b2efbc6e3eb133d"),
+		"NumAuthors" : 44,
+		"ProjectID" : "sachaos_todoist",
+		"NumStars" : 859
+	},
+	{
+		"_id" : ObjectId("62904e6b8b2efbc6e3eca5cc"),
+		"NumAuthors" : 46,
+		"ProjectID" : "unidoc_unioffice",
+		"NumStars" : 1854
+	},
+	{
+		"_id" : ObjectId("62904e868b2efbc6e3ee2f35"),
+		"NumAuthors" : 16,
+		"ProjectID" : "flant_addon-operator",
+		"NumStars" : 179
+	},
+	{
+		"_id" : ObjectId("62904eb98b2efbc6e3f0cec2"),
+		"NumAuthors" : 13,
+		"ProjectID" : "ThalesGroup_helm-spray",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("62904ecf8b2efbc6e3f267bc"),
+		"NumAuthors" : 27,
+		"ProjectID" : "nakagami_firebirdsql",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("62904ee78b2efbc6e3f3d59e"),
+		"NumAuthors" : 138,
+		"ProjectID" : "Masterminds_sprig",
+		"NumStars" : 1688
+	},
+	{
+		"_id" : ObjectId("62904f058b2efbc6e3f51c1f"),
+		"NumAuthors" : 18,
+		"ProjectID" : "etungsten_bottlerocket-update-operator",
+		"NumStars" : 59
+	},
+	{
+		"_id" : ObjectId("62904f198b2efbc6e3f61385"),
+		"NumAuthors" : 13,
+		"ProjectID" : "pyed_transmission-telegram",
+		"NumStars" : 138
+	},
+	{
+		"_id" : ObjectId("62904f2b8b2efbc6e3f79419"),
+		"NumAuthors" : 33,
+		"ProjectID" : "airbrake_gobrake",
+		"NumStars" : 92
+	},
+	{
+		"_id" : ObjectId("62904f728b2efbc6e3fb3025"),
+		"NumAuthors" : 11,
+		"ProjectID" : "crillab_gophersat",
+		"NumStars" : 308
+	},
+	{
+		"_id" : ObjectId("62904f7a8b2efbc6e3fb614a"),
+		"NumAuthors" : 17,
+		"ProjectID" : "jdgcs_sqlite3",
+		"NumStars" : 357
+	},
+	{
+		"_id" : ObjectId("62904fc28b2efbc6e3ff6a39"),
+		"NumAuthors" : 71,
+		"ProjectID" : "docker_docker-credential-helpers",
+		"NumStars" : 537
+	},
+	{
+		"_id" : ObjectId("629050328b2efbc6e3055f60"),
+		"NumAuthors" : 27,
+		"ProjectID" : "socialpoint-labs_bsk",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629050418b2efbc6e3061bbc"),
+		"NumAuthors" : 11,
+		"ProjectID" : "doytsujin_gemini",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629050788b2efbc6e30979b9"),
+		"NumAuthors" : 11,
+		"ProjectID" : "Netflix_weep",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("6290508a8b2efbc6e30a6e6f"),
+		"NumAuthors" : 12,
+		"ProjectID" : "dbl0null_flaggy",
+		"NumStars" : 625
+	},
+	{
+		"_id" : ObjectId("629050b88b2efbc6e30d69e7"),
+		"NumAuthors" : 15,
+		"ProjectID" : "rjkroege_edwood",
+		"NumStars" : 267
+	},
+	{
+		"_id" : ObjectId("629050e18b2efbc6e30f89c7"),
+		"NumAuthors" : 69,
+		"ProjectID" : "uber-go_fx",
+		"NumStars" : 1391
+	},
+	{
+		"_id" : ObjectId("629051008b2efbc6e31128ee"),
+		"NumAuthors" : 24,
+		"ProjectID" : "coreos_fcct",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("629051698b2efbc6e316ea85"),
+		"NumAuthors" : 12,
+		"ProjectID" : "ivaaaan_smug",
+		"NumStars" : 199
+	},
+	{
+		"_id" : ObjectId("6290517a8b2efbc6e317c45f"),
+		"NumAuthors" : 35,
+		"ProjectID" : "DataDog_zstd",
+		"NumStars" : 489
+	},
+	{
+		"_id" : ObjectId("629051998b2efbc6e3195c42"),
+		"NumAuthors" : 15,
+		"ProjectID" : "bearsh_embedded-postgres",
+		"NumStars" : 94
+	},
+	{
+		"_id" : ObjectId("629051c68b2efbc6e31bbbdd"),
+		"NumAuthors" : 43,
+		"ProjectID" : "Azure_azure-event-hubs-go",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("629051cc8b2efbc6e31c1967"),
+		"NumAuthors" : 77,
+		"ProjectID" : "sfreiberg_gotwilio",
+		"NumStars" : 301
+	},
+	{
+		"_id" : ObjectId("629051d88b2efbc6e31cec8d"),
+		"NumAuthors" : 11,
+		"ProjectID" : "varlink_go",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629051f08b2efbc6e31e4b8f"),
+		"NumAuthors" : 42,
+		"ProjectID" : "go-cas_cas",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("629052048b2efbc6e31f15aa"),
+		"NumAuthors" : 98,
+		"ProjectID" : "aws_aws-node-termination-handler",
+		"NumStars" : 546
+	},
+	{
+		"_id" : ObjectId("629052208b2efbc6e32096af"),
+		"NumAuthors" : 12,
+		"ProjectID" : "ncbi_datasets",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629052448b2efbc6e32289dd"),
+		"NumAuthors" : 24,
+		"ProjectID" : "mschneider82_milter",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("629052658b2efbc6e324073c"),
+		"NumAuthors" : 28,
+		"ProjectID" : "gorgonia_tensor",
+		"NumStars" : 191
+	},
+	{
+		"_id" : ObjectId("629052778b2efbc6e324f832"),
+		"NumAuthors" : 26,
+		"ProjectID" : "hashicorp_go-azure-helpers",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629052888b2efbc6e3263750"),
+		"NumAuthors" : 23,
+		"ProjectID" : "dbast_gocloc",
+		"NumStars" : 357
+	},
+	{
+		"_id" : ObjectId("6290529e8b2efbc6e327be29"),
+		"NumAuthors" : 46,
+		"ProjectID" : "dankox_term",
+		"NumStars" : 118
+	},
+	{
+		"_id" : ObjectId("629052a98b2efbc6e32863ab"),
+		"NumAuthors" : 74,
+		"ProjectID" : "bxcodec_faker",
+		"NumStars" : 1248
+	},
+	{
+		"_id" : ObjectId("629052af8b2efbc6e328831e"),
+		"NumAuthors" : 28,
+		"ProjectID" : "digitalocean_go-qemu",
+		"NumStars" : 476
+	},
+	{
+		"_id" : ObjectId("629052be8b2efbc6e3293b60"),
+		"NumAuthors" : 26,
+		"ProjectID" : "appleboy_go-fcm",
+		"NumStars" : 134
+	},
+	{
+		"_id" : ObjectId("629052cd8b2efbc6e329ff07"),
+		"NumAuthors" : 40,
+		"ProjectID" : "bgentry_que-go",
+		"NumStars" : 294
+	},
+	{
+		"_id" : ObjectId("629052e78b2efbc6e32b46fb"),
+		"NumAuthors" : 61,
+		"ProjectID" : "adjust_rmq",
+		"NumStars" : 670
+	},
+	{
+		"_id" : ObjectId("629052ef8b2efbc6e32bec82"),
+		"NumAuthors" : 35,
+		"ProjectID" : "Mrs4s_MiraiGo",
+		"NumStars" : 412
+	},
+	{
+		"_id" : ObjectId("629053308b2efbc6e32f5ff3"),
+		"NumAuthors" : 13,
+		"ProjectID" : "nojima_httpie-go",
+		"NumStars" : 157
+	},
+	{
+		"_id" : ObjectId("6290535f8b2efbc6e331fd1f"),
+		"NumAuthors" : 12,
+		"ProjectID" : "falcosecurity_driverkit",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("6290537e8b2efbc6e3336d1d"),
+		"NumAuthors" : 13,
+		"ProjectID" : "EvanPurkhiser_dots",
+		"NumStars" : 250
+	},
+	{
+		"_id" : ObjectId("629053bd8b2efbc6e3371d40"),
+		"NumAuthors" : 18,
+		"ProjectID" : "joncrlsn_pgdiff",
+		"NumStars" : 319
+	},
+	{
+		"_id" : ObjectId("629053c68b2efbc6e337978d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "hellofresh_kandalf",
+		"NumStars" : 64
+	},
+	{
+		"_id" : ObjectId("629054028b2efbc6e33a7dad"),
+		"NumAuthors" : 51,
+		"ProjectID" : "openzipkin_zipkin-go",
+		"NumStars" : 357
+	},
+	{
+		"_id" : ObjectId("629054028b2efbc6e33a90d4"),
+		"NumAuthors" : 44,
+		"ProjectID" : "tendermint_go-amino",
+		"NumStars" : 219
+	},
+	{
+		"_id" : ObjectId("6290540a8b2efbc6e33b1627"),
+		"NumAuthors" : 38,
+		"ProjectID" : "go-errors_errors",
+		"NumStars" : 585
+	},
+	{
+		"_id" : ObjectId("629054458b2efbc6e33e6b48"),
+		"NumAuthors" : 17,
+		"ProjectID" : "agola-io_agola",
+		"NumStars" : 361
+	},
+	{
+		"_id" : ObjectId("629054708b2efbc6e340947f"),
+		"NumAuthors" : 30,
+		"ProjectID" : "Virtomize_confluence-go-api",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("6290547e8b2efbc6e34180c3"),
+		"NumAuthors" : 24,
+		"ProjectID" : "nathany_looper",
+		"NumStars" : 411
+	},
+	{
+		"_id" : ObjectId("629054888b2efbc6e34202a2"),
+		"NumAuthors" : 47,
+		"ProjectID" : "goodsign_monday",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("629054928b2efbc6e3429090"),
+		"NumAuthors" : 22,
+		"ProjectID" : "emersion_go-msgauth",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("6290549c8b2efbc6e3431e9b"),
+		"NumAuthors" : 65,
+		"ProjectID" : "pquerna_ffjson",
+		"NumStars" : 2597
+	},
+	{
+		"_id" : ObjectId("629054ce8b2efbc6e345aff7"),
+		"NumAuthors" : 29,
+		"ProjectID" : "go-kiss_sniper",
+		"NumStars" : 347
+	},
+	{
+		"_id" : ObjectId("629055008b2efbc6e348b7db"),
+		"NumAuthors" : 62,
+		"ProjectID" : "upper_db",
+		"NumStars" : 2428
+	},
+	{
+		"_id" : ObjectId("6290552a8b2efbc6e34b084a"),
+		"NumAuthors" : 25,
+		"ProjectID" : "Vonage_vonage-go-sdk",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("6290552a8b2efbc6e34ac34d"),
+		"NumAuthors" : 58,
+		"ProjectID" : "briandowns_spinner",
+		"NumStars" : 1272
+	},
+	{
+		"_id" : ObjectId("6290553b8b2efbc6e34c0ecc"),
+		"NumAuthors" : 24,
+		"ProjectID" : "GetStream_stream-chat-go",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629055598b2efbc6e34d71d0"),
+		"NumAuthors" : 19,
+		"ProjectID" : "couchbase_vellum",
+		"NumStars" : 438
+	},
+	{
+		"_id" : ObjectId("629055638b2efbc6e34dab25"),
+		"NumAuthors" : 29,
+		"ProjectID" : "open-telemetry_opentelemetry-operator",
+		"NumStars" : 90
+	},
+	{
+		"_id" : ObjectId("6290556e8b2efbc6e34e89db"),
+		"NumAuthors" : 37,
+		"ProjectID" : "projectdiscovery_naabu",
+		"NumStars" : 1103
+	},
+	{
+		"_id" : ObjectId("629055828b2efbc6e34f669d"),
+		"NumAuthors" : 15,
+		"ProjectID" : "ccojocar_sso-operator",
+		"NumStars" : 56
+	},
+	{
+		"_id" : ObjectId("629055828b2efbc6e34f688e"),
+		"NumAuthors" : 14,
+		"ProjectID" : "destinygg_chat",
+		"NumStars" : 70
+	},
+	{
+		"_id" : ObjectId("629055988b2efbc6e350c282"),
+		"NumAuthors" : 18,
+		"ProjectID" : "vertica_vertica-sql-go",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("6290559c8b2efbc6e35130c9"),
+		"NumAuthors" : 27,
+		"ProjectID" : "riferrei_srclient",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629055ad8b2efbc6e351f01e"),
+		"NumAuthors" : 30,
+		"ProjectID" : "gucio321_giu",
+		"NumStars" : 847
+	},
+	{
+		"_id" : ObjectId("629055b78b2efbc6e3523f20"),
+		"NumAuthors" : 23,
+		"ProjectID" : "cmattoon_aws-ssm",
+		"NumStars" : 110
+	},
+	{
+		"_id" : ObjectId("629055d68b2efbc6e353d4b0"),
+		"NumAuthors" : 21,
+		"ProjectID" : "PuerkitoBio_fetchbot",
+		"NumStars" : 774
+	},
+	{
+		"_id" : ObjectId("629055fb8b2efbc6e355b1c5"),
+		"NumAuthors" : 20,
+		"ProjectID" : "openfaas_faas-provider",
+		"NumStars" : 55
+	},
+	{
+		"_id" : ObjectId("629056098b2efbc6e356b315"),
+		"NumAuthors" : 12,
+		"ProjectID" : "go-eden_slf4go",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("6290563c8b2efbc6e3591478"),
+		"NumAuthors" : 55,
+		"ProjectID" : "lauripiispanen_most-active-github-users-counter",
+		"NumStars" : 587
+	},
+	{
+		"_id" : ObjectId("6290564e8b2efbc6e35a4320"),
+		"NumAuthors" : 44,
+		"ProjectID" : "lyft_gostats",
+		"NumStars" : 42
+	},
+	{
+		"_id" : ObjectId("6290565a8b2efbc6e35b0906"),
+		"NumAuthors" : 21,
+		"ProjectID" : "goccmack_gocc",
+		"NumStars" : 439
+	},
+	{
+		"_id" : ObjectId("629056618b2efbc6e35bc859"),
+		"NumAuthors" : 14,
+		"ProjectID" : "muesli_termenv",
+		"NumStars" : 514
+	},
+	{
+		"_id" : ObjectId("6290566f8b2efbc6e35ccead"),
+		"NumAuthors" : 23,
+		"ProjectID" : "paultag_go-debian",
+		"NumStars" : 56
+	},
+	{
+		"_id" : ObjectId("629056708b2efbc6e35ce3a8"),
+		"NumAuthors" : 19,
+		"ProjectID" : "qiniu_qmgo",
+		"NumStars" : 443
+	},
+	{
+		"_id" : ObjectId("629056ab8b2efbc6e35fcef6"),
+		"NumAuthors" : 14,
+		"ProjectID" : "xen0n_go-workwx",
+		"NumStars" : 152
+	},
+	{
+		"_id" : ObjectId("629057218b2efbc6e366465f"),
+		"NumAuthors" : 13,
+		"ProjectID" : "joshkunz_ashuffle",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("629057218b2efbc6e366a539"),
+		"NumAuthors" : 83,
+		"ProjectID" : "davecgh_go-spew",
+		"NumStars" : 3958
+	},
+	{
+		"_id" : ObjectId("629057218b2efbc6e366a40a"),
+		"NumAuthors" : 29,
+		"ProjectID" : "pusher_wave",
+		"NumStars" : 284
+	},
+	{
+		"_id" : ObjectId("6290572e8b2efbc6e3675aae"),
+		"NumAuthors" : 75,
+		"ProjectID" : "a8m_golang-cheat-sheet",
+		"NumStars" : 5176
+	},
+	{
+		"_id" : ObjectId("629057408b2efbc6e3686241"),
+		"NumAuthors" : 19,
+		"ProjectID" : "ibmdb_go_ibm_db",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629057808b2efbc6e36c138c"),
+		"NumAuthors" : 55,
+		"ProjectID" : "nanomsg_mangos",
+		"NumStars" : 3460
+	},
+	{
+		"_id" : ObjectId("629057ea8b2efbc6e3720c14"),
+		"NumAuthors" : 64,
+		"ProjectID" : "claudiodangelis_qrcp",
+		"NumStars" : 7868
+	},
+	{
+		"_id" : ObjectId("6290581c8b2efbc6e3745dd4"),
+		"NumAuthors" : 51,
+		"ProjectID" : "lestrrat-go_jwx",
+		"NumStars" : 523
+	},
+	{
+		"_id" : ObjectId("6290582c8b2efbc6e3754075"),
+		"NumAuthors" : 148,
+		"ProjectID" : "spacemonkeygo_openssl",
+		"NumStars" : 635
+	},
+	{
+		"_id" : ObjectId("6290582d8b2efbc6e37598e9"),
+		"NumAuthors" : 21,
+		"ProjectID" : "semrush_zenrpc",
+		"NumStars" : 141
+	},
+	{
+		"_id" : ObjectId("629058708b2efbc6e3791bd4"),
+		"NumAuthors" : 21,
+		"ProjectID" : "IBM-Cloud_go-etcd-rules",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("6290587f8b2efbc6e379d527"),
+		"NumAuthors" : 138,
+		"ProjectID" : "ClickHouse_clickhouse-go",
+		"NumStars" : 1052
+	},
+	{
+		"_id" : ObjectId("629058a68b2efbc6e37bfff5"),
+		"NumAuthors" : 16,
+		"ProjectID" : "DataDog_sketches-go",
+		"NumStars" : 31
+	},
+	{
+		"_id" : ObjectId("629059098b2efbc6e38190a9"),
+		"NumAuthors" : 62,
+		"ProjectID" : "coreos_container-linux-config-transpiler",
+		"NumStars" : 185
+	},
+	{
+		"_id" : ObjectId("629059538b2efbc6e384b1cb"),
+		"NumAuthors" : 20,
+		"ProjectID" : "JamesHovious_w32",
+		"NumStars" : 170
+	},
+	{
+		"_id" : ObjectId("629059648b2efbc6e385bd23"),
+		"NumAuthors" : 19,
+		"ProjectID" : "huacnlee_gobackup",
+		"NumStars" : 436
+	},
+	{
+		"_id" : ObjectId("629059768b2efbc6e3875e64"),
+		"NumAuthors" : 47,
+		"ProjectID" : "luna-duclos_instrumentedsql",
+		"NumStars" : 327
+	},
+	{
+		"_id" : ObjectId("6290598a8b2efbc6e388463a"),
+		"NumAuthors" : 19,
+		"ProjectID" : "evayo_flowerss-bot",
+		"NumStars" : 460
+	},
+	{
+		"_id" : ObjectId("629059a78b2efbc6e3899414"),
+		"NumAuthors" : 24,
+		"ProjectID" : "a8m_documentdb",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("629059e88b2efbc6e38dbc10"),
+		"NumAuthors" : 71,
+		"ProjectID" : "abutaha_aws-es-proxy",
+		"NumStars" : 464
+	},
+	{
+		"_id" : ObjectId("629059e98b2efbc6e38dd4b5"),
+		"NumAuthors" : 20,
+		"ProjectID" : "kisielk_og-rek",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629059ec8b2efbc6e38de4b0"),
+		"NumAuthors" : 186,
+		"ProjectID" : "kubernetes_utils",
+		"NumStars" : 121
+	},
+	{
+		"_id" : ObjectId("629059f28b2efbc6e38e3dcb"),
+		"NumAuthors" : 11,
+		"ProjectID" : "alfg_mp4",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("62905a288b2efbc6e390eb3e"),
+		"NumAuthors" : 56,
+		"ProjectID" : "IBM_portieris",
+		"NumStars" : 194
+	},
+	{
+		"_id" : ObjectId("62905a998b2efbc6e3978ce0"),
+		"NumAuthors" : 14,
+		"ProjectID" : "timescale_timescaledb-tune",
+		"NumStars" : 164
+	},
+	{
+		"_id" : ObjectId("62905aab8b2efbc6e398b2f1"),
+		"NumAuthors" : 75,
+		"ProjectID" : "stakater_Reloader",
+		"NumStars" : 1543
+	},
+	{
+		"_id" : ObjectId("62905aca8b2efbc6e399f661"),
+		"NumAuthors" : 15,
+		"ProjectID" : "gliderlabs_sigil",
+		"NumStars" : 357
+	},
+	{
+		"_id" : ObjectId("62905b368b2efbc6e3a002f7"),
+		"NumAuthors" : 12,
+		"ProjectID" : "isacikgoz_gitin",
+		"NumStars" : 1743
+	},
+	{
+		"_id" : ObjectId("62905b368b2efbc6e3a002b2"),
+		"NumAuthors" : 54,
+		"ProjectID" : "willf_bitset",
+		"NumStars" : 624
+	},
+	{
+		"_id" : ObjectId("62905b3c8b2efbc6e3a03781"),
+		"NumAuthors" : 25,
+		"ProjectID" : "HdrHistogram_hdrhistogram-go",
+		"NumStars" : 331
+	},
+	{
+		"_id" : ObjectId("62905b3f8b2efbc6e3a05d48"),
+		"NumAuthors" : 21,
+		"ProjectID" : "dudw_7days-golang",
+		"NumStars" : 6672
+	},
+	{
+		"_id" : ObjectId("62905b4a8b2efbc6e3a0e833"),
+		"NumAuthors" : 27,
+		"ProjectID" : "firstrow_tcp_server",
+		"NumStars" : 344
+	},
+	{
+		"_id" : ObjectId("62905b5d8b2efbc6e3a22717"),
+		"NumAuthors" : 11,
+		"ProjectID" : "comp500_packwiz",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("62905b698b2efbc6e3a2e51f"),
+		"NumAuthors" : 29,
+		"ProjectID" : "planetlabs_draino",
+		"NumStars" : 304
+	},
+	{
+		"_id" : ObjectId("62905b9d8b2efbc6e3a557ee"),
+		"NumAuthors" : 16,
+		"ProjectID" : "AppsFlyer_go-sundheit",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("62905bab8b2efbc6e3a6354d"),
+		"NumAuthors" : 17,
+		"ProjectID" : "kilic_bls12-381",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("62905bd28b2efbc6e3a8a279"),
+		"NumAuthors" : 69,
+		"ProjectID" : "lukeroth_gdal",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("62905c1f8b2efbc6e3ac2f54"),
+		"NumAuthors" : 40,
+		"ProjectID" : "gorilla_csrf",
+		"NumStars" : 588
+	},
+	{
+		"_id" : ObjectId("62905c2f8b2efbc6e3ad2204"),
+		"NumAuthors" : 18,
+		"ProjectID" : "drone_drone-yaml",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("62905c838b2efbc6e3b1e400"),
+		"NumAuthors" : 46,
+		"ProjectID" : "bugst_go-serial",
+		"NumStars" : 194
+	},
+	{
+		"_id" : ObjectId("62905c9b8b2efbc6e3b365be"),
+		"NumAuthors" : 133,
+		"ProjectID" : "docker_libkv",
+		"NumStars" : 821
+	},
+	{
+		"_id" : ObjectId("62905ca38b2efbc6e3b3c3fd"),
+		"NumAuthors" : 25,
+		"ProjectID" : "sdcoffey_techan",
+		"NumStars" : 322
+	},
+	{
+		"_id" : ObjectId("62905cb68b2efbc6e3b4be0a"),
+		"NumAuthors" : 52,
+		"ProjectID" : "manyminds_api2go",
+		"NumStars" : 657
+	},
+	{
+		"_id" : ObjectId("62905cc98b2efbc6e3b5b653"),
+		"NumAuthors" : 34,
+		"ProjectID" : "apex_gateway",
+		"NumStars" : 456
+	},
+	{
+		"_id" : ObjectId("62905cd38b2efbc6e3b61c5f"),
+		"NumAuthors" : 16,
+		"ProjectID" : "barnacs_compy",
+		"NumStars" : 141
+	},
+	{
+		"_id" : ObjectId("62905cff8b2efbc6e3b8a5d2"),
+		"NumAuthors" : 16,
+		"ProjectID" : "zricethezav_go-tdameritrade",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("62905cff8b2efbc6e3b8ad02"),
+		"NumAuthors" : 25,
+		"ProjectID" : "go-shiori_go-readability",
+		"NumStars" : 235
+	},
+	{
+		"_id" : ObjectId("62905d118b2efbc6e3b9c33f"),
+		"NumAuthors" : 40,
+		"ProjectID" : "karalabe_hid",
+		"NumStars" : 146
+	},
+	{
+		"_id" : ObjectId("62905d118b2efbc6e3b9ddd9"),
+		"NumAuthors" : 25,
+		"ProjectID" : "palantir_go-githubapp",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("62905d1b8b2efbc6e3ba3f55"),
+		"NumAuthors" : 31,
+		"ProjectID" : "k14s_kbld",
+		"NumStars" : 81
+	},
+	{
+		"_id" : ObjectId("62905d5d8b2efbc6e3bdb678"),
+		"NumAuthors" : 71,
+		"ProjectID" : "mitchellh_go-ps",
+		"NumStars" : 983
+	},
+	{
+		"_id" : ObjectId("62905d5d8b2efbc6e3bdc32d"),
+		"NumAuthors" : 17,
+		"ProjectID" : "zambien_terraform-provider-apigee",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("62905d938b2efbc6e3c0b114"),
+		"NumAuthors" : 16,
+		"ProjectID" : "avelino_gin",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("62905d9d8b2efbc6e3c127a4"),
+		"NumAuthors" : 119,
+		"ProjectID" : "veandco_go-sdl2",
+		"NumStars" : 1495
+	},
+	{
+		"_id" : ObjectId("62905db48b2efbc6e3c24daf"),
+		"NumAuthors" : 25,
+		"ProjectID" : "bthrx_shuffledns",
+		"NumStars" : 509
+	},
+	{
+		"_id" : ObjectId("62905db98b2efbc6e3c299ff"),
+		"NumAuthors" : 18,
+		"ProjectID" : "viciious_go-tarantool",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("62905dc38b2efbc6e3c3410a"),
+		"NumAuthors" : 12,
+		"ProjectID" : "packethost_csi-packet",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62905e0f8b2efbc6e3c72511"),
+		"NumAuthors" : 18,
+		"ProjectID" : "ennea8_outline-ss-server",
+		"NumStars" : 285
+	},
+	{
+		"_id" : ObjectId("62905e188b2efbc6e3c77938"),
+		"NumAuthors" : 35,
+		"ProjectID" : "zclconf_go-cty",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("62905e238b2efbc6e3c8528a"),
+		"NumAuthors" : 48,
+		"ProjectID" : "pivotal_cf-onboarding",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("62905e418b2efbc6e3c9e9ba"),
+		"NumAuthors" : 27,
+		"ProjectID" : "brocaar_lorawan",
+		"NumStars" : 195
+	},
+	{
+		"_id" : ObjectId("62905e488b2efbc6e3ca5747"),
+		"NumAuthors" : 23,
+		"ProjectID" : "delthas_soju",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62905e588b2efbc6e3cb38eb"),
+		"NumAuthors" : 24,
+		"ProjectID" : "goinvest_iexcloud",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("62905e608b2efbc6e3cb9157"),
+		"NumAuthors" : 30,
+		"ProjectID" : "google_go-licenses",
+		"NumStars" : 239
+	},
+	{
+		"_id" : ObjectId("62905ed58b2efbc6e3d200af"),
+		"NumAuthors" : 25,
+		"ProjectID" : "satyrius_gonx",
+		"NumStars" : 269
+	},
+	{
+		"_id" : ObjectId("62905f018b2efbc6e3d45861"),
+		"NumAuthors" : 11,
+		"ProjectID" : "m-lab_alertmanager-github-receiver",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("62905f0a8b2efbc6e3d50ba0"),
+		"NumAuthors" : 14,
+		"ProjectID" : "zalando-incubator_es-operator",
+		"NumStars" : 226
+	},
+	{
+		"_id" : ObjectId("62905f108b2efbc6e3d54cd6"),
+		"NumAuthors" : 34,
+		"ProjectID" : "asticode_go-astisub",
+		"NumStars" : 271
+	},
+	{
+		"_id" : ObjectId("62905f538b2efbc6e3d8fecc"),
+		"NumAuthors" : 42,
+		"ProjectID" : "muesli_duf",
+		"NumStars" : 5658
+	},
+	{
+		"_id" : ObjectId("62905f7c8b2efbc6e3db74f6"),
+		"NumAuthors" : 28,
+		"ProjectID" : "layeh_gumble",
+		"NumStars" : 131
+	},
+	{
+		"_id" : ObjectId("62905f868b2efbc6e3dbc50f"),
+		"NumAuthors" : 49,
+		"ProjectID" : "agl_ed25519",
+		"NumStars" : 214
+	},
+	{
+		"_id" : ObjectId("62905f898b2efbc6e3dc0a69"),
+		"NumAuthors" : 23,
+		"ProjectID" : "nanobox-io_golang-scribble",
+		"NumStars" : 307
+	},
+	{
+		"_id" : ObjectId("62905fb58b2efbc6e3de3b39"),
+		"NumAuthors" : 53,
+		"ProjectID" : "githubnemo_CompileDaemon",
+		"NumStars" : 869
+	},
+	{
+		"_id" : ObjectId("62905fb98b2efbc6e3de4463"),
+		"NumAuthors" : 41,
+		"ProjectID" : "digitalocean_go-openvswitch",
+		"NumStars" : 139
+	},
+	{
+		"_id" : ObjectId("62905fb98b2efbc6e3de573d"),
+		"NumAuthors" : 68,
+		"ProjectID" : "gruntwork-io_cloud-nuke",
+		"NumStars" : 1075
+	},
+	{
+		"_id" : ObjectId("62905fe28b2efbc6e3e11c81"),
+		"NumAuthors" : 16,
+		"ProjectID" : "savsgio_atreugo",
+		"NumStars" : 438
+	},
+	{
+		"_id" : ObjectId("629060148b2efbc6e3e3922e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "shogo82148_go-sql-proxy",
+		"NumStars" : 145
+	},
+	{
+		"_id" : ObjectId("629060258b2efbc6e3e446b6"),
+		"NumAuthors" : 100,
+		"ProjectID" : "go-openapi_runtime",
+		"NumStars" : 124
+	},
+	{
+		"_id" : ObjectId("6290602e8b2efbc6e3e4d642"),
+		"NumAuthors" : 69,
+		"ProjectID" : "docker_go-plugins-helpers",
+		"NumStars" : 267
+	},
+	{
+		"_id" : ObjectId("629060498b2efbc6e3e63186"),
+		"NumAuthors" : 26,
+		"ProjectID" : "hypebeast_go-osc",
+		"NumStars" : 109
+	},
+	{
+		"_id" : ObjectId("629060678b2efbc6e3e80bb3"),
+		"NumAuthors" : 20,
+		"ProjectID" : "epsagon_epsagon-go",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("6290608b8b2efbc6e3e9d675"),
+		"NumAuthors" : 16,
+		"ProjectID" : "gchaincl_sqlhooks",
+		"NumStars" : 273
+	},
+	{
+		"_id" : ObjectId("629060ed8b2efbc6e3ef5d1f"),
+		"NumAuthors" : 11,
+		"ProjectID" : "arashmo_alpaca",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("629061628b2efbc6e3f5a748"),
+		"NumAuthors" : 13,
+		"ProjectID" : "kitech_qt.go",
+		"NumStars" : 482
+	},
+	{
+		"_id" : ObjectId("629061a58b2efbc6e3f9134a"),
+		"NumAuthors" : 13,
+		"ProjectID" : "google_go-safeweb",
+		"NumStars" : 371
+	},
+	{
+		"_id" : ObjectId("629061af8b2efbc6e3f9bf13"),
+		"NumAuthors" : 22,
+		"ProjectID" : "go-bongo_bongo",
+		"NumStars" : 467
+	},
+	{
+		"_id" : ObjectId("629061c08b2efbc6e3fa62d5"),
+		"NumAuthors" : 11,
+		"ProjectID" : "secrethub_secrethub-go",
+		"NumStars" : 39
+	},
+	{
+		"_id" : ObjectId("629061f98b2efbc6e3fe2c34"),
+		"NumAuthors" : 63,
+		"ProjectID" : "tulir_mautrix-whatsapp",
+		"NumStars" : 432
+	},
+	{
+		"_id" : ObjectId("629062208b2efbc6e30007f3"),
+		"NumAuthors" : 145,
+		"ProjectID" : "urfave_negroni",
+		"NumStars" : 7224
+	},
+	{
+		"_id" : ObjectId("6290626b8b2efbc6e304185f"),
+		"NumAuthors" : 32,
+		"ProjectID" : "akamensky_argparse",
+		"NumStars" : 258
+	},
+	{
+		"_id" : ObjectId("629062b78b2efbc6e308488c"),
+		"NumAuthors" : 49,
+		"ProjectID" : "didi_gendry",
+		"NumStars" : 976
+	},
+	{
+		"_id" : ObjectId("629062c48b2efbc6e308d839"),
+		"NumAuthors" : 11,
+		"ProjectID" : "gwx-oss_cross-cluster-connectivity",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629063118b2efbc6e30d1207"),
+		"NumAuthors" : 21,
+		"ProjectID" : "tetratelabs_proxy-wasm-go-sdk",
+		"NumStars" : 135
+	},
+	{
+		"_id" : ObjectId("629063178b2efbc6e30d4a24"),
+		"NumAuthors" : 42,
+		"ProjectID" : "thedevsaddam_govalidator",
+		"NumStars" : 828
+	},
+	{
+		"_id" : ObjectId("629063208b2efbc6e30dbed4"),
+		"NumAuthors" : 40,
+		"ProjectID" : "segmentio_stats",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("6290632b8b2efbc6e30e62ff"),
+		"NumAuthors" : 32,
+		"ProjectID" : "nicklaw5_helix",
+		"NumStars" : 85
+	},
+	{
+		"_id" : ObjectId("629063428b2efbc6e30f8670"),
+		"NumAuthors" : 22,
+		"ProjectID" : "ctrox_csi-s3",
+		"NumStars" : 187
+	},
+	{
+		"_id" : ObjectId("629063528b2efbc6e3106218"),
+		"NumAuthors" : 84,
+		"ProjectID" : "tsuna_gohbase",
+		"NumStars" : 509
+	},
+	{
+		"_id" : ObjectId("629063588b2efbc6e31092fc"),
+		"NumAuthors" : 44,
+		"ProjectID" : "StackExchange_wmi",
+		"NumStars" : 323
+	},
+	{
+		"_id" : ObjectId("629063638b2efbc6e310fa77"),
+		"NumAuthors" : 22,
+		"ProjectID" : "RobotsAndPencils_buford",
+		"NumStars" : 507
+	},
+	{
+		"_id" : ObjectId("629063978b2efbc6e3145f5f"),
+		"NumAuthors" : 67,
+		"ProjectID" : "fullstorydev_grpcurl",
+		"NumStars" : 3910
+	},
+	{
+		"_id" : ObjectId("629063988b2efbc6e314923a"),
+		"NumAuthors" : 24,
+		"ProjectID" : "badshark_rump",
+		"NumStars" : 367
+	},
+	{
+		"_id" : ObjectId("629063a08b2efbc6e314d463"),
+		"NumAuthors" : 53,
+		"ProjectID" : "crossplane_oam-runtime",
+		"NumStars" : 280
+	},
+	{
+		"_id" : ObjectId("629063c18b2efbc6e3169d07"),
+		"NumAuthors" : 13,
+		"ProjectID" : "tidb-incubator_cherry-bot",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629063d98b2efbc6e3180070"),
+		"NumAuthors" : 18,
+		"ProjectID" : "halturin_ergo",
+		"NumStars" : 569
+	},
+	{
+		"_id" : ObjectId("629063f08b2efbc6e319a2bf"),
+		"NumAuthors" : 15,
+		"ProjectID" : "13meimei_nutsdb",
+		"NumStars" : 1250
+	},
+	{
+		"_id" : ObjectId("629064798b2efbc6e320eacf"),
+		"NumAuthors" : 16,
+		"ProjectID" : "github_certstore",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("6290648c8b2efbc6e321e4e1"),
+		"NumAuthors" : 22,
+		"ProjectID" : "sendgrid_go-gmime",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629064a78b2efbc6e3237422"),
+		"NumAuthors" : 15,
+		"ProjectID" : "noqcks_gucci",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("629064d08b2efbc6e3256319"),
+		"NumAuthors" : 16,
+		"ProjectID" : "SSLMate_certspotter",
+		"NumStars" : 442
+	},
+	{
+		"_id" : ObjectId("629064f08b2efbc6e326f9e6"),
+		"NumAuthors" : 15,
+		"ProjectID" : "go-playground_form",
+		"NumStars" : 428
+	},
+	{
+		"_id" : ObjectId("629064f48b2efbc6e3274675"),
+		"NumAuthors" : 12,
+		"ProjectID" : "admpub_goloader",
+		"NumStars" : 651
+	},
+	{
+		"_id" : ObjectId("629065098b2efbc6e328655a"),
+		"NumAuthors" : 24,
+		"ProjectID" : "iliayar_golang-vk-api",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("6290651f8b2efbc6e32a1fa8"),
+		"NumAuthors" : 29,
+		"ProjectID" : "shanbay_gobay",
+		"NumStars" : 23
+	},
+	{
+		"_id" : ObjectId("6290651f8b2efbc6e32a2858"),
+		"NumAuthors" : 34,
+		"ProjectID" : "eldadru_ksniff",
+		"NumStars" : 916
+	},
+	{
+		"_id" : ObjectId("6290653c8b2efbc6e32bad3f"),
+		"NumAuthors" : 35,
+		"ProjectID" : "markus-wa_demoinfocs-golang",
+		"NumStars" : 245
+	},
+	{
+		"_id" : ObjectId("6290654e8b2efbc6e32c52b6"),
+		"NumAuthors" : 132,
+		"ProjectID" : "patrickmn_go-cache",
+		"NumStars" : 4280
+	},
+	{
+		"_id" : ObjectId("629065638b2efbc6e32d87d2"),
+		"NumAuthors" : 21,
+		"ProjectID" : "jgramoll_terraform-provider-spinnaker",
+		"NumStars" : 21
+	},
+	{
+		"_id" : ObjectId("629065748b2efbc6e32e8419"),
+		"NumAuthors" : 85,
+		"ProjectID" : "nytm_go-grafana-api",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("629065b18b2efbc6e331ebb7"),
+		"NumAuthors" : 15,
+		"ProjectID" : "emersion_go-webdav",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("629065c68b2efbc6e332acc7"),
+		"NumAuthors" : 78,
+		"ProjectID" : "michaelklishin_rabbit-hole",
+		"NumStars" : 262
+	},
+	{
+		"_id" : ObjectId("629065c88b2efbc6e332f9aa"),
+		"NumAuthors" : 22,
+		"ProjectID" : "vbauerster_mpb",
+		"NumStars" : 936
+	},
+	{
+		"_id" : ObjectId("629066238b2efbc6e3384fe5"),
+		"NumAuthors" : 20,
+		"ProjectID" : "lytics_cloudstorage",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("629066368b2efbc6e33943f5"),
+		"NumAuthors" : 15,
+		"ProjectID" : "ignoramous_outline-go-tun2socks",
+		"NumStars" : 71
+	},
+	{
+		"_id" : ObjectId("629066518b2efbc6e33a9057"),
+		"NumAuthors" : 12,
+		"ProjectID" : "palantir_go-baseapp",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("629066598b2efbc6e33b52a7"),
+		"NumAuthors" : 84,
+		"ProjectID" : "fiorix_go-smpp",
+		"NumStars" : 202
+	},
+	{
+		"_id" : ObjectId("629066c58b2efbc6e34157e0"),
+		"NumAuthors" : 34,
+		"ProjectID" : "twitchscience_kinsumer",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("629066cc8b2efbc6e341b08a"),
+		"NumAuthors" : 15,
+		"ProjectID" : "steveyen_gkvlite",
+		"NumStars" : 344
+	},
+	{
+		"_id" : ObjectId("629066e28b2efbc6e342f027"),
+		"NumAuthors" : 84,
+		"ProjectID" : "dgraph-io_ristretto",
+		"NumStars" : 1117
+	},
+	{
+		"_id" : ObjectId("6290671e8b2efbc6e345d8c9"),
+		"NumAuthors" : 52,
+		"ProjectID" : "radovskyb_watcher",
+		"NumStars" : 890
+	},
+	{
+		"_id" : ObjectId("629067318b2efbc6e3471688"),
+		"NumAuthors" : 27,
+		"ProjectID" : "abhi_libcni",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("629067778b2efbc6e34af78e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "plexsystems_sinker",
+		"NumStars" : 347
+	},
+	{
+		"_id" : ObjectId("629067978b2efbc6e34d13f9"),
+		"NumAuthors" : 13,
+		"ProjectID" : "mushorg_go-dpi",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("629067ad8b2efbc6e34e45ea"),
+		"NumAuthors" : 43,
+		"ProjectID" : "google_btree",
+		"NumStars" : 2240
+	},
+	{
+		"_id" : ObjectId("629067bf8b2efbc6e34f56b3"),
+		"NumAuthors" : 13,
+		"ProjectID" : "coinrust_crex",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("629068118b2efbc6e3540e31"),
+		"NumAuthors" : 23,
+		"ProjectID" : "alaingilbert_ogame",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("6290682f8b2efbc6e355d862"),
+		"NumAuthors" : 13,
+		"ProjectID" : "oboukili_terraform-provider-argocd",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("6290685f8b2efbc6e3582530"),
+		"NumAuthors" : 24,
+		"ProjectID" : "contribsys_faktory-go",
+		"NumStars" : 171
+	},
+	{
+		"_id" : ObjectId("629068688b2efbc6e35896d3"),
+		"NumAuthors" : 35,
+		"ProjectID" : "tomnomnom_meg",
+		"NumStars" : 695
+	},
+	{
+		"_id" : ObjectId("629068788b2efbc6e359961e"),
+		"NumAuthors" : 41,
+		"ProjectID" : "deanxu2357_ptt-backend",
+		"NumStars" : 58
+	},
+	{
+		"_id" : ObjectId("6290688b8b2efbc6e35ac379"),
+		"NumAuthors" : 11,
+		"ProjectID" : "bcvery1_tilepix",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("629068b48b2efbc6e35c9b9d"),
+		"NumAuthors" : 13,
+		"ProjectID" : "ph4r5h4d_wait4it",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629069088b2efbc6e3618030"),
+		"NumAuthors" : 38,
+		"ProjectID" : "mackerelio_mackerel-client-go",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("629069308b2efbc6e3635c72"),
+		"NumAuthors" : 25,
+		"ProjectID" : "aws_amazon-cloudwatch-logs-for-fluent-bit",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("629069518b2efbc6e365b378"),
+		"NumAuthors" : 34,
+		"ProjectID" : "awalterschulze_gographviz",
+		"NumStars" : 385
+	},
+	{
+		"_id" : ObjectId("629069528b2efbc6e365c675"),
+		"NumAuthors" : 26,
+		"ProjectID" : "pin_tftp",
+		"NumStars" : 162
+	},
+	{
+		"_id" : ObjectId("629069538b2efbc6e365d8a0"),
+		"NumAuthors" : 24,
+		"ProjectID" : "haproxytech_config-parser",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("6290697f8b2efbc6e36825cf"),
+		"NumAuthors" : 32,
+		"ProjectID" : "kgretzky_go-ntlm",
+		"NumStars" : 101
+	},
+	{
+		"_id" : ObjectId("629069a88b2efbc6e36a559a"),
+		"NumAuthors" : 51,
+		"ProjectID" : "google_go-tpm",
+		"NumStars" : 266
+	},
+	{
+		"_id" : ObjectId("629069ca8b2efbc6e36cda2f"),
+		"NumAuthors" : 67,
+		"ProjectID" : "influxdata_influxql",
+		"NumStars" : 142
+	},
+	{
+		"_id" : ObjectId("62906a018b2efbc6e36f7b40"),
+		"NumAuthors" : 30,
+		"ProjectID" : "openfaas_golang-http-template",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("62906a058b2efbc6e36fbb13"),
+		"NumAuthors" : 44,
+		"ProjectID" : "klauspost_reedsolomon",
+		"NumStars" : 1166
+	},
+	{
+		"_id" : ObjectId("62906a788b2efbc6e3760837"),
+		"NumAuthors" : 36,
+		"ProjectID" : "containerd_ttrpc",
+		"NumStars" : 213
+	},
+	{
+		"_id" : ObjectId("62906a808b2efbc6e3768728"),
+		"NumAuthors" : 11,
+		"ProjectID" : "drasch_evernote2md",
+		"NumStars" : 193
+	},
+	{
+		"_id" : ObjectId("62906aaf8b2efbc6e379926d"),
+		"NumAuthors" : 206,
+		"ProjectID" : "tarm_serial",
+		"NumStars" : 1772
+	},
+	{
+		"_id" : ObjectId("62906acc8b2efbc6e37b021f"),
+		"NumAuthors" : 44,
+		"ProjectID" : "hanzoai_gochimp3",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("62906af48b2efbc6e37d3997"),
+		"NumAuthors" : 13,
+		"ProjectID" : "MixinNetwork_bot-api-go-client",
+		"NumStars" : 59
+	},
+	{
+		"_id" : ObjectId("62906afa8b2efbc6e37dcb02"),
+		"NumAuthors" : 12,
+		"ProjectID" : "philippgille_gokv",
+		"NumStars" : 232
+	},
+	{
+		"_id" : ObjectId("62906afb8b2efbc6e37dec28"),
+		"NumAuthors" : 29,
+		"ProjectID" : "git-duet_git-duet",
+		"NumStars" : 295
+	},
+	{
+		"_id" : ObjectId("62906b518b2efbc6e3829dc1"),
+		"NumAuthors" : 29,
+		"ProjectID" : "firecracker-microvm_firectl",
+		"NumStars" : 138
+	},
+	{
+		"_id" : ObjectId("62906ba08b2efbc6e3873310"),
+		"NumAuthors" : 16,
+		"ProjectID" : "cashshuffle_cashshuffle",
+		"NumStars" : 46
+	},
+	{
+		"_id" : ObjectId("62906bb78b2efbc6e3884545"),
+		"NumAuthors" : 19,
+		"ProjectID" : "cre81ve_boomfilters",
+		"NumStars" : 1284
+	},
+	{
+		"_id" : ObjectId("62906bc78b2efbc6e388f80a"),
+		"NumAuthors" : 14,
+		"ProjectID" : "knoxite_knoxite",
+		"NumStars" : 154
+	},
+	{
+		"_id" : ObjectId("62906be88b2efbc6e38bc671"),
+		"NumAuthors" : 86,
+		"ProjectID" : "insomniacslk_dhcp",
+		"NumStars" : 252
+	},
+	{
+		"_id" : ObjectId("62906c288b2efbc6e38ef4f6"),
+		"NumAuthors" : 24,
+		"ProjectID" : "portworx_kvdb",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("62906c818b2efbc6e3943018"),
+		"NumAuthors" : 11,
+		"ProjectID" : "incu6us_goimports-reviser",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("62906c858b2efbc6e3946afa"),
+		"NumAuthors" : 14,
+		"ProjectID" : "gokrazy_tools",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62906c9e8b2efbc6e395c5aa"),
+		"NumAuthors" : 59,
+		"ProjectID" : "container-storage-interface_spec",
+		"NumStars" : 724
+	},
+	{
+		"_id" : ObjectId("62906ce28b2efbc6e3998f2b"),
+		"NumAuthors" : 30,
+		"ProjectID" : "aspenmesh_istio-vet",
+		"NumStars" : 111
+	},
+	{
+		"_id" : ObjectId("62906d148b2efbc6e39bde91"),
+		"NumAuthors" : 47,
+		"ProjectID" : "emersion_hydroxide",
+		"NumStars" : 507
+	},
+	{
+		"_id" : ObjectId("62906d398b2efbc6e39e550d"),
+		"NumAuthors" : 11,
+		"ProjectID" : "evryfs_github-actions-runner-operator",
+		"NumStars" : 151
+	},
+	{
+		"_id" : ObjectId("62906d778b2efbc6e3a1763f"),
+		"NumAuthors" : 97,
+		"ProjectID" : "golang_review",
+		"NumStars" : 144
+	},
+	{
+		"_id" : ObjectId("62906d778b2efbc6e3a1a1a1"),
+		"NumAuthors" : 44,
+		"ProjectID" : "rjeczalik_notify",
+		"NumStars" : 637
+	},
+	{
+		"_id" : ObjectId("62906d818b2efbc6e3a1ec44"),
+		"NumAuthors" : 11,
+		"ProjectID" : "clevergo_clevergo",
+		"NumStars" : 270
+	},
+	{
+		"_id" : ObjectId("62906d818b2efbc6e3a213db"),
+		"NumAuthors" : 83,
+		"ProjectID" : "jaycode-git_golua",
+		"NumStars" : 655
+	},
+	{
+		"_id" : ObjectId("62906d928b2efbc6e3a2ef50"),
+		"NumAuthors" : 39,
+		"ProjectID" : "motemen_gore",
+		"NumStars" : 3977
+	},
+	{
+		"_id" : ObjectId("62906d958b2efbc6e3a32182"),
+		"NumAuthors" : 19,
+		"ProjectID" : "isgasho_authorization-proxy",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("62906dac8b2efbc6e3a4ba3a"),
+		"NumAuthors" : 23,
+		"ProjectID" : "fluxcd_terraform-provider-flux",
+		"NumStars" : 77
+	},
+	{
+		"_id" : ObjectId("62906db98b2efbc6e3a5b9f4"),
+		"NumAuthors" : 16,
+		"ProjectID" : "mittwald_goharbor-client",
+		"NumStars" : 220
+	},
+	{
+		"_id" : ObjectId("62906dbf8b2efbc6e3a5f0e6"),
+		"NumAuthors" : 19,
+		"ProjectID" : "bombsimon_wsl",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("62906dda8b2efbc6e3a75132"),
+		"NumAuthors" : 57,
+		"ProjectID" : "abiosoft_ishell",
+		"NumStars" : 1061
+	},
+	{
+		"_id" : ObjectId("62906e4f8b2efbc6e3ae352c"),
+		"NumAuthors" : 28,
+		"ProjectID" : "apcera_termtables",
+		"NumStars" : 248
+	},
+	{
+		"_id" : ObjectId("62906e6b8b2efbc6e3afb799"),
+		"NumAuthors" : 42,
+		"ProjectID" : "chenqy2018_middleware",
+		"NumStars" : 181
+	},
+	{
+		"_id" : ObjectId("62906e728b2efbc6e3afe356"),
+		"NumAuthors" : 48,
+		"ProjectID" : "zencoder_go-dash",
+		"NumStars" : 140
+	},
+	{
+		"_id" : ObjectId("62906ea08b2efbc6e3b32641"),
+		"NumAuthors" : 85,
+		"ProjectID" : "evanphx_json-patch",
+		"NumStars" : 491
+	},
+	{
+		"_id" : ObjectId("62906eb58b2efbc6e3b3f083"),
+		"NumAuthors" : 18,
+		"ProjectID" : "cmattoon_go-coinmarketcap",
+		"NumStars" : 73
+	},
+	{
+		"_id" : ObjectId("62906ed18b2efbc6e3b57308"),
+		"NumAuthors" : 16,
+		"ProjectID" : "kreuzwerker_awsu",
+		"NumStars" : 65
+	},
+	{
+		"_id" : ObjectId("62906f1d8b2efbc6e3ba104b"),
+		"NumAuthors" : 22,
+		"ProjectID" : "elliotchance_pie",
+		"NumStars" : 729
+	},
+	{
+		"_id" : ObjectId("62906f2c8b2efbc6e3babdc1"),
+		"NumAuthors" : 149,
+		"ProjectID" : "openshift_osin",
+		"NumStars" : 1638
+	},
+	{
+		"_id" : ObjectId("62906f468b2efbc6e3bc2076"),
+		"NumAuthors" : 129,
+		"ProjectID" : "go-mail_mail",
+		"NumStars" : 3364
+	},
+	{
+		"_id" : ObjectId("62906fb38b2efbc6e3c281b4"),
+		"NumAuthors" : 12,
+		"ProjectID" : "foxhack_go-osstat",
+		"NumStars" : 123
+	},
+	{
+		"_id" : ObjectId("62906feb8b2efbc6e3c5eae1"),
+		"NumAuthors" : 15,
+		"ProjectID" : "fd0_grobi",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("62906fed8b2efbc6e3c629fc"),
+		"NumAuthors" : 13,
+		"ProjectID" : "apenella_go-ansible",
+		"NumStars" : 164
+	},
+	{
+		"_id" : ObjectId("62906fed8b2efbc6e3c6263d"),
+		"NumAuthors" : 15,
+		"ProjectID" : "calmh_ipfix",
+		"NumStars" : 49
+	},
+	{
+		"_id" : ObjectId("629070298b2efbc6e3c8d6c8"),
+		"NumAuthors" : 12,
+		"ProjectID" : "isabella232_promql-langserver",
+		"NumStars" : 73
+	},
+	{
+		"_id" : ObjectId("629070338b2efbc6e3c97960"),
+		"NumAuthors" : 47,
+		"ProjectID" : "ttacon_libphonenumber",
+		"NumStars" : 467
+	},
+	{
+		"_id" : ObjectId("629070488b2efbc6e3cb0c82"),
+		"NumAuthors" : 270,
+		"ProjectID" : "TheAlgorithms_Go",
+		"NumStars" : 4400
+	},
+	{
+		"_id" : ObjectId("629070cf8b2efbc6e3d2e525"),
+		"NumAuthors" : 74,
+		"ProjectID" : "google_periph",
+		"NumStars" : 1584
+	},
+	{
+		"_id" : ObjectId("629070f68b2efbc6e3d4e2c0"),
+		"NumAuthors" : 42,
+		"ProjectID" : "dgraph-io_dgo",
+		"NumStars" : 199
+	},
+	{
+		"_id" : ObjectId("629071228b2efbc6e3d77c18"),
+		"NumAuthors" : 12,
+		"ProjectID" : "Qovery_qovery-cli",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("6290712a8b2efbc6e3d810ff"),
+		"NumAuthors" : 29,
+		"ProjectID" : "nautilus_gateway",
+		"NumStars" : 158
+	},
+	{
+		"_id" : ObjectId("629071618b2efbc6e3dafe7b"),
+		"NumAuthors" : 15,
+		"ProjectID" : "armfarm_kube-vip",
+		"NumStars" : 246
+	},
+	{
+		"_id" : ObjectId("629071638b2efbc6e3db4a3b"),
+		"NumAuthors" : 29,
+		"ProjectID" : "apache_rocketmq-operator",
+		"NumStars" : 104
+	},
+	{
+		"_id" : ObjectId("629071ac8b2efbc6e3df6b3c"),
+		"NumAuthors" : 13,
+		"ProjectID" : "google_licensecheck",
+		"NumStars" : 188
+	},
+	{
+		"_id" : ObjectId("629071cc8b2efbc6e3e0dcd7"),
+		"NumAuthors" : 14,
+		"ProjectID" : "ropnop_kerbrute",
+		"NumStars" : 644
+	},
+	{
+		"_id" : ObjectId("629071cc8b2efbc6e3e0e2a9"),
+		"NumAuthors" : 85,
+		"ProjectID" : "gokcehan_lf",
+		"NumStars" : 2596
+	},
+	{
+		"_id" : ObjectId("629071e48b2efbc6e3e21198"),
+		"NumAuthors" : 13,
+		"ProjectID" : "nats-io_jwt",
+		"NumStars" : 26
+	},
+	{
+		"_id" : ObjectId("629071f38b2efbc6e3e2f217"),
+		"NumAuthors" : 41,
+		"ProjectID" : "gomodule_oauth1",
+		"NumStars" : 315
+	},
+	{
+		"_id" : ObjectId("629072058b2efbc6e3e41647"),
+		"NumAuthors" : 111,
+		"ProjectID" : "AlecAivazis_survey",
+		"NumStars" : 1948
+	},
+	{
+		"_id" : ObjectId("629072088b2efbc6e3e44320"),
+		"NumAuthors" : 21,
+		"ProjectID" : "wmnsk_go-gtp",
+		"NumStars" : 92
+	},
+	{
+		"_id" : ObjectId("629072278b2efbc6e3e631c3"),
+		"NumAuthors" : 31,
+		"ProjectID" : "Shelnutt2_db2struct",
+		"NumStars" : 352
+	},
+	{
+		"_id" : ObjectId("6290722e8b2efbc6e3e642a2"),
+		"NumAuthors" : 85,
+		"ProjectID" : "DATA-DOG_go-sqlmock",
+		"NumStars" : 2824
+	},
+	{
+		"_id" : ObjectId("629072468b2efbc6e3e79f62"),
+		"NumAuthors" : 19,
+		"ProjectID" : "go-piv_go-ykpiv",
+		"NumStars" : 156
+	},
+	{
+		"_id" : ObjectId("629072628b2efbc6e3e8eab3"),
+		"NumAuthors" : 29,
+		"ProjectID" : "ch-tsai_gopter",
+		"NumStars" : 394
+	},
+	{
+		"_id" : ObjectId("629072708b2efbc6e3e9f4e2"),
+		"NumAuthors" : 12,
+		"ProjectID" : "diffeo_go-coordinate",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("629072aa8b2efbc6e3ebed0a"),
+		"NumAuthors" : 17,
+		"ProjectID" : "vultr_govultr",
+		"NumStars" : 51
+	},
+	{
+		"_id" : ObjectId("629073008b2efbc6e3ef3501"),
+		"NumAuthors" : 24,
+		"ProjectID" : "segmentio_encoding",
+		"NumStars" : 238
+	},
+	{
+		"_id" : ObjectId("629073308b2efbc6e3f0a9f7"),
+		"NumAuthors" : 38,
+		"ProjectID" : "norwoodj_helm-docs",
+		"NumStars" : 274
+	},
+	{
+		"_id" : ObjectId("6290733e8b2efbc6e3f10c8b"),
+		"NumAuthors" : 13,
+		"ProjectID" : "posteo_go-agentx",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("629073538b2efbc6e3f1f456"),
+		"NumAuthors" : 32,
+		"ProjectID" : "vesoft-inc_nebula-go",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("629073828b2efbc6e3f37613"),
+		"NumAuthors" : 18,
+		"ProjectID" : "fxtlabs_date",
+		"NumStars" : 67
+	},
+	{
+		"_id" : ObjectId("629073d78b2efbc6e3f63075"),
+		"NumAuthors" : 31,
+		"ProjectID" : "otiai10_copy",
+		"NumStars" : 226
+	},
+	{
+		"_id" : ObjectId("629074168b2efbc6e3f83e2f"),
+		"NumAuthors" : 48,
+		"ProjectID" : "mcuadros_ofelia",
+		"NumStars" : 1483
+	},
+	{
+		"_id" : ObjectId("629074688b2efbc6e3fb48b5"),
+		"NumAuthors" : 15,
+		"ProjectID" : "onflow_flow-ft",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("6290747c8b2efbc6e3fbf893"),
+		"NumAuthors" : 57,
+		"ProjectID" : "rfjakob_gocryptfs",
+		"NumStars" : 1558
+	},
+	{
+		"_id" : ObjectId("629074908b2efbc6e3fc87f9"),
+		"NumAuthors" : 17,
+		"ProjectID" : "bookingcom_nanotube",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629074c58b2efbc6e3fe844e"),
+		"NumAuthors" : 28,
+		"ProjectID" : "google_nftables",
+		"NumStars" : 514
+	},
+	{
+		"_id" : ObjectId("6290750a8b2efbc6e300b259"),
+		"NumAuthors" : 33,
+		"ProjectID" : "vesoft-inc_nebula-importer",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("6290750a8b2efbc6e300bf58"),
+		"NumAuthors" : 18,
+		"ProjectID" : "ericonr_sbctl",
+		"NumStars" : 138
+	},
+	{
+		"_id" : ObjectId("6290752e8b2efbc6e3025da1"),
+		"NumAuthors" : 15,
+		"ProjectID" : "uber-go_sally",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("6290753d8b2efbc6e302a29f"),
+		"NumAuthors" : 15,
+		"ProjectID" : "chwevans_vulkan",
+		"NumStars" : 561
+	},
+	{
+		"_id" : ObjectId("6290755b8b2efbc6e3037ea7"),
+		"NumAuthors" : 55,
+		"ProjectID" : "thoas_go-funk",
+		"NumStars" : 1865
+	},
+	{
+		"_id" : ObjectId("629075878b2efbc6e30510f6"),
+		"NumAuthors" : 66,
+		"ProjectID" : "russellhaering_goxmldsig",
+		"NumStars" : 80
+	},
+	{
+		"_id" : ObjectId("629075f78b2efbc6e30889de"),
+		"NumAuthors" : 115,
+		"ProjectID" : "mattn_go-xmpp",
+		"NumStars" : 436
+	},
+	{
+		"_id" : ObjectId("629076228b2efbc6e309d0bb"),
+		"NumAuthors" : 61,
+		"ProjectID" : "3d0c_gmf",
+		"NumStars" : 617
+	},
+	{
+		"_id" : ObjectId("629076458b2efbc6e30afc67"),
+		"NumAuthors" : 25,
+		"ProjectID" : "Versent_unicreds",
+		"NumStars" : 118
+	},
+	{
+		"_id" : ObjectId("629076708b2efbc6e30c7efe"),
+		"NumAuthors" : 24,
+		"ProjectID" : "LeelaChessZero_lczero-client",
+		"NumStars" : 50
+	},
+	{
+		"_id" : ObjectId("629076f48b2efbc6e3111c99"),
+		"NumAuthors" : 35,
+		"ProjectID" : "pdepip_go-binance",
+		"NumStars" : 95
+	},
+	{
+		"_id" : ObjectId("629077008b2efbc6e311249f"),
+		"NumAuthors" : 22,
+		"ProjectID" : "go-zeromq_zmq4",
+		"NumStars" : 162
+	},
+	{
+		"_id" : ObjectId("629077a08b2efbc6e316e774"),
+		"NumAuthors" : 59,
+		"ProjectID" : "matrix-org_gomatrix",
+		"NumStars" : 268
+	},
+	{
+		"_id" : ObjectId("629077aa8b2efbc6e31708e1"),
+		"NumAuthors" : 45,
+		"ProjectID" : "golang_snappy",
+		"NumStars" : 1053
+	},
+	{
+		"_id" : ObjectId("629077b68b2efbc6e317f31b"),
+		"NumAuthors" : 37,
+		"ProjectID" : "cruise-automation_k-rail",
+		"NumStars" : 157
+	},
+	{
+		"_id" : ObjectId("6290780d8b2efbc6e31a71f2"),
+		"NumAuthors" : 14,
+		"ProjectID" : "kayac_go-katsubushi",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("6290781c8b2efbc6e31b15cd"),
+		"NumAuthors" : 20,
+		"ProjectID" : "dty1er_kubecolor",
+		"NumStars" : 352
+	},
+	{
+		"_id" : ObjectId("6290781d8b2efbc6e31b4270"),
+		"NumAuthors" : 16,
+		"ProjectID" : "apcera_gssapi",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("629078298b2efbc6e31b960e"),
+		"NumAuthors" : 54,
+		"ProjectID" : "samuel_go-thrift",
+		"NumStars" : 348
+	},
+	{
+		"_id" : ObjectId("629078998b2efbc6e31f8ea6"),
+		"NumAuthors" : 39,
+		"ProjectID" : "faiface_beep",
+		"NumStars" : 999
+	},
+	{
+		"_id" : ObjectId("6290789f8b2efbc6e31fe68a"),
+		"NumAuthors" : 23,
+		"ProjectID" : "amimof_huego",
+		"NumStars" : 146
+	},
+	{
+		"_id" : ObjectId("629078c38b2efbc6e3213b3c"),
+		"NumAuthors" : 25,
+		"ProjectID" : "rakyll_gotest",
+		"NumStars" : 803
+	},
+	{
+		"_id" : ObjectId("629078d18b2efbc6e32174a6"),
+		"NumAuthors" : 12,
+		"ProjectID" : "smartystreets_gunit",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("629078d48b2efbc6e321cac7"),
+		"NumAuthors" : 34,
+		"ProjectID" : "mailjet_mailjet-apiv3-go",
+		"NumStars" : 54
+	},
+	{
+		"_id" : ObjectId("629078fa8b2efbc6e322e889"),
+		"NumAuthors" : 26,
+		"ProjectID" : "codingjzy_netlink-go",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("629078fc8b2efbc6e323333f"),
+		"NumAuthors" : 17,
+		"ProjectID" : "ably-forks_go-liftbridge",
+		"NumStars" : 36
+	},
+	{
+		"_id" : ObjectId("629078fd8b2efbc6e3233d29"),
+		"NumAuthors" : 33,
+		"ProjectID" : "kintone_cli-kintone",
+		"NumStars" : 40
+	},
+	{
+		"_id" : ObjectId("629079308b2efbc6e325125d"),
+		"NumAuthors" : 14,
+		"ProjectID" : "james-bowman_sparse",
+		"NumStars" : 98
+	},
+	{
+		"_id" : ObjectId("6290793f8b2efbc6e3257ab4"),
+		"NumAuthors" : 87,
+		"ProjectID" : "hashicorp_go-tfe",
+		"NumStars" : 87
+	},
+	{
+		"_id" : ObjectId("629079518b2efbc6e325df08"),
+		"NumAuthors" : 89,
+		"ProjectID" : "orcaman_concurrent-map",
+		"NumStars" : 1981
+	},
+	{
+		"_id" : ObjectId("629079608b2efbc6e3267f1d"),
+		"NumAuthors" : 17,
+		"ProjectID" : "yinheli_sshw",
+		"NumStars" : 622
+	},
+	{
+		"_id" : ObjectId("6290796b8b2efbc6e326dbd6"),
+		"NumAuthors" : 52,
+		"ProjectID" : "alexeykaravan_go-bittrex",
+		"NumStars" : 256
+	},
+	{
+		"_id" : ObjectId("629079c18b2efbc6e329c794"),
+		"NumAuthors" : 59,
+		"ProjectID" : "russellcardullo_go-pingdom",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("629079e08b2efbc6e32ad777"),
+		"NumAuthors" : 26,
+		"ProjectID" : "valyala_quicktemplate",
+		"NumStars" : 1920
+	},
+	{
+		"_id" : ObjectId("629079fd8b2efbc6e32c39cd"),
+		"NumAuthors" : 53,
+		"ProjectID" : "capnproto_go-capnproto2",
+		"NumStars" : 1088
+	},
+	{
+		"_id" : ObjectId("62907a048b2efbc6e32c9ee3"),
+		"NumAuthors" : 37,
+		"ProjectID" : "TykTechnologies_tyk-identity-broker",
+		"NumStars" : 41
+	},
+	{
+		"_id" : ObjectId("62907a108b2efbc6e32cbfbf"),
+		"NumAuthors" : 52,
+		"ProjectID" : "containerd_continuity",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("62907a4c8b2efbc6e32f10b4"),
+		"NumAuthors" : 24,
+		"ProjectID" : "quasilyte_go-ruleguard",
+		"NumStars" : 387
+	},
+	{
+		"_id" : ObjectId("62907aa58b2efbc6e331ae42"),
+		"NumAuthors" : 17,
+		"ProjectID" : "mumoshu_terraform-provider-eksctl",
+		"NumStars" : 110
+	},
+	{
+		"_id" : ObjectId("62907aca8b2efbc6e3337d20"),
+		"NumAuthors" : 53,
+		"ProjectID" : "ntlzz93_gosoap",
+		"NumStars" : 249
+	},
+	{
+		"_id" : ObjectId("62907af78b2efbc6e3350527"),
+		"NumAuthors" : 12,
+		"ProjectID" : "redsift_dnstrace",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("62907b088b2efbc6e3355a8b"),
+		"NumAuthors" : 19,
+		"ProjectID" : "go-gorm_datatypes",
+		"NumStars" : 105
+	},
+	{
+		"_id" : ObjectId("62907b268b2efbc6e336701b"),
+		"NumAuthors" : 35,
+		"ProjectID" : "jackc_pgconn",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("62907b3b8b2efbc6e33725e9"),
+		"NumAuthors" : 12,
+		"ProjectID" : "gitlab.com_diamondburned_6cord",
+		"NumStars" : 82
+	},
+	{
+		"_id" : ObjectId("62907b5f8b2efbc6e3386f8e"),
+		"NumAuthors" : 16,
+		"ProjectID" : "15me_uint256",
+		"NumStars" : 72
+	},
+	{
+		"_id" : ObjectId("62907c1b8b2efbc6e33eddf0"),
+		"NumAuthors" : 16,
+		"ProjectID" : "joeig_go-powerdns",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("62907c388b2efbc6e33f954a"),
+		"NumAuthors" : 14,
+		"ProjectID" : "grandecola_bigqueue",
+		"NumStars" : 181
+	},
+	{
+		"_id" : ObjectId("62907cf08b2efbc6e345f3ae"),
+		"NumAuthors" : 46,
+		"ProjectID" : "alecthomas_kong",
+		"NumStars" : 443
+	},
+	{
+		"_id" : ObjectId("62907d348b2efbc6e347ee50"),
+		"NumAuthors" : 14,
+		"ProjectID" : "UpdateHub_updatehub",
+		"NumStars" : 69
+	},
+	{
+		"_id" : ObjectId("62907d448b2efbc6e348cc6e"),
+		"NumAuthors" : 39,
+		"ProjectID" : "NeowayLabs_wabbit",
+		"NumStars" : 145
+	},
+	{
+		"_id" : ObjectId("62907da48b2efbc6e34b6532"),
+		"NumAuthors" : 11,
+		"ProjectID" : "varusan_stretcher",
+		"NumStars" : 229
+	},
+	{
+		"_id" : ObjectId("62907db48b2efbc6e34bf1ed"),
+		"NumAuthors" : 11,
+		"ProjectID" : "Dbz_kube-aliases",
+		"NumStars" : 33
+	},
+	{
+		"_id" : ObjectId("62907dc08b2efbc6e34cb069"),
+		"NumAuthors" : 30,
+		"ProjectID" : "oklog_ulid",
+		"NumStars" : 1949
+	},
+	{
+		"_id" : ObjectId("62907e0f8b2efbc6e34ee860"),
+		"NumAuthors" : 20,
+		"ProjectID" : "iamacarpet_go-win64api",
+		"NumStars" : 157
+	},
+	{
+		"_id" : ObjectId("62907e0f8b2efbc6e34eff48"),
+		"NumAuthors" : 12,
+		"ProjectID" : "goproxy_goproxy",
+		"NumStars" : 322
+	},
+	{
+		"_id" : ObjectId("62907e1e8b2efbc6e34f7a3d"),
+		"NumAuthors" : 70,
+		"ProjectID" : "fluffle_goirc",
+		"NumStars" : 353
+	},
+	{
+		"_id" : ObjectId("62907e388b2efbc6e3504e0d"),
+		"NumAuthors" : 21,
+		"ProjectID" : "baetyl_baetyl-cloud",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("62907e458b2efbc6e350df7d"),
+		"NumAuthors" : 12,
+		"ProjectID" : "georgysavva_scany",
+		"NumStars" : 217
+	},
+	{
+		"_id" : ObjectId("62907e9b8b2efbc6e353f6b4"),
+		"NumAuthors" : 46,
+		"ProjectID" : "labstack_gommon",
+		"NumStars" : 395
+	},
+	{
+		"_id" : ObjectId("62907f1c8b2efbc6e35862d7"),
+		"NumAuthors" : 62,
+		"ProjectID" : "google_cloud-print-connector",
+		"NumStars" : 750
+	},
+	{
+		"_id" : ObjectId("62907f908b2efbc6e35be5e6"),
+		"NumAuthors" : 11,
+		"ProjectID" : "akhilmd_nitro",
+		"NumStars" : 106
+	},
+	{
+		"_id" : ObjectId("62907fbb8b2efbc6e35d5d7d"),
+		"NumAuthors" : 16,
+		"ProjectID" : "goccy_go-json",
+		"NumStars" : 616
+	},
+	{
+		"_id" : ObjectId("629080268b2efbc6e360bd31"),
+		"NumAuthors" : 34,
+		"ProjectID" : "aliyun_aliyun-tablestore-go-sdk",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("629080598b2efbc6e3625e0a"),
+		"NumAuthors" : 16,
+		"ProjectID" : "prometheus_exporter-toolkit",
+		"NumStars" : 68
+	},
+	{
+		"_id" : ObjectId("629080798b2efbc6e3637afc"),
+		"NumAuthors" : 15,
+		"ProjectID" : "gcla_termshark",
+		"NumStars" : 5281
+	},
+	{
+		"_id" : ObjectId("6290809a8b2efbc6e3649ec1"),
+		"NumAuthors" : 34,
+		"ProjectID" : "ThalesIgnite_crypto11",
+		"NumStars" : 107
+	},
+	{
+		"_id" : ObjectId("629080af8b2efbc6e3652c26"),
+		"NumAuthors" : 36,
+		"ProjectID" : "auth0-community_auth0",
+		"NumStars" : 114
+	},
+	{
+		"_id" : ObjectId("629080b98b2efbc6e36577ac"),
+		"NumAuthors" : 29,
+		"ProjectID" : "gruntwork-io_fetch",
+		"NumStars" : 300
+	},
+	{
+		"_id" : ObjectId("629080fa8b2efbc6e367a97c"),
+		"NumAuthors" : 58,
+		"ProjectID" : "lightninglabs_neutrino",
+		"NumStars" : 550
+	},
+	{
+		"_id" : ObjectId("629080fa8b2efbc6e367f637"),
+		"NumAuthors" : 43,
+		"ProjectID" : "BESTSELLER_terraform-provider-harbor",
+		"NumStars" : 30
+	},
+	{
+		"_id" : ObjectId("6290811e8b2efbc6e368f2e5"),
+		"NumAuthors" : 26,
+		"ProjectID" : "jsgoecke_tesla",
+		"NumStars" : 302
+	},
+	{
+		"_id" : ObjectId("629081938b2efbc6e36caea1"),
+		"NumAuthors" : 19,
+		"ProjectID" : "lesovsky_pgcenter",
+		"NumStars" : 1158
+	},
+	{
+		"_id" : ObjectId("629081b08b2efbc6e36df767"),
+		"NumAuthors" : 16,
+		"ProjectID" : "haproxytech_haproxy-consul-connect",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629081b08b2efbc6e36df6a7"),
+		"NumAuthors" : 31,
+		"ProjectID" : "xo_usql",
+		"NumStars" : 5448
+	},
+	{
+		"_id" : ObjectId("629081bb8b2efbc6e36e74fb"),
+		"NumAuthors" : 17,
+		"ProjectID" : "hostirosti_prio-server",
+		"NumStars" : 25
+	},
+	{
+		"_id" : ObjectId("629082728b2efbc6e3747768"),
+		"NumAuthors" : 12,
+		"ProjectID" : "footmau_gokeepasslib",
+		"NumStars" : 120
+	},
+	{
+		"_id" : ObjectId("629082a38b2efbc6e375bb49"),
+		"NumAuthors" : 11,
+		"ProjectID" : "domainr_epp",
+		"NumStars" : 38
+	},
+	{
+		"_id" : ObjectId("629082a88b2efbc6e3760917"),
+		"NumAuthors" : 12,
+		"ProjectID" : "nuvo_orca",
+		"NumStars" : 127
+	},
+	{
+		"_id" : ObjectId("629082c78b2efbc6e377403d"),
+		"NumAuthors" : 18,
+		"ProjectID" : "rsocket_rsocket-go",
+		"NumStars" : 202
+	},
+	{
+		"_id" : ObjectId("629082d78b2efbc6e377accb"),
+		"NumAuthors" : 16,
+		"ProjectID" : "nats-rpc_nrpc",
+		"NumStars" : 396
+	},
+	{
+		"_id" : ObjectId("629083088b2efbc6e3794a05"),
+		"NumAuthors" : 20,
+		"ProjectID" : "orgrim_pg_back",
+		"NumStars" : 117
+	},
+	{
+		"_id" : ObjectId("629083238b2efbc6e37a0fb0"),
+		"NumAuthors" : 47,
+		"ProjectID" : "qiniu_qshell",
+		"NumStars" : 874
+	},
+	{
+		"_id" : ObjectId("6290832f8b2efbc6e37a92b5"),
+		"NumAuthors" : 51,
+		"ProjectID" : "honeycombio_beeline-go",
+		"NumStars" : 45
+	},
+	{
+		"_id" : ObjectId("629083448b2efbc6e37b5439"),
+		"NumAuthors" : 43,
+		"ProjectID" : "hoanhan101_ultimate-go",
+		"NumStars" : 8434
+	},
+	{
+		"_id" : ObjectId("629083568b2efbc6e37bd633"),
+		"NumAuthors" : 22,
+		"ProjectID" : "openconfig_gnoi",
+		"NumStars" : 74
+	},
+	{
+		"_id" : ObjectId("6290838a8b2efbc6e37d6002"),
+		"NumAuthors" : 98,
+		"ProjectID" : "kubernetes_cloud-provider-vsphere",
+		"NumStars" : 93
+	},
+	{
+		"_id" : ObjectId("629084188b2efbc6e38229cb"),
+		"NumAuthors" : 13,
+		"ProjectID" : "Debian_debiman",
+		"NumStars" : 103
+	},
+	{
+		"_id" : ObjectId("6290845e8b2efbc6e38484d7"),
+		"NumAuthors" : 24,
+		"ProjectID" : "tsoding_snitch",
+		"NumStars" : 128
+	},
+	{
+		"_id" : ObjectId("629084728b2efbc6e3853015"),
+		"NumAuthors" : 14,
+		"ProjectID" : "dizzyfool_genna",
+		"NumStars" : 70
+	},
+	{
+		"_id" : ObjectId("6290847e8b2efbc6e3858492"),
+		"NumAuthors" : 28,
+		"ProjectID" : "cristianoliveira_ergo",
+		"NumStars" : 428
+	},
+	{
+		"_id" : ObjectId("6290847f8b2efbc6e3859962"),
+		"NumAuthors" : 12,
+		"ProjectID" : "ovh_erlenmeyer",
+		"NumStars" : 48
+	},
+	{
+		"_id" : ObjectId("6290848c8b2efbc6e38605ef"),
+		"NumAuthors" : 23,
+		"ProjectID" : "gruntwork-io_kubergrunt",
+		"NumStars" : 171
+	},
+	{
+		"_id" : ObjectId("629084bd8b2efbc6e38795e4"),
+		"NumAuthors" : 15,
+		"ProjectID" : "ktr0731_go-fuzzyfinder",
+		"NumStars" : 210
+	},
+	{
+		"_id" : ObjectId("6290851b8b2efbc6e38a9cee"),
+		"NumAuthors" : 11,
+		"ProjectID" : "ubuntu_ubuntu-report",
+		"NumStars" : 52
+	},
+	{
+		"_id" : ObjectId("6290862a8b2efbc6e393c586"),
+		"NumAuthors" : 42,
+		"ProjectID" : "jimmidyson_configmap-reload",
+		"NumStars" : 489
+	},
+	{
+		"_id" : ObjectId("629086608b2efbc6e39588c9"),
+		"NumAuthors" : 111,
+		"ProjectID" : "DataDog_datadog-go",
+		"NumStars" : 253
+	},
+	{
+		"_id" : ObjectId("6290867b8b2efbc6e396890a"),
+		"NumAuthors" : 26,
+		"ProjectID" : "go-macaron_binding",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("6290869c8b2efbc6e39797bd"),
+		"NumAuthors" : 38,
+		"ProjectID" : "go-cmd_cmd",
+		"NumStars" : 384
+	},
+	{
+		"_id" : ObjectId("629086ce8b2efbc6e398fe0a"),
+		"NumAuthors" : 15,
+		"ProjectID" : "functionalfoundry_graphqlws",
+		"NumStars" : 130
+	},
+	{
+		"_id" : ObjectId("629086ce8b2efbc6e399359e"),
+		"NumAuthors" : 33,
+		"ProjectID" : "codingsince1985_geo-golang",
+		"NumStars" : 376
+	},
+	{
+		"_id" : ObjectId("629087498b2efbc6e39d428e"),
+		"NumAuthors" : 11,
+		"ProjectID" : "lileio_pubsub",
+		"NumStars" : 43
+	},
+	{
+		"_id" : ObjectId("629087f38b2efbc6e3a2c43a"),
+		"NumAuthors" : 79,
+		"ProjectID" : "couchbase_go-couchbase",
+		"NumStars" : 371
+	},
+	{
+		"_id" : ObjectId("629088128b2efbc6e3a39daa"),
+		"NumAuthors" : 22,
+		"ProjectID" : "hellofresh_klepto",
+		"NumStars" : 173
+	},
+	{
+		"_id" : ObjectId("629088128b2efbc6e3a3cb27"),
+		"NumAuthors" : 51,
+		"ProjectID" : "fiorix_go-diameter",
+		"NumStars" : 161
+	},
+	{
+		"_id" : ObjectId("6290887f8b2efbc6e3a6f41f"),
+		"NumAuthors" : 24,
+		"ProjectID" : "blackjack_webcam",
+		"NumStars" : 278
+	},
+	{
+		"_id" : ObjectId("629088c18b2efbc6e3a942db"),
+		"NumAuthors" : 62,
+		"ProjectID" : "teamhephy_router",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("629089048b2efbc6e3ab6192"),
+		"NumAuthors" : 31,
+		"ProjectID" : "FluuxIO_go-xmpp",
+		"NumStars" : 145
+	},
+	{
+		"_id" : ObjectId("629089048b2efbc6e3ab5aab"),
+		"NumAuthors" : 42,
+		"ProjectID" : "kovetskiy_mark",
+		"NumStars" : 163
+	},
+	{
+		"_id" : ObjectId("629089118b2efbc6e3ac1005"),
+		"NumAuthors" : 27,
+		"ProjectID" : "TestRunnerSRL_bizhawk-co-op",
+		"NumStars" : 37
+	},
+	{
+		"_id" : ObjectId("6290891e8b2efbc6e3ac2f88"),
+		"NumAuthors" : 11,
+		"ProjectID" : "cbk914_jaeles",
+		"NumStars" : 885
+	},
+	{
+		"_id" : ObjectId("629089318b2efbc6e3ad0a5b"),
+		"NumAuthors" : 15,
+		"ProjectID" : "tidwall_redcon",
+		"NumStars" : 1423
+	},
+	{
+		"_id" : ObjectId("6290893f8b2efbc6e3ad27f1"),
+		"NumAuthors" : 60,
+		"ProjectID" : "dghubble_sling",
+		"NumStars" : 1070
+	},
+	{
+		"_id" : ObjectId("629089538b2efbc6e3adf2a5"),
+		"NumAuthors" : 16,
+		"ProjectID" : "minio_warp",
+		"NumStars" : 101
+	},
+	{
+		"_id" : ObjectId("629089e08b2efbc6e3b2e5ae"),
+		"NumAuthors" : 32,
+		"ProjectID" : "unknwon_goconfig",
+		"NumStars" : 581
+	},
+	{
+		"_id" : ObjectId("629089f98b2efbc6e3b3d40b"),
+		"NumAuthors" : 11,
+		"ProjectID" : "lightninglabs_aperture",
+		"NumStars" : 75
+	},
+	{
+		"_id" : ObjectId("62908a618b2efbc6e3b6d7a0"),
+		"NumAuthors" : 26,
+		"ProjectID" : "0x19_goesl",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("62908a6b8b2efbc6e3b742a6"),
+		"NumAuthors" : 17,
+		"ProjectID" : "vdobler_chart",
+		"NumStars" : 669
+	},
+	{
+		"_id" : ObjectId("62908a928b2efbc6e3b8630d"),
+		"NumAuthors" : 299,
+		"ProjectID" : "golang_scratch",
+		"NumStars" : 32
+	},
+	{
+		"_id" : ObjectId("62908ad88b2efbc6e3bb2755"),
+		"NumAuthors" : 19,
+		"ProjectID" : "vmware-tanzu_velero-plugin-for-vsphere",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62908b498b2efbc6e3bead70"),
+		"NumAuthors" : 97,
+		"ProjectID" : "x-motemen_ghq",
+		"NumStars" : 1859
+	},
+	{
+		"_id" : ObjectId("62908b618b2efbc6e3bfef81"),
+		"NumAuthors" : 24,
+		"ProjectID" : "hellofresh_goengine",
+		"NumStars" : 83
+	},
+	{
+		"_id" : ObjectId("62908b6f8b2efbc6e3c031b0"),
+		"NumAuthors" : 25,
+		"ProjectID" : "soheilhy_cmux",
+		"NumStars" : 1354
+	},
+	{
+		"_id" : ObjectId("62908bb48b2efbc6e3c260ee"),
+		"NumAuthors" : 28,
+		"ProjectID" : "medivhzhan_miniapp",
+		"NumStars" : 651
+	},
+	{
+		"_id" : ObjectId("62908bb48b2efbc6e3c26dde"),
+		"NumAuthors" : 31,
+		"ProjectID" : "johnfercher_maroto",
+		"NumStars" : 254
+	},
+	{
+		"_id" : ObjectId("62908bc08b2efbc6e3c2bde2"),
+		"NumAuthors" : 19,
+		"ProjectID" : "PaloAltoNetworks_pango",
+		"NumStars" : 28
+	},
+	{
+		"_id" : ObjectId("62908be88b2efbc6e3c42ff1"),
+		"NumAuthors" : 22,
+		"ProjectID" : "unknwon_go-fundamental-programming",
+		"NumStars" : 7049
+	},
+	{
+		"_id" : ObjectId("62908c508b2efbc6e3c7a0a0"),
+		"NumAuthors" : 19,
+		"ProjectID" : "lucor_fyne-cross",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("62908ce68b2efbc6e3ccee08"),
+		"NumAuthors" : 16,
+		"ProjectID" : "radareorg_r2pm",
+		"NumStars" : 24
+	},
+	{
+		"_id" : ObjectId("62908d218b2efbc6e3cea101"),
+		"NumAuthors" : 21,
+		"ProjectID" : "mattermost_mattermost-cloud",
+		"NumStars" : 29
+	},
+	{
+		"_id" : ObjectId("62908d3e8b2efbc6e3cff45a"),
+		"NumAuthors" : 29,
+		"ProjectID" : "achannarasappa_ticker",
+		"NumStars" : 3422
+	},
+	{
+		"_id" : ObjectId("62908d5f8b2efbc6e3d0eb14"),
+		"NumAuthors" : 17,
+		"ProjectID" : "digitalcrab_browscap_go",
+		"NumStars" : 35
+	},
+	{
+		"_id" : ObjectId("62908d6d8b2efbc6e3d13737"),
+		"NumAuthors" : 12,
+		"ProjectID" : "mszostok_codeowners-validator",
+		"NumStars" : 47
+	},
+	{
+		"_id" : ObjectId("62908d7d8b2efbc6e3d19e73"),
+		"NumAuthors" : 18,
+		"ProjectID" : "upyun_go-sdk",
+		"NumStars" : 63
+	},
+	{
+		"_id" : ObjectId("62908d7e8b2efbc6e3d1b9fa"),
+		"NumAuthors" : 13,
+		"ProjectID" : "lirm_aeron-go",
+		"NumStars" : 108
+	},
+	{
+		"_id" : ObjectId("62908d8e8b2efbc6e3d223e8"),
+		"NumAuthors" : 11,
+		"ProjectID" : "danieljoos_wincred",
+		"NumStars" : 57
+	},
+	{
+		"_id" : ObjectId("62908dca8b2efbc6e3d49ed7"),
+		"NumAuthors" : 19,
+		"ProjectID" : "lunixbochs_struc",
+		"NumStars" : 389
+	},
+	{
+		"_id" : ObjectId("62908dcb8b2efbc6e3d4a9fc"),
+		"NumAuthors" : 17,
+		"ProjectID" : "VladimirMarkelov_clui",
+		"NumStars" : 524
+	},
+	{
+		"_id" : ObjectId("62908e828b2efbc6e3db30d0"),
+		"NumAuthors" : 57,
+		"ProjectID" : "hashicorp_go-version",
+		"NumStars" : 737
+	},
+	{
+		"_id" : ObjectId("62908e9a8b2efbc6e3dbd610"),
+		"NumAuthors" : 11,
+		"ProjectID" : "james-bowman_nlp",
+		"NumStars" : 287
+	},
+	{
+		"_id" : ObjectId("62908ee28b2efbc6e3de46d9"),
+		"NumAuthors" : 110,
+		"ProjectID" : "testcontainers_testcontainers-go",
+		"NumStars" : 588
+	},
+	{
+		"_id" : ObjectId("62908ee58b2efbc6e3de6090"),
+		"NumAuthors" : 17,
+		"ProjectID" : "ulikunitz_xz",
+		"NumStars" : 318
+	},
+	{
+		"_id" : ObjectId("62908f718b2efbc6e3e2df62"),
+		"NumAuthors" : 16,
+		"ProjectID" : "Hekmon_TransmissionRPC",
+		"NumStars" : 27
+	},
+	{
+		"_id" : ObjectId("62908fa78b2efbc6e3e4dd00"),
+		"NumAuthors" : 56,
+		"ProjectID" : "dustin_go-coap",
+		"NumStars" : 318
+	},
+	{
+		"_id" : ObjectId("62908fad8b2efbc6e3e523ed"),
+		"NumAuthors" : 12,
+		"ProjectID" : "yutopp_go-rtmp",
+		"NumStars" : 148
+	},
+	{
+		"_id" : ObjectId("62908fb58b2efbc6e3e54717"),
+		"NumAuthors" : 20,
+		"ProjectID" : "yanzay_tbot",
+		"NumStars" : 298
+	},
+	{
+		"_id" : ObjectId("629090038b2efbc6e3e81c51"),
+		"NumAuthors" : 39,
+		"ProjectID" : "sevlyar_go-daemon",
+		"NumStars" : 1244
+	},
+	{
+		"_id" : ObjectId("629090508b2efbc6e3ea5301"),
+		"NumAuthors" : 25,
+		"ProjectID" : "qntfy_kazaam",
+		"NumStars" : 155
+	},
+	{
+		"_id" : ObjectId("629090848b2efbc6e3ec6bb0"),
+		"NumAuthors" : 31,
+		"ProjectID" : "fnproject_fdk-go",
+		"NumStars" : 22
+	},
+	{
+		"_id" : ObjectId("629090e28b2efbc6e3ef8234"),
+		"NumAuthors" : 21,
+		"ProjectID" : "esimov_caire",
+		"NumStars" : 9567
+	},
+	{
+		"_id" : ObjectId("629091158b2efbc6e3f14c92"),
+		"NumAuthors" : 54,
+		"ProjectID" : "looplab_fsm",
+		"NumStars" : 1117
+	},
+	{
+		"_id" : ObjectId("629091328b2efbc6e3f21470"),
+		"NumAuthors" : 167,
+		"ProjectID" : "go-gl-legacy_gl",
+		"NumStars" : 1244
+	},
+	{
+		"_id" : ObjectId("6290916a8b2efbc6e3f40cde"),
+		"NumAuthors" : 20,
+		"ProjectID" : "beardnick_goneovim",
+		"NumStars" : 2784
+	},
+	{
+		"_id" : ObjectId("629091d28b2efbc6e3f78ae1"),
+		"NumAuthors" : 19,
+		"ProjectID" : "huandu_go-sqlbuilder",
+		"NumStars" : 432
+	},
+	{
+		"_id" : ObjectId("629092258b2efbc6e3fa5b60"),
+		"NumAuthors" : 59,
+		"ProjectID" : "falcosecurity_falcosidekick",
+		"NumStars" : 106
+	},
+	{
+		"_id" : ObjectId("629092968b2efbc6e3fe08ba"),
+		"NumAuthors" : 153,
+		"ProjectID" : "ahmdrz_goinsta",
+		"NumStars" : 647
+	},
+	{
+		"_id" : ObjectId("629092d18b2efbc6e300183c"),
+		"NumAuthors" : 30,
+		"ProjectID" : "parallaxsecond_parsec",
+		"NumStars" : 152
+	},
+	{
+		"_id" : ObjectId("6290931d8b2efbc6e3023f23"),
+		"NumAuthors" : 21,
+		"ProjectID" : "eduncan911_podcast",
+		"NumStars" : 94
+	},
+	{
+		"_id" : ObjectId("629093b18b2efbc6e307c5e8"),
+		"NumAuthors" : 13,
+		"ProjectID" : "8treenet_freedom",
+		"NumStars" : 1014
+	},
+	{
+		"_id" : ObjectId("629093b88b2efbc6e3081223"),
+		"NumAuthors" : 11,
+		"ProjectID" : "doron-cohen_antidot",
+		"NumStars" : 88
+	},
+	{
+		"_id" : ObjectId("629093c18b2efbc6e30867db"),
+		"NumAuthors" : 116,
+		"ProjectID" : "mediocregopher_radix",
+		"NumStars" : 1299
+	},
+	{
+		"_id" : ObjectId("629094688b2efbc6e30ca7a3"),
+		"NumAuthors" : 13,
+		"ProjectID" : "kyma-incubator_octopus",
+		"NumStars" : 92
+	}
+]

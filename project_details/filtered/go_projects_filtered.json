@@ -1,0 +1,5564 @@
+[
+	{
+		"_id" : "629018a88b2efbc6e39fa827",
+		"NumAuthors" : 19,
+		"ProjectID" : "stakater/Konfigurator",
+		"NumStars" : 34
+	},
+	{
+		"_id" : "629018b08b2efbc6e3a2c1e2",
+		"NumAuthors" : 57,
+		"ProjectID" : "go-ole/go-ole",
+		"NumStars" : 687
+	},
+	{
+		"_id" : "629018b58b2efbc6e3a483eb",
+		"NumAuthors" : 20,
+		"ProjectID" : "theoremoon/ShellgeiBot",
+		"NumStars" : 94
+	},
+	{
+		"_id" : "629018b78b2efbc6e3a53902",
+		"NumAuthors" : 93,
+		"ProjectID" : "creack/pty",
+		"NumStars" : 838
+	},
+	{
+		"_id" : "629018ba8b2efbc6e3a6354c",
+		"NumAuthors" : 32,
+		"ProjectID" : "rthornton128/goncurses",
+		"NumStars" : 308
+	},
+	{
+		"_id" : "629018bd8b2efbc6e3a7a615",
+		"NumAuthors" : 34,
+		"ProjectID" : "pinterest/knox",
+		"NumStars" : 886
+	},
+	{
+		"_id" : "629018c38b2efbc6e3a9aec4",
+		"NumAuthors" : 16,
+		"ProjectID" : "ungerik/go3d",
+		"NumStars" : 201
+	},
+	{
+		"_id" : "629018c58b2efbc6e3aa5dba",
+		"NumAuthors" : 16,
+		"ProjectID" : "webdevops/azure-devops-exporter",
+		"NumStars" : 47
+	},
+	{
+		"_id" : "629018c78b2efbc6e3ab61f8",
+		"NumAuthors" : 13,
+		"ProjectID" : "melbahja/got",
+		"NumStars" : 481
+	},
+	{
+		"_id" : "629018c98b2efbc6e3abdba0",
+		"NumAuthors" : 18,
+		"ProjectID" : "thejerf/suture",
+		"NumStars" : 926
+	},
+	{
+		"_id" : "629018cf8b2efbc6e3adf027",
+		"NumAuthors" : 15,
+		"ProjectID" : "bogem_id3v2",
+		"NumStars" : 158
+	},
+	{
+		"_id" : "629018e08b2efbc6e3b339bf",
+		"NumAuthors" : 30,
+		"ProjectID" : "go-macaron/session",
+		"NumStars" : 29
+	},
+	{
+		"_id" : "629018e68b2efbc6e3b4f947",
+		"NumAuthors" : 26,
+		"ProjectID" : "kata-containers/ksm-throttler",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629018ed8b2efbc6e3b7b2a5",
+		"NumAuthors" : 37,
+		"ProjectID" : "pkg/term",
+		"NumStars" : 284
+	},
+	{
+		"_id" : "629018ee8b2efbc6e3b80ded",
+		"NumAuthors" : 20,
+		"ProjectID" : "livepeer/lpms",
+		"NumStars" : 188
+	},
+	{
+		"_id" : "629018f28b2efbc6e3b97635",
+		"NumAuthors" : 32,
+		"ProjectID" : "vmware/vmware-go-kcl",
+		"NumStars" : 63
+	},
+	{
+		"_id" : "629018f78b2efbc6e3bb0d8c",
+		"NumAuthors" : 38,
+		"ProjectID" : "mvdan/gofumpt",
+		"NumStars" : 691
+	},
+	{
+		"_id" : "629018fa8b2efbc6e3bc54c7",
+		"NumAuthors" : 54,
+		"ProjectID" : "jimeh/tmux-themepack",
+		"NumStars" : 1170
+	},
+	{
+		"_id" : "629018fc8b2efbc6e3bd0b77",
+		"NumAuthors" : 18,
+		"ProjectID" : "rogpeppe/go-internal",
+		"NumStars" : 254
+	},
+	{
+		"_id" : "629019018b2efbc6e3be61de",
+		"NumAuthors" : 66,
+		"ProjectID" : "smartwalle/alipay",
+		"NumStars" : 901
+	},
+	{
+		"_id" : "629019048b2efbc6e3c026ce",
+		"NumAuthors" : 25,
+		"ProjectID" : "jonas-p/go-shp",
+		"NumStars" : 196
+	},
+	{
+		"_id" : "629019088b2efbc6e3c162ad",
+		"NumAuthors" : 80,
+		"ProjectID" : "graphql-go/handler",
+		"NumStars" : 359
+	},
+	{
+		"_id" : "629019118b2efbc6e3c44589",
+		"NumAuthors" : 60,
+		"ProjectID" : "TencentCloud/tencentcloud-sdk-go",
+		"NumStars" : 257
+	},
+	{
+		"_id" : "629019138b2efbc6e3c4c017",
+		"NumAuthors" : 30,
+		"ProjectID" : "mdlayher/raw",
+		"NumStars" : 344
+	},
+	{
+		"_id" : "6290191a8b2efbc6e3c72161",
+		"NumAuthors" : 19,
+		"ProjectID" : "bifurcation/mint",
+		"NumStars" : 203
+	},
+	{
+		"_id" : "629019208b2efbc6e3c9130c",
+		"NumAuthors" : 223,
+		"ProjectID" : "asaskevich/govalidator",
+		"NumStars" : 4387
+	},
+	{
+		"_id" : "629019228b2efbc6e3c9a566",
+		"NumAuthors" : 245,
+		"ProjectID" : "gomodule/redigo",
+		"NumStars" : 7992
+	},
+	{
+		"_id" : "629019228b2efbc6e3c9b58c",
+		"NumAuthors" : 15,
+		"ProjectID" : "chebyrash/promise",
+		"NumStars" : 132
+	},
+	{
+		"_id" : "629019258b2efbc6e3ca775c",
+		"NumAuthors" : 26,
+		"ProjectID" : "fishworks/gofish",
+		"NumStars" : 579
+	},
+	{
+		"_id" : "629019258b2efbc6e3ca9276",
+		"NumAuthors" : 13,
+		"ProjectID" : "naoina/migu",
+		"NumStars" : 79
+	},
+	{
+		"_id" : "6290192b8b2efbc6e3cc3f0b",
+		"NumAuthors" : 12,
+		"ProjectID" : "muesli/reflow",
+		"NumStars" : 97
+	},
+	{
+		"_id" : "6290192c8b2efbc6e3ccbd75",
+		"NumAuthors" : 25,
+		"ProjectID" : "aquasecurity/kubectl-who-can",
+		"NumStars" : 321
+	},
+	{
+		"_id" : "6290192f8b2efbc6e3cdbb3b",
+		"NumAuthors" : 19,
+		"ProjectID" : "cycloidio/terracognita",
+		"NumStars" : 250
+	},
+	{
+		"_id" : "629019328b2efbc6e3cf167a",
+		"NumAuthors" : 39,
+		"ProjectID" : "keikoproj/upgrade-manager",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "629019348b2efbc6e3cf604f",
+		"NumAuthors" : 30,
+		"ProjectID" : "ziutek/gst",
+		"NumStars" : 175
+	},
+	{
+		"_id" : "6290193a8b2efbc6e3d1c8b3",
+		"NumAuthors" : 19,
+		"ProjectID" : "github/vulcanizer",
+		"NumStars" : 512
+	},
+	{
+		"_id" : "629019408b2efbc6e3d38ef8",
+		"NumAuthors" : 15,
+		"ProjectID" : "google/gonids",
+		"NumStars" : 76
+	},
+	{
+		"_id" : "629019418b2efbc6e3d402d6",
+		"NumAuthors" : 51,
+		"ProjectID" : "grpc-ecosystem/go-grpc-prometheus",
+		"NumStars" : 871
+	},
+	{
+		"_id" : "629019448b2efbc6e3d49f2f",
+		"NumAuthors" : 18,
+		"ProjectID" : "CosmWasm/wasmvm",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "6290194c8b2efbc6e3d6c36f",
+		"NumAuthors" : 23,
+		"ProjectID" : "hellofresh/health-go",
+		"NumStars" : 95
+	},
+	{
+		"_id" : "6290194e8b2efbc6e3d7bcf2",
+		"NumAuthors" : 29,
+		"ProjectID" : "dhowden/tag",
+		"NumStars" : 298
+	},
+	{
+		"_id" : "629019518b2efbc6e3d84fb5",
+		"NumAuthors" : 79,
+		"ProjectID" : "alexellis/arkade",
+		"NumStars" : 959
+	},
+	{
+		"_id" : "629019518b2efbc6e3d87a29",
+		"NumAuthors" : 33,
+		"ProjectID" : "prestodb/presto-go-client",
+		"NumStars" : 173
+	},
+	{
+		"_id" : "6290195a8b2efbc6e3db2c4b",
+		"NumAuthors" : 32,
+		"ProjectID" : "fahedouch/nerdctl",
+		"NumStars" : 431
+	},
+	{
+		"_id" : "6290195c8b2efbc6e3dbfa39",
+		"NumAuthors" : 52,
+		"ProjectID" : "unrolled/render",
+		"NumStars" : 1429
+	},
+	{
+		"_id" : "629019618b2efbc6e3dd65d8",
+		"NumAuthors" : 25,
+		"ProjectID" : "ejssik/nmap",
+		"NumStars" : 301
+	},
+	{
+		"_id" : "629019658b2efbc6e3deb757",
+		"NumAuthors" : 14,
+		"ProjectID" : "lazyledger/smt",
+		"NumStars" : 45
+	},
+	{
+		"_id" : "629019668b2efbc6e3df117a",
+		"NumAuthors" : 28,
+		"ProjectID" : "lamoda/gonkey",
+		"NumStars" : 75
+	},
+	{
+		"_id" : "6290197b8b2efbc6e3e51a2f",
+		"NumAuthors" : 47,
+		"ProjectID" : "loong/go-concurrency-exercises",
+		"NumStars" : 217
+	},
+	{
+		"_id" : "629019868b2efbc6e3e83f02",
+		"NumAuthors" : 12,
+		"ProjectID" : "larrabee/s3sync",
+		"NumStars" : 172
+	},
+	{
+		"_id" : "629019878b2efbc6e3e89f73",
+		"NumAuthors" : 38,
+		"ProjectID" : "canonical/dqlite",
+		"NumStars" : 1694
+	},
+	{
+		"_id" : "629019918b2efbc6e3eb8976",
+		"NumAuthors" : 14,
+		"ProjectID" : "dbl0null/malgo",
+		"NumStars" : 120
+	},
+	{
+		"_id" : "629019988b2efbc6e3ed5b7d",
+		"NumAuthors" : 12,
+		"ProjectID" : "qedus/nds",
+		"NumStars" : 160
+	},
+	{
+		"_id" : "6290199a8b2efbc6e3edc6af",
+		"NumAuthors" : 52,
+		"ProjectID" : "mailru/go-clickhouse",
+		"NumStars" : 223
+	},
+	{
+		"_id" : "629019ab8b2efbc6e3f31721",
+		"NumAuthors" : 47,
+		"ProjectID" : "secsy/goftp",
+		"NumStars" : 126
+	},
+	{
+		"_id" : "629019af8b2efbc6e3f47219",
+		"NumAuthors" : 19,
+		"ProjectID" : "servicebinding/spec",
+		"NumStars" : 28
+	},
+	{
+		"_id" : "629019b08b2efbc6e3f4c555",
+		"NumAuthors" : 12,
+		"ProjectID" : "tcncloud/protoc-gen-persist",
+		"NumStars" : 53
+	},
+	{
+		"_id" : "629019c08b2efbc6e3f9404e",
+		"NumAuthors" : 17,
+		"ProjectID" : "dgv/godocdown",
+		"NumStars" : 438
+	},
+	{
+		"_id" : "629019c78b2efbc6e3fb8c5e",
+		"NumAuthors" : 36,
+		"ProjectID" : "asdine/storm",
+		"NumStars" : 1643
+	},
+	{
+		"_id" : "629019cc8b2efbc6e3fc773a",
+		"NumAuthors" : 23,
+		"ProjectID" : "xalanq/cf-tool",
+		"NumStars" : 573
+	},
+	{
+		"_id" : "629019cc8b2efbc6e3fcb974",
+		"NumAuthors" : 53,
+		"ProjectID" : "jaytaylor/html2text",
+		"NumStars" : 330
+	},
+	{
+		"_id" : "629019d68b2efbc6e3ff8ebd",
+		"NumAuthors" : 19,
+		"ProjectID" : "k-sone/snmpgo",
+		"NumStars" : 117
+	},
+	{
+		"_id" : "629019d68b2efbc6e3ff9543",
+		"NumAuthors" : 14,
+		"ProjectID" : "FooSoft/homemaker",
+		"NumStars" : 212
+	},
+	{
+		"_id" : "629019dd8b2efbc6e30195d7",
+		"NumAuthors" : 30,
+		"ProjectID" : "onrik/ethrpc",
+		"NumStars" : 197
+	},
+	{
+		"_id" : "629019e88b2efbc6e304e19f",
+		"NumAuthors" : 164,
+		"ProjectID" : "prometheus/procfs",
+		"NumStars" : 363
+	},
+	{
+		"_id" : "629019f48b2efbc6e308850e",
+		"NumAuthors" : 47,
+		"ProjectID" : "vanng822/go-solr",
+		"NumStars" : 204
+	},
+	{
+		"_id" : "629019fc8b2efbc6e30aba1b",
+		"NumAuthors" : 40,
+		"ProjectID" : "naoina/toml",
+		"NumStars" : 303
+	},
+	{
+		"_id" : "629019fe8b2efbc6e30bae44",
+		"NumAuthors" : 131,
+		"ProjectID" : "kubernetes/gengo",
+		"NumStars" : 294
+	},
+	{
+		"_id" : "62901a058b2efbc6e30d6f9d",
+		"NumAuthors" : 13,
+		"ProjectID" : "mvdan/unparam",
+		"NumStars" : 307
+	},
+	{
+		"_id" : "62901a068b2efbc6e30dca70",
+		"NumAuthors" : 25,
+		"ProjectID" : "domainr/whois",
+		"NumStars" : 251
+	},
+	{
+		"_id" : "62901a068b2efbc6e30ddf97",
+		"NumAuthors" : 24,
+		"ProjectID" : "hashicorp/hil",
+		"NumStars" : 345
+	},
+	{
+		"_id" : "62901a0b8b2efbc6e30f3630",
+		"NumAuthors" : 26,
+		"ProjectID" : "adams-sarah/test2doc",
+		"NumStars" : 346
+	},
+	{
+		"_id" : "62901a138b2efbc6e311fcda",
+		"NumAuthors" : 15,
+		"ProjectID" : "isgasho/gta",
+		"NumStars" : 88
+	},
+	{
+		"_id" : "62901a148b2efbc6e3121fe7",
+		"NumAuthors" : 15,
+		"ProjectID" : "renproject/hyperdrive",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "62901a148b2efbc6e3123c21",
+		"NumAuthors" : 25,
+		"ProjectID" : "QubitProducts/exporter_exporter",
+		"NumStars" : 178
+	},
+	{
+		"_id" : "62901a158b2efbc6e312a548",
+		"NumAuthors" : 30,
+		"ProjectID" : "greymd/ojichat",
+		"NumStars" : 686
+	},
+	{
+		"_id" : "62901a168b2efbc6e312c732",
+		"NumAuthors" : 11,
+		"ProjectID" : "fujiwara/fluent-agent-hydra",
+		"NumStars" : 100
+	},
+	{
+		"_id" : "62901a208b2efbc6e3161705",
+		"NumAuthors" : 16,
+		"ProjectID" : "guonaihong/gout",
+		"NumStars" : 431
+	},
+	{
+		"_id" : "62901a238b2efbc6e31733ba",
+		"NumAuthors" : 23,
+		"ProjectID" : "billputer/go-namecheap",
+		"NumStars" : 53
+	},
+	{
+		"_id" : "62901a258b2efbc6e317f15d",
+		"NumAuthors" : 26,
+		"ProjectID" : "vzex/dog-tunnel",
+		"NumStars" : 1818
+	},
+	{
+		"_id" : "62901a288b2efbc6e318c81d",
+		"NumAuthors" : 11,
+		"ProjectID" : "bytesparadise/libasciidoc",
+		"NumStars" : 120
+	},
+	{
+		"_id" : "62901a398b2efbc6e31cf11c",
+		"NumAuthors" : 66,
+		"ProjectID" : "buchgr/bazel-remote",
+		"NumStars" : 213
+	},
+	{
+		"_id" : "62901a6a8b2efbc6e32076fb",
+		"NumAuthors" : 23,
+		"ProjectID" : "iand/logr",
+		"NumStars" : 325
+	},
+	{
+		"_id" : "62901ab68b2efbc6e324f881",
+		"NumAuthors" : 22,
+		"ProjectID" : "pingcap/failpoint",
+		"NumStars" : 439
+	},
+	{
+		"_id" : "62901abb8b2efbc6e3253d72",
+		"NumAuthors" : 15,
+		"ProjectID" : "timescale/outflux",
+		"NumStars" : 39
+	},
+	{
+		"_id" : "62901ac78b2efbc6e3263f9c",
+		"NumAuthors" : 25,
+		"ProjectID" : "TylerBrock/saw",
+		"NumStars" : 877
+	},
+	{
+		"_id" : "62901acf8b2efbc6e326dc28",
+		"NumAuthors" : 29,
+		"ProjectID" : "ybbus/jsonrpc",
+		"NumStars" : 163
+	},
+	{
+		"_id" : "62901ad08b2efbc6e3271d76",
+		"NumAuthors" : 12,
+		"ProjectID" : "xyproto/simpleredis",
+		"NumStars" : 139
+	},
+	{
+		"_id" : "62901ad68b2efbc6e3275bb8",
+		"NumAuthors" : 101,
+		"ProjectID" : "zmb3/spotify",
+		"NumStars" : 622
+	},
+	{
+		"_id" : "62901ae58b2efbc6e3288cac",
+		"NumAuthors" : 11,
+		"ProjectID" : "getsolus/usysconf",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "62901af08b2efbc6e32951e6",
+		"NumAuthors" : 27,
+		"ProjectID" : "lileio/lile",
+		"NumStars" : 1159
+	},
+	{
+		"_id" : "62901b278b2efbc6e32cb3cc",
+		"NumAuthors" : 32,
+		"ProjectID" : "c-bata/kube-prompt",
+		"NumStars" : 1348
+	},
+	{
+		"_id" : "62901b2e8b2efbc6e32d1fb9",
+		"NumAuthors" : 11,
+		"ProjectID" : "cwdsuzhou/tensile-kube",
+		"NumStars" : 122
+	},
+	{
+		"_id" : "62901b458b2efbc6e32edd3b",
+		"NumAuthors" : 113,
+		"ProjectID" : "envoyproxy/ratelimit",
+		"NumStars" : 950
+	},
+	{
+		"_id" : "62901b4c8b2efbc6e32f29ef",
+		"NumAuthors" : 25,
+		"ProjectID" : "servicemeshinterface/smi-sdk-go",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "62901b608b2efbc6e3303a4b",
+		"NumAuthors" : 26,
+		"ProjectID" : "ikeikeikeike/go-sitemap-generator",
+		"NumStars" : 149
+	},
+	{
+		"_id" : "62901b778b2efbc6e331ae72",
+		"NumAuthors" : 30,
+		"ProjectID" : "mikkyang_id3-go",
+		"NumStars" : 178
+	},
+	{
+		"_id" : "62901b848b2efbc6e332a217",
+		"NumAuthors" : 65,
+		"ProjectID" : "jinzhu/copier",
+		"NumStars" : 1444
+	},
+	{
+		"_id" : "62901b908b2efbc6e3337d14",
+		"NumAuthors" : 36,
+		"ProjectID" : "diamondburned/arikawa",
+		"NumStars" : 123
+	},
+	{
+		"_id" : "62901b9d8b2efbc6e3349a56",
+		"NumAuthors" : 21,
+		"ProjectID" : "mum4k/termdash",
+		"NumStars" : 1396
+	},
+	{
+		"_id" : "62901be98b2efbc6e339ea48",
+		"NumAuthors" : 32,
+		"ProjectID" : "kubesphere/fluentbit-operator",
+		"NumStars" : 50
+	},
+	{
+		"_id" : "62901bf18b2efbc6e33a7259",
+		"NumAuthors" : 14,
+		"ProjectID" : "vrischmann/envconfig",
+		"NumStars" : 177
+	},
+	{
+		"_id" : "62901bf88b2efbc6e33ae613",
+		"NumAuthors" : 16,
+		"ProjectID" : "ByteArena/box2d",
+		"NumStars" : 196
+	},
+	{
+		"_id" : "62901c278b2efbc6e33e53f3",
+		"NumAuthors" : 28,
+		"ProjectID" : "cloudfoundry/lager",
+		"NumStars" : 67
+	},
+	{
+		"_id" : "62901c5d8b2efbc6e341d081",
+		"NumAuthors" : 32,
+		"ProjectID" : "cactus/go-statsd-client",
+		"NumStars" : 158
+	},
+	{
+		"_id" : "62901c6f8b2efbc6e3430fc6",
+		"NumAuthors" : 30,
+		"ProjectID" : "fauna/faunadb-go",
+		"NumStars" : 115
+	},
+	{
+		"_id" : "62901c6f8b2efbc6e3433a0a",
+		"NumAuthors" : 24,
+		"ProjectID" : "funtoy/go-tdlib",
+		"NumStars" : 228
+	},
+	{
+		"_id" : "62901c898b2efbc6e3451484",
+		"NumAuthors" : 19,
+		"ProjectID" : "1dustindavis/gorilla",
+		"NumStars" : 128
+	},
+	{
+		"_id" : "62901ca58b2efbc6e3471dae",
+		"NumAuthors" : 15,
+		"ProjectID" : "dvyukov/go-fuzz-corpus",
+		"NumStars" : 81
+	},
+	{
+		"_id" : "62901cad8b2efbc6e3479bdf",
+		"NumAuthors" : 12,
+		"ProjectID" : "secrethub/secrethub-cli",
+		"NumStars" : 71
+	},
+	{
+		"_id" : "62901cb78b2efbc6e348554d",
+		"NumAuthors" : 18,
+		"ProjectID" : "gookit/validate",
+		"NumStars" : 276
+	},
+	{
+		"_id" : "62901ce78b2efbc6e34bb361",
+		"NumAuthors" : 43,
+		"ProjectID" : "honeycombio/buildevents",
+		"NumStars" : 65
+	},
+	{
+		"_id" : "62901cea8b2efbc6e34bd421",
+		"NumAuthors" : 23,
+		"ProjectID" : "antchfx/xpath",
+		"NumStars" : 327
+	},
+	{
+		"_id" : "62901cf68b2efbc6e34c790a",
+		"NumAuthors" : 30,
+		"ProjectID" : "lensesio/lenses-go",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "62901d228b2efbc6e34f72b2",
+		"NumAuthors" : 20,
+		"ProjectID" : "danielpacak/harbor-scanner-trivy",
+		"NumStars" : 51
+	},
+	{
+		"_id" : "62901d478b2efbc6e351b2de",
+		"NumAuthors" : 22,
+		"ProjectID" : "diskfs/go-diskfs",
+		"NumStars" : 155
+	},
+	{
+		"_id" : "62901d648b2efbc6e353abd5",
+		"NumAuthors" : 24,
+		"ProjectID" : "kolide/osquery-go",
+		"NumStars" : 219
+	},
+	{
+		"_id" : "62901d9c8b2efbc6e3576c91",
+		"NumAuthors" : 15,
+		"ProjectID" : "apache/skywalking-swck",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "62901dc08b2efbc6e359794f",
+		"NumAuthors" : 14,
+		"ProjectID" : "prisma/prisma-client-go",
+		"NumStars" : 500
+	},
+	{
+		"_id" : "62901dc38b2efbc6e3599e77",
+		"NumAuthors" : 46,
+		"ProjectID" : "mattn/go-redmine",
+		"NumStars" : 153
+	},
+	{
+		"_id" : "62901dfe8b2efbc6e35d7c00",
+		"NumAuthors" : 20,
+		"ProjectID" : "bradleyjkemp/cupaloy",
+		"NumStars" : 112
+	},
+	{
+		"_id" : "62901e2c8b2efbc6e360735a",
+		"NumAuthors" : 23,
+		"ProjectID" : "dnsimple/dnsimple-go",
+		"NumStars" : 70
+	},
+	{
+		"_id" : "62901e4c8b2efbc6e362662e",
+		"NumAuthors" : 136,
+		"ProjectID" : "go-co-op/gocron",
+		"NumStars" : 2880
+	},
+	{
+		"_id" : "62901e5f8b2efbc6e3638edc",
+		"NumAuthors" : 168,
+		"ProjectID" : "digitalocean/godo",
+		"NumStars" : 1021
+	},
+	{
+		"_id" : "62901e7a8b2efbc6e3659739",
+		"NumAuthors" : 35,
+		"ProjectID" : "cri-o/ocicni",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "62901e7a8b2efbc6e3659b47",
+		"NumAuthors" : 34,
+		"ProjectID" : "eBay/go-ovn",
+		"NumStars" : 65
+	},
+	{
+		"_id" : "62901e918b2efbc6e366fc54",
+		"NumAuthors" : 13,
+		"ProjectID" : "skupperproject/skupper",
+		"NumStars" : 112
+	},
+	{
+		"_id" : "62901efc8b2efbc6e36de397",
+		"NumAuthors" : 26,
+		"ProjectID" : "seiflotfy/cuckoofilter",
+		"NumStars" : 680
+	},
+	{
+		"_id" : "62901f108b2efbc6e36f7416",
+		"NumAuthors" : 36,
+		"ProjectID" : "tencentyun/cos-go-sdk-v5",
+		"NumStars" : 74
+	},
+	{
+		"_id" : "62901f188b2efbc6e37001e0",
+		"NumAuthors" : 15,
+		"ProjectID" : "redhat-cop/keepalived-operator",
+		"NumStars" : 50
+	},
+	{
+		"_id" : "62901f2f8b2efbc6e3716a27",
+		"NumAuthors" : 13,
+		"ProjectID" : "akavel/rsrc",
+		"NumStars" : 704
+	},
+	{
+		"_id" : "62901f488b2efbc6e3730159",
+		"NumAuthors" : 24,
+		"ProjectID" : "getevo/mysql",
+		"NumStars" : 72
+	},
+	{
+		"_id" : "62901f4a8b2efbc6e373142b",
+		"NumAuthors" : 24,
+		"ProjectID" : "packethost/packet-ccm",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "62901f4e8b2efbc6e3736b3f",
+		"NumAuthors" : 12,
+		"ProjectID" : "billziss-gh/cgofuse",
+		"NumStars" : 235
+	},
+	{
+		"_id" : "62901f7e8b2efbc6e375bbd1",
+		"NumAuthors" : 44,
+		"ProjectID" : "jarcoal/httpmock",
+		"NumStars" : 851
+	},
+	{
+		"_id" : "62901fb18b2efbc6e3788446",
+		"NumAuthors" : 14,
+		"ProjectID" : "blevesearch/blevex",
+		"NumStars" : 39
+	},
+	{
+		"_id" : "62901fec8b2efbc6e37b6ccb",
+		"NumAuthors" : 43,
+		"ProjectID" : "kubernetes-sigs/go-open-service-broker-client",
+		"NumStars" : 62
+	},
+	{
+		"_id" : "62901ff58b2efbc6e37bf0e2",
+		"NumAuthors" : 26,
+		"ProjectID" : "nokia/danm",
+		"NumStars" : 207
+	},
+	{
+		"_id" : "629020338b2efbc6e37eb9cc",
+		"NumAuthors" : 36,
+		"ProjectID" : "haproxytech/client-native",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "6290203d8b2efbc6e37f3994",
+		"NumAuthors" : 25,
+		"ProjectID" : "webdevops/azure-resourcemanager-exporter",
+		"NumStars" : 157
+	},
+	{
+		"_id" : "6290203d8b2efbc6e37f6367",
+		"NumAuthors" : 41,
+		"ProjectID" : "r3labs/sse",
+		"NumStars" : 201
+	},
+	{
+		"_id" : "6290203e8b2efbc6e37f6408",
+		"NumAuthors" : 26,
+		"ProjectID" : "ahmetb/go-linq",
+		"NumStars" : 2118
+	},
+	{
+		"_id" : "629020468b2efbc6e37f8bed",
+		"NumAuthors" : 34,
+		"ProjectID" : "firecracker-microvm/firecracker-go-sdk",
+		"NumStars" : 204
+	},
+	{
+		"_id" : "629020518b2efbc6e38007ad",
+		"NumAuthors" : 15,
+		"ProjectID" : "jtyr/gbt",
+		"NumStars" : 295
+	},
+	{
+		"_id" : "629020648b2efbc6e3812e3a",
+		"NumAuthors" : 30,
+		"ProjectID" : "vmware-tanzu/vm-operator-api",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "629020948b2efbc6e3838b16",
+		"NumAuthors" : 88,
+		"ProjectID" : "flosch/pongo2",
+		"NumStars" : 1903
+	},
+	{
+		"_id" : "629020bc8b2efbc6e3858cd9",
+		"NumAuthors" : 19,
+		"ProjectID" : "FuzzyStatic/blizzard",
+		"NumStars" : 31
+	},
+	{
+		"_id" : "629020c78b2efbc6e385f982",
+		"NumAuthors" : 46,
+		"ProjectID" : "labd/terraform-provider-commercetools",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "629020e08b2efbc6e3873c2b",
+		"NumAuthors" : 26,
+		"ProjectID" : "gravitational/trace",
+		"NumStars" : 46
+	},
+	{
+		"_id" : "629021cd8b2efbc6e392d693",
+		"NumAuthors" : 15,
+		"ProjectID" : "jacobsa/crypto",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "629021dc8b2efbc6e3938486",
+		"NumAuthors" : 28,
+		"ProjectID" : "cavaliercoder/grab",
+		"NumStars" : 744
+	},
+	{
+		"_id" : "629022538b2efbc6e3996d0a",
+		"NumAuthors" : 15,
+		"ProjectID" : "kbst/terraform-provider-kustomize",
+		"NumStars" : 126
+	},
+	{
+		"_id" : "629022698b2efbc6e39a6e0e",
+		"NumAuthors" : 11,
+		"ProjectID" : "a8m/tree",
+		"NumStars" : 56
+	},
+	{
+		"_id" : "629022828b2efbc6e39bab5a",
+		"NumAuthors" : 11,
+		"ProjectID" : "weaveworks/go-odp",
+		"NumStars" : 62
+	},
+	{
+		"_id" : "629022e58b2efbc6e3a0973a",
+		"NumAuthors" : 14,
+		"ProjectID" : "kiwiirc/webircgateway",
+		"NumStars" : 55
+	},
+	{
+		"_id" : "629023218b2efbc6e3a3bdfc",
+		"NumAuthors" : 15,
+		"ProjectID" : "aisuko/ctlptl",
+		"NumStars" : 120
+	},
+	{
+		"_id" : "629023278b2efbc6e3a42722",
+		"NumAuthors" : 63,
+		"ProjectID" : "teralytics/prometheus-ecs-discovery",
+		"NumStars" : 129
+	},
+	{
+		"_id" : "6290236d8b2efbc6e3a76555",
+		"NumAuthors" : 16,
+		"ProjectID" : "decred/dcrtime",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629023938b2efbc6e3a9a184",
+		"NumAuthors" : 43,
+		"ProjectID" : "c9s/goprocinfo",
+		"NumStars" : 597
+	},
+	{
+		"_id" : "629023b98b2efbc6e3ab4118",
+		"NumAuthors" : 23,
+		"ProjectID" : "uber-go/config",
+		"NumStars" : 212
+	},
+	{
+		"_id" : "629024568b2efbc6e3b3c9fc",
+		"NumAuthors" : 27,
+		"ProjectID" : "lyft/cni-ipvlan-vpc-k8s",
+		"NumStars" : 300
+	},
+	{
+		"_id" : "6290245e8b2efbc6e3b45469",
+		"NumAuthors" : 13,
+		"ProjectID" : "andygabby/sre-tools",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629024678b2efbc6e3b48fa6",
+		"NumAuthors" : 12,
+		"ProjectID" : "Simi-Paxleal-J/GO-Workshop",
+		"NumStars" : 78
+	},
+	{
+		"_id" : "629024f68b2efbc6e3bc13fb",
+		"NumAuthors" : 11,
+		"ProjectID" : "dgrr/http2",
+		"NumStars" : 58
+	},
+	{
+		"_id" : "629024fb8b2efbc6e3bc6512",
+		"NumAuthors" : 36,
+		"ProjectID" : "juju/errors",
+		"NumStars" : 1168
+	},
+	{
+		"_id" : "6290250f8b2efbc6e3bd6f1f",
+		"NumAuthors" : 37,
+		"ProjectID" : "olahol/melody",
+		"NumStars" : 1969
+	},
+	{
+		"_id" : "629025138b2efbc6e3bd87c6",
+		"NumAuthors" : 37,
+		"ProjectID" : "moovweb/rubex",
+		"NumStars" : 239
+	},
+	{
+		"_id" : "6290254b8b2efbc6e3c0830c",
+		"NumAuthors" : 18,
+		"ProjectID" : "kurin/blazer",
+		"NumStars" : 98
+	},
+	{
+		"_id" : "6290254c8b2efbc6e3c09d51",
+		"NumAuthors" : 68,
+		"ProjectID" : "h2non/filetype",
+		"NumStars" : 1180
+	},
+	{
+		"_id" : "6290254c8b2efbc6e3c0a941",
+		"NumAuthors" : 17,
+		"ProjectID" : "cloudtools/ssh-cert-authority",
+		"NumStars" : 590
+	},
+	{
+		"_id" : "629025558b2efbc6e3c0ffb9",
+		"NumAuthors" : 14,
+		"ProjectID" : "caarlos0/postgresql_exporter",
+		"NumStars" : 28
+	},
+	{
+		"_id" : "629025a68b2efbc6e3c51de8",
+		"NumAuthors" : 19,
+		"ProjectID" : "domainr/dnsr",
+		"NumStars" : 90
+	},
+	{
+		"_id" : "629025b18b2efbc6e3c5839b",
+		"NumAuthors" : 13,
+		"ProjectID" : "google/rpmpack",
+		"NumStars" : 41
+	},
+	{
+		"_id" : "629025bc8b2efbc6e3c603fb",
+		"NumAuthors" : 70,
+		"ProjectID" : "go-gota/gota",
+		"NumStars" : 1408
+	},
+	{
+		"_id" : "629025ec8b2efbc6e3c88025",
+		"NumAuthors" : 23,
+		"ProjectID" : "microsoft/azure-devops-go-api",
+		"NumStars" : 51
+	},
+	{
+		"_id" : "629025f68b2efbc6e3c8e5f4",
+		"NumAuthors" : 15,
+		"ProjectID" : "nanmu42/etherscan-api",
+		"NumStars" : 52
+	},
+	{
+		"_id" : "629025f68b2efbc6e3c910ac",
+		"NumAuthors" : 37,
+		"ProjectID" : "softlayer/softlayer-go",
+		"NumStars" : 51
+	},
+	{
+		"_id" : "629026308b2efbc6e3cbd548",
+		"NumAuthors" : 81,
+		"ProjectID" : "gonum/plot",
+		"NumStars" : 1748
+	},
+	{
+		"_id" : "629026328b2efbc6e3cc2897",
+		"NumAuthors" : 19,
+		"ProjectID" : "C2FO/vfs",
+		"NumStars" : 69
+	},
+	{
+		"_id" : "6290263c8b2efbc6e3cca512",
+		"NumAuthors" : 12,
+		"ProjectID" : "bitfield/terraform-provider-checkly",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "629026578b2efbc6e3cdb610",
+		"NumAuthors" : 25,
+		"ProjectID" : "dave/jennifer",
+		"NumStars" : 1713
+	},
+	{
+		"_id" : "629026628b2efbc6e3ce98ae",
+		"NumAuthors" : 12,
+		"ProjectID" : "heetch/avro",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "6290267f8b2efbc6e3cfb523",
+		"NumAuthors" : 28,
+		"ProjectID" : "Mongey/terraform-provider-confluentcloud",
+		"NumStars" : 43
+	},
+	{
+		"_id" : "629026968b2efbc6e3d0c71e",
+		"NumAuthors" : 172,
+		"ProjectID" : "rs/zerolog",
+		"NumStars" : 3808
+	},
+	{
+		"_id" : "629026b68b2efbc6e3d2a55b",
+		"NumAuthors" : 15,
+		"ProjectID" : "Staudey/solbuild",
+		"NumStars" : 95
+	},
+	{
+		"_id" : "629026bd8b2efbc6e3d2eede",
+		"NumAuthors" : 21,
+		"ProjectID" : "dchote/go-openal",
+		"NumStars" : 58
+	},
+	{
+		"_id" : "629026d18b2efbc6e3d3b6f3",
+		"NumAuthors" : 18,
+		"ProjectID" : "bitleak/lmstfy",
+		"NumStars" : 185
+	},
+	{
+		"_id" : "629026db8b2efbc6e3d44235",
+		"NumAuthors" : 24,
+		"ProjectID" : "yanyiwu/gojieba",
+		"NumStars" : 1331
+	},
+	{
+		"_id" : "6290270a8b2efbc6e3d6bd3b",
+		"NumAuthors" : 30,
+		"ProjectID" : "skanehira/docui",
+		"NumStars" : 1448
+	},
+	{
+		"_id" : "629027458b2efbc6e3d9aac5",
+		"NumAuthors" : 48,
+		"ProjectID" : "zalando-incubator/kube-metrics-adapter",
+		"NumStars" : 240
+	},
+	{
+		"_id" : "6290276f8b2efbc6e3dbd74d",
+		"NumAuthors" : 36,
+		"ProjectID" : "justinas/nosurf",
+		"NumStars" : 1065
+	},
+	{
+		"_id" : "629027d38b2efbc6e3e08eb9",
+		"NumAuthors" : 36,
+		"ProjectID" : "google/googet",
+		"NumStars" : 79
+	},
+	{
+		"_id" : "629028068b2efbc6e3e3348e",
+		"NumAuthors" : 35,
+		"ProjectID" : "strava/go.strava",
+		"NumStars" : 220
+	},
+	{
+		"_id" : "629028538b2efbc6e3e73391",
+		"NumAuthors" : 15,
+		"ProjectID" : "WireGuard/wgctrl-go",
+		"NumStars" : 254
+	},
+	{
+		"_id" : "6290288b8b2efbc6e3e9f7d9",
+		"NumAuthors" : 36,
+		"ProjectID" : "opsgenie/opsgenie-go-sdk",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "629028a88b2efbc6e3eb67e1",
+		"NumAuthors" : 11,
+		"ProjectID" : "jessfraz/bpfd",
+		"NumStars" : 367
+	},
+	{
+		"_id" : "629028cf8b2efbc6e3ed82d1",
+		"NumAuthors" : 12,
+		"ProjectID" : "mesosphere/bun",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "629028cf8b2efbc6e3ed9929",
+		"NumAuthors" : 12,
+		"ProjectID" : "grailbio/bigmachine",
+		"NumStars" : 47
+	},
+	{
+		"_id" : "629028da8b2efbc6e3ee0a6d",
+		"NumAuthors" : 23,
+		"ProjectID" : "g8rswimmer/go-sfdc",
+		"NumStars" : 40
+	},
+	{
+		"_id" : "629028da8b2efbc6e3ee149a",
+		"NumAuthors" : 27,
+		"ProjectID" : "decred/decred-binaries",
+		"NumStars" : 154
+	},
+	{
+		"_id" : "6290293d8b2efbc6e3f2b5e2",
+		"NumAuthors" : 52,
+		"ProjectID" : "pebbe/zmq4",
+		"NumStars" : 911
+	},
+	{
+		"_id" : "629029b48b2efbc6e3f8f261",
+		"NumAuthors" : 23,
+		"ProjectID" : "cloudflare/tableflip",
+		"NumStars" : 1332
+	},
+	{
+		"_id" : "629029c58b2efbc6e3f9b91d",
+		"NumAuthors" : 35,
+		"ProjectID" : "beltran/gohive",
+		"NumStars" : 89
+	},
+	{
+		"_id" : "629029d98b2efbc6e3fa9b81",
+		"NumAuthors" : 48,
+		"ProjectID" : "donovanhide/eventsource",
+		"NumStars" : 125
+	},
+	{
+		"_id" : "62902a438b2efbc6e3ffe208",
+		"NumAuthors" : 33,
+		"ProjectID" : "markjaquith/WordPress-Plugin-Directory-Slurper",
+		"NumStars" : 169
+	},
+	{
+		"_id" : "62902a6c8b2efbc6e3022bec",
+		"NumAuthors" : 90,
+		"ProjectID" : "buger/jsonparser",
+		"NumStars" : 3657
+	},
+	{
+		"_id" : "62902a6d8b2efbc6e3024108",
+		"NumAuthors" : 13,
+		"ProjectID" : "mdlayher/untappd",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "62902aae8b2efbc6e3054eb7",
+		"NumAuthors" : 22,
+		"ProjectID" : "robpike/ivy",
+		"NumStars" : 934
+	},
+	{
+		"_id" : "62902afa8b2efbc6e309539c",
+		"NumAuthors" : 37,
+		"ProjectID" : "cloudfoundry/diego-ssh",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "62902b0f8b2efbc6e30a6d00",
+		"NumAuthors" : 39,
+		"ProjectID" : "hyperjumptech/grule-rule-engine",
+		"NumStars" : 681
+	},
+	{
+		"_id" : "62902b1d8b2efbc6e30b2b43",
+		"NumAuthors" : 15,
+		"ProjectID" : "teambition/gear",
+		"NumStars" : 582
+	},
+	{
+		"_id" : "62902b1f8b2efbc6e30b698d",
+		"NumAuthors" : 15,
+		"ProjectID" : "sipcapture/heplify",
+		"NumStars" : 75
+	},
+	{
+		"_id" : "62902b538b2efbc6e30da4c0",
+		"NumAuthors" : 28,
+		"ProjectID" : "canthefason/go-watcher",
+		"NumStars" : 316
+	},
+	{
+		"_id" : "62902b5c8b2efbc6e30e3b53",
+		"NumAuthors" : 49,
+		"ProjectID" : "schollz/progressbar",
+		"NumStars" : 1358
+	},
+	{
+		"_id" : "62902b788b2efbc6e30fcb27",
+		"NumAuthors" : 27,
+		"ProjectID" : "rancher/trash",
+		"NumStars" : 319
+	},
+	{
+		"_id" : "62902b8e8b2efbc6e310c962",
+		"NumAuthors" : 39,
+		"ProjectID" : "buildbarn/bb-remote-execution",
+		"NumStars" : 31
+	},
+	{
+		"_id" : "62902bf88b2efbc6e315f3ef",
+		"NumAuthors" : 12,
+		"ProjectID" : "lorenzodonini/ocpp-go",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "62902bfa8b2efbc6e31645bd",
+		"NumAuthors" : 26,
+		"ProjectID" : "inetaf/netaddr",
+		"NumStars" : 160
+	},
+	{
+		"_id" : "62902c228b2efbc6e31811ff",
+		"NumAuthors" : 11,
+		"ProjectID" : "adrg/libvlc-go",
+		"NumStars" : 156
+	},
+	{
+		"_id" : "62902c238b2efbc6e31846bc",
+		"NumAuthors" : 20,
+		"ProjectID" : "layeh/gopher-luar",
+		"NumStars" : 149
+	},
+	{
+		"_id" : "62902c2c8b2efbc6e318bb87",
+		"NumAuthors" : 11,
+		"ProjectID" : "keikoproj/active-monitor",
+		"NumStars" : 50
+	},
+	{
+		"_id" : "62902c5e8b2efbc6e31b3c35",
+		"NumAuthors" : 13,
+		"ProjectID" : "roots/trellis-cli",
+		"NumStars" : 72
+	},
+	{
+		"_id" : "62902c988b2efbc6e31dfae2",
+		"NumAuthors" : 11,
+		"ProjectID" : "ierosvin/ethdo",
+		"NumStars" : 61
+	},
+	{
+		"_id" : "62902ca98b2efbc6e31ed7b3",
+		"NumAuthors" : 35,
+		"ProjectID" : "studio-b12/gowebdav",
+		"NumStars" : 95
+	},
+	{
+		"_id" : "62902cb68b2efbc6e31f5ce3",
+		"NumAuthors" : 88,
+		"ProjectID" : "Praqma/helmsman",
+		"NumStars" : 711
+	},
+	{
+		"_id" : "62902cd98b2efbc6e3213936",
+		"NumAuthors" : 22,
+		"ProjectID" : "fanadol/dca",
+		"NumStars" : 115
+	},
+	{
+		"_id" : "62902cf38b2efbc6e32281b3",
+		"NumAuthors" : 46,
+		"ProjectID" : "dghubble/oauth1",
+		"NumStars" : 111
+	},
+	{
+		"_id" : "62902d1c8b2efbc6e324a2be",
+		"NumAuthors" : 17,
+		"ProjectID" : "env0/terratag",
+		"NumStars" : 377
+	},
+	{
+		"_id" : "62902d368b2efbc6e325ea35",
+		"NumAuthors" : 94,
+		"ProjectID" : "fullsailor/pkcs7",
+		"NumStars" : 178
+	},
+	{
+		"_id" : "62902d608b2efbc6e327fd25",
+		"NumAuthors" : 13,
+		"ProjectID" : "110y/handy-spanner",
+		"NumStars" : 64
+	},
+	{
+		"_id" : "62902d6a8b2efbc6e3288228",
+		"NumAuthors" : 13,
+		"ProjectID" : "gobwas/glob",
+		"NumStars" : 617
+	},
+	{
+		"_id" : "62902d978b2efbc6e32adbd0",
+		"NumAuthors" : 33,
+		"ProjectID" : "splunk/splunk-operator",
+		"NumStars" : 68
+	},
+	{
+		"_id" : "62902db78b2efbc6e32c725e",
+		"NumAuthors" : 45,
+		"ProjectID" : "xfrr/goffmpeg",
+		"NumStars" : 419
+	},
+	{
+		"_id" : "62902dbc8b2efbc6e32ca1ea",
+		"NumAuthors" : 86,
+		"ProjectID" : "googlemaps/google-maps-services-go",
+		"NumStars" : 471
+	},
+	{
+		"_id" : "62902def8b2efbc6e32f2c81",
+		"NumAuthors" : 42,
+		"ProjectID" : "digitalocean/go-libvirt",
+		"NumStars" : 526
+	},
+	{
+		"_id" : "62902e2f8b2efbc6e3328c3c",
+		"NumAuthors" : 23,
+		"ProjectID" : "LK4D4/vndr",
+		"NumStars" : 141
+	},
+	{
+		"_id" : "62902f0a8b2efbc6e33d72e3",
+		"NumAuthors" : 19,
+		"ProjectID" : "imkira/go-libav",
+		"NumStars" : 400
+	},
+	{
+		"_id" : "62902f148b2efbc6e33e24e0",
+		"NumAuthors" : 19,
+		"ProjectID" : "marcosnils/bin",
+		"NumStars" : 117
+	},
+	{
+		"_id" : "62902f1d8b2efbc6e33e617d",
+		"NumAuthors" : 32,
+		"ProjectID" : "dominikh/go-js-dom",
+		"NumStars" : 187
+	},
+	{
+		"_id" : "62902f298b2efbc6e33f03b9",
+		"NumAuthors" : 12,
+		"ProjectID" : "chaosblade-io/chaosblade-operator",
+		"NumStars" : 44
+	},
+	{
+		"_id" : "62902fce8b2efbc6e347a3a2",
+		"NumAuthors" : 70,
+		"ProjectID" : "superedge/superedge",
+		"NumStars" : 319
+	},
+	{
+		"_id" : "62902feb8b2efbc6e348cfea",
+		"NumAuthors" : 33,
+		"ProjectID" : "janimo/textsecure",
+		"NumStars" : 161
+	},
+	{
+		"_id" : "629030028b2efbc6e34a1c3d",
+		"NumAuthors" : 27,
+		"ProjectID" : "tendermint/tm-db",
+		"NumStars" : 31
+	},
+	{
+		"_id" : "629030138b2efbc6e34b0621",
+		"NumAuthors" : 20,
+		"ProjectID" : "cybozu-go/aptutil",
+		"NumStars" : 90
+	},
+	{
+		"_id" : "629030188b2efbc6e34b207e",
+		"NumAuthors" : 15,
+		"ProjectID" : "frankban/quicktest",
+		"NumStars" : 210
+	},
+	{
+		"_id" : "629030288b2efbc6e34bd9e9",
+		"NumAuthors" : 71,
+		"ProjectID" : "awa/go-iap",
+		"NumStars" : 374
+	},
+	{
+		"_id" : "6290308a8b2efbc6e3512591",
+		"NumAuthors" : 43,
+		"ProjectID" : "rs/xid",
+		"NumStars" : 1770
+	},
+	{
+		"_id" : "629030ab8b2efbc6e352bb40",
+		"NumAuthors" : 124,
+		"ProjectID" : "braintree-go/braintree-go",
+		"NumStars" : 245
+	},
+	{
+		"_id" : "629030c38b2efbc6e3540860",
+		"NumAuthors" : 17,
+		"ProjectID" : "hzlpypy/f5-rest-client",
+		"NumStars" : 33
+	},
+	{
+		"_id" : "629030ca8b2efbc6e3546d10",
+		"NumAuthors" : 11,
+		"ProjectID" : "anaseto/boohu",
+		"NumStars" : 155
+	},
+	{
+		"_id" : "629030dc8b2efbc6e3554393",
+		"NumAuthors" : 25,
+		"ProjectID" : "andskur/mollie-api-go",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "6290313a8b2efbc6e35a5cc1",
+		"NumAuthors" : 12,
+		"ProjectID" : "fabiofalci/sconsify",
+		"NumStars" : 598
+	},
+	{
+		"_id" : "629031798b2efbc6e35d82a4",
+		"NumAuthors" : 182,
+		"ProjectID" : "gotk3/gotk3",
+		"NumStars" : 1849
+	},
+	{
+		"_id" : "629031ca8b2efbc6e3619948",
+		"NumAuthors" : 22,
+		"ProjectID" : "rhysd/go-github-selfupdate",
+		"NumStars" : 335
+	},
+	{
+		"_id" : "629031f48b2efbc6e363d1cd",
+		"NumAuthors" : 32,
+		"ProjectID" : "pusher/pusher-http-go",
+		"NumStars" : 152
+	},
+	{
+		"_id" : "6290322a8b2efbc6e366f612",
+		"NumAuthors" : 38,
+		"ProjectID" : "vito/oci-build-task",
+		"NumStars" : 42
+	},
+	{
+		"_id" : "629032508b2efbc6e368adf5",
+		"NumAuthors" : 14,
+		"ProjectID" : "cristalhq/jwt",
+		"NumStars" : 223
+	},
+	{
+		"_id" : "6290326c8b2efbc6e36a548e",
+		"NumAuthors" : 23,
+		"ProjectID" : "keybase/go-keybase-chat-bot",
+		"NumStars" : 63
+	},
+	{
+		"_id" : "629032808b2efbc6e36b72c6",
+		"NumAuthors" : 55,
+		"ProjectID" : "masterzen/winrm",
+		"NumStars" : 261
+	},
+	{
+		"_id" : "629032b88b2efbc6e36e5978",
+		"NumAuthors" : 25,
+		"ProjectID" : "aporeto-inc/tg",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "629033298b2efbc6e3747f91",
+		"NumAuthors" : 48,
+		"ProjectID" : "hetznercloud/csi-driver",
+		"NumStars" : 246
+	},
+	{
+		"_id" : "629033588b2efbc6e376e0ac",
+		"NumAuthors" : 13,
+		"ProjectID" : "wemeetagain/go-hdwallet",
+		"NumStars" : 96
+	},
+	{
+		"_id" : "629033598b2efbc6e376efe8",
+		"NumAuthors" : 49,
+		"ProjectID" : "apache/incubator-yunikorn-core",
+		"NumStars" : 172
+	},
+	{
+		"_id" : "629033718b2efbc6e3785194",
+		"NumAuthors" : 17,
+		"ProjectID" : "github/git-sizer",
+		"NumStars" : 1943
+	},
+	{
+		"_id" : "6290338d8b2efbc6e379ae54",
+		"NumAuthors" : 99,
+		"ProjectID" : "gorilla/schema",
+		"NumStars" : 808
+	},
+	{
+		"_id" : "629033bd8b2efbc6e37c57c6",
+		"NumAuthors" : 14,
+		"ProjectID" : "himananiito/livedl",
+		"NumStars" : 161
+	},
+	{
+		"_id" : "6290341e8b2efbc6e38112ab",
+		"NumAuthors" : 30,
+		"ProjectID" : "alice-lg/birdwatcher",
+		"NumStars" : 53
+	},
+	{
+		"_id" : "629034638b2efbc6e384838c",
+		"NumAuthors" : 19,
+		"ProjectID" : "eapache/go-resiliency",
+		"NumStars" : 1036
+	},
+	{
+		"_id" : "6290348c8b2efbc6e386606f",
+		"NumAuthors" : 20,
+		"ProjectID" : "ucloud/redis-cluster-operator",
+		"NumStars" : 133
+	},
+	{
+		"_id" : "629034a18b2efbc6e3879941",
+		"NumAuthors" : 144,
+		"ProjectID" : "hashicorp/go-getter",
+		"NumStars" : 1022
+	},
+	{
+		"_id" : "629034ae8b2efbc6e3885c61",
+		"NumAuthors" : 13,
+		"ProjectID" : "mewkiz/flac",
+		"NumStars" : 139
+	},
+	{
+		"_id" : "629034c28b2efbc6e38959c1",
+		"NumAuthors" : 20,
+		"ProjectID" : "maciekmm/messenger-platform-go-sdk",
+		"NumStars" : 122
+	},
+	{
+		"_id" : "6290351a8b2efbc6e38df07c",
+		"NumAuthors" : 12,
+		"ProjectID" : "fox-one/mixin-sdk-go",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "629035218b2efbc6e38e29ca",
+		"NumAuthors" : 57,
+		"ProjectID" : "google/go-querystring",
+		"NumStars" : 1151
+	},
+	{
+		"_id" : "6290354a8b2efbc6e39029f1",
+		"NumAuthors" : 17,
+		"ProjectID" : "bwplotka/bingo",
+		"NumStars" : 89
+	},
+	{
+		"_id" : "629035688b2efbc6e391c7b7",
+		"NumAuthors" : 25,
+		"ProjectID" : "buildkite/terraform-provider-buildkite",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "6290357c8b2efbc6e392e5ed",
+		"NumAuthors" : 12,
+		"ProjectID" : "intel/telemetry-aware-scheduling",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629035d28b2efbc6e3971414",
+		"NumAuthors" : 15,
+		"ProjectID" : "genuinetools/ghb0t",
+		"NumStars" : 313
+	},
+	{
+		"_id" : "629035e78b2efbc6e3982cfa",
+		"NumAuthors" : 21,
+		"ProjectID" : "doytsujin/group-sync-operator",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "629035f08b2efbc6e39884d5",
+		"NumAuthors" : 19,
+		"ProjectID" : "karrick/godirwalk",
+		"NumStars" : 440
+	},
+	{
+		"_id" : "629035f88b2efbc6e39907a9",
+		"NumAuthors" : 14,
+		"ProjectID" : "bboozzoo/mconnect",
+		"NumStars" : 265
+	},
+	{
+		"_id" : "629036138b2efbc6e39a8453",
+		"NumAuthors" : 39,
+		"ProjectID" : "josharian/impl",
+		"NumStars" : 678
+	},
+	{
+		"_id" : "6290362c8b2efbc6e39bd6e3",
+		"NumAuthors" : 33,
+		"ProjectID" : "zalando/go-keyring",
+		"NumStars" : 300
+	},
+	{
+		"_id" : "6290365c8b2efbc6e39e8f6e",
+		"NumAuthors" : 37,
+		"ProjectID" : "fzipp/gocyclo",
+		"NumStars" : 732
+	},
+	{
+		"_id" : "629036788b2efbc6e39fd148",
+		"NumAuthors" : 33,
+		"ProjectID" : "loopfz/gadgeto",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629036958b2efbc6e3a16de5",
+		"NumAuthors" : 17,
+		"ProjectID" : "grailbio/bigslice",
+		"NumStars" : 223
+	},
+	{
+		"_id" : "629036d08b2efbc6e3a44d3b",
+		"NumAuthors" : 44,
+		"ProjectID" : "VictoriaMetrics/operator",
+		"NumStars" : 66
+	},
+	{
+		"_id" : "629036f38b2efbc6e3a63df0",
+		"NumAuthors" : 17,
+		"ProjectID" : "joomcode/errorx",
+		"NumStars" : 631
+	},
+	{
+		"_id" : "6290370e8b2efbc6e3a7a677",
+		"NumAuthors" : 62,
+		"ProjectID" : "gojek/heimdall",
+		"NumStars" : 1652
+	},
+	{
+		"_id" : "629037358b2efbc6e3a98b43",
+		"NumAuthors" : 35,
+		"ProjectID" : "bradleyfalzon/ghinstallation",
+		"NumStars" : 106
+	},
+	{
+		"_id" : "629037478b2efbc6e3aa905c",
+		"NumAuthors" : 17,
+		"ProjectID" : "nytimes/gcp-vault",
+		"NumStars" : 88
+	},
+	{
+		"_id" : "629037638b2efbc6e3abd87b",
+		"NumAuthors" : 12,
+		"ProjectID" : "hashicorp/terraform-plugin-go",
+		"NumStars" : 40
+	},
+	{
+		"_id" : "629037638b2efbc6e3abe63d",
+		"NumAuthors" : 55,
+		"ProjectID" : "deis/builder",
+		"NumStars" : 49
+	},
+	{
+		"_id" : "6290376a8b2efbc6e3ac3706",
+		"NumAuthors" : 18,
+		"ProjectID" : "hashicorp/secrets-store-csi-driver-provider-vault",
+		"NumStars" : 52
+	},
+	{
+		"_id" : "629037a28b2efbc6e3af4543",
+		"NumAuthors" : 22,
+		"ProjectID" : "iotaledger/hive.go",
+		"NumStars" : 34
+	},
+	{
+		"_id" : "629037b38b2efbc6e3b009d2",
+		"NumAuthors" : 27,
+		"ProjectID" : "anthonynsimon/bild",
+		"NumStars" : 2446
+	},
+	{
+		"_id" : "629037b78b2efbc6e3b03a1e",
+		"NumAuthors" : 11,
+		"ProjectID" : "erka/athenadriver",
+		"NumStars" : 72
+	},
+	{
+		"_id" : "629037b98b2efbc6e3b071b3",
+		"NumAuthors" : 29,
+		"ProjectID" : "RocketChat/Rocket.Chat.Go.SDK",
+		"NumStars" : 36
+	},
+	{
+		"_id" : "6290382e8b2efbc6e3b6cbf9",
+		"NumAuthors" : 12,
+		"ProjectID" : "kitabisa/teler",
+		"NumStars" : 1200
+	},
+	{
+		"_id" : "629038748b2efbc6e3ba72a8",
+		"NumAuthors" : 18,
+		"ProjectID" : "cockroachdb/errors",
+		"NumStars" : 441
+	},
+	{
+		"_id" : "6290389d8b2efbc6e3bd1101",
+		"NumAuthors" : 11,
+		"ProjectID" : "huydx/hget",
+		"NumStars" : 889
+	},
+	{
+		"_id" : "6290389e8b2efbc6e3bd5550",
+		"NumAuthors" : 24,
+		"ProjectID" : "tdewolff/parse",
+		"NumStars" : 213
+	},
+	{
+		"_id" : "629038e98b2efbc6e3c11d03",
+		"NumAuthors" : 17,
+		"ProjectID" : "tuenti/secrets-manager",
+		"NumStars" : 70
+	},
+	{
+		"_id" : "6290390d8b2efbc6e3c353e8",
+		"NumAuthors" : 89,
+		"ProjectID" : "inconshreveable/log15",
+		"NumStars" : 1022
+	},
+	{
+		"_id" : "6290393c8b2efbc6e3c58c31",
+		"NumAuthors" : 73,
+		"ProjectID" : "GoesToEleven/golang-project",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "6290394f8b2efbc6e3c69830",
+		"NumAuthors" : 48,
+		"ProjectID" : "emersion/go-message",
+		"NumStars" : 160
+	},
+	{
+		"_id" : "6290396e8b2efbc6e3c80210",
+		"NumAuthors" : 11,
+		"ProjectID" : "makasim/amqpextra",
+		"NumStars" : 34
+	},
+	{
+		"_id" : "629039c38b2efbc6e3cc4367",
+		"NumAuthors" : 16,
+		"ProjectID" : "forkkit/ziti",
+		"NumStars" : 34
+	},
+	{
+		"_id" : "62903a208b2efbc6e3d11d2a",
+		"NumAuthors" : 16,
+		"ProjectID" : "h2non/gentleman",
+		"NumStars" : 866
+	},
+	{
+		"_id" : "62903a3c8b2efbc6e3d2ac9c",
+		"NumAuthors" : 24,
+		"ProjectID" : "gofiber/template",
+		"NumStars" : 61
+	},
+	{
+		"_id" : "62903a458b2efbc6e3d359dd",
+		"NumAuthors" : 34,
+		"ProjectID" : "Graylog2/go-gelf",
+		"NumStars" : 92
+	},
+	{
+		"_id" : "62903a8f8b2efbc6e3d71b79",
+		"NumAuthors" : 13,
+		"ProjectID" : "redhat-cop/operator-utils",
+		"NumStars" : 64
+	},
+	{
+		"_id" : "62903a8f8b2efbc6e3d7256c",
+		"NumAuthors" : 173,
+		"ProjectID" : "evol262/cri-dockerd",
+		"NumStars" : 54
+	},
+	{
+		"_id" : "62903b3e8b2efbc6e3e0a813",
+		"NumAuthors" : 14,
+		"ProjectID" : "ceph/cn",
+		"NumStars" : 147
+	},
+	{
+		"_id" : "62903ba08b2efbc6e3e63643",
+		"NumAuthors" : 113,
+		"ProjectID" : "hashicorp/memberlist",
+		"NumStars" : 2124
+	},
+	{
+		"_id" : "62903ba88b2efbc6e3e68932",
+		"NumAuthors" : 24,
+		"ProjectID" : "google/licenseclassifier",
+		"NumStars" : 173
+	},
+	{
+		"_id" : "62903bb18b2efbc6e3e6f8af",
+		"NumAuthors" : 27,
+		"ProjectID" : "PaesslerAG/gval",
+		"NumStars" : 239
+	},
+	{
+		"_id" : "62903bec8b2efbc6e3ea1270",
+		"NumAuthors" : 50,
+		"ProjectID" : "google/stenographer",
+		"NumStars" : 1556
+	},
+	{
+		"_id" : "62903bf28b2efbc6e3ea403b",
+		"NumAuthors" : 70,
+		"ProjectID" : "uber-go/tally",
+		"NumStars" : 413
+	},
+	{
+		"_id" : "62903c3b8b2efbc6e3ee3437",
+		"NumAuthors" : 13,
+		"ProjectID" : "chr4/mqtt2prometheus",
+		"NumStars" : 65
+	},
+	{
+		"_id" : "62903c4b8b2efbc6e3ef5dae",
+		"NumAuthors" : 31,
+		"ProjectID" : "sselph/scraper",
+		"NumStars" : 430
+	},
+	{
+		"_id" : "62903c6a8b2efbc6e3f0ab50",
+		"NumAuthors" : 68,
+		"ProjectID" : "russellhaering/gosaml2",
+		"NumStars" : 166
+	},
+	{
+		"_id" : "62903c6a8b2efbc6e3f0c29a",
+		"NumAuthors" : 96,
+		"ProjectID" : "chzyer/readline",
+		"NumStars" : 1654
+	},
+	{
+		"_id" : "62903c758b2efbc6e3f11f17",
+		"NumAuthors" : 11,
+		"ProjectID" : "timshannon/bolthold",
+		"NumStars" : 437
+	},
+	{
+		"_id" : "62903c768b2efbc6e3f15b1d",
+		"NumAuthors" : 16,
+		"ProjectID" : "droyo/styx",
+		"NumStars" : 46
+	},
+	{
+		"_id" : "62903ca08b2efbc6e3f3d1db",
+		"NumAuthors" : 19,
+		"ProjectID" : "mjibson/goon",
+		"NumStars" : 223
+	},
+	{
+		"_id" : "62903d6b8b2efbc6e3fe8ec2",
+		"NumAuthors" : 22,
+		"ProjectID" : "folbricht/desync",
+		"NumStars" : 113
+	},
+	{
+		"_id" : "62903d908b2efbc6e30071f2",
+		"NumAuthors" : 18,
+		"ProjectID" : "Kong/go-pdk",
+		"NumStars" : 64
+	},
+	{
+		"_id" : "62903dbc8b2efbc6e302ef6b",
+		"NumAuthors" : 11,
+		"ProjectID" : "chengjianaaa/ginskeleton",
+		"NumStars" : 59
+	},
+	{
+		"_id" : "62903dbe8b2efbc6e302fb39",
+		"NumAuthors" : 24,
+		"ProjectID" : "gojuno/minimock",
+		"NumStars" : 252
+	},
+	{
+		"_id" : "62903dfc8b2efbc6e30673e8",
+		"NumAuthors" : 11,
+		"ProjectID" : "go-bdd/gobdd",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "62903e388b2efbc6e3092ae5",
+		"NumAuthors" : 51,
+		"ProjectID" : "francoispqt/gojay",
+		"NumStars" : 1822
+	},
+	{
+		"_id" : "62903e488b2efbc6e30a3e3f",
+		"NumAuthors" : 22,
+		"ProjectID" : "scritchley/orc",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "62903e498b2efbc6e30a86b3",
+		"NumAuthors" : 111,
+		"ProjectID" : "caffix/amass",
+		"NumStars" : 5351
+	},
+	{
+		"_id" : "62903e658b2efbc6e30b909d",
+		"NumAuthors" : 11,
+		"ProjectID" : "dwdcth/engine",
+		"NumStars" : 341
+	},
+	{
+		"_id" : "62903e6f8b2efbc6e30c3244",
+		"NumAuthors" : 25,
+		"ProjectID" : "lestrrat-go/libxml2",
+		"NumStars" : 159
+	},
+	{
+		"_id" : "62903e948b2efbc6e30e578f",
+		"NumAuthors" : 44,
+		"ProjectID" : "kumina/postfix_exporter",
+		"NumStars" : 119
+	},
+	{
+		"_id" : "62903eaf8b2efbc6e31036a1",
+		"NumAuthors" : 17,
+		"ProjectID" : "ianmarmour/nvidia-clerk",
+		"NumStars" : 236
+	},
+	{
+		"_id" : "62903eb98b2efbc6e310bc9a",
+		"NumAuthors" : 32,
+		"ProjectID" : "oschwald/maxminddb-golang",
+		"NumStars" : 275
+	},
+	{
+		"_id" : "62903ec48b2efbc6e3114387",
+		"NumAuthors" : 34,
+		"ProjectID" : "kudobuilder/kuttl",
+		"NumStars" : 157
+	},
+	{
+		"_id" : "62903f2b8b2efbc6e316c181",
+		"NumAuthors" : 34,
+		"ProjectID" : "spaolacci/murmur3",
+		"NumStars" : 680
+	},
+	{
+		"_id" : "62903f388b2efbc6e31757e1",
+		"NumAuthors" : 11,
+		"ProjectID" : "terra-farm/terraform-provider-xenorchestra",
+		"NumStars" : 40
+	},
+	{
+		"_id" : "62903f4b8b2efbc6e3186ce6",
+		"NumAuthors" : 37,
+		"ProjectID" : "containerd/go-runc",
+		"NumStars" : 69
+	},
+	{
+		"_id" : "62903f568b2efbc6e3198caf",
+		"NumAuthors" : 18,
+		"ProjectID" : "lytics/grid",
+		"NumStars" : 39
+	},
+	{
+		"_id" : "62903f6b8b2efbc6e31abc83",
+		"NumAuthors" : 39,
+		"ProjectID" : "d5/tengo",
+		"NumStars" : 1968
+	},
+	{
+		"_id" : "62903f6f8b2efbc6e31ad610",
+		"NumAuthors" : 15,
+		"ProjectID" : "BurntSushi/xgbutil",
+		"NumStars" : 171
+	},
+	{
+		"_id" : "62903f868b2efbc6e31bd27d",
+		"NumAuthors" : 64,
+		"ProjectID" : "hiddeco/cronjobber",
+		"NumStars" : 128
+	},
+	{
+		"_id" : "62903fdf8b2efbc6e320b1d8",
+		"NumAuthors" : 11,
+		"ProjectID" : "AknEp/go-astits",
+		"NumStars" : 332
+	},
+	{
+		"_id" : "629040208b2efbc6e324a1be",
+		"NumAuthors" : 17,
+		"ProjectID" : "stephens2424/php",
+		"NumStars" : 574
+	},
+	{
+		"_id" : "629040348b2efbc6e3257c01",
+		"NumAuthors" : 39,
+		"ProjectID" : "funny/link",
+		"NumStars" : 1444
+	},
+	{
+		"_id" : "6290404e8b2efbc6e32707ee",
+		"NumAuthors" : 34,
+		"ProjectID" : "unixporn/trup",
+		"NumStars" : 55
+	},
+	{
+		"_id" : "629040558b2efbc6e32755ca",
+		"NumAuthors" : 28,
+		"ProjectID" : "kylelemons/go-gypsy",
+		"NumStars" : 186
+	},
+	{
+		"_id" : "6290407a8b2efbc6e32973b2",
+		"NumAuthors" : 19,
+		"ProjectID" : "projectdiscovery/dnsx",
+		"NumStars" : 297
+	},
+	{
+		"_id" : "629040d28b2efbc6e32e59b4",
+		"NumAuthors" : 12,
+		"ProjectID" : "paulmach/osm",
+		"NumStars" : 118
+	},
+	{
+		"_id" : "6290414d8b2efbc6e334b5b2",
+		"NumAuthors" : 45,
+		"ProjectID" : "fatih/pool",
+		"NumStars" : 1180
+	},
+	{
+		"_id" : "629041558b2efbc6e3352934",
+		"NumAuthors" : 31,
+		"ProjectID" : "packethost/docker-machine-driver-packet",
+		"NumStars" : 36
+	},
+	{
+		"_id" : "629041658b2efbc6e3365eb0",
+		"NumAuthors" : 23,
+		"ProjectID" : "Kucoin/kucoin-go-sdk",
+		"NumStars" : 28
+	},
+	{
+		"_id" : "6290416e8b2efbc6e336aea0",
+		"NumAuthors" : 44,
+		"ProjectID" : "araddon/dateparse",
+		"NumStars" : 1271
+	},
+	{
+		"_id" : "6290416e8b2efbc6e336cd08",
+		"NumAuthors" : 19,
+		"ProjectID" : "tyler-sommer/stick",
+		"NumStars" : 128
+	},
+	{
+		"_id" : "6290416e8b2efbc6e336e1a7",
+		"NumAuthors" : 19,
+		"ProjectID" : "crossplane/provider-alibaba",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "6290418a8b2efbc6e337fdaa",
+		"NumAuthors" : 23,
+		"ProjectID" : "pixiv/go-libjpeg",
+		"NumStars" : 89
+	},
+	{
+		"_id" : "629041958b2efbc6e3389196",
+		"NumAuthors" : 14,
+		"ProjectID" : "insomniacslk/irc-slack",
+		"NumStars" : 108
+	},
+	{
+		"_id" : "629041958b2efbc6e338e3f0",
+		"NumAuthors" : 27,
+		"ProjectID" : "inetaf/tcpproxy",
+		"NumStars" : 1152
+	},
+	{
+		"_id" : "629041a68b2efbc6e339b2d2",
+		"NumAuthors" : 12,
+		"ProjectID" : "fasthttp/session",
+		"NumStars" : 62
+	},
+	{
+		"_id" : "629042208b2efbc6e3408d42",
+		"NumAuthors" : 104,
+		"ProjectID" : "aerospike/aerospike-client-go",
+		"NumStars" : 365
+	},
+	{
+		"_id" : "6290423e8b2efbc6e3423b09",
+		"NumAuthors" : 18,
+		"ProjectID" : "spacemonkeygo/monkit",
+		"NumStars" : 429
+	},
+	{
+		"_id" : "629042528b2efbc6e3432c54",
+		"NumAuthors" : 30,
+		"ProjectID" : "hajimehoshi/oto",
+		"NumStars" : 680
+	},
+	{
+		"_id" : "629042828b2efbc6e3462c77",
+		"NumAuthors" : 11,
+		"ProjectID" : "containers/ocicrypt",
+		"NumStars" : 28
+	},
+	{
+		"_id" : "629042878b2efbc6e3466344",
+		"NumAuthors" : 136,
+		"ProjectID" : "dghubble/go-twitter",
+		"NumStars" : 1040
+	},
+	{
+		"_id" : "629042ba8b2efbc6e348e773",
+		"NumAuthors" : 48,
+		"ProjectID" : "influxdata/influxdb-client-go",
+		"NumStars" : 213
+	},
+	{
+		"_id" : "629042ca8b2efbc6e34a54f9",
+		"NumAuthors" : 34,
+		"ProjectID" : "heetch/confita",
+		"NumStars" : 305
+	},
+	{
+		"_id" : "629042fe8b2efbc6e34d3e12",
+		"NumAuthors" : 107,
+		"ProjectID" : "cloudevents/sdk-go",
+		"NumStars" : 257
+	},
+	{
+		"_id" : "629043108b2efbc6e34dfd15",
+		"NumAuthors" : 43,
+		"ProjectID" : "grpc-ecosystem/grpc-health-probe",
+		"NumStars" : 543
+	},
+	{
+		"_id" : "629043198b2efbc6e34e7021",
+		"NumAuthors" : 51,
+		"ProjectID" : "krolaw/dhcp4",
+		"NumStars" : 296
+	},
+	{
+		"_id" : "6290433f8b2efbc6e350e008",
+		"NumAuthors" : 70,
+		"ProjectID" : "google/gousb",
+		"NumStars" : 596
+	},
+	{
+		"_id" : "629043688b2efbc6e352dd7a",
+		"NumAuthors" : 61,
+		"ProjectID" : "caddyserver/certmagic",
+		"NumStars" : 2791
+	},
+	{
+		"_id" : "629043998b2efbc6e35620ce",
+		"NumAuthors" : 18,
+		"ProjectID" : "jetstack/version-checker",
+		"NumStars" : 360
+	},
+	{
+		"_id" : "629043ad8b2efbc6e356df3d",
+		"NumAuthors" : 54,
+		"ProjectID" : "willf/bloom",
+		"NumStars" : 894
+	},
+	{
+		"_id" : "629043ea8b2efbc6e35a8e1f",
+		"NumAuthors" : 11,
+		"ProjectID" : "ilibs/gosql",
+		"NumStars" : 190
+	},
+	{
+		"_id" : "629043ec8b2efbc6e35aa8c0",
+		"NumAuthors" : 31,
+		"ProjectID" : "Clever/leakybucket",
+		"NumStars" : 77
+	},
+	{
+		"_id" : "629044008b2efbc6e35b9a65",
+		"NumAuthors" : 87,
+		"ProjectID" : "mailgun/mailgun-go",
+		"NumStars" : 471
+	},
+	{
+		"_id" : "629044418b2efbc6e35f3fa2",
+		"NumAuthors" : 12,
+		"ProjectID" : "deadlysyn/ahab",
+		"NumStars" : 34
+	},
+	{
+		"_id" : "629044458b2efbc6e35f6f16",
+		"NumAuthors" : 17,
+		"ProjectID" : "ianlopshire/go-fixedwidth",
+		"NumStars" : 43
+	},
+	{
+		"_id" : "629044c68b2efbc6e3660c6e",
+		"NumAuthors" : 11,
+		"ProjectID" : "corneliusweig/ketall",
+		"NumStars" : 187
+	},
+	{
+		"_id" : "629044e68b2efbc6e367e869",
+		"NumAuthors" : 85,
+		"ProjectID" : "containers/toolbox",
+		"NumStars" : 511
+	},
+	{
+		"_id" : "629044f88b2efbc6e3690ebb",
+		"NumAuthors" : 32,
+		"ProjectID" : "wasmerio/wasmer-go",
+		"NumStars" : 635
+	},
+	{
+		"_id" : "629045068b2efbc6e3699661",
+		"NumAuthors" : 23,
+		"ProjectID" : "andrewstuart/go-robinhood",
+		"NumStars" : 52
+	},
+	{
+		"_id" : "6290450a8b2efbc6e369f6ab",
+		"NumAuthors" : 59,
+		"ProjectID" : "mattbaird/gochimp",
+		"NumStars" : 188
+	},
+	{
+		"_id" : "6290450c8b2efbc6e36a0a69",
+		"NumAuthors" : 19,
+		"ProjectID" : "ffhelicopter/Go42",
+		"NumStars" : 2854
+	},
+	{
+		"_id" : "6290453b8b2efbc6e36c77ca",
+		"NumAuthors" : 37,
+		"ProjectID" : "inkyblackness/imgui-go",
+		"NumStars" : 404
+	},
+	{
+		"_id" : "629045478b2efbc6e36d2a7f",
+		"NumAuthors" : 28,
+		"ProjectID" : "whyrusleeping/hellabot",
+		"NumStars" : 118
+	},
+	{
+		"_id" : "629045608b2efbc6e36ec6a4",
+		"NumAuthors" : 16,
+		"ProjectID" : "bmaupin/go-epub",
+		"NumStars" : 63
+	},
+	{
+		"_id" : "6290457f8b2efbc6e3705784",
+		"NumAuthors" : 43,
+		"ProjectID" : "jpillora/overseer",
+		"NumStars" : 1621
+	},
+	{
+		"_id" : "6290459a8b2efbc6e371fc30",
+		"NumAuthors" : 43,
+		"ProjectID" : "gosuri/uiprogress",
+		"NumStars" : 1689
+	},
+	{
+		"_id" : "629045e18b2efbc6e375a3fd",
+		"NumAuthors" : 55,
+		"ProjectID" : "tonistiigi/fsutil",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "629045ec8b2efbc6e3766c21",
+		"NumAuthors" : 42,
+		"ProjectID" : "mackerelio/mkr",
+		"NumStars" : 109
+	},
+	{
+		"_id" : "629046038b2efbc6e37784a9",
+		"NumAuthors" : 103,
+		"ProjectID" : "thomseddon/traefik-forward-auth",
+		"NumStars" : 921
+	},
+	{
+		"_id" : "6290463e8b2efbc6e37a73b3",
+		"NumAuthors" : 23,
+		"ProjectID" : "simeji/jid",
+		"NumStars" : 6006
+	},
+	{
+		"_id" : "6290467c8b2efbc6e37e46a5",
+		"NumAuthors" : 43,
+		"ProjectID" : "square/squalor",
+		"NumStars" : 175
+	},
+	{
+		"_id" : "629046848b2efbc6e37e8c9f",
+		"NumAuthors" : 83,
+		"ProjectID" : "go-gl/glfw",
+		"NumStars" : 1101
+	},
+	{
+		"_id" : "6290468d8b2efbc6e37ed449",
+		"NumAuthors" : 47,
+		"ProjectID" : "mitchellh/cli",
+		"NumStars" : 1270
+	},
+	{
+		"_id" : "629046f88b2efbc6e38506e5",
+		"NumAuthors" : 23,
+		"ProjectID" : "a630140621/ufile-gosdk",
+		"NumStars" : 28
+	},
+	{
+		"_id" : "629046fe8b2efbc6e38530d6",
+		"NumAuthors" : 34,
+		"ProjectID" : "gkalissecapco/vault-secrets-operator",
+		"NumStars" : 144
+	},
+	{
+		"_id" : "629047128b2efbc6e3864adf",
+		"NumAuthors" : 23,
+		"ProjectID" : "sqshq/sampler",
+		"NumStars" : 2003
+	},
+	{
+		"_id" : "6290471c8b2efbc6e386fd12",
+		"NumAuthors" : 68,
+		"ProjectID" : "cosmtrek/air",
+		"NumStars" : 2635
+	},
+	{
+		"_id" : "6290471c8b2efbc6e38700fc",
+		"NumAuthors" : 18,
+		"ProjectID" : "redbubble/yak",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "629047678b2efbc6e38ab471",
+		"NumAuthors" : 79,
+		"ProjectID" : "containerd/cgroups",
+		"NumStars" : 484
+	},
+	{
+		"_id" : "629047be8b2efbc6e38f3d5c",
+		"NumAuthors" : 11,
+		"ProjectID" : "zeebe-io/zeeqs",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "629047cc8b2efbc6e3902c6b",
+		"NumAuthors" : 12,
+		"ProjectID" : "pivotal-gss/mock-data",
+		"NumStars" : 58
+	},
+	{
+		"_id" : "629048238b2efbc6e394d9b6",
+		"NumAuthors" : 12,
+		"ProjectID" : "rikatz/kubepug",
+		"NumStars" : 314
+	},
+	{
+		"_id" : "629048618b2efbc6e3984724",
+		"NumAuthors" : 12,
+		"ProjectID" : "fromzeus/terraform-provider-ansiblevault",
+		"NumStars" : 38
+	},
+	{
+		"_id" : "6290488f8b2efbc6e39aacc0",
+		"NumAuthors" : 17,
+		"ProjectID" : "deluan/fscache",
+		"NumStars" : 95
+	},
+	{
+		"_id" : "629048ab8b2efbc6e39bf5fc",
+		"NumAuthors" : 49,
+		"ProjectID" : "asciimoo/wuzz",
+		"NumStars" : 8312
+	},
+	{
+		"_id" : "629048b58b2efbc6e39c85cc",
+		"NumAuthors" : 38,
+		"ProjectID" : "vanadium/go.lib",
+		"NumStars" : 26
+	},
+	{
+		"_id" : "629048bf8b2efbc6e39d06c1",
+		"NumAuthors" : 33,
+		"ProjectID" : "imroc/req",
+		"NumStars" : 1438
+	},
+	{
+		"_id" : "629048d68b2efbc6e39e3214",
+		"NumAuthors" : 73,
+		"ProjectID" : "alvaroloes/enumer",
+		"NumStars" : 339
+	},
+	{
+		"_id" : "629048d88b2efbc6e39e59f3",
+		"NumAuthors" : 123,
+		"ProjectID" : "go-gitea/go-sdk",
+		"NumStars" : 244
+	},
+	{
+		"_id" : "629048e88b2efbc6e39f85ad",
+		"NumAuthors" : 15,
+		"ProjectID" : "isiaon/esm",
+		"NumStars" : 184
+	},
+	{
+		"_id" : "629049b88b2efbc6e3aa3de6",
+		"NumAuthors" : 27,
+		"ProjectID" : "bicomsystems/go-libzfs",
+		"NumStars" : 92
+	},
+	{
+		"_id" : "629049d58b2efbc6e3abdaef",
+		"NumAuthors" : 14,
+		"ProjectID" : "andybalholm/redwood",
+		"NumStars" : 121
+	},
+	{
+		"_id" : "62904a288b2efbc6e3b0d6a9",
+		"NumAuthors" : 42,
+		"ProjectID" : "openconfig/goyang",
+		"NumStars" : 148
+	},
+	{
+		"_id" : "62904a3b8b2efbc6e3b19718",
+		"NumAuthors" : 14,
+		"ProjectID" : "proullon/ramsql",
+		"NumStars" : 231
+	},
+	{
+		"_id" : "62904a7c8b2efbc6e3b5973f",
+		"NumAuthors" : 55,
+		"ProjectID" : "mwitkow/go-proto-validators",
+		"NumStars" : 602
+	},
+	{
+		"_id" : "62904a7c8b2efbc6e3b59f2e",
+		"NumAuthors" : 35,
+		"ProjectID" : "lovoo/goka",
+		"NumStars" : 1539
+	},
+	{
+		"_id" : "62904ae08b2efbc6e3bb2a38",
+		"NumAuthors" : 14,
+		"ProjectID" : "andwun/go-gdpr",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "62904af38b2efbc6e3bbf04d",
+		"NumAuthors" : 16,
+		"ProjectID" : "spacemonkeygo/dbx",
+		"NumStars" : 72
+	},
+	{
+		"_id" : "62904b0d8b2efbc6e3bd6011",
+		"NumAuthors" : 12,
+		"ProjectID" : "tinvyhx/rog-go",
+		"NumStars" : 38
+	},
+	{
+		"_id" : "62904b188b2efbc6e3bea8ad",
+		"NumAuthors" : 15,
+		"ProjectID" : "aler9/gortsplib",
+		"NumStars" : 60
+	},
+	{
+		"_id" : "62904b4e8b2efbc6e3c19c39",
+		"NumAuthors" : 31,
+		"ProjectID" : "zeromq/goczmq",
+		"NumStars" : 407
+	},
+	{
+		"_id" : "62904b588b2efbc6e3c2265c",
+		"NumAuthors" : 32,
+		"ProjectID" : "netlify/netlify-commons",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "62904b6c8b2efbc6e3c30b12",
+		"NumAuthors" : 16,
+		"ProjectID" : "hraban/opus",
+		"NumStars" : 131
+	},
+	{
+		"_id" : "62904b838b2efbc6e3c44b26",
+		"NumAuthors" : 12,
+		"ProjectID" : "lestrrat-go/server-starter",
+		"NumStars" : 194
+	},
+	{
+		"_id" : "62904bcc8b2efbc6e3c84153",
+		"NumAuthors" : 61,
+		"ProjectID" : "ghodss/yaml",
+		"NumStars" : 758
+	},
+	{
+		"_id" : "62904bce8b2efbc6e3c886ad",
+		"NumAuthors" : 63,
+		"ProjectID" : "mauricelam/genny",
+		"NumStars" : 1267
+	},
+	{
+		"_id" : "62904bfa8b2efbc6e3cafdce",
+		"NumAuthors" : 21,
+		"ProjectID" : "hetznercloud/hcloud-go",
+		"NumStars" : 213
+	},
+	{
+		"_id" : "62904c118b2efbc6e3cc253e",
+		"NumAuthors" : 132,
+		"ProjectID" : "coreybutler/nvm-windows",
+		"NumStars" : 13995
+	},
+	{
+		"_id" : "62904c3d8b2efbc6e3ced469",
+		"NumAuthors" : 34,
+		"ProjectID" : "reddit/baseplate.go",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "62904c4d8b2efbc6e3cf7e74",
+		"NumAuthors" : 16,
+		"ProjectID" : "gdm85/go-libdeluge",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "62904c4d8b2efbc6e3cf826b",
+		"NumAuthors" : 298,
+		"ProjectID" : "pingcap/parser",
+		"NumStars" : 728
+	},
+	{
+		"_id" : "62904c5a8b2efbc6e3d043b3",
+		"NumAuthors" : 23,
+		"ProjectID" : "mozillazg/go-pinyin",
+		"NumStars" : 814
+	},
+	{
+		"_id" : "62904cc28b2efbc6e3d5b77d",
+		"NumAuthors" : 37,
+		"ProjectID" : "rwynn/monstache",
+		"NumStars" : 611
+	},
+	{
+		"_id" : "62904cd58b2efbc6e3d68aa1",
+		"NumAuthors" : 92,
+		"ProjectID" : "AllenDang/w32",
+		"NumStars" : 685
+	},
+	{
+		"_id" : "62904ce28b2efbc6e3d74d01",
+		"NumAuthors" : 12,
+		"ProjectID" : "GoogleCloudPlatform/functions-framework-go",
+		"NumStars" : 129
+	},
+	{
+		"_id" : "62904ceb8b2efbc6e3d7cf27",
+		"NumAuthors" : 17,
+		"ProjectID" : "qaisjp/go-discord-irc",
+		"NumStars" : 47
+	},
+	{
+		"_id" : "62904cec8b2efbc6e3d7da22",
+		"NumAuthors" : 26,
+		"ProjectID" : "BurntSushi/xgb",
+		"NumStars" : 404
+	},
+	{
+		"_id" : "62904cf28b2efbc6e3d84530",
+		"NumAuthors" : 27,
+		"ProjectID" : "r3labs/diff",
+		"NumStars" : 204
+	},
+	{
+		"_id" : "62904cf58b2efbc6e3d88495",
+		"NumAuthors" : 15,
+		"ProjectID" : "Akityo/notify",
+		"NumStars" : 142
+	},
+	{
+		"_id" : "62904cf58b2efbc6e3d8939d",
+		"NumAuthors" : 52,
+		"ProjectID" : "optiopay/kafka-api",
+		"NumStars" : 266
+	},
+	{
+		"_id" : "62904cfb8b2efbc6e3d9014c",
+		"NumAuthors" : 15,
+		"ProjectID" : "c-rindi/geras",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "62904cfb8b2efbc6e3d90814",
+		"NumAuthors" : 31,
+		"ProjectID" : "pires/go-proxyproto",
+		"NumStars" : 136
+	},
+	{
+		"_id" : "62904d1a8b2efbc6e3daa0ba",
+		"NumAuthors" : 23,
+		"ProjectID" : "sky-uk/osprey",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "62904d338b2efbc6e3dbb105",
+		"NumAuthors" : 11,
+		"ProjectID" : "gookit/color",
+		"NumStars" : 679
+	},
+	{
+		"_id" : "62904d3e8b2efbc6e3dc45f8",
+		"NumAuthors" : 35,
+		"ProjectID" : "lyft/protoc-gen-star",
+		"NumStars" : 244
+	},
+	{
+		"_id" : "62904d598b2efbc6e3de0b80",
+		"NumAuthors" : 67,
+		"ProjectID" : "jhillyerd/enmime",
+		"NumStars" : 255
+	},
+	{
+		"_id" : "62904d778b2efbc6e3df4f4a",
+		"NumAuthors" : 19,
+		"ProjectID" : "SevereCloud/vksdk",
+		"NumStars" : 74
+	},
+	{
+		"_id" : "62904d8c8b2efbc6e3e07c84",
+		"NumAuthors" : 17,
+		"ProjectID" : "CrunchyData/pg_featureserv",
+		"NumStars" : 144
+	},
+	{
+		"_id" : "62904d978b2efbc6e3e10b9e",
+		"NumAuthors" : 17,
+		"ProjectID" : "qri-io/starlib",
+		"NumStars" : 34
+	},
+	{
+		"_id" : "62904da18b2efbc6e3e183cc",
+		"NumAuthors" : 19,
+		"ProjectID" : "bep/s3deploy",
+		"NumStars" : 421
+	},
+	{
+		"_id" : "62904db48b2efbc6e3e2e986",
+		"NumAuthors" : 20,
+		"ProjectID" : "dghubble/gologin",
+		"NumStars" : 1300
+	},
+	{
+		"_id" : "62904dd38b2efbc6e3e49b04",
+		"NumAuthors" : 24,
+		"ProjectID" : "xhit/go-simple-mail",
+		"NumStars" : 108
+	},
+	{
+		"_id" : "62904e0f8b2efbc6e3e7bbf0",
+		"NumAuthors" : 17,
+		"ProjectID" : "couchbase/sg-bucket",
+		"NumStars" : 34
+	},
+	{
+		"_id" : "62904e218b2efbc6e3e8e34f",
+		"NumAuthors" : 16,
+		"ProjectID" : "cdipaolo/goml",
+		"NumStars" : 1189
+	},
+	{
+		"_id" : "62904e518b2efbc6e3eb133d",
+		"NumAuthors" : 44,
+		"ProjectID" : "sachaos/todoist",
+		"NumStars" : 859
+	},
+	{
+		"_id" : "62904e6b8b2efbc6e3eca5cc",
+		"NumAuthors" : 46,
+		"ProjectID" : "unidoc/unioffice",
+		"NumStars" : 1854
+	},
+	{
+		"_id" : "62904e868b2efbc6e3ee2f35",
+		"NumAuthors" : 16,
+		"ProjectID" : "flant/addon-operator",
+		"NumStars" : 179
+	},
+	{
+		"_id" : "62904eb98b2efbc6e3f0cec2",
+		"NumAuthors" : 13,
+		"ProjectID" : "ThalesGroup/helm-spray",
+		"NumStars" : 37
+	},
+	{
+		"_id" : "62904ecf8b2efbc6e3f267bc",
+		"NumAuthors" : 27,
+		"ProjectID" : "nakagami/firebirdsql",
+		"NumStars" : 128
+	},
+	{
+		"_id" : "62904ee78b2efbc6e3f3d59e",
+		"NumAuthors" : 138,
+		"ProjectID" : "Masterminds/sprig",
+		"NumStars" : 1688
+	},
+	{
+		"_id" : "62904f058b2efbc6e3f51c1f",
+		"NumAuthors" : 18,
+		"ProjectID" : "etungsten/bottlerocket-update-operator",
+		"NumStars" : 59
+	},
+	{
+		"_id" : "62904f198b2efbc6e3f61385",
+		"NumAuthors" : 13,
+		"ProjectID" : "pyed/transmission-telegram",
+		"NumStars" : 138
+	},
+	{
+		"_id" : "62904f2b8b2efbc6e3f79419",
+		"NumAuthors" : 33,
+		"ProjectID" : "airbrake/gobrake",
+		"NumStars" : 92
+	},
+	{
+		"_id" : "62904f728b2efbc6e3fb3025",
+		"NumAuthors" : 11,
+		"ProjectID" : "crillab/gophersat",
+		"NumStars" : 308
+	},
+	{
+		"_id" : "62904f7a8b2efbc6e3fb614a",
+		"NumAuthors" : 17,
+		"ProjectID" : "jdgcs/sqlite3",
+		"NumStars" : 357
+	},
+	{
+		"_id" : "62904fc28b2efbc6e3ff6a39",
+		"NumAuthors" : 71,
+		"ProjectID" : "docker/docker-credential-helpers",
+		"NumStars" : 537
+	},
+	{
+		"_id" : "629050328b2efbc6e3055f60",
+		"NumAuthors" : 27,
+		"ProjectID" : "socialpoint-labs/bsk",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "629050418b2efbc6e3061bbc",
+		"NumAuthors" : 11,
+		"ProjectID" : "doytsujin/gemini",
+		"NumStars" : 95
+	},
+	{
+		"_id" : "629050788b2efbc6e30979b9",
+		"NumAuthors" : 11,
+		"ProjectID" : "Netflix/weep",
+		"NumStars" : 26
+	},
+	{
+		"_id" : "6290508a8b2efbc6e30a6e6f",
+		"NumAuthors" : 12,
+		"ProjectID" : "dbl0null/flaggy",
+		"NumStars" : 625
+	},
+	{
+		"_id" : "629050b88b2efbc6e30d69e7",
+		"NumAuthors" : 15,
+		"ProjectID" : "rjkroege/edwood",
+		"NumStars" : 267
+	},
+	{
+		"_id" : "629050e18b2efbc6e30f89c7",
+		"NumAuthors" : 69,
+		"ProjectID" : "uber-go/fx",
+		"NumStars" : 1391
+	},
+	{
+		"_id" : "629051008b2efbc6e31128ee",
+		"NumAuthors" : 24,
+		"ProjectID" : "coreos/fcct",
+		"NumStars" : 47
+	},
+	{
+		"_id" : "629051698b2efbc6e316ea85",
+		"NumAuthors" : 12,
+		"ProjectID" : "ivaaaan/smug",
+		"NumStars" : 199
+	},
+	{
+		"_id" : "6290517a8b2efbc6e317c45f",
+		"NumAuthors" : 35,
+		"ProjectID" : "DataDog/zstd",
+		"NumStars" : 489
+	},
+	{
+		"_id" : "629051998b2efbc6e3195c42",
+		"NumAuthors" : 15,
+		"ProjectID" : "bearsh/embedded-postgres",
+		"NumStars" : 94
+	},
+	{
+		"_id" : "629051c68b2efbc6e31bbbdd",
+		"NumAuthors" : 43,
+		"ProjectID" : "Azure/azure-event-hubs-go",
+		"NumStars" : 54
+	},
+	{
+		"_id" : "629051cc8b2efbc6e31c1967",
+		"NumAuthors" : 77,
+		"ProjectID" : "sfreiberg/gotwilio",
+		"NumStars" : 301
+	},
+	{
+		"_id" : "629051d88b2efbc6e31cec8d",
+		"NumAuthors" : 11,
+		"ProjectID" : "varlink/go",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "629051f08b2efbc6e31e4b8f",
+		"NumAuthors" : 42,
+		"ProjectID" : "go-cas/cas",
+		"NumStars" : 148
+	},
+	{
+		"_id" : "629052048b2efbc6e31f15aa",
+		"NumAuthors" : 98,
+		"ProjectID" : "aws/aws-node-termination-handler",
+		"NumStars" : 546
+	},
+	{
+		"_id" : "629052208b2efbc6e32096af",
+		"NumAuthors" : 12,
+		"ProjectID" : "ncbi/datasets",
+		"NumStars" : 51
+	},
+	{
+		"_id" : "629052448b2efbc6e32289dd",
+		"NumAuthors" : 24,
+		"ProjectID" : "mschneider82/milter",
+		"NumStars" : 39
+	},
+	{
+		"_id" : "629052658b2efbc6e324073c",
+		"NumAuthors" : 28,
+		"ProjectID" : "gorgonia/tensor",
+		"NumStars" : 191
+	},
+	{
+		"_id" : "629052778b2efbc6e324f832",
+		"NumAuthors" : 26,
+		"ProjectID" : "hashicorp/go-azure-helpers",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "629052888b2efbc6e3263750",
+		"NumAuthors" : 23,
+		"ProjectID" : "dbast/gocloc",
+		"NumStars" : 357
+	},
+	{
+		"_id" : "6290529e8b2efbc6e327be29",
+		"NumAuthors" : 46,
+		"ProjectID" : "dankox/term",
+		"NumStars" : 118
+	},
+	{
+		"_id" : "629052a98b2efbc6e32863ab",
+		"NumAuthors" : 74,
+		"ProjectID" : "bxcodec/faker",
+		"NumStars" : 1248
+	},
+	{
+		"_id" : "629052af8b2efbc6e328831e",
+		"NumAuthors" : 28,
+		"ProjectID" : "digitalocean/go-qemu",
+		"NumStars" : 476
+	},
+	{
+		"_id" : "629052be8b2efbc6e3293b60",
+		"NumAuthors" : 26,
+		"ProjectID" : "appleboy/go-fcm",
+		"NumStars" : 134
+	},
+	{
+		"_id" : "629052cd8b2efbc6e329ff07",
+		"NumAuthors" : 40,
+		"ProjectID" : "bgentry/que-go",
+		"NumStars" : 294
+	},
+	{
+		"_id" : "629052e78b2efbc6e32b46fb",
+		"NumAuthors" : 61,
+		"ProjectID" : "adjust/rmq",
+		"NumStars" : 670
+	},
+	{
+		"_id" : "629052ef8b2efbc6e32bec82",
+		"NumAuthors" : 35,
+		"ProjectID" : "Mrs4s/MiraiGo",
+		"NumStars" : 412
+	},
+	{
+		"_id" : "629053308b2efbc6e32f5ff3",
+		"NumAuthors" : 13,
+		"ProjectID" : "nojima/httpie-go",
+		"NumStars" : 157
+	},
+	{
+		"_id" : "6290535f8b2efbc6e331fd1f",
+		"NumAuthors" : 12,
+		"ProjectID" : "falcosecurity/driverkit",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "6290537e8b2efbc6e3336d1d",
+		"NumAuthors" : 13,
+		"ProjectID" : "EvanPurkhiser/dots",
+		"NumStars" : 250
+	},
+	{
+		"_id" : "629053bd8b2efbc6e3371d40",
+		"NumAuthors" : 18,
+		"ProjectID" : "joncrlsn/pgdiff",
+		"NumStars" : 319
+	},
+	{
+		"_id" : "629053c68b2efbc6e337978d",
+		"NumAuthors" : 16,
+		"ProjectID" : "hellofresh/kandalf",
+		"NumStars" : 64
+	},
+	{
+		"_id" : "629054028b2efbc6e33a7dad",
+		"NumAuthors" : 51,
+		"ProjectID" : "openzipkin/zipkin-go",
+		"NumStars" : 357
+	},
+	{
+		"_id" : "629054028b2efbc6e33a90d4",
+		"NumAuthors" : 44,
+		"ProjectID" : "tendermint/go-amino",
+		"NumStars" : 219
+	},
+	{
+		"_id" : "6290540a8b2efbc6e33b1627",
+		"NumAuthors" : 38,
+		"ProjectID" : "go-errors/errors",
+		"NumStars" : 585
+	},
+	{
+		"_id" : "629054458b2efbc6e33e6b48",
+		"NumAuthors" : 17,
+		"ProjectID" : "agola-io/agola",
+		"NumStars" : 361
+	},
+	{
+		"_id" : "629054708b2efbc6e340947f",
+		"NumAuthors" : 30,
+		"ProjectID" : "Virtomize/confluence-go-api",
+		"NumStars" : 41
+	},
+	{
+		"_id" : "6290547e8b2efbc6e34180c3",
+		"NumAuthors" : 24,
+		"ProjectID" : "nathany/looper",
+		"NumStars" : 411
+	},
+	{
+		"_id" : "629054888b2efbc6e34202a2",
+		"NumAuthors" : 47,
+		"ProjectID" : "goodsign/monday",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "629054928b2efbc6e3429090",
+		"NumAuthors" : 22,
+		"ProjectID" : "emersion/go-msgauth",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "6290549c8b2efbc6e3431e9b",
+		"NumAuthors" : 65,
+		"ProjectID" : "pquerna/ffjson",
+		"NumStars" : 2597
+	},
+	{
+		"_id" : "629054ce8b2efbc6e345aff7",
+		"NumAuthors" : 29,
+		"ProjectID" : "go-kiss/sniper",
+		"NumStars" : 347
+	},
+	{
+		"_id" : "629055008b2efbc6e348b7db",
+		"NumAuthors" : 62,
+		"ProjectID" : "upper/db",
+		"NumStars" : 2428
+	},
+	{
+		"_id" : "6290552a8b2efbc6e34b084a",
+		"NumAuthors" : 25,
+		"ProjectID" : "Vonage/vonage-go-sdk",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "6290552a8b2efbc6e34ac34d",
+		"NumAuthors" : 58,
+		"ProjectID" : "briandowns/spinner",
+		"NumStars" : 1272
+	},
+	{
+		"_id" : "6290553b8b2efbc6e34c0ecc",
+		"NumAuthors" : 24,
+		"ProjectID" : "GetStream/stream-chat-go",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "629055598b2efbc6e34d71d0",
+		"NumAuthors" : 19,
+		"ProjectID" : "couchbase/vellum",
+		"NumStars" : 438
+	},
+	{
+		"_id" : "629055638b2efbc6e34dab25",
+		"NumAuthors" : 29,
+		"ProjectID" : "open-telemetry/opentelemetry-operator",
+		"NumStars" : 90
+	},
+	{
+		"_id" : "6290556e8b2efbc6e34e89db",
+		"NumAuthors" : 37,
+		"ProjectID" : "projectdiscovery/naabu",
+		"NumStars" : 1103
+	},
+	{
+		"_id" : "629055828b2efbc6e34f669d",
+		"NumAuthors" : 15,
+		"ProjectID" : "ccojocar/sso-operator",
+		"NumStars" : 56
+	},
+	{
+		"_id" : "629055828b2efbc6e34f688e",
+		"NumAuthors" : 14,
+		"ProjectID" : "destinygg/chat",
+		"NumStars" : 70
+	},
+	{
+		"_id" : "629055988b2efbc6e350c282",
+		"NumAuthors" : 18,
+		"ProjectID" : "vertica/vertica-sql-go",
+		"NumStars" : 29
+	},
+	{
+		"_id" : "6290559c8b2efbc6e35130c9",
+		"NumAuthors" : 27,
+		"ProjectID" : "riferrei/srclient",
+		"NumStars" : 51
+	},
+	{
+		"_id" : "629055ad8b2efbc6e351f01e",
+		"NumAuthors" : 30,
+		"ProjectID" : "gucio321/giu",
+		"NumStars" : 847
+	},
+	{
+		"_id" : "629055b78b2efbc6e3523f20",
+		"NumAuthors" : 23,
+		"ProjectID" : "cmattoon/aws-ssm",
+		"NumStars" : 110
+	},
+	{
+		"_id" : "629055d68b2efbc6e353d4b0",
+		"NumAuthors" : 21,
+		"ProjectID" : "PuerkitoBio/fetchbot",
+		"NumStars" : 774
+	},
+	{
+		"_id" : "629055fb8b2efbc6e355b1c5",
+		"NumAuthors" : 20,
+		"ProjectID" : "openfaas/faas-provider",
+		"NumStars" : 55
+	},
+	{
+		"_id" : "629056098b2efbc6e356b315",
+		"NumAuthors" : 12,
+		"ProjectID" : "go-eden/slf4go",
+		"NumStars" : 26
+	},
+	{
+		"_id" : "6290563c8b2efbc6e3591478",
+		"NumAuthors" : 55,
+		"ProjectID" : "lauripiispanen/most-active-github-users-counter",
+		"NumStars" : 587
+	},
+	{
+		"_id" : "6290564e8b2efbc6e35a4320",
+		"NumAuthors" : 44,
+		"ProjectID" : "lyft/gostats",
+		"NumStars" : 42
+	},
+	{
+		"_id" : "6290565a8b2efbc6e35b0906",
+		"NumAuthors" : 21,
+		"ProjectID" : "goccmack/gocc",
+		"NumStars" : 439
+	},
+	{
+		"_id" : "629056618b2efbc6e35bc859",
+		"NumAuthors" : 14,
+		"ProjectID" : "muesli/termenv",
+		"NumStars" : 514
+	},
+	{
+		"_id" : "6290566f8b2efbc6e35ccead",
+		"NumAuthors" : 23,
+		"ProjectID" : "paultag/go-debian",
+		"NumStars" : 56
+	},
+	{
+		"_id" : "629056708b2efbc6e35ce3a8",
+		"NumAuthors" : 19,
+		"ProjectID" : "qiniu/qmgo",
+		"NumStars" : 443
+	},
+	{
+		"_id" : "629056ab8b2efbc6e35fcef6",
+		"NumAuthors" : 14,
+		"ProjectID" : "xen0n/go-workwx",
+		"NumStars" : 152
+	},
+	{
+		"_id" : "629057218b2efbc6e366465f",
+		"NumAuthors" : 13,
+		"ProjectID" : "joshkunz/ashuffle",
+		"NumStars" : 45
+	},
+	{
+		"_id" : "629057218b2efbc6e366a539",
+		"NumAuthors" : 83,
+		"ProjectID" : "davecgh/go-spew",
+		"NumStars" : 3958
+	},
+	{
+		"_id" : "629057218b2efbc6e366a40a",
+		"NumAuthors" : 29,
+		"ProjectID" : "pusher/wave",
+		"NumStars" : 284
+	},
+	{
+		"_id" : "6290572e8b2efbc6e3675aae",
+		"NumAuthors" : 75,
+		"ProjectID" : "a8m/golang-cheat-sheet",
+		"NumStars" : 5176
+	},
+	{
+		"_id" : "629057408b2efbc6e3686241",
+		"NumAuthors" : 19,
+		"ProjectID" : "ibmdb/go_ibm_db",
+		"NumStars" : 40
+	},
+	{
+		"_id" : "629057808b2efbc6e36c138c",
+		"NumAuthors" : 55,
+		"ProjectID" : "nanomsg/mangos",
+		"NumStars" : 3460
+	},
+	{
+		"_id" : "629057ea8b2efbc6e3720c14",
+		"NumAuthors" : 64,
+		"ProjectID" : "claudiodangelis/qrcp",
+		"NumStars" : 7868
+	},
+	{
+		"_id" : "6290581c8b2efbc6e3745dd4",
+		"NumAuthors" : 51,
+		"ProjectID" : "lestrrat-go/jwx",
+		"NumStars" : 523
+	},
+	{
+		"_id" : "6290582c8b2efbc6e3754075",
+		"NumAuthors" : 148,
+		"ProjectID" : "spacemonkeygo/openssl",
+		"NumStars" : 635
+	},
+	{
+		"_id" : "6290582d8b2efbc6e37598e9",
+		"NumAuthors" : 21,
+		"ProjectID" : "semrush/zenrpc",
+		"NumStars" : 141
+	},
+	{
+		"_id" : "629058708b2efbc6e3791bd4",
+		"NumAuthors" : 21,
+		"ProjectID" : "IBM-Cloud/go-etcd-rules",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "6290587f8b2efbc6e379d527",
+		"NumAuthors" : 138,
+		"ProjectID" : "ClickHouse/clickhouse-go",
+		"NumStars" : 1052
+	},
+	{
+		"_id" : "629058a68b2efbc6e37bfff5",
+		"NumAuthors" : 16,
+		"ProjectID" : "DataDog/sketches-go",
+		"NumStars" : 31
+	},
+	{
+		"_id" : "629059098b2efbc6e38190a9",
+		"NumAuthors" : 62,
+		"ProjectID" : "coreos/container-linux-config-transpiler",
+		"NumStars" : 185
+	},
+	{
+		"_id" : "629059538b2efbc6e384b1cb",
+		"NumAuthors" : 20,
+		"ProjectID" : "JamesHovious/w32",
+		"NumStars" : 170
+	},
+	{
+		"_id" : "629059648b2efbc6e385bd23",
+		"NumAuthors" : 19,
+		"ProjectID" : "huacnlee/gobackup",
+		"NumStars" : 436
+	},
+	{
+		"_id" : "629059768b2efbc6e3875e64",
+		"NumAuthors" : 47,
+		"ProjectID" : "luna-duclos/instrumentedsql",
+		"NumStars" : 327
+	},
+	{
+		"_id" : "6290598a8b2efbc6e388463a",
+		"NumAuthors" : 19,
+		"ProjectID" : "evayo/flowerss-bot",
+		"NumStars" : 460
+	},
+	{
+		"_id" : "629059a78b2efbc6e3899414",
+		"NumAuthors" : 24,
+		"ProjectID" : "a8m/documentdb",
+		"NumStars" : 29
+	},
+	{
+		"_id" : "629059e88b2efbc6e38dbc10",
+		"NumAuthors" : 71,
+		"ProjectID" : "abutaha/aws-es-proxy",
+		"NumStars" : 464
+	},
+	{
+		"_id" : "629059e98b2efbc6e38dd4b5",
+		"NumAuthors" : 20,
+		"ProjectID" : "kisielk/og-rek",
+		"NumStars" : 49
+	},
+	{
+		"_id" : "629059ec8b2efbc6e38de4b0",
+		"NumAuthors" : 186,
+		"ProjectID" : "kubernetes/utils",
+		"NumStars" : 121
+	},
+	{
+		"_id" : "629059f28b2efbc6e38e3dcb",
+		"NumAuthors" : 11,
+		"ProjectID" : "alfg/mp4",
+		"NumStars" : 50
+	},
+	{
+		"_id" : "62905a288b2efbc6e390eb3e",
+		"NumAuthors" : 56,
+		"ProjectID" : "IBM/portieris",
+		"NumStars" : 194
+	},
+	{
+		"_id" : "62905a998b2efbc6e3978ce0",
+		"NumAuthors" : 14,
+		"ProjectID" : "timescale/timescaledb-tune",
+		"NumStars" : 164
+	},
+	{
+		"_id" : "62905aab8b2efbc6e398b2f1",
+		"NumAuthors" : 75,
+		"ProjectID" : "stakater/Reloader",
+		"NumStars" : 1543
+	},
+	{
+		"_id" : "62905aca8b2efbc6e399f661",
+		"NumAuthors" : 15,
+		"ProjectID" : "gliderlabs/sigil",
+		"NumStars" : 357
+	},
+	{
+		"_id" : "62905b368b2efbc6e3a002f7",
+		"NumAuthors" : 12,
+		"ProjectID" : "isacikgoz/gitin",
+		"NumStars" : 1743
+	},
+	{
+		"_id" : "62905b368b2efbc6e3a002b2",
+		"NumAuthors" : 54,
+		"ProjectID" : "willf/bitset",
+		"NumStars" : 624
+	},
+	{
+		"_id" : "62905b3c8b2efbc6e3a03781",
+		"NumAuthors" : 25,
+		"ProjectID" : "HdrHistogram/hdrhistogram-go",
+		"NumStars" : 331
+	},
+	{
+		"_id" : "62905b3f8b2efbc6e3a05d48",
+		"NumAuthors" : 21,
+		"ProjectID" : "dudw/7days-golang",
+		"NumStars" : 6672
+	},
+	{
+		"_id" : "62905b4a8b2efbc6e3a0e833",
+		"NumAuthors" : 27,
+		"ProjectID" : "firstrow/tcp_server",
+		"NumStars" : 344
+	},
+	{
+		"_id" : "62905b5d8b2efbc6e3a22717",
+		"NumAuthors" : 11,
+		"ProjectID" : "comp500/packwiz",
+		"NumStars" : 26
+	},
+	{
+		"_id" : "62905b698b2efbc6e3a2e51f",
+		"NumAuthors" : 29,
+		"ProjectID" : "planetlabs/draino",
+		"NumStars" : 304
+	},
+	{
+		"_id" : "62905b9d8b2efbc6e3a557ee",
+		"NumAuthors" : 16,
+		"ProjectID" : "AppsFlyer/go-sundheit",
+		"NumStars" : 95
+	},
+	{
+		"_id" : "62905bab8b2efbc6e3a6354d",
+		"NumAuthors" : 17,
+		"ProjectID" : "kilic/bls12-381",
+		"NumStars" : 41
+	},
+	{
+		"_id" : "62905bd28b2efbc6e3a8a279",
+		"NumAuthors" : 69,
+		"ProjectID" : "lukeroth/gdal",
+		"NumStars" : 158
+	},
+	{
+		"_id" : "62905c1f8b2efbc6e3ac2f54",
+		"NumAuthors" : 40,
+		"ProjectID" : "gorilla/csrf",
+		"NumStars" : 588
+	},
+	{
+		"_id" : "62905c2f8b2efbc6e3ad2204",
+		"NumAuthors" : 18,
+		"ProjectID" : "drone/drone-yaml",
+		"NumStars" : 28
+	},
+	{
+		"_id" : "62905c838b2efbc6e3b1e400",
+		"NumAuthors" : 46,
+		"ProjectID" : "bugst/go-serial",
+		"NumStars" : 194
+	},
+	{
+		"_id" : "62905c9b8b2efbc6e3b365be",
+		"NumAuthors" : 133,
+		"ProjectID" : "docker/libkv",
+		"NumStars" : 821
+	},
+	{
+		"_id" : "62905ca38b2efbc6e3b3c3fd",
+		"NumAuthors" : 25,
+		"ProjectID" : "sdcoffey/techan",
+		"NumStars" : 322
+	},
+	{
+		"_id" : "62905cb68b2efbc6e3b4be0a",
+		"NumAuthors" : 52,
+		"ProjectID" : "manyminds/api2go",
+		"NumStars" : 657
+	},
+	{
+		"_id" : "62905cc98b2efbc6e3b5b653",
+		"NumAuthors" : 34,
+		"ProjectID" : "apex/gateway",
+		"NumStars" : 456
+	},
+	{
+		"_id" : "62905cd38b2efbc6e3b61c5f",
+		"NumAuthors" : 16,
+		"ProjectID" : "barnacs/compy",
+		"NumStars" : 141
+	},
+	{
+		"_id" : "62905cff8b2efbc6e3b8a5d2",
+		"NumAuthors" : 16,
+		"ProjectID" : "zricethezav/go-tdameritrade",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "62905cff8b2efbc6e3b8ad02",
+		"NumAuthors" : 25,
+		"ProjectID" : "go-shiori/go-readability",
+		"NumStars" : 235
+	},
+	{
+		"_id" : "62905d118b2efbc6e3b9c33f",
+		"NumAuthors" : 40,
+		"ProjectID" : "karalabe/hid",
+		"NumStars" : 146
+	},
+	{
+		"_id" : "62905d118b2efbc6e3b9ddd9",
+		"NumAuthors" : 25,
+		"ProjectID" : "palantir/go-githubapp",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "62905d1b8b2efbc6e3ba3f55",
+		"NumAuthors" : 31,
+		"ProjectID" : "k14s/kbld",
+		"NumStars" : 81
+	},
+	{
+		"_id" : "62905d5d8b2efbc6e3bdb678",
+		"NumAuthors" : 71,
+		"ProjectID" : "mitchellh/go-ps",
+		"NumStars" : 983
+	},
+	{
+		"_id" : "62905d5d8b2efbc6e3bdc32d",
+		"NumAuthors" : 17,
+		"ProjectID" : "zambien/terraform-provider-apigee",
+		"NumStars" : 43
+	},
+	{
+		"_id" : "62905d938b2efbc6e3c0b114",
+		"NumAuthors" : 16,
+		"ProjectID" : "avelino/gin",
+		"NumStars" : 158
+	},
+	{
+		"_id" : "62905d9d8b2efbc6e3c127a4",
+		"NumAuthors" : 119,
+		"ProjectID" : "veandco/go-sdl2",
+		"NumStars" : 1495
+	},
+	{
+		"_id" : "62905db48b2efbc6e3c24daf",
+		"NumAuthors" : 25,
+		"ProjectID" : "bthrx/shuffledns",
+		"NumStars" : 509
+	},
+	{
+		"_id" : "62905db98b2efbc6e3c299ff",
+		"NumAuthors" : 18,
+		"ProjectID" : "viciious/go-tarantool",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "62905dc38b2efbc6e3c3410a",
+		"NumAuthors" : 12,
+		"ProjectID" : "packethost/csi-packet",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "62905e0f8b2efbc6e3c72511",
+		"NumAuthors" : 18,
+		"ProjectID" : "ennea8/outline-ss-server",
+		"NumStars" : 285
+	},
+	{
+		"_id" : "62905e188b2efbc6e3c77938",
+		"NumAuthors" : 35,
+		"ProjectID" : "zclconf/go-cty",
+		"NumStars" : 158
+	},
+	{
+		"_id" : "62905e238b2efbc6e3c8528a",
+		"NumAuthors" : 48,
+		"ProjectID" : "pivotal/cf-onboarding",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "62905e418b2efbc6e3c9e9ba",
+		"NumAuthors" : 27,
+		"ProjectID" : "brocaar/lorawan",
+		"NumStars" : 195
+	},
+	{
+		"_id" : "62905e488b2efbc6e3ca5747",
+		"NumAuthors" : 23,
+		"ProjectID" : "delthas/soju",
+		"NumStars" : 38
+	},
+	{
+		"_id" : "62905e588b2efbc6e3cb38eb",
+		"NumAuthors" : 24,
+		"ProjectID" : "goinvest/iexcloud",
+		"NumStars" : 82
+	},
+	{
+		"_id" : "62905e608b2efbc6e3cb9157",
+		"NumAuthors" : 30,
+		"ProjectID" : "google/go-licenses",
+		"NumStars" : 239
+	},
+	{
+		"_id" : "62905ed58b2efbc6e3d200af",
+		"NumAuthors" : 25,
+		"ProjectID" : "satyrius/gonx",
+		"NumStars" : 269
+	},
+	{
+		"_id" : "62905f018b2efbc6e3d45861",
+		"NumAuthors" : 11,
+		"ProjectID" : "m-lab/alertmanager-github-receiver",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "62905f0a8b2efbc6e3d50ba0",
+		"NumAuthors" : 14,
+		"ProjectID" : "zalando-incubator/es-operator",
+		"NumStars" : 226
+	},
+	{
+		"_id" : "62905f108b2efbc6e3d54cd6",
+		"NumAuthors" : 34,
+		"ProjectID" : "asticode/go-astisub",
+		"NumStars" : 271
+	},
+	{
+		"_id" : "62905f538b2efbc6e3d8fecc",
+		"NumAuthors" : 42,
+		"ProjectID" : "muesli/duf",
+		"NumStars" : 5658
+	},
+	{
+		"_id" : "62905f7c8b2efbc6e3db74f6",
+		"NumAuthors" : 28,
+		"ProjectID" : "layeh/gumble",
+		"NumStars" : 131
+	},
+	{
+		"_id" : "62905f868b2efbc6e3dbc50f",
+		"NumAuthors" : 49,
+		"ProjectID" : "agl/ed25519",
+		"NumStars" : 214
+	},
+	{
+		"_id" : "62905f898b2efbc6e3dc0a69",
+		"NumAuthors" : 23,
+		"ProjectID" : "nanobox-io/golang-scribble",
+		"NumStars" : 307
+	},
+	{
+		"_id" : "62905fb58b2efbc6e3de3b39",
+		"NumAuthors" : 53,
+		"ProjectID" : "githubnemo/CompileDaemon",
+		"NumStars" : 869
+	},
+	{
+		"_id" : "62905fb98b2efbc6e3de4463",
+		"NumAuthors" : 41,
+		"ProjectID" : "digitalocean/go-openvswitch",
+		"NumStars" : 139
+	},
+	{
+		"_id" : "62905fb98b2efbc6e3de573d",
+		"NumAuthors" : 68,
+		"ProjectID" : "gruntwork-io/cloud-nuke",
+		"NumStars" : 1075
+	},
+	{
+		"_id" : "62905fe28b2efbc6e3e11c81",
+		"NumAuthors" : 16,
+		"ProjectID" : "savsgio/atreugo",
+		"NumStars" : 438
+	},
+	{
+		"_id" : "629060148b2efbc6e3e3922e",
+		"NumAuthors" : 11,
+		"ProjectID" : "shogo82148/go-sql-proxy",
+		"NumStars" : 145
+	},
+	{
+		"_id" : "629060258b2efbc6e3e446b6",
+		"NumAuthors" : 100,
+		"ProjectID" : "go-openapi/runtime",
+		"NumStars" : 124
+	},
+	{
+		"_id" : "6290602e8b2efbc6e3e4d642",
+		"NumAuthors" : 69,
+		"ProjectID" : "docker/go-plugins-helpers",
+		"NumStars" : 267
+	},
+	{
+		"_id" : "629060498b2efbc6e3e63186",
+		"NumAuthors" : 26,
+		"ProjectID" : "hypebeast/go-osc",
+		"NumStars" : 109
+	},
+	{
+		"_id" : "629060678b2efbc6e3e80bb3",
+		"NumAuthors" : 20,
+		"ProjectID" : "epsagon/epsagon-go",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "6290608b8b2efbc6e3e9d675",
+		"NumAuthors" : 16,
+		"ProjectID" : "gchaincl/sqlhooks",
+		"NumStars" : 273
+	},
+	{
+		"_id" : "629060ed8b2efbc6e3ef5d1f",
+		"NumAuthors" : 11,
+		"ProjectID" : "arashmo/alpaca",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "629061628b2efbc6e3f5a748",
+		"NumAuthors" : 13,
+		"ProjectID" : "kitech/qt.go",
+		"NumStars" : 482
+	},
+	{
+		"_id" : "629061a58b2efbc6e3f9134a",
+		"NumAuthors" : 13,
+		"ProjectID" : "google/go-safeweb",
+		"NumStars" : 371
+	},
+	{
+		"_id" : "629061af8b2efbc6e3f9bf13",
+		"NumAuthors" : 22,
+		"ProjectID" : "go-bongo/bongo",
+		"NumStars" : 467
+	},
+	{
+		"_id" : "629061c08b2efbc6e3fa62d5",
+		"NumAuthors" : 11,
+		"ProjectID" : "secrethub/secrethub-go",
+		"NumStars" : 39
+	},
+	{
+		"_id" : "629061f98b2efbc6e3fe2c34",
+		"NumAuthors" : 63,
+		"ProjectID" : "tulir/mautrix-whatsapp",
+		"NumStars" : 432
+	},
+	{
+		"_id" : "629062208b2efbc6e30007f3",
+		"NumAuthors" : 145,
+		"ProjectID" : "urfave/negroni",
+		"NumStars" : 7224
+	},
+	{
+		"_id" : "6290626b8b2efbc6e304185f",
+		"NumAuthors" : 32,
+		"ProjectID" : "akamensky/argparse",
+		"NumStars" : 258
+	},
+	{
+		"_id" : "629062b78b2efbc6e308488c",
+		"NumAuthors" : 49,
+		"ProjectID" : "didi/gendry",
+		"NumStars" : 976
+	},
+	{
+		"_id" : "629062c48b2efbc6e308d839",
+		"NumAuthors" : 11,
+		"ProjectID" : "gwx-oss/cross-cluster-connectivity",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629063118b2efbc6e30d1207",
+		"NumAuthors" : 21,
+		"ProjectID" : "tetratelabs/proxy-wasm-go-sdk",
+		"NumStars" : 135
+	},
+	{
+		"_id" : "629063178b2efbc6e30d4a24",
+		"NumAuthors" : 42,
+		"ProjectID" : "thedevsaddam/govalidator",
+		"NumStars" : 828
+	},
+	{
+		"_id" : "629063208b2efbc6e30dbed4",
+		"NumAuthors" : 40,
+		"ProjectID" : "segmentio/stats",
+		"NumStars" : 148
+	},
+	{
+		"_id" : "6290632b8b2efbc6e30e62ff",
+		"NumAuthors" : 32,
+		"ProjectID" : "nicklaw5/helix",
+		"NumStars" : 85
+	},
+	{
+		"_id" : "629063428b2efbc6e30f8670",
+		"NumAuthors" : 22,
+		"ProjectID" : "ctrox/csi-s3",
+		"NumStars" : 187
+	},
+	{
+		"_id" : "629063528b2efbc6e3106218",
+		"NumAuthors" : 84,
+		"ProjectID" : "tsuna/gohbase",
+		"NumStars" : 509
+	},
+	{
+		"_id" : "629063588b2efbc6e31092fc",
+		"NumAuthors" : 44,
+		"ProjectID" : "StackExchange/wmi",
+		"NumStars" : 323
+	},
+	{
+		"_id" : "629063638b2efbc6e310fa77",
+		"NumAuthors" : 22,
+		"ProjectID" : "RobotsAndPencils/buford",
+		"NumStars" : 507
+	},
+	{
+		"_id" : "629063978b2efbc6e3145f5f",
+		"NumAuthors" : 67,
+		"ProjectID" : "fullstorydev/grpcurl",
+		"NumStars" : 3910
+	},
+	{
+		"_id" : "629063988b2efbc6e314923a",
+		"NumAuthors" : 24,
+		"ProjectID" : "badshark/rump",
+		"NumStars" : 367
+	},
+	{
+		"_id" : "629063a08b2efbc6e314d463",
+		"NumAuthors" : 53,
+		"ProjectID" : "crossplane/oam-runtime",
+		"NumStars" : 280
+	},
+	{
+		"_id" : "629063c18b2efbc6e3169d07",
+		"NumAuthors" : 13,
+		"ProjectID" : "tidb-incubator/cherry-bot",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "629063d98b2efbc6e3180070",
+		"NumAuthors" : 18,
+		"ProjectID" : "halturin/ergo",
+		"NumStars" : 569
+	},
+	{
+		"_id" : "629063f08b2efbc6e319a2bf",
+		"NumAuthors" : 15,
+		"ProjectID" : "13meimei/nutsdb",
+		"NumStars" : 1250
+	},
+	{
+		"_id" : "629064798b2efbc6e320eacf",
+		"NumAuthors" : 16,
+		"ProjectID" : "github/certstore",
+		"NumStars" : 29
+	},
+	{
+		"_id" : "6290648c8b2efbc6e321e4e1",
+		"NumAuthors" : 22,
+		"ProjectID" : "sendgrid/go-gmime",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629064a78b2efbc6e3237422",
+		"NumAuthors" : 15,
+		"ProjectID" : "noqcks/gucci",
+		"NumStars" : 47
+	},
+	{
+		"_id" : "629064d08b2efbc6e3256319",
+		"NumAuthors" : 16,
+		"ProjectID" : "SSLMate/certspotter",
+		"NumStars" : 442
+	},
+	{
+		"_id" : "629064f08b2efbc6e326f9e6",
+		"NumAuthors" : 15,
+		"ProjectID" : "go-playground/form",
+		"NumStars" : 428
+	},
+	{
+		"_id" : "629064f48b2efbc6e3274675",
+		"NumAuthors" : 12,
+		"ProjectID" : "admpub/goloader",
+		"NumStars" : 651
+	},
+	{
+		"_id" : "629065098b2efbc6e328655a",
+		"NumAuthors" : 24,
+		"ProjectID" : "iliayar/golang-vk-api",
+		"NumStars" : 45
+	},
+	{
+		"_id" : "6290651f8b2efbc6e32a1fa8",
+		"NumAuthors" : 29,
+		"ProjectID" : "shanbay/gobay",
+		"NumStars" : 23
+	},
+	{
+		"_id" : "6290651f8b2efbc6e32a2858",
+		"NumAuthors" : 34,
+		"ProjectID" : "eldadru/ksniff",
+		"NumStars" : 916
+	},
+	{
+		"_id" : "6290653c8b2efbc6e32bad3f",
+		"NumAuthors" : 35,
+		"ProjectID" : "markus-wa/demoinfocs-golang",
+		"NumStars" : 245
+	},
+	{
+		"_id" : "6290654e8b2efbc6e32c52b6",
+		"NumAuthors" : 132,
+		"ProjectID" : "patrickmn/go-cache",
+		"NumStars" : 4280
+	},
+	{
+		"_id" : "629065638b2efbc6e32d87d2",
+		"NumAuthors" : 21,
+		"ProjectID" : "jgramoll/terraform-provider-spinnaker",
+		"NumStars" : 21
+	},
+	{
+		"_id" : "629065748b2efbc6e32e8419",
+		"NumAuthors" : 85,
+		"ProjectID" : "nytm/go-grafana-api",
+		"NumStars" : 48
+	},
+	{
+		"_id" : "629065b18b2efbc6e331ebb7",
+		"NumAuthors" : 15,
+		"ProjectID" : "emersion/go-webdav",
+		"NumStars" : 63
+	},
+	{
+		"_id" : "629065c68b2efbc6e332acc7",
+		"NumAuthors" : 78,
+		"ProjectID" : "michaelklishin/rabbit-hole",
+		"NumStars" : 262
+	},
+	{
+		"_id" : "629065c88b2efbc6e332f9aa",
+		"NumAuthors" : 22,
+		"ProjectID" : "vbauerster/mpb",
+		"NumStars" : 936
+	},
+	{
+		"_id" : "629066238b2efbc6e3384fe5",
+		"NumAuthors" : 20,
+		"ProjectID" : "lytics/cloudstorage",
+		"NumStars" : 54
+	},
+	{
+		"_id" : "629066368b2efbc6e33943f5",
+		"NumAuthors" : 15,
+		"ProjectID" : "ignoramous/outline-go-tun2socks",
+		"NumStars" : 71
+	},
+	{
+		"_id" : "629066518b2efbc6e33a9057",
+		"NumAuthors" : 12,
+		"ProjectID" : "palantir/go-baseapp",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "629066598b2efbc6e33b52a7",
+		"NumAuthors" : 84,
+		"ProjectID" : "fiorix/go-smpp",
+		"NumStars" : 202
+	},
+	{
+		"_id" : "629066c58b2efbc6e34157e0",
+		"NumAuthors" : 34,
+		"ProjectID" : "twitchscience/kinsumer",
+		"NumStars" : 98
+	},
+	{
+		"_id" : "629066cc8b2efbc6e341b08a",
+		"NumAuthors" : 15,
+		"ProjectID" : "steveyen/gkvlite",
+		"NumStars" : 344
+	},
+	{
+		"_id" : "629066e28b2efbc6e342f027",
+		"NumAuthors" : 84,
+		"ProjectID" : "dgraph-io/ristretto",
+		"NumStars" : 1117
+	},
+	{
+		"_id" : "6290671e8b2efbc6e345d8c9",
+		"NumAuthors" : 52,
+		"ProjectID" : "radovskyb/watcher",
+		"NumStars" : 890
+	},
+	{
+		"_id" : "629067318b2efbc6e3471688",
+		"NumAuthors" : 27,
+		"ProjectID" : "abhi/libcni",
+		"NumStars" : 82
+	},
+	{
+		"_id" : "629067778b2efbc6e34af78e",
+		"NumAuthors" : 11,
+		"ProjectID" : "plexsystems/sinker",
+		"NumStars" : 347
+	},
+	{
+		"_id" : "629067978b2efbc6e34d13f9",
+		"NumAuthors" : 13,
+		"ProjectID" : "mushorg/go-dpi",
+		"NumStars" : 117
+	},
+	{
+		"_id" : "629067ad8b2efbc6e34e45ea",
+		"NumAuthors" : 43,
+		"ProjectID" : "google/btree",
+		"NumStars" : 2240
+	},
+	{
+		"_id" : "629067bf8b2efbc6e34f56b3",
+		"NumAuthors" : 13,
+		"ProjectID" : "coinrust/crex",
+		"NumStars" : 158
+	},
+	{
+		"_id" : "629068118b2efbc6e3540e31",
+		"NumAuthors" : 23,
+		"ProjectID" : "alaingilbert/ogame",
+		"NumStars" : 36
+	},
+	{
+		"_id" : "6290682f8b2efbc6e355d862",
+		"NumAuthors" : 13,
+		"ProjectID" : "oboukili/terraform-provider-argocd",
+		"NumStars" : 37
+	},
+	{
+		"_id" : "6290685f8b2efbc6e3582530",
+		"NumAuthors" : 24,
+		"ProjectID" : "contribsys/faktory-go",
+		"NumStars" : 171
+	},
+	{
+		"_id" : "629068688b2efbc6e35896d3",
+		"NumAuthors" : 35,
+		"ProjectID" : "tomnomnom/meg",
+		"NumStars" : 695
+	},
+	{
+		"_id" : "629068788b2efbc6e359961e",
+		"NumAuthors" : 41,
+		"ProjectID" : "deanxu2357/ptt-backend",
+		"NumStars" : 58
+	},
+	{
+		"_id" : "6290688b8b2efbc6e35ac379",
+		"NumAuthors" : 11,
+		"ProjectID" : "bcvery1/tilepix",
+		"NumStars" : 26
+	},
+	{
+		"_id" : "629068b48b2efbc6e35c9b9d",
+		"NumAuthors" : 13,
+		"ProjectID" : "ph4r5h4d/wait4it",
+		"NumStars" : 49
+	},
+	{
+		"_id" : "629069088b2efbc6e3618030",
+		"NumAuthors" : 38,
+		"ProjectID" : "mackerelio/mackerel-client-go",
+		"NumStars" : 37
+	},
+	{
+		"_id" : "629069308b2efbc6e3635c72",
+		"NumAuthors" : 25,
+		"ProjectID" : "aws/amazon-cloudwatch-logs-for-fluent-bit",
+		"NumStars" : 57
+	},
+	{
+		"_id" : "629069518b2efbc6e365b378",
+		"NumAuthors" : 34,
+		"ProjectID" : "awalterschulze/gographviz",
+		"NumStars" : 385
+	},
+	{
+		"_id" : "629069528b2efbc6e365c675",
+		"NumAuthors" : 26,
+		"ProjectID" : "pin/tftp",
+		"NumStars" : 162
+	},
+	{
+		"_id" : "629069538b2efbc6e365d8a0",
+		"NumAuthors" : 24,
+		"ProjectID" : "haproxytech/config-parser",
+		"NumStars" : 36
+	},
+	{
+		"_id" : "6290697f8b2efbc6e36825cf",
+		"NumAuthors" : 32,
+		"ProjectID" : "kgretzky/go-ntlm",
+		"NumStars" : 101
+	},
+	{
+		"_id" : "629069a88b2efbc6e36a559a",
+		"NumAuthors" : 51,
+		"ProjectID" : "google/go-tpm",
+		"NumStars" : 266
+	},
+	{
+		"_id" : "629069ca8b2efbc6e36cda2f",
+		"NumAuthors" : 67,
+		"ProjectID" : "influxdata/influxql",
+		"NumStars" : 142
+	},
+	{
+		"_id" : "62906a018b2efbc6e36f7b40",
+		"NumAuthors" : 30,
+		"ProjectID" : "openfaas/golang-http-template",
+		"NumStars" : 47
+	},
+	{
+		"_id" : "62906a058b2efbc6e36fbb13",
+		"NumAuthors" : 44,
+		"ProjectID" : "klauspost/reedsolomon",
+		"NumStars" : 1166
+	},
+	{
+		"_id" : "62906a788b2efbc6e3760837",
+		"NumAuthors" : 36,
+		"ProjectID" : "containerd/ttrpc",
+		"NumStars" : 213
+	},
+	{
+		"_id" : "62906a808b2efbc6e3768728",
+		"NumAuthors" : 11,
+		"ProjectID" : "drasch/evernote2md",
+		"NumStars" : 193
+	},
+	{
+		"_id" : "62906aaf8b2efbc6e379926d",
+		"NumAuthors" : 206,
+		"ProjectID" : "tarm/serial",
+		"NumStars" : 1772
+	},
+	{
+		"_id" : "62906acc8b2efbc6e37b021f",
+		"NumAuthors" : 44,
+		"ProjectID" : "hanzoai/gochimp3",
+		"NumStars" : 36
+	},
+	{
+		"_id" : "62906af48b2efbc6e37d3997",
+		"NumAuthors" : 13,
+		"ProjectID" : "MixinNetwork/bot-api-go-client",
+		"NumStars" : 59
+	},
+	{
+		"_id" : "62906afa8b2efbc6e37dcb02",
+		"NumAuthors" : 12,
+		"ProjectID" : "philippgille/gokv",
+		"NumStars" : 232
+	},
+	{
+		"_id" : "62906afb8b2efbc6e37dec28",
+		"NumAuthors" : 29,
+		"ProjectID" : "git-duet/git-duet",
+		"NumStars" : 295
+	},
+	{
+		"_id" : "62906b518b2efbc6e3829dc1",
+		"NumAuthors" : 29,
+		"ProjectID" : "firecracker-microvm/firectl",
+		"NumStars" : 138
+	},
+	{
+		"_id" : "62906ba08b2efbc6e3873310",
+		"NumAuthors" : 16,
+		"ProjectID" : "cashshuffle/cashshuffle",
+		"NumStars" : 46
+	},
+	{
+		"_id" : "62906bb78b2efbc6e3884545",
+		"NumAuthors" : 19,
+		"ProjectID" : "cre81ve/boomfilters",
+		"NumStars" : 1284
+	},
+	{
+		"_id" : "62906bc78b2efbc6e388f80a",
+		"NumAuthors" : 14,
+		"ProjectID" : "knoxite/knoxite",
+		"NumStars" : 154
+	},
+	{
+		"_id" : "62906be88b2efbc6e38bc671",
+		"NumAuthors" : 86,
+		"ProjectID" : "insomniacslk/dhcp",
+		"NumStars" : 252
+	},
+	{
+		"_id" : "62906c288b2efbc6e38ef4f6",
+		"NumAuthors" : 24,
+		"ProjectID" : "portworx/kvdb",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "62906c818b2efbc6e3943018",
+		"NumAuthors" : 11,
+		"ProjectID" : "incu6us/goimports-reviser",
+		"NumStars" : 33
+	},
+	{
+		"_id" : "62906c858b2efbc6e3946afa",
+		"NumAuthors" : 14,
+		"ProjectID" : "gokrazy/tools",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "62906c9e8b2efbc6e395c5aa",
+		"NumAuthors" : 59,
+		"ProjectID" : "container-storage-interface/spec",
+		"NumStars" : 724
+	},
+	{
+		"_id" : "62906ce28b2efbc6e3998f2b",
+		"NumAuthors" : 30,
+		"ProjectID" : "aspenmesh/istio-vet",
+		"NumStars" : 111
+	},
+	{
+		"_id" : "62906d148b2efbc6e39bde91",
+		"NumAuthors" : 47,
+		"ProjectID" : "emersion/hydroxide",
+		"NumStars" : 507
+	},
+	{
+		"_id" : "62906d398b2efbc6e39e550d",
+		"NumAuthors" : 11,
+		"ProjectID" : "evryfs/github-actions-runner-operator",
+		"NumStars" : 151
+	},
+	{
+		"_id" : "62906d778b2efbc6e3a1763f",
+		"NumAuthors" : 97,
+		"ProjectID" : "golang/review",
+		"NumStars" : 144
+	},
+	{
+		"_id" : "62906d778b2efbc6e3a1a1a1",
+		"NumAuthors" : 44,
+		"ProjectID" : "rjeczalik/notify",
+		"NumStars" : 637
+	},
+	{
+		"_id" : "62906d818b2efbc6e3a1ec44",
+		"NumAuthors" : 11,
+		"ProjectID" : "clevergo/clevergo",
+		"NumStars" : 270
+	},
+	{
+		"_id" : "62906d818b2efbc6e3a213db",
+		"NumAuthors" : 83,
+		"ProjectID" : "jaycode-git/golua",
+		"NumStars" : 655
+	},
+	{
+		"_id" : "62906d928b2efbc6e3a2ef50",
+		"NumAuthors" : 39,
+		"ProjectID" : "motemen/gore",
+		"NumStars" : 3977
+	},
+	{
+		"_id" : "62906d958b2efbc6e3a32182",
+		"NumAuthors" : 19,
+		"ProjectID" : "isgasho/authorization-proxy",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "62906dac8b2efbc6e3a4ba3a",
+		"NumAuthors" : 23,
+		"ProjectID" : "fluxcd/terraform-provider-flux",
+		"NumStars" : 77
+	},
+	{
+		"_id" : "62906db98b2efbc6e3a5b9f4",
+		"NumAuthors" : 16,
+		"ProjectID" : "mittwald/goharbor-client",
+		"NumStars" : 220
+	},
+	{
+		"_id" : "62906dbf8b2efbc6e3a5f0e6",
+		"NumAuthors" : 19,
+		"ProjectID" : "bombsimon/wsl",
+		"NumStars" : 57
+	},
+	{
+		"_id" : "62906dda8b2efbc6e3a75132",
+		"NumAuthors" : 57,
+		"ProjectID" : "abiosoft/ishell",
+		"NumStars" : 1061
+	},
+	{
+		"_id" : "62906e4f8b2efbc6e3ae352c",
+		"NumAuthors" : 28,
+		"ProjectID" : "apcera/termtables",
+		"NumStars" : 248
+	},
+	{
+		"_id" : "62906e6b8b2efbc6e3afb799",
+		"NumAuthors" : 42,
+		"ProjectID" : "chenqy2018/middleware",
+		"NumStars" : 181
+	},
+	{
+		"_id" : "62906e728b2efbc6e3afe356",
+		"NumAuthors" : 48,
+		"ProjectID" : "zencoder/go-dash",
+		"NumStars" : 140
+	},
+	{
+		"_id" : "62906ea08b2efbc6e3b32641",
+		"NumAuthors" : 85,
+		"ProjectID" : "evanphx/json-patch",
+		"NumStars" : 491
+	},
+	{
+		"_id" : "62906eb58b2efbc6e3b3f083",
+		"NumAuthors" : 18,
+		"ProjectID" : "cmattoon/go-coinmarketcap",
+		"NumStars" : 73
+	},
+	{
+		"_id" : "62906ed18b2efbc6e3b57308",
+		"NumAuthors" : 16,
+		"ProjectID" : "kreuzwerker/awsu",
+		"NumStars" : 65
+	},
+	{
+		"_id" : "62906f1d8b2efbc6e3ba104b",
+		"NumAuthors" : 22,
+		"ProjectID" : "elliotchance/pie",
+		"NumStars" : 729
+	},
+	{
+		"_id" : "62906f2c8b2efbc6e3babdc1",
+		"NumAuthors" : 149,
+		"ProjectID" : "openshift/osin",
+		"NumStars" : 1638
+	},
+	{
+		"_id" : "62906f468b2efbc6e3bc2076",
+		"NumAuthors" : 129,
+		"ProjectID" : "go-mail/mail",
+		"NumStars" : 3364
+	},
+	{
+		"_id" : "62906fb38b2efbc6e3c281b4",
+		"NumAuthors" : 12,
+		"ProjectID" : "foxhack/go-osstat",
+		"NumStars" : 123
+	},
+	{
+		"_id" : "62906feb8b2efbc6e3c5eae1",
+		"NumAuthors" : 15,
+		"ProjectID" : "fd0/grobi",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "62906fed8b2efbc6e3c629fc",
+		"NumAuthors" : 13,
+		"ProjectID" : "apenella/go-ansible",
+		"NumStars" : 164
+	},
+	{
+		"_id" : "62906fed8b2efbc6e3c6263d",
+		"NumAuthors" : 15,
+		"ProjectID" : "calmh/ipfix",
+		"NumStars" : 49
+	},
+	{
+		"_id" : "629070298b2efbc6e3c8d6c8",
+		"NumAuthors" : 12,
+		"ProjectID" : "isabella232/promql-langserver",
+		"NumStars" : 73
+	},
+	{
+		"_id" : "629070338b2efbc6e3c97960",
+		"NumAuthors" : 47,
+		"ProjectID" : "ttacon/libphonenumber",
+		"NumStars" : 467
+	},
+	{
+		"_id" : "629070488b2efbc6e3cb0c82",
+		"NumAuthors" : 270,
+		"ProjectID" : "TheAlgorithms/Go",
+		"NumStars" : 4400
+	},
+	{
+		"_id" : "629070cf8b2efbc6e3d2e525",
+		"NumAuthors" : 74,
+		"ProjectID" : "google/periph",
+		"NumStars" : 1584
+	},
+	{
+		"_id" : "629070f68b2efbc6e3d4e2c0",
+		"NumAuthors" : 42,
+		"ProjectID" : "dgraph-io/dgo",
+		"NumStars" : 199
+	},
+	{
+		"_id" : "629071228b2efbc6e3d77c18",
+		"NumAuthors" : 12,
+		"ProjectID" : "Qovery/qovery-cli",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "6290712a8b2efbc6e3d810ff",
+		"NumAuthors" : 29,
+		"ProjectID" : "nautilus/gateway",
+		"NumStars" : 158
+	},
+	{
+		"_id" : "629071618b2efbc6e3dafe7b",
+		"NumAuthors" : 15,
+		"ProjectID" : "armfarm/kube-vip",
+		"NumStars" : 246
+	},
+	{
+		"_id" : "629071638b2efbc6e3db4a3b",
+		"NumAuthors" : 29,
+		"ProjectID" : "apache/rocketmq-operator",
+		"NumStars" : 104
+	},
+	{
+		"_id" : "629071ac8b2efbc6e3df6b3c",
+		"NumAuthors" : 13,
+		"ProjectID" : "google/licensecheck",
+		"NumStars" : 188
+	},
+	{
+		"_id" : "629071cc8b2efbc6e3e0dcd7",
+		"NumAuthors" : 14,
+		"ProjectID" : "ropnop/kerbrute",
+		"NumStars" : 644
+	},
+	{
+		"_id" : "629071cc8b2efbc6e3e0e2a9",
+		"NumAuthors" : 85,
+		"ProjectID" : "gokcehan/lf",
+		"NumStars" : 2596
+	},
+	{
+		"_id" : "629071e48b2efbc6e3e21198",
+		"NumAuthors" : 13,
+		"ProjectID" : "nats-io/jwt",
+		"NumStars" : 26
+	},
+	{
+		"_id" : "629071f38b2efbc6e3e2f217",
+		"NumAuthors" : 41,
+		"ProjectID" : "gomodule/oauth1",
+		"NumStars" : 315
+	},
+	{
+		"_id" : "629072058b2efbc6e3e41647",
+		"NumAuthors" : 111,
+		"ProjectID" : "AlecAivazis/survey",
+		"NumStars" : 1948
+	},
+	{
+		"_id" : "629072088b2efbc6e3e44320",
+		"NumAuthors" : 21,
+		"ProjectID" : "wmnsk/go-gtp",
+		"NumStars" : 92
+	},
+	{
+		"_id" : "629072278b2efbc6e3e631c3",
+		"NumAuthors" : 31,
+		"ProjectID" : "Shelnutt2/db2struct",
+		"NumStars" : 352
+	},
+	{
+		"_id" : "6290722e8b2efbc6e3e642a2",
+		"NumAuthors" : 85,
+		"ProjectID" : "DATA-DOG/go-sqlmock",
+		"NumStars" : 2824
+	},
+	{
+		"_id" : "629072468b2efbc6e3e79f62",
+		"NumAuthors" : 19,
+		"ProjectID" : "go-piv/go-ykpiv",
+		"NumStars" : 156
+	},
+	{
+		"_id" : "629072628b2efbc6e3e8eab3",
+		"NumAuthors" : 29,
+		"ProjectID" : "ch-tsai/gopter",
+		"NumStars" : 394
+	},
+	{
+		"_id" : "629072708b2efbc6e3e9f4e2",
+		"NumAuthors" : 12,
+		"ProjectID" : "diffeo/go-coordinate",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "629072aa8b2efbc6e3ebed0a",
+		"NumAuthors" : 17,
+		"ProjectID" : "vultr/govultr",
+		"NumStars" : 51
+	},
+	{
+		"_id" : "629073008b2efbc6e3ef3501",
+		"NumAuthors" : 24,
+		"ProjectID" : "segmentio/encoding",
+		"NumStars" : 238
+	},
+	{
+		"_id" : "629073308b2efbc6e3f0a9f7",
+		"NumAuthors" : 38,
+		"ProjectID" : "norwoodj/helm-docs",
+		"NumStars" : 274
+	},
+	{
+		"_id" : "6290733e8b2efbc6e3f10c8b",
+		"NumAuthors" : 13,
+		"ProjectID" : "posteo/go-agentx",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "629073538b2efbc6e3f1f456",
+		"NumAuthors" : 32,
+		"ProjectID" : "vesoft-inc/nebula-go",
+		"NumStars" : 29
+	},
+	{
+		"_id" : "629073828b2efbc6e3f37613",
+		"NumAuthors" : 18,
+		"ProjectID" : "fxtlabs/date",
+		"NumStars" : 67
+	},
+	{
+		"_id" : "629073d78b2efbc6e3f63075",
+		"NumAuthors" : 31,
+		"ProjectID" : "otiai10/copy",
+		"NumStars" : 226
+	},
+	{
+		"_id" : "629074168b2efbc6e3f83e2f",
+		"NumAuthors" : 48,
+		"ProjectID" : "mcuadros/ofelia",
+		"NumStars" : 1483
+	},
+	{
+		"_id" : "629074688b2efbc6e3fb48b5",
+		"NumAuthors" : 15,
+		"ProjectID" : "onflow/flow-ft",
+		"NumStars" : 52
+	},
+	{
+		"_id" : "6290747c8b2efbc6e3fbf893",
+		"NumAuthors" : 57,
+		"ProjectID" : "rfjakob/gocryptfs",
+		"NumStars" : 1558
+	},
+	{
+		"_id" : "629074908b2efbc6e3fc87f9",
+		"NumAuthors" : 17,
+		"ProjectID" : "bookingcom/nanotube",
+		"NumStars" : 43
+	},
+	{
+		"_id" : "629074c58b2efbc6e3fe844e",
+		"NumAuthors" : 28,
+		"ProjectID" : "google/nftables",
+		"NumStars" : 514
+	},
+	{
+		"_id" : "6290750a8b2efbc6e300b259",
+		"NumAuthors" : 33,
+		"ProjectID" : "vesoft-inc/nebula-importer",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "6290750a8b2efbc6e300bf58",
+		"NumAuthors" : 18,
+		"ProjectID" : "ericonr/sbctl",
+		"NumStars" : 138
+	},
+	{
+		"_id" : "6290752e8b2efbc6e3025da1",
+		"NumAuthors" : 15,
+		"ProjectID" : "uber-go/sally",
+		"NumStars" : 82
+	},
+	{
+		"_id" : "6290753d8b2efbc6e302a29f",
+		"NumAuthors" : 15,
+		"ProjectID" : "chwevans/vulkan",
+		"NumStars" : 561
+	},
+	{
+		"_id" : "6290755b8b2efbc6e3037ea7",
+		"NumAuthors" : 55,
+		"ProjectID" : "thoas/go-funk",
+		"NumStars" : 1865
+	},
+	{
+		"_id" : "629075878b2efbc6e30510f6",
+		"NumAuthors" : 66,
+		"ProjectID" : "russellhaering/goxmldsig",
+		"NumStars" : 80
+	},
+	{
+		"_id" : "629075f78b2efbc6e30889de",
+		"NumAuthors" : 115,
+		"ProjectID" : "mattn/go-xmpp",
+		"NumStars" : 436
+	},
+	{
+		"_id" : "629076228b2efbc6e309d0bb",
+		"NumAuthors" : 61,
+		"ProjectID" : "3d0c/gmf",
+		"NumStars" : 617
+	},
+	{
+		"_id" : "629076458b2efbc6e30afc67",
+		"NumAuthors" : 25,
+		"ProjectID" : "Versent/unicreds",
+		"NumStars" : 118
+	},
+	{
+		"_id" : "629076708b2efbc6e30c7efe",
+		"NumAuthors" : 24,
+		"ProjectID" : "LeelaChessZero/lczero-client",
+		"NumStars" : 50
+	},
+	{
+		"_id" : "629076f48b2efbc6e3111c99",
+		"NumAuthors" : 35,
+		"ProjectID" : "pdepip/go-binance",
+		"NumStars" : 95
+	},
+	{
+		"_id" : "629077008b2efbc6e311249f",
+		"NumAuthors" : 22,
+		"ProjectID" : "go-zeromq/zmq4",
+		"NumStars" : 162
+	},
+	{
+		"_id" : "629077a08b2efbc6e316e774",
+		"NumAuthors" : 59,
+		"ProjectID" : "matrix-org/gomatrix",
+		"NumStars" : 268
+	},
+	{
+		"_id" : "629077aa8b2efbc6e31708e1",
+		"NumAuthors" : 45,
+		"ProjectID" : "golang/snappy",
+		"NumStars" : 1053
+	},
+	{
+		"_id" : "629077b68b2efbc6e317f31b",
+		"NumAuthors" : 37,
+		"ProjectID" : "cruise-automation/k-rail",
+		"NumStars" : 157
+	},
+	{
+		"_id" : "6290780d8b2efbc6e31a71f2",
+		"NumAuthors" : 14,
+		"ProjectID" : "kayac/go-katsubushi",
+		"NumStars" : 120
+	},
+	{
+		"_id" : "6290781c8b2efbc6e31b15cd",
+		"NumAuthors" : 20,
+		"ProjectID" : "dty1er/kubecolor",
+		"NumStars" : 352
+	},
+	{
+		"_id" : "6290781d8b2efbc6e31b4270",
+		"NumAuthors" : 16,
+		"ProjectID" : "apcera/gssapi",
+		"NumStars" : 75
+	},
+	{
+		"_id" : "629078298b2efbc6e31b960e",
+		"NumAuthors" : 54,
+		"ProjectID" : "samuel/go-thrift",
+		"NumStars" : 348
+	},
+	{
+		"_id" : "629078998b2efbc6e31f8ea6",
+		"NumAuthors" : 39,
+		"ProjectID" : "faiface/beep",
+		"NumStars" : 999
+	},
+	{
+		"_id" : "6290789f8b2efbc6e31fe68a",
+		"NumAuthors" : 23,
+		"ProjectID" : "amimof/huego",
+		"NumStars" : 146
+	},
+	{
+		"_id" : "629078c38b2efbc6e3213b3c",
+		"NumAuthors" : 25,
+		"ProjectID" : "rakyll/gotest",
+		"NumStars" : 803
+	},
+	{
+		"_id" : "629078d18b2efbc6e32174a6",
+		"NumAuthors" : 12,
+		"ProjectID" : "smartystreets/gunit",
+		"NumStars" : 98
+	},
+	{
+		"_id" : "629078d48b2efbc6e321cac7",
+		"NumAuthors" : 34,
+		"ProjectID" : "mailjet/mailjet-apiv3-go",
+		"NumStars" : 54
+	},
+	{
+		"_id" : "629078fa8b2efbc6e322e889",
+		"NumAuthors" : 26,
+		"ProjectID" : "codingjzy/netlink-go",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "629078fc8b2efbc6e323333f",
+		"NumAuthors" : 17,
+		"ProjectID" : "ably-forks/go-liftbridge",
+		"NumStars" : 36
+	},
+	{
+		"_id" : "629078fd8b2efbc6e3233d29",
+		"NumAuthors" : 33,
+		"ProjectID" : "kintone/cli-kintone",
+		"NumStars" : 40
+	},
+	{
+		"_id" : "629079308b2efbc6e325125d",
+		"NumAuthors" : 14,
+		"ProjectID" : "james-bowman/sparse",
+		"NumStars" : 98
+	},
+	{
+		"_id" : "6290793f8b2efbc6e3257ab4",
+		"NumAuthors" : 87,
+		"ProjectID" : "hashicorp/go-tfe",
+		"NumStars" : 87
+	},
+	{
+		"_id" : "629079518b2efbc6e325df08",
+		"NumAuthors" : 89,
+		"ProjectID" : "orcaman/concurrent-map",
+		"NumStars" : 1981
+	},
+	{
+		"_id" : "629079608b2efbc6e3267f1d",
+		"NumAuthors" : 17,
+		"ProjectID" : "yinheli/sshw",
+		"NumStars" : 622
+	},
+	{
+		"_id" : "6290796b8b2efbc6e326dbd6",
+		"NumAuthors" : 52,
+		"ProjectID" : "alexeykaravan/go-bittrex",
+		"NumStars" : 256
+	},
+	{
+		"_id" : "629079c18b2efbc6e329c794",
+		"NumAuthors" : 59,
+		"ProjectID" : "russellcardullo/go-pingdom",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "629079e08b2efbc6e32ad777",
+		"NumAuthors" : 26,
+		"ProjectID" : "valyala/quicktemplate",
+		"NumStars" : 1920
+	},
+	{
+		"_id" : "629079fd8b2efbc6e32c39cd",
+		"NumAuthors" : 53,
+		"ProjectID" : "capnproto/go-capnproto2",
+		"NumStars" : 1088
+	},
+	{
+		"_id" : "62907a048b2efbc6e32c9ee3",
+		"NumAuthors" : 37,
+		"ProjectID" : "TykTechnologies/tyk-identity-broker",
+		"NumStars" : 41
+	},
+	{
+		"_id" : "62907a108b2efbc6e32cbfbf",
+		"NumAuthors" : 52,
+		"ProjectID" : "containerd/continuity",
+		"NumStars" : 88
+	},
+	{
+		"_id" : "62907a4c8b2efbc6e32f10b4",
+		"NumAuthors" : 24,
+		"ProjectID" : "quasilyte/go-ruleguard",
+		"NumStars" : 387
+	},
+	{
+		"_id" : "62907aa58b2efbc6e331ae42",
+		"NumAuthors" : 17,
+		"ProjectID" : "mumoshu/terraform-provider-eksctl",
+		"NumStars" : 110
+	},
+	{
+		"_id" : "62907aca8b2efbc6e3337d20",
+		"NumAuthors" : 53,
+		"ProjectID" : "ntlzz93/gosoap",
+		"NumStars" : 249
+	},
+	{
+		"_id" : "62907af78b2efbc6e3350527",
+		"NumAuthors" : 12,
+		"ProjectID" : "redsift/dnstrace",
+		"NumStars" : 38
+	},
+	{
+		"_id" : "62907b088b2efbc6e3355a8b",
+		"NumAuthors" : 19,
+		"ProjectID" : "go-gorm/datatypes",
+		"NumStars" : 105
+	},
+	{
+		"_id" : "62907b268b2efbc6e336701b",
+		"NumAuthors" : 35,
+		"ProjectID" : "jackc/pgconn",
+		"NumStars" : 48
+	},
+	{
+		"_id" : "62907b3b8b2efbc6e33725e9",
+		"NumAuthors" : 12,
+		"ProjectID" : "gitlab.com/diamondburned_6cord",
+		"NumStars" : 82
+	},
+	{
+		"_id" : "62907b5f8b2efbc6e3386f8e",
+		"NumAuthors" : 16,
+		"ProjectID" : "15me/uint256",
+		"NumStars" : 72
+	},
+	{
+		"_id" : "62907c1b8b2efbc6e33eddf0",
+		"NumAuthors" : 16,
+		"ProjectID" : "joeig/go-powerdns",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "62907c388b2efbc6e33f954a",
+		"NumAuthors" : 14,
+		"ProjectID" : "grandecola/bigqueue",
+		"NumStars" : 181
+	},
+	{
+		"_id" : "62907cf08b2efbc6e345f3ae",
+		"NumAuthors" : 46,
+		"ProjectID" : "alecthomas/kong",
+		"NumStars" : 443
+	},
+	{
+		"_id" : "62907d348b2efbc6e347ee50",
+		"NumAuthors" : 14,
+		"ProjectID" : "UpdateHub/updatehub",
+		"NumStars" : 69
+	},
+	{
+		"_id" : "62907d448b2efbc6e348cc6e",
+		"NumAuthors" : 39,
+		"ProjectID" : "NeowayLabs/wabbit",
+		"NumStars" : 145
+	},
+	{
+		"_id" : "62907da48b2efbc6e34b6532",
+		"NumAuthors" : 11,
+		"ProjectID" : "varusan/stretcher",
+		"NumStars" : 229
+	},
+	{
+		"_id" : "62907db48b2efbc6e34bf1ed",
+		"NumAuthors" : 11,
+		"ProjectID" : "Dbz/kube-aliases",
+		"NumStars" : 33
+	},
+	{
+		"_id" : "62907dc08b2efbc6e34cb069",
+		"NumAuthors" : 30,
+		"ProjectID" : "oklog/ulid",
+		"NumStars" : 1949
+	},
+	{
+		"_id" : "62907e0f8b2efbc6e34ee860",
+		"NumAuthors" : 20,
+		"ProjectID" : "iamacarpet/go-win64api",
+		"NumStars" : 157
+	},
+	{
+		"_id" : "62907e0f8b2efbc6e34eff48",
+		"NumAuthors" : 12,
+		"ProjectID" : "goproxy/goproxy",
+		"NumStars" : 322
+	},
+	{
+		"_id" : "62907e1e8b2efbc6e34f7a3d",
+		"NumAuthors" : 70,
+		"ProjectID" : "fluffle/goirc",
+		"NumStars" : 353
+	},
+	{
+		"_id" : "62907e388b2efbc6e3504e0d",
+		"NumAuthors" : 21,
+		"ProjectID" : "baetyl/baetyl-cloud",
+		"NumStars" : 37
+	},
+	{
+		"_id" : "62907e458b2efbc6e350df7d",
+		"NumAuthors" : 12,
+		"ProjectID" : "georgysavva/scany",
+		"NumStars" : 217
+	},
+	{
+		"_id" : "62907e9b8b2efbc6e353f6b4",
+		"NumAuthors" : 46,
+		"ProjectID" : "labstack/gommon",
+		"NumStars" : 395
+	},
+	{
+		"_id" : "62907f1c8b2efbc6e35862d7",
+		"NumAuthors" : 62,
+		"ProjectID" : "google/cloud-print-connector",
+		"NumStars" : 750
+	},
+	{
+		"_id" : "62907f908b2efbc6e35be5e6",
+		"NumAuthors" : 11,
+		"ProjectID" : "akhilmd/nitro",
+		"NumStars" : 106
+	},
+	{
+		"_id" : "62907fbb8b2efbc6e35d5d7d",
+		"NumAuthors" : 16,
+		"ProjectID" : "goccy/go-json",
+		"NumStars" : 616
+	},
+	{
+		"_id" : "629080268b2efbc6e360bd31",
+		"NumAuthors" : 34,
+		"ProjectID" : "aliyun/aliyun-tablestore-go-sdk",
+		"NumStars" : 57
+	},
+	{
+		"_id" : "629080598b2efbc6e3625e0a",
+		"NumAuthors" : 16,
+		"ProjectID" : "prometheus/exporter-toolkit",
+		"NumStars" : 68
+	},
+	{
+		"_id" : "629080798b2efbc6e3637afc",
+		"NumAuthors" : 15,
+		"ProjectID" : "gcla/termshark",
+		"NumStars" : 5281
+	},
+	{
+		"_id" : "6290809a8b2efbc6e3649ec1",
+		"NumAuthors" : 34,
+		"ProjectID" : "ThalesIgnite/crypto11",
+		"NumStars" : 107
+	},
+	{
+		"_id" : "629080af8b2efbc6e3652c26",
+		"NumAuthors" : 36,
+		"ProjectID" : "auth0-community/auth0",
+		"NumStars" : 114
+	},
+	{
+		"_id" : "629080b98b2efbc6e36577ac",
+		"NumAuthors" : 29,
+		"ProjectID" : "gruntwork-io/fetch",
+		"NumStars" : 300
+	},
+	{
+		"_id" : "629080fa8b2efbc6e367a97c",
+		"NumAuthors" : 58,
+		"ProjectID" : "lightninglabs/neutrino",
+		"NumStars" : 550
+	},
+	{
+		"_id" : "629080fa8b2efbc6e367f637",
+		"NumAuthors" : 43,
+		"ProjectID" : "BESTSELLER/terraform-provider-harbor",
+		"NumStars" : 30
+	},
+	{
+		"_id" : "6290811e8b2efbc6e368f2e5",
+		"NumAuthors" : 26,
+		"ProjectID" : "jsgoecke/tesla",
+		"NumStars" : 302
+	},
+	{
+		"_id" : "629081938b2efbc6e36caea1",
+		"NumAuthors" : 19,
+		"ProjectID" : "lesovsky/pgcenter",
+		"NumStars" : 1158
+	},
+	{
+		"_id" : "629081b08b2efbc6e36df767",
+		"NumAuthors" : 16,
+		"ProjectID" : "haproxytech/haproxy-consul-connect",
+		"NumStars" : 43
+	},
+	{
+		"_id" : "629081b08b2efbc6e36df6a7",
+		"NumAuthors" : 31,
+		"ProjectID" : "xo/usql",
+		"NumStars" : 5448
+	},
+	{
+		"_id" : "629081bb8b2efbc6e36e74fb",
+		"NumAuthors" : 17,
+		"ProjectID" : "hostirosti/prio-server",
+		"NumStars" : 25
+	},
+	{
+		"_id" : "629082728b2efbc6e3747768",
+		"NumAuthors" : 12,
+		"ProjectID" : "footmau/gokeepasslib",
+		"NumStars" : 120
+	},
+	{
+		"_id" : "629082a38b2efbc6e375bb49",
+		"NumAuthors" : 11,
+		"ProjectID" : "domainr/epp",
+		"NumStars" : 38
+	},
+	{
+		"_id" : "629082a88b2efbc6e3760917",
+		"NumAuthors" : 12,
+		"ProjectID" : "nuvo/orca",
+		"NumStars" : 127
+	},
+	{
+		"_id" : "629082c78b2efbc6e377403d",
+		"NumAuthors" : 18,
+		"ProjectID" : "rsocket/rsocket-go",
+		"NumStars" : 202
+	},
+	{
+		"_id" : "629082d78b2efbc6e377accb",
+		"NumAuthors" : 16,
+		"ProjectID" : "nats-rpc/nrpc",
+		"NumStars" : 396
+	},
+	{
+		"_id" : "629083088b2efbc6e3794a05",
+		"NumAuthors" : 20,
+		"ProjectID" : "orgrim/pg_back",
+		"NumStars" : 117
+	},
+	{
+		"_id" : "629083238b2efbc6e37a0fb0",
+		"NumAuthors" : 47,
+		"ProjectID" : "qiniu/qshell",
+		"NumStars" : 874
+	},
+	{
+		"_id" : "6290832f8b2efbc6e37a92b5",
+		"NumAuthors" : 51,
+		"ProjectID" : "honeycombio/beeline-go",
+		"NumStars" : 45
+	},
+	{
+		"_id" : "629083448b2efbc6e37b5439",
+		"NumAuthors" : 43,
+		"ProjectID" : "hoanhan101/ultimate-go",
+		"NumStars" : 8434
+	},
+	{
+		"_id" : "629083568b2efbc6e37bd633",
+		"NumAuthors" : 22,
+		"ProjectID" : "openconfig/gnoi",
+		"NumStars" : 74
+	},
+	{
+		"_id" : "6290838a8b2efbc6e37d6002",
+		"NumAuthors" : 98,
+		"ProjectID" : "kubernetes/cloud-provider-vsphere",
+		"NumStars" : 93
+	},
+	{
+		"_id" : "629084188b2efbc6e38229cb",
+		"NumAuthors" : 13,
+		"ProjectID" : "Debian/debiman",
+		"NumStars" : 103
+	},
+	{
+		"_id" : "6290845e8b2efbc6e38484d7",
+		"NumAuthors" : 24,
+		"ProjectID" : "tsoding/snitch",
+		"NumStars" : 128
+	},
+	{
+		"_id" : "629084728b2efbc6e3853015",
+		"NumAuthors" : 14,
+		"ProjectID" : "dizzyfool/genna",
+		"NumStars" : 70
+	},
+	{
+		"_id" : "6290847e8b2efbc6e3858492",
+		"NumAuthors" : 28,
+		"ProjectID" : "cristianoliveira/ergo",
+		"NumStars" : 428
+	},
+	{
+		"_id" : "6290847f8b2efbc6e3859962",
+		"NumAuthors" : 12,
+		"ProjectID" : "ovh/erlenmeyer",
+		"NumStars" : 48
+	},
+	{
+		"_id" : "6290848c8b2efbc6e38605ef",
+		"NumAuthors" : 23,
+		"ProjectID" : "gruntwork-io/kubergrunt",
+		"NumStars" : 171
+	},
+	{
+		"_id" : "629084bd8b2efbc6e38795e4",
+		"NumAuthors" : 15,
+		"ProjectID" : "ktr0731/go-fuzzyfinder",
+		"NumStars" : 210
+	},
+	{
+		"_id" : "6290851b8b2efbc6e38a9cee",
+		"NumAuthors" : 11,
+		"ProjectID" : "ubuntu/ubuntu-report",
+		"NumStars" : 52
+	},
+	{
+		"_id" : "6290862a8b2efbc6e393c586",
+		"NumAuthors" : 42,
+		"ProjectID" : "jimmidyson/configmap-reload",
+		"NumStars" : 489
+	},
+	{
+		"_id" : "629086608b2efbc6e39588c9",
+		"NumAuthors" : 111,
+		"ProjectID" : "DataDog/datadog-go",
+		"NumStars" : 253
+	},
+	{
+		"_id" : "6290867b8b2efbc6e396890a",
+		"NumAuthors" : 26,
+		"ProjectID" : "go-macaron/binding",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "6290869c8b2efbc6e39797bd",
+		"NumAuthors" : 38,
+		"ProjectID" : "go-cmd/cmd",
+		"NumStars" : 384
+	},
+	{
+		"_id" : "629086ce8b2efbc6e398fe0a",
+		"NumAuthors" : 15,
+		"ProjectID" : "functionalfoundry/graphqlws",
+		"NumStars" : 130
+	},
+	{
+		"_id" : "629086ce8b2efbc6e399359e",
+		"NumAuthors" : 33,
+		"ProjectID" : "codingsince1985/geo-golang",
+		"NumStars" : 376
+	},
+	{
+		"_id" : "629087498b2efbc6e39d428e",
+		"NumAuthors" : 11,
+		"ProjectID" : "lileio/pubsub",
+		"NumStars" : 43
+	},
+	{
+		"_id" : "629087f38b2efbc6e3a2c43a",
+		"NumAuthors" : 79,
+		"ProjectID" : "couchbase/go-couchbase",
+		"NumStars" : 371
+	},
+	{
+		"_id" : "629088128b2efbc6e3a39daa",
+		"NumAuthors" : 22,
+		"ProjectID" : "hellofresh/klepto",
+		"NumStars" : 173
+	},
+	{
+		"_id" : "629088128b2efbc6e3a3cb27",
+		"NumAuthors" : 51,
+		"ProjectID" : "fiorix/go-diameter",
+		"NumStars" : 161
+	},
+	{
+		"_id" : "6290887f8b2efbc6e3a6f41f",
+		"NumAuthors" : 24,
+		"ProjectID" : "blackjack/webcam",
+		"NumStars" : 278
+	},
+	{
+		"_id" : "629088c18b2efbc6e3a942db",
+		"NumAuthors" : 62,
+		"ProjectID" : "teamhephy/router",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "629089048b2efbc6e3ab6192",
+		"NumAuthors" : 31,
+		"ProjectID" : "FluuxIO/go-xmpp",
+		"NumStars" : 145
+	},
+	{
+		"_id" : "629089048b2efbc6e3ab5aab",
+		"NumAuthors" : 42,
+		"ProjectID" : "kovetskiy/mark",
+		"NumStars" : 163
+	},
+	{
+		"_id" : "629089118b2efbc6e3ac1005",
+		"NumAuthors" : 27,
+		"ProjectID" : "TestRunnerSRL/bizhawk-co-op",
+		"NumStars" : 37
+	},
+	{
+		"_id" : "6290891e8b2efbc6e3ac2f88",
+		"NumAuthors" : 11,
+		"ProjectID" : "cbk914/jaeles",
+		"NumStars" : 885
+	},
+	{
+		"_id" : "629089318b2efbc6e3ad0a5b",
+		"NumAuthors" : 15,
+		"ProjectID" : "tidwall/redcon",
+		"NumStars" : 1423
+	},
+	{
+		"_id" : "6290893f8b2efbc6e3ad27f1",
+		"NumAuthors" : 60,
+		"ProjectID" : "dghubble/sling",
+		"NumStars" : 1070
+	},
+	{
+		"_id" : "629089538b2efbc6e3adf2a5",
+		"NumAuthors" : 16,
+		"ProjectID" : "minio/warp",
+		"NumStars" : 101
+	},
+	{
+		"_id" : "629089e08b2efbc6e3b2e5ae",
+		"NumAuthors" : 32,
+		"ProjectID" : "unknwon/goconfig",
+		"NumStars" : 581
+	},
+	{
+		"_id" : "629089f98b2efbc6e3b3d40b",
+		"NumAuthors" : 11,
+		"ProjectID" : "lightninglabs/aperture",
+		"NumStars" : 75
+	},
+	{
+		"_id" : "62908a618b2efbc6e3b6d7a0",
+		"NumAuthors" : 26,
+		"ProjectID" : "0x19/goesl",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "62908a6b8b2efbc6e3b742a6",
+		"NumAuthors" : 17,
+		"ProjectID" : "vdobler/chart",
+		"NumStars" : 669
+	},
+	{
+		"_id" : "62908a928b2efbc6e3b8630d",
+		"NumAuthors" : 299,
+		"ProjectID" : "golang/scratch",
+		"NumStars" : 32
+	},
+	{
+		"_id" : "62908ad88b2efbc6e3bb2755",
+		"NumAuthors" : 19,
+		"ProjectID" : "vmware-tanzu/velero-plugin-for-vsphere",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "62908b498b2efbc6e3bead70",
+		"NumAuthors" : 97,
+		"ProjectID" : "x-motemen/ghq",
+		"NumStars" : 1859
+	},
+	{
+		"_id" : "62908b618b2efbc6e3bfef81",
+		"NumAuthors" : 24,
+		"ProjectID" : "hellofresh/goengine",
+		"NumStars" : 83
+	},
+	{
+		"_id" : "62908b6f8b2efbc6e3c031b0",
+		"NumAuthors" : 25,
+		"ProjectID" : "soheilhy/cmux",
+		"NumStars" : 1354
+	},
+	{
+		"_id" : "62908bb48b2efbc6e3c260ee",
+		"NumAuthors" : 28,
+		"ProjectID" : "medivhzhan/miniapp",
+		"NumStars" : 651
+	},
+	{
+		"_id" : "62908bb48b2efbc6e3c26dde",
+		"NumAuthors" : 31,
+		"ProjectID" : "johnfercher/maroto",
+		"NumStars" : 254
+	},
+	{
+		"_id" : "62908bc08b2efbc6e3c2bde2",
+		"NumAuthors" : 19,
+		"ProjectID" : "PaloAltoNetworks/pango",
+		"NumStars" : 28
+	},
+	{
+		"_id" : "62908be88b2efbc6e3c42ff1",
+		"NumAuthors" : 22,
+		"ProjectID" : "unknwon/go-fundamental-programming",
+		"NumStars" : 7049
+	},
+	{
+		"_id" : "62908c508b2efbc6e3c7a0a0",
+		"NumAuthors" : 19,
+		"ProjectID" : "lucor/fyne-cross",
+		"NumStars" : 88
+	},
+	{
+		"_id" : "62908ce68b2efbc6e3ccee08",
+		"NumAuthors" : 16,
+		"ProjectID" : "radareorg/r2pm",
+		"NumStars" : 24
+	},
+	{
+		"_id" : "62908d218b2efbc6e3cea101",
+		"NumAuthors" : 21,
+		"ProjectID" : "mattermost/mattermost-cloud",
+		"NumStars" : 29
+	},
+	{
+		"_id" : "62908d3e8b2efbc6e3cff45a",
+		"NumAuthors" : 29,
+		"ProjectID" : "achannarasappa/ticker",
+		"NumStars" : 3422
+	},
+	{
+		"_id" : "62908d5f8b2efbc6e3d0eb14",
+		"NumAuthors" : 17,
+		"ProjectID" : "digitalcrab/browscap_go",
+		"NumStars" : 35
+	},
+	{
+		"_id" : "62908d6d8b2efbc6e3d13737",
+		"NumAuthors" : 12,
+		"ProjectID" : "mszostok/codeowners-validator",
+		"NumStars" : 47
+	},
+	{
+		"_id" : "62908d7d8b2efbc6e3d19e73",
+		"NumAuthors" : 18,
+		"ProjectID" : "upyun/go-sdk",
+		"NumStars" : 63
+	},
+	{
+		"_id" : "62908d7e8b2efbc6e3d1b9fa",
+		"NumAuthors" : 13,
+		"ProjectID" : "lirm/aeron-go",
+		"NumStars" : 108
+	},
+	{
+		"_id" : "62908d8e8b2efbc6e3d223e8",
+		"NumAuthors" : 11,
+		"ProjectID" : "danieljoos/wincred",
+		"NumStars" : 57
+	},
+	{
+		"_id" : "62908dca8b2efbc6e3d49ed7",
+		"NumAuthors" : 19,
+		"ProjectID" : "lunixbochs/struc",
+		"NumStars" : 389
+	},
+	{
+		"_id" : "62908dcb8b2efbc6e3d4a9fc",
+		"NumAuthors" : 17,
+		"ProjectID" : "VladimirMarkelov/clui",
+		"NumStars" : 524
+	},
+	{
+		"_id" : "62908e828b2efbc6e3db30d0",
+		"NumAuthors" : 57,
+		"ProjectID" : "hashicorp/go-version",
+		"NumStars" : 737
+	},
+	{
+		"_id" : "62908e9a8b2efbc6e3dbd610",
+		"NumAuthors" : 11,
+		"ProjectID" : "james-bowman/nlp",
+		"NumStars" : 287
+	},
+	{
+		"_id" : "62908ee28b2efbc6e3de46d9",
+		"NumAuthors" : 110,
+		"ProjectID" : "testcontainers/testcontainers-go",
+		"NumStars" : 588
+	},
+	{
+		"_id" : "62908ee58b2efbc6e3de6090",
+		"NumAuthors" : 17,
+		"ProjectID" : "ulikunitz/xz",
+		"NumStars" : 318
+	},
+	{
+		"_id" : "62908f718b2efbc6e3e2df62",
+		"NumAuthors" : 16,
+		"ProjectID" : "Hekmon/TransmissionRPC",
+		"NumStars" : 27
+	},
+	{
+		"_id" : "62908fa78b2efbc6e3e4dd00",
+		"NumAuthors" : 56,
+		"ProjectID" : "dustin/go-coap",
+		"NumStars" : 318
+	},
+	{
+		"_id" : "62908fad8b2efbc6e3e523ed",
+		"NumAuthors" : 12,
+		"ProjectID" : "yutopp/go-rtmp",
+		"NumStars" : 148
+	},
+	{
+		"_id" : "62908fb58b2efbc6e3e54717",
+		"NumAuthors" : 20,
+		"ProjectID" : "yanzay/tbot",
+		"NumStars" : 298
+	},
+	{
+		"_id" : "629090038b2efbc6e3e81c51",
+		"NumAuthors" : 39,
+		"ProjectID" : "sevlyar/go-daemon",
+		"NumStars" : 1244
+	},
+	{
+		"_id" : "629090508b2efbc6e3ea5301",
+		"NumAuthors" : 25,
+		"ProjectID" : "qntfy/kazaam",
+		"NumStars" : 155
+	},
+	{
+		"_id" : "629090848b2efbc6e3ec6bb0",
+		"NumAuthors" : 31,
+		"ProjectID" : "fnproject/fdk-go",
+		"NumStars" : 22
+	},
+	{
+		"_id" : "629090e28b2efbc6e3ef8234",
+		"NumAuthors" : 21,
+		"ProjectID" : "esimov/caire",
+		"NumStars" : 9567
+	},
+	{
+		"_id" : "629091158b2efbc6e3f14c92",
+		"NumAuthors" : 54,
+		"ProjectID" : "looplab/fsm",
+		"NumStars" : 1117
+	},
+	{
+		"_id" : "629091328b2efbc6e3f21470",
+		"NumAuthors" : 167,
+		"ProjectID" : "go-gl-legacy/gl",
+		"NumStars" : 1244
+	},
+	{
+		"_id" : "6290916a8b2efbc6e3f40cde",
+		"NumAuthors" : 20,
+		"ProjectID" : "beardnick/goneovim",
+		"NumStars" : 2784
+	},
+	{
+		"_id" : "629091d28b2efbc6e3f78ae1",
+		"NumAuthors" : 19,
+		"ProjectID" : "huandu/go-sqlbuilder",
+		"NumStars" : 432
+	},
+	{
+		"_id" : "629092258b2efbc6e3fa5b60",
+		"NumAuthors" : 59,
+		"ProjectID" : "falcosecurity/falcosidekick",
+		"NumStars" : 106
+	},
+	{
+		"_id" : "629092968b2efbc6e3fe08ba",
+		"NumAuthors" : 153,
+		"ProjectID" : "ahmdrz/goinsta",
+		"NumStars" : 647
+	},
+	{
+		"_id" : "629092d18b2efbc6e300183c",
+		"NumAuthors" : 30,
+		"ProjectID" : "parallaxsecond/parsec",
+		"NumStars" : 152
+	},
+	{
+		"_id" : "6290931d8b2efbc6e3023f23",
+		"NumAuthors" : 21,
+		"ProjectID" : "eduncan911/podcast",
+		"NumStars" : 94
+	},
+	{
+		"_id" : "629093b18b2efbc6e307c5e8",
+		"NumAuthors" : 13,
+		"ProjectID" : "8treenet/freedom",
+		"NumStars" : 1014
+	},
+	{
+		"_id" : "629093b88b2efbc6e3081223",
+		"NumAuthors" : 11,
+		"ProjectID" : "doron-cohen/antidot",
+		"NumStars" : 88
+	},
+	{
+		"_id" : "629093c18b2efbc6e30867db",
+		"NumAuthors" : 116,
+		"ProjectID" : "mediocregopher/radix",
+		"NumStars" : 1299
+	},
+	{
+		"_id" : "629094688b2efbc6e30ca7a3",
+		"NumAuthors" : 13,
+		"ProjectID" : "kyma-incubator/octopus",
+		"NumStars" : 92
+	}
+]

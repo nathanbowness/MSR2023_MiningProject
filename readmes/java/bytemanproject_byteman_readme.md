@@ -1,0 +1,88 @@
+Byteman README
+--------------
+
+Byteman supports injection of side effects into Java programs for the
+purpose of tracing and testing application behaviour.
+
+Installation
+------------
+
+When you unzip the downloaded release it will explode to a single
+target install directory containing everything you need to
+use byteman. You should set environment variable BYTEMAN_HOME so
+that it points to this target install directory.
+
+The install directory for the binary release contains the following
+subdirectories
+
+  bin -- contains Unix scripts to simplify: using Byteman (bmjava.sh);
+      typechecking Byteman rule scripts (bytemancheck.sh);
+      communicating with the Byteman agent listener (bmsubmit.sh);
+      and installing the agent into a running JVM (bminstall.sh).
+      You will need to change the permissions of these files
+      in order to execute them directly from the command line.
+
+  docs -- contains the Byteman Programmer's guide and license
+      information for Byteman plus the third-party software it uses
+
+  lib -- contains the Byteman agent and rule engine (byteman.jar);
+      the subset of this code needed to compile/run the submit
+      client (byteman-submit.jar); the subset of this code needed
+      to compile/run the install client (byteman-install.jar).
+
+  sample/scripts -- contains example rule scripts showing how to
+      use Byteman
+
+  sample/lib -- contains helper code for the sample scripts
+
+   contrib -- contains software contributed by other Byteman users
+       see the README in each contrib subdirectory for details of
+       how to use the package
+
+The install directory for the full source release contains all the
+above directories plus the following extra directories
+
+  sources -- contains source code jars for each of the component
+      jars in lib, sample/lib, contrib/dtest and contrib/bmunit
+
+  javadoc -- contains javadoc format documentation jars for each of
+      the component jars in lib, sample/lib, contrib/dtest and
+      contrib/bmunit
+
+Using Byteman
+-------------
+Access to the Byteman project downloads, documentation, user and
+developer forums and source code is available from the project
+home page at http://www.jboss.org/byteman
+
+Please consult the Programmer's Guide for details of how Byteman
+operates, how to write Byteman rule scripts and how to run a Java
+program with the Byteman agent in place.
+
+Take a look at the sample scripts directory to see some examples of
+how you can use Byteman to trace application and JVM execution or
+to gather and present statistics detailing the operation of JVM
+or application code.
+(n.b. these examples still need extending to show how to use Byteman
+for fault injection based testing).
+
+Compiling Byteman
+-----------------
+
+To compile source code use Maven command `mvn clean install`.
+Byteman will be compiled, the command generates documentation
+and distribution artifacts can be found at `download/target`.
+
+To speed-up compilation you can skip tests and generating
+the documentation with
+`mvn clean install -DskipITs -DskipTests -DskipDocs`.
+
+Copyright
+---------
+See the copyright file in the docs directory for details of the open
+source license under which this code is released. Note that this code
+employs the ObjectWeb ASM package to do bytecode manipulation and the
+JFlex and JavaCUP tokeniser and parser generators to generate and
+provide runtime support for the rule parser which are also released
+under open source licenses.
+

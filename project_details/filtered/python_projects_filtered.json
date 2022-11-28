@@ -3122,7 +3122,7 @@
 	{
 		"_id" : "62901db68b2efbc6e358d30a",
 		"NumAuthors" : 31,
-		"ProjectID" : "tacnetsol_ida",
+		"ProjectID" : "tacnetsol/ida",
 		"NumStars" : 933
 	},
 	{
@@ -5096,7 +5096,7 @@
 	{
 		"_id" : "629026b38b2efbc6e3d28cca",
 		"NumAuthors" : 26,
-		"ProjectID" : "kjd_idna",
+		"ProjectID" : "kjd/idna",
 		"NumStars" : 125
 	},
 	{
@@ -25928,7 +25928,7 @@
 	{
 		"_id" : "629086c08b2efbc6e398a785",
 		"NumAuthors" : 86,
-		"ProjectID" : "pre-commit_identify",
+		"ProjectID" : "pre-commit/identify",
 		"NumStars" : 85
 	},
 	{

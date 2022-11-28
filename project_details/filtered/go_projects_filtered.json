@@ -62,7 +62,7 @@
 	{
 		"_id" : "629018cf8b2efbc6e3adf027",
 		"NumAuthors" : 15,
-		"ProjectID" : "bogem_id3v2",
+		"ProjectID" : "bogem/id3v2",
 		"NumStars" : 158
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"_id" : "62901b778b2efbc6e331ae72",
 		"NumAuthors" : 30,
-		"ProjectID" : "mikkyang_id3-go",
+		"ProjectID" : "mikkyang/id3-go",
 		"NumStars" : 178
 	},
 	{

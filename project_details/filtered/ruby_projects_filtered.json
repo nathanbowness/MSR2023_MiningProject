@@ -2948,7 +2948,7 @@
 	{
 		"_id" : "6290445a8b2efbc6e36082b7",
 		"NumAuthors" : 151,
-		"ProjectID" : "Shopify_identity_cache",
+		"ProjectID" : "Shopify/identity_cache",
 		"NumStars" : 1006
 	},
 	{
@@ -3014,7 +3014,7 @@
 	{
 		"_id" : "6290459f8b2efbc6e3722d37",
 		"NumAuthors" : 66,
-		"ProjectID" : "pivotal-legacy_pivotal_ide_prefs",
+		"ProjectID" : "pivotal-legacy/pivotal_ide_prefs",
 		"NumStars" : 76
 	},
 	{

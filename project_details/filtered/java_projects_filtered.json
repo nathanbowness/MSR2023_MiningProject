@@ -1772,7 +1772,7 @@
 	{
 		"_id" : "62901f698b2efbc6e374a81e",
 		"NumAuthors" : 13,
-		"ProjectID" : "Haehnchen_idea-php-annotation-plugin",
+		"ProjectID" : "Haehnchen/idea-php-annotation-plugin",
 		"NumStars" : 187
 	},
 	{
@@ -3488,7 +3488,7 @@
 	{
 		"_id" : "62902db68b2efbc6e32c5304",
 		"NumAuthors" : 34,
-		"ProjectID" : "nnmatveev_idea-plugin-protobuf",
+		"ProjectID" : "nnmatveev/idea-plugin-protobuf",
 		"NumStars" : 105
 	},
 	{

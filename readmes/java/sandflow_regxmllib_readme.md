@@ -1,0 +1,254 @@
+ __   ___  __                        __  
+|__) |__  / _` \_/ |\/| |    |    | |__) 
+|  \ |___ \__> / \ |  | |___ |___ | |__) 
+
+
+INTRODUCTION
+============
+
+regxmllib is a collection of tools and libraries for the creation of 
+RegXML (SMPTE ST 2001-1) representations of MXF header metadata
+(SMPTE ST 377-1). A RegXML Fragment example can be found at [1]
+
+[1] src/test/resources/reference-files
+
+Two implementations of regxmllib are provided:
+
+* regxmllibj, which is implemented in pure Java; and
+* regxmllibc, which is implemented in C++03.
+
+
+KNOWN ISSUES AND LIMITATIONS
+============================
+
+regxmllib relies on SMPTE Metadata Registers that conform to SMPTE ST 335, 
+ST 395, ST 400, ST 2003. These registers are published at [1].
+
+[1] https://smpte-ra.org/smpte-metadata-registry
+
+regxmllib deviates from ST 2001-1:2013 in a few narrow instances. Such deviations 
+are noted in the source code and are expected to be submitted for consideration at 
+the next revision of ST 2001-1. In particular:
+  
+* no baseline metadictionary is used, instead one extension metadictionary per
+  namespace is used
+
+Bugs are tracked at [2]
+
+[2] https://github.com/sandflow/regxmllib/issues
+
+
+REGXMLLIBJ
+==========
+
+
+Prerequisites
+-------------
+
+Java 8 language and SDK
+
+Maven
+
+(recommended) Git
+
+(recommended) SMPTE Metadata Registers (Types, Elements, Groups and Labels) 
+
+
+Quick Start
+-----------
+
+The following outputs to path PATH_TO_FRAGMENT an XML representation
+of the header metadata of the MXF file at path PATH_TO_MXF_FILE 
+
+* build the 'jar' target using Maven 'package' goal
+
+* choose one of the following:
+
+    * OPTION 1
+
+        * retrieve the four SMPTE Metadata Registers (see [1] above)
+    
+        * build the metadictionaries from the SMPTE registers
+
+            java -cp <PATH_TO_JAR> com.sandflow.smpte.tools.XMLRegistersToDict -e <PATH_TO_ELEMENTS_REG>
+            -l <PATH_TO_LABELS_REG> -g <PATH_TO_GROUPS_REG> -t <PATH_TO_TYPES_REG> PATH_TO_DICT_DIR
+                
+    * OPTION 2
+    
+        * retrieve metadictionaries from [3]
+        
+            [3] https://github.com/sandflow/IMF/tree/master/dict
+  
+* generate the RegXML fragment
+    
+    run java -cp <PATH_TO_JAR> com.sandflow.smpte.tools.RegXMLDump -all -d <PATH_TO_DICT1> <PATH_TO_DICT2> ...
+    -i <PATH_TO_MXF_FILE> > <PATH_TO_FRAGMENT>
+
+* (optional) generate XSDs for RegXML Fragments
+
+    run java -cp <PATH_TO_JAR> com.sandflow.smpte.tools.GenerateDictionaryXMLSchema -d <PATH_TO_DICT1> <PATH_TO_DICT2> ...
+    -o <PATH_TO_OUTPUT_DIR>
+
+* (optional) generate XSDs for SMPTE registers
+
+    run java -cp <PATH_TO_JAR> com.sandflow.smpte.tools.GenerateXMLSchemaDocuments -cp <CLASS_PATH_TO_REGISTER_MODEL>
+    -d  <PATH_TO_OUTPUT_DIR>
+
+    where <CLASS_PATH_TO_REGISTER_MODEL> is equal to com.sandflow.smpte.register.catsup.TypesRegisterModel, etc.
+
+
+Architecture
+------------
+
+At the heart of regxmllib is the FragmentBuilder.fragmentFromTriplet() method
+that creates an XML fragment from a KLV group given a
+a RegXML metadictionary and a collection of KLV groups from which strong
+references are resolved. The rules engine implemented in 
+FragmentBuilder.fragmentFromTriplet() is intended to follow the rules specified
+in ST 2001-1 as closely as possible. A sister method, XMLSchemaBuilder.fromDictionary(),
+creates a matching XML Schema that can be used to validate RegXML fragments.
+
+Metadictionaries can be imported and exported from XML documents that conform
+to the schema specified in SMPTE ST 2001-1. They can also be created
+from SMPTE Metadata Registers published in XML form.
+
+regxmllib includes a minimal MXF and KLV parser library.
+
+
+Packages
+--------
+
+com.sandflow.smpte.klv : Classes for processing SMPTE KLV triplets (ST 336)
+    
+com.sandflow.smpte.mxf: Classes for processing SMPTE MXF structures (ST 377-1)
+
+com.sandflow.smpte.register: Classes for processing SMPTE metadata registers
+    (ST 335, ST 395, ST 400, ST 2003)
+    
+com.sandfow.smpte.regxml: Classes for managing RegXML metadictionaries and
+    creating RegXML representations of MXF structures
+    
+com.sandfow.smpte.tools: Application-level tools
+    
+com.sandfow.smpte.util: Utilities classes
+
+
+Tools
+-----
+
+RegXMLDump: dumps either the first essence descriptor or the entire header
+            metadata of an MXF file as a RegXML structure
+            
+XMLRegistersToDict: converts XML-based SMPTE metadata registers to a RegXML metadictionaries
+
+GenerateXMLSchemaDocuments: generates XSDs for the SMPTE metadata registers
+                            
+GenerateDictionaryXMLSchema: generate XSDs for RegXML Fragments from the RegXML metadictionaries
+    
+
+Unit Test
+---------
+
+Unit testing is performed by generating RegXML fragments from sample files located
+at [1] and registers located at [2]. The resulting RegXML fragments are compared
+to reference RegXML fragments located at [3].
+
+[1] src/test/mxf-files
+[2] src/test/registers
+[3] src/test/regxml-files 
+
+Reference RegXML fragments can regenerated by running the package goal with the build-reference-test-files profile:
+
+    mvn package -Pbuild-reference-files
+    
+
+Maven Artifacts
+---------------
+
+* GroupId        com.sandflow
+* ArtifactId     regxmllib
+
+Snapshots are deployed at https://oss.sonatype.org/content/repositories/snapshots/
+
+Releases are deployed at the central repository
+
+
+REGXMLLIBC
+==========
+
+Prerequisites
+-------------
+
+C++03 toolchain
+
+Metadictionaries generated by regxmllibj (see _Building Metadictionaries_ above)
+
+Xerces-C++ Version 3.1.4 (or above) [1]
+
+(recommended) CMake
+
+[1] https://xerces.apache.org/xerces-c/
+    
+
+Architecture
+------------
+
+regxmllibc generally follows the architecture and idioms of regxmllibj.
+
+Applications will typically call FragmentBuilder::fromTriplet() or
+MXFFragmentBuilder::fromInputStream(), and the unit test at [1] provides an example.
+
+[1] src/test/cpp/com/sandflow/smpte/dict/MetaDictionaryTest.cpp
+
+regxmllibc does not however support the conversion of the SMPTE Metadata Registers to
+RegXML metadictionaries, and instead relies on the metadictionaries generated by
+regxmllibj (see _Building Metadictionaries_ above).
+
+
+Unit Test
+---------
+
+As with regxmllibj, unit testing is performed by generating RegXML fragments from sample files located
+at [1] and reference metadictionaries located at [2]. The resulting RegXML fragments are compared
+to reference RegXML fragments located at [3].
+
+[1] src/test/mxf-files
+[2] src/test/regxml-dicts
+[3] src/test/regxml-files 
+
+
+DIRECTORIES AND NOTABLE FILES
+=============================
+
+build.xml                   Helper script (Ant)
+
+pom.xml                     Maven POM file
+
+CMakeLists.txt              CMake build file
+
+target                      Output of the Maven build process, including the JAR
+                                        
+src/java                    regxmllibj codebase
+
+src/cpp                     regxmllibc codebase
+
+src/main/config/repoversion.properties
+                            Template Java properties file used to host the 
+                            a unique source code version generated using
+                            git by the build system
+
+src/main/resources/reg.xsd
+                            Common XML Schema definitions used when generating
+                            XML Schemas for RegXML Fragments
+                                        
+src/test/resources/regxml-files
+                            Reference RegXML fragment used for unit testing
+
+src/test/resources/registers
+                            Reference SMPTE registers used for unit testing
+
+src/test/resources/mxf-files
+                            Sample MXF files used for unit testing  
+
+src/test/resources/regxml-dicts
+                            Reference metadictionaries used for unit testing                                          

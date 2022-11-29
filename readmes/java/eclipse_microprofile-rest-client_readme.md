@@ -1,0 +1,87 @@
+//
+// Copyright (c) 2017 Contributors to the Eclipse Foundation
+//
+// See the NOTICE file(s) distributed with this work for additional
+// information regarding copyright ownership.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+//
+image:https://badges.gitter.im/eclipse/microprofile-rest-client.svg[link="https://gitter.im/eclipse/microprofile-rest-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
+# Rest Client for MicroProfile
+
+== Rationale
+
+The MicroProfile Rest Client provides a type-safe approach to invoke RESTful services over HTTP.  As much as possible the
+MP Rest Client attempts to use link:https://jakarta.ee/specifications/restful-ws/2.1/[Jakarta RESTful Web Services 2.1] APIs for consistency and easier re-use.
+
+== Example
+
+Here is an example - let's say that you want to use a movie review service.  The remote service might provide APIs to view
+users' reviews and allow you to post and modify your own reviews.  You might start with an interface to represent the remote
+service like this:
+```java
+ @Path("/movies")
+ public interface MovieReviewService {
+     @GET
+     Set<Movie> getAllMovies();
+
+     @GET
+     @Path("/{movieId}/reviews")
+     Set<Review> getAllReviews( @PathParam("movieId") String movieId );
+
+     @GET
+     @Path("/{movieId}/reviews/{reviewId}")
+     Review getReview( @PathParam("movieId") String movieId, @PathParam("reviewId") String reviewId );
+
+     @POST
+     @Path("/{movieId}/reviews")
+     String submitReview( @PathParam("movieId") String movieId, Review review );
+
+     @PUT
+     @Path("/{movieId}/reviews/{reviewId}")
+     Review updateReview( @PathParam("movieId") String movieId, @PathParam("reviewId") String reviewId, Review review );
+ }
+```
+
+Now we can use this interface as a means to invoke the actual remote review service like this:
+```java
+URI apiUri = new URI("http://localhost:9080/movieReviewService");
+MovieReviewService reviewSvc = RestClientBuilder.newBuilder()
+            .baseUri(apiUri)
+            .build(MovieReviewService.class);
+Review review = new Review(3 /* stars */, "This was a delightful comedy, but not terribly realistic.");
+reviewSvc.submitReview( movieId, review );
+```
+
+This allows for a much more natural coding style, and the underlying MicroProfile implementation handles the communication
+between the client and service - it makes the HTTP connection, serializes the Review object to JSON/XML/etc. so that the
+remote service can process it.
+
+
+== Implementations
+
+This project only provides the specified API, a TCK and documentation. It does not provide an implementation. Various vendors are
+involved in this project and will provide their own implementation of this specification.
+
+The following Implementations are available
+
+* Apache CXF (http://cxf.apache.org/download.html)
+* Open Liberty (https://openliberty.io/blog/2018/01/31/mpRestClient.html)
+* Thorntail (https://github.com/thorntail/thorntail/tree/master/fractions/microprofile/microprofile-restclient)
+* RESTEasy (https://resteasy.github.io)
+* Jersey (https://github.com/eclipse-ee4j/jersey)
+
+== Contributing
+
+Do you want to contribute to this project? link:CONTRIBUTING.adoc[Find out how you can help here].

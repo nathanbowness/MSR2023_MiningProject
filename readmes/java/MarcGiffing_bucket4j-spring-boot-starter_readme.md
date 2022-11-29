@@ -1,0 +1,342 @@
+
+= Spring Boot Starter for Bucket4j
+
+https://github.com/vladimir-bukhtoyarov/bucket4j
+
+Project version overview:
+
+* 0.7.0 - Bucket4j 7.5.0 - Spring Boot 2.7.x
+* 0.6.1 - Bucket4j 7.0.0 - Spring Boot 2.6.x
+* 0.5.0 - Bucket4j 7.0.0 - Spring Boot 2.6.1
+* 0.5.0 - Bucket4j 7.0.0 - Spring Boot 2.6.1 
+* 0.4.1 - Bucket4j 7.0.0 - Spring Boot 2.4.1 
+* 0.4.0 - Bucket4j 6.2.0 - Spring Boot 2.4.1 
+
+
+*Examples:*
+
+* https://github.com/MarcGiffing/bucket4j-spring-boot-starter/tree/master/examples/ehcache[Ehcache]
+* https://github.com/MarcGiffing/bucket4j-spring-boot-starter/tree/master/examples/hazelcast[Hazelcast]
+* https://github.com/MarcGiffing/bucket4j-spring-boot-starter/tree/master/examples/caffeine[Caffeine]
+* https://github.com/MarcGiffing/bucket4j-spring-boot-starter/tree/master/examples/webflux[Webflux (Async)]
+* https://github.com/MarcGiffing/bucket4j-spring-boot-starter/tree/master/examples/gateway[Spring Cloud Gateway (Async)]
+
+= Contents
+
+* <<introduction>>
+* <<getting_started>>
+* <<bucket4j_complete_properties>>
+* <<monitoring>>
+* <<configuration_examples>>
+
+
+[[introduction]]
+== Introduction
+
+This project is a http://projects.spring.io/spring-boot/[Spring Boot Starter] for Bucket4j.
+It can be used limit the rate of access to your REST APIs.
+
+* Prevention of DoS Attacks, brute-force logins attempts
+* Request throttling for specific regions, unauthenticated users, authenticated users, not paying users.
+
+The benefit of this project is the configuration of Bucket4j via Spring Boots *properties* or *yaml* files. You don't
+have to write a single line of code.
+.
+
+[[getting_started]]
+== Getting started
+
+To use the rate limit in your project you have to add the Bucket4j Spring Boot Starter dependency in 
+your project. Additionally you need to add a https://www.jcp.org/en/jsr/detail?id=107[JSR 107] provider like Ehcache or Hazelcast which will be auto configured with the https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-caching.html[Spring Boot Starter Cache].
+
+[source, xml]
+----
+<dependency>
+	<groupId>com.giffing.bucket4j.spring.boot.starter</groupId>
+	<artifactId>bucket4j-spring-boot-starter</artifactId>
+</dependency>
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-cache</artifactId>
+</dependency>
+<dependency>
+	<groupId>org.ehcache</groupId>
+	<artifactId>ehcache</artifactId>
+</dependency>
+----
+
+> Don't forget to enable the caching feature by adding the @EnableCaching annotation to any of the configuration classes.
+
+The configuration can be done in the application.properties / application.yml. 
+The following configuration limits all requests independently from the user. It allows a maximum of 5 requests within 10 seconds independently from the user.
+
+
+[source,yml]
+----
+bucket4j:
+  enabled: true
+  filters:
+  - cache-name: buckets
+    url: .*
+    rate-limits:
+    - bandwidths:
+      - capacity: 5
+        time: 10
+        unit: seconds
+----
+
+For Ehcache 3 you also need a *ehcache.xml* which can be placed in the classpath.
+The configured cache name *buckets* must be defined in the configuration file.   
+
+[source,yml]
+----
+spring:
+  cache:
+    jcache:
+      config: classpath:ehcache.xml
+----
+
+[source,xml]
+----
+<config xmlns="...">
+	<cache alias="buckets">
+		<expiry>
+			<ttl unit="seconds">3600</ttl>
+		</expiry>
+		<heap unit="entries">1000000</heap>
+	</cache>
+
+</config>
+----
+
+[[bucket4j_complete_properties]]
+== Bucket4j properties
+
+
+[source, properties]
+----
+bucket4j.enabled=true # enable/disable bucket4j support
+bucket4j.cache-to-use= # If you use multiple caching implementation in your project and you want to choose a specific one you can set the cache here (jcache, hazelcast, ignite, redis)
+bucket4j.filters[0].cache-name=buckets # the name of the cache key
+bucket4j.filters[0].filter-method=servlet # [servlet,webflux,gateway]
+bucket4j.filters[0].filter-order= # Per default the lowest integer plus 10. Set it to a number higher then zero to execute it after e.g. Spring Security.  
+bucket4j.filters[0].http-content-type=application/json
+bucket4j.filters[0].http-response-body={ "message": "Too many requests" } # the json response which should be added to the body
+bucket4j.filters[0].http-response-headers.<MY_CUSTOM_HEADER>=MY_CUSTOM_HEADER_VALUE # You can add any numbers of custom headers
+bucket4j.filters[0].hide-http-response-headers=true # Hides response headers like x-rate-limit-remaining or x-rate-limit-retry-after-seconds on rate limiting
+bucket4j.filters[0].url=.* # a regular expression
+bucket4j.filters[0].metrics.enabled=true
+bucket4j.filters[0].metrics.types=CONSUMED_COUNTER,REJECTED_COUNTER # (optional) if your not interested in the consumed counter you can specify only the rejected counter 
+bucket4j.filters[0].metrics.tags[0].key=IP
+bucket4j.filters[0].metrics.tags[0].expression=getRemoteAddr()
+bucket4j.filters[0].metrics.tags[0].types=REJECTED_COUNTER # (optionial) this tag should for example only be applied for the rejected counter
+bucket4j.filters[0].metrics.tags[1].key=URL
+bucket4j.filters[0].metrics.tags[1].expression=getRequestURI()
+bucket4j.filters[0].metrics.tags[2].key=USERNAME
+bucket4j.filters[0].metrics.tags[2].expression=@securityService.username() != null ? @securityService.username() : 'anonym'
+bucket4j.filters[0].strategy=first # [first, all] if multiple rate limits configured the 'first' strategy stops the processing after the first matching 
+bucket4j.filters[0].rate-limits[0].expression=getRemoteAddr()
+bucket4j.filters[0].rate-limits[0].execute-condition=1==1 # an optional SpEl expression to decide to execute the rate limit or not
+bucket4j.filters[0].rate-limits[0].skip-condition=1==1 # an optional SpEl expression to skip the rate limit
+bucket4j.filters[0].rate-limits[0].bandwidths[0].capacity=10
+bucket4j.filters[0].rate-limits[0].bandwidths[0].time=1
+bucket4j.filters[0].rate-limits[0].bandwidths[0].unit=minutes
+bucket4j.filters[0].rate-limits[0].bandwidths[0].fixed-refill-interval=0
+bucket4j.filters[0].rate-limits[0].bandwidths[0].fixed-refill-interval-unit=minutes
+
+# Optional default metric tags for all filters
+bucket4j.default-metric-tags[0].key=IP
+bucket4j.default-metric-tags[0].expression=getRemoteAddr()
+bucket4j.default-metric-tags[0].types=REJECTED_COUNTER
+
+# Hide HTTP response headers
+
+
+----
+
+==== Expression
+
+The expression based filter type provides the most flexible one and uses the https://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html[Spring Expression Language] (SpEL). https://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html#expressions-spel-compilation[The expression compiles to a Java class which will be used].
+It provides an easy way to configure the throttling in different environments without writing one line of code.
+
+Depending on the filter method [servlet,webflux,gateway] different SpEL root objects object can be used in the expression so that you have a direct access to the method of these request objects:
+
+* servlet: javax.servlet.http.HttpServletRequest (e.g. getRemoteAddr() or getRequestURI())
+* webflux: org.springframework.http.server.reactive.ServerHttpRequest
+* gateway: org.springframework.http.server.reactive.ServerHttpRequest
+
+*Limiting based on IP-Address*:
+[source]
+----
+getRemoteAddress()
+----
+
+
+*Limiting based on Username - If not logged in use IP-Address*:
+[source]
+----
+@securityService.username()?: getRemoteAddr()
+----
+[source,java]
+----
+/**
+* You can define custom beans like the SecurityService which can be used in the SpEl expressions.
+**/
+@Service
+public class SecurityService {
+
+	public String username() {
+		String name = SecurityContextHolder.getContext().getAuthentication().getName();
+		if(name == "anonymousUser") {
+			return null;
+		}
+		return name;
+	}
+	
+}
+----
+
+=== Filter strategy
+
+The filter strategy defines how the execution of the rate limits will be performed.
+
+[source, properties]
+----
+bucket4j.filters[0].strategy=first # [first, all]
+----
+
+==== first
+
+The *first* is the default strategy. This the default strategy which only executes one rate limit configuration.
+
+==== all
+
+The *all* strategy executes all rate limit independently. 
+
+[[monitoring]]
+== Monitoring - Spring Boot 2 Actuator
+
+Spring Boot 2 ships with a great support for collecting metrics. This project automatically provides metric information about the consumed and rejected buckets. You can extend these information with configurable https://micrometer.io/docs/concepts#_tag_naming[custom tags] like the username or the IP-Address which can then be evaluated in a monitoring system like prometheus/grafana.
+
+[source,yml]
+----
+bucket4j:
+  enabled: true
+  filters:
+  - cache-name: buckets   
+    filter-method: servlet
+    filter-order: 1
+    url: .*
+    metrics:
+      tags:
+        - key: IP
+          expression: getRemoteAddr()
+          types: REJECTED_COUNTER # for data privacy reasons the IP should only be collected on bucket rejections
+        - key: USERNAME
+          expression: "@securityService.username() != null ? @securityService.username() : 'anonym'"
+        - key: URL
+          expression: getRequestURI()
+    rate-limits:
+      - execute-condition:  "@securityService.username() == 'admin'"
+        expression: "@securityService.username()?: getRemoteAddr()"
+        bandwidths:
+        - capacity: 30
+          time: 1
+          unit: minutes
+----
+
+
+[[configuration_examples]]
+== Configuration via properties
+
+Simple configuration to allow a maximum of 5 requests within 10 seconds independently from the user.
+
+[source,yml]
+----
+bucket4j:
+  enabled: true
+  filters: 
+  - cache-name: buckets 
+    url: .*
+    rate-limits:
+      - bandwidths: 
+        - capacity: 5 
+          time: 10
+          unit: seconds
+----
+
+Conditional filtering depending of anonymous or logged in user. Because the *bucket4j.filters[0].strategy* is *first*
+you havn't to check in the second rate-limit that the user is logged in. Only the first one is executed.
+
+[source,yml]
+----
+bucket4j:
+  enabled: true
+  filters:
+  - cache-name: buckets   
+    filter-method: servlet 
+    url: .*
+    rate-limits:
+      - execute-condition:  @securityService.notSignedIn() # only for not logged in users
+        expression: "getRemoteAddr()"
+        bandwidths:
+        - capacity: 10
+          time: 1
+          unit: minutes
+      - execute-condition: "@securityService.username() != 'admin'" # strategy is only evaluate first. so the user must be logged in and user is not admin 
+        expression: @securityService.username()
+        bandwidths:
+        - capacity: 1000
+          time: 1
+          unit: minutes
+      - execute-condition:  "@securityService.username() == 'admin'"  # user is admin
+        expression: @securityService.username()
+        bandwidths:
+        - capacity: 1000000000
+          time: 1
+          unit: minutes
+----
+
+Configuration of multiple independently filters (servlet|gateway|webflux filters) with specific rate limit configurations.
+
+[source,yml]
+----
+bucket4j:
+  enabled: true
+  filters: # each config entry creates one servlet filter or other filter
+  - cache-name: buckets # create new servlet filter with bucket4j configuration
+    url: /admin*
+    rate-limits:
+      bandwidths: # maximum of 5 requests within 10 seconds
+      - capacity: 5 
+        time: 10
+        unit: seconds
+  - cache-name: buckets 
+    url: /public*
+    rate-limits:
+      - expression: getRemoteAddress() # IP based filter
+        bandwidths: # maximum of 5 requests within 10 seconds
+        - capacity: 5 
+          time: 10
+          unit: seconds
+  - cache-name: buckets 
+    url: /users*
+    rate-limits:
+      - skip-condition: "@securityService.username() == 'admin'" # we don't check the rate limit if user is the admin user
+        expression: "@securityService.username()?: getRemoteAddr()" # use the username as key. if authenticated use the ip address 
+        bandwidths: 
+        - capacity: 100
+          time: 1
+          unit: seconds
+        - capacity: 10000
+          time: 1
+          unit: minutes    
+----
+
+== Programmatically define Cache Provider
+
+Instead of determine the Caching Provider by the Bucket4j Spring Boot Starter project you can implement the SynchCacheResolver 
+or the AsynchCacheResolver for reactive support  by yourself.
+
+Click https://github.com/MarcGiffing/bucket4j-spring-boot-starter/issues/90[here] is an Example for a SynchSyncCacheResolver 
+for Hazelcast Support without using JCache.

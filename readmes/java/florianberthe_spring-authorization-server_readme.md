@@ -1,0 +1,89 @@
+image::https://badges.gitter.im/Join%20Chat.svg[Gitter,link=https://gitter.im/spring-projects/spring-security?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
+image:https://github.com/spring-projects/spring-authorization-server/workflows/CI/badge.svg?branch=main["Build Status", link="https://github.com/spring-projects/spring-authorization-server/actions?query=workflow%3ACI"]
+
+= Spring Authorization Server
+
+The Spring Authorization Server project, led by the https://spring.io/projects/spring-security/[Spring Security] team, is focused on delivering https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-01#section-1.1[OAuth 2.1 Authorization Server] support to the Spring community.
+
+This project replaces the Authorization Server support provided by https://spring.io/projects/spring-security-oauth/[Spring Security OAuth].
+
+== Feature Planning
+This project uses https://www.zenhub.com/[ZenHub] to prioritize the feature roadmap and help organize the project plan.
+The project board can be accessed https://app.zenhub.com/workspaces/authorization-server-5e8f3182b5e8f5841bfc4902/board?repos=248032165[here].
+It is recommended to install the ZenHub https://www.zenhub.com/extension[browser extension] as it integrates natively within GitHub's user interface.
+
+The feature list can be viewed in the https://docs.spring.io/spring-authorization-server/docs/current/reference/html/overview.html#feature-list[reference documentation].
+
+== Support Policy
+The Spring Authorization Server project provides software support and is documented in its link:SUPPORT_POLICY.adoc[support policy].
+
+== Getting Started
+The first place to start is to read the https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-01[OAuth 2.1 Authorization Framework] to gain an in-depth understanding on how to build an Authorization Server.
+It is a critically important first step as the implementation must conform to the specification defined in the OAuth 2.1 Authorization Framework and the https://github.com/spring-projects/spring-authorization-server/wiki/OAuth-2.0-Specifications[related specifications].
+
+The second place to start is to become very familiar with the codebase in the following Spring Security modules:
+
+- https://github.com/spring-projects/spring-security/tree/main/oauth2/oauth2-core[OAuth 2.0 Core]
+- https://github.com/spring-projects/spring-security/tree/main/oauth2/oauth2-client[OAuth 2.0 Client]
+- https://github.com/spring-projects/spring-security/tree/main/oauth2/oauth2-resource-server[OAuth 2.0 Resource Server]
+- https://github.com/spring-projects/spring-security/tree/main/oauth2/oauth2-jose[OAuth 2.0 JOSE] (Javascript Object Signing and Encryption)
+
+A significant amount of effort was put into developing the https://spring.io/blog/2018/01/30/next-generation-oauth-2-0-support-with-spring-security[Next Generation OAuth 2.0 Support in Spring Security].
+The goal is to leverage all the knowledge learned thus far and apply the same to the development of Spring Authorization Server.
+
+Submitted work via pull requests should follow the same coding style/conventions and adopt the same or similar design patterns that have been established in Spring Security's OAuth 2.0 support.
+
+== Documentation
+Be sure to read the https://docs.spring.io/spring-security/reference[Spring Security Reference], as well as the https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html[OAuth 2.0 Reference], which describes the Client and Resource Server features available.
+
+Extensive JavaDoc for the Spring Security code is also available in the https://docs.spring.io/spring-security/site/docs/current/api/[Spring Security API Documentation].
+
+== Code of Conduct
+This project adheres to the Contributor Covenant link:CODE_OF_CONDUCT.adoc[code of conduct].
+By participating, you are expected to uphold this code. Please report unacceptable behavior to spring-code-of-conduct@pivotal.io.
+
+== Downloading Artifacts
+See https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Artifacts[downloading Spring artifacts] for Maven repository information.
+
+== Building from Source
+Spring Authorization Server uses a https://gradle.org[Gradle]-based build system.
+In the instructions below, https://vimeo.com/34436402[`./gradlew`] is invoked from the root of the source tree and serves as
+a cross-platform, self-contained bootstrap mechanism for the build.
+
+=== Prerequisites
+https://help.github.com/set-up-git-redirect[Git] and the https://www.oracle.com/technetwork/java/javase/downloads[JDK11 build].
+
+Be sure that your `JAVA_HOME` environment variable points to the `jdk11` folder extracted from the JDK download.
+
+=== Check out sources
+[indent=0]
+----
+git clone git@github.com:spring-projects/spring-authorization-server.git
+
+----
+
+=== Install all spring-\* jars into your local Maven cache
+[indent=0]
+----
+./gradlew install
+----
+
+=== Compile and test; build all jars, distribution zips, and docs
+[indent=0]
+----
+./gradlew build
+----
+
+Discover more commands with `./gradlew tasks`.
+
+== Getting Support
+Check out the https://stackoverflow.com/questions/tagged/spring-security[Spring Security tags on Stack Overflow].
+https://spring.io/services[Commercial support] is available too.
+
+== Contributing
+https://help.github.com/articles/creating-a-pull-request[Pull requests] are welcome; see the link:CONTRIBUTING.adoc[contributor guidelines] for details.
+
+== License
+Spring Authorization Server is Open Source software released under the
+https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].

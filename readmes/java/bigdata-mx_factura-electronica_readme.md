@@ -1,0 +1,4 @@
+factura-electronica (nuevo equipo en nuevo repositorio)
+====================
+
+Actualmente, una organización en la que trabajo tiene la necesidad de implementar, mantener y optimizar esta librería. Para poder cumplir con dicha tarea, era necesario que los miembros encargados de este proyecto pudieran realizar modificaciones con libertad. Debido a la falta de tiempo del creador original [elmer-garduno](https://github.com/elmer-garduno) no se han podido otorgar estos permisos, por lo que se optó por migrar esta librería a un nuevo repositorio. Este nuevo equipo tendrá como meta continuar con el mantenimiento constante de esta librería. Así mismo, se encargaran de realizar las actualizaciones correspondientes al repositorio central de Maven. Por este motivo, les pedimos que si tuviesen algún fork, issue y pull request pendiente en este proyecto, lo migren a este [nuevo repositorio](https://github.com/GrupoCorasa/factura-electronica)

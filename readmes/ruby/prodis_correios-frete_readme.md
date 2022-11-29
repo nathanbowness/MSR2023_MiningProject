@@ -1,0 +1,369 @@
+= correios-frete
+
+Cálculo de frete utilizando o Web Service dos Correios (http://www.correios.com.br/webservices).
+
+Os serviços de frete suportados são <b>PAC</b>, <b>SEDEX</b>, <b>SEDEX a Cobrar</b> (necessário informar o valor declarado), <b>SEDEX 10</b>, <b>SEDEX Hoje</b> e <b>e-SEDEX</b>. Para os serviços com contrato é necessário informar código de empresa e senha.
+
+http://prodis.net.br/images/ruby/2011/correios_logo.png
+
+
+== Instalando
+
+=== Gemfile
+  gem 'correios-frete'
+
+=== Instalação direta
+  $ gem install correios-frete
+
+
+== Usando
+
+  require 'correios-frete'
+
+  frete = Correios::Frete::Calculador.new :cep_origem => "04094-050",
+                                          :cep_destino => "90619-900",
+                                          :peso => 0.3,
+                                          :comprimento => 30,
+                                          :largura => 15,
+                                          :altura => 2
+
+Cálculo de vários serviços ao mesmo tempo:
+
+  servicos = frete.calcular :sedex, :pac
+
+  servicos[:sedex].nome          # => "SEDEX"
+  servicos[:sedex].descricao     # => "SEDEX sem contrato"
+  servicos[:sedex].valor         # => 26.2
+  servicos[:sedex].prazo_entrega # => 1
+
+  servicos[:pac].nome          # => "PAC"
+  servicos[:pac].descricao     # => "PAC sem contrato"
+  servicos[:pac].valor         # => 10.0
+  servicos[:pac].prazo_entrega # => 5
+
+Cálculo de um serviço de frete passando o serviço para parâmetro:
+
+  servico = frete.calcular :sedex
+  servico.nome          # => "SEDEX"
+  servico.descricao     # => "SEDEX sem contrato"
+  servico.valor         # => 26.2
+  servico.prazo_entrega # => 1
+
+  servico = frete.calcular :pac
+  servico.nome          # => "PAC"
+  servico.descricao     # => "PAC sem contrato"
+  servico.valor         # => 10.0
+  servico.prazo_entrega # => 5
+
+Cálculo de um serviço de frete chamando o método direto do serviço:
+
+  servico = frete.calcular_sedex
+  servico.nome          # => "SEDEX"
+  servico.descricao     # => "SEDEX sem contrato"
+  servico.valor         # => 26.2
+  servico.prazo_entrega # => 1
+
+  servico = frete.calcular_pac
+  servico.nome          # => "PAC"
+  servico.descricao     # => "PAC sem contrato"
+  servico.valor         # => 10.0
+  servico.prazo_entrega # => 5
+
+Verificação de sucesso e erro:
+
+  frete.altura = 100
+
+  servico = frete.calcular_sedex
+  servico.sucesso? # => false
+  servico.erro?    # => true
+  servico.msg_erro # => "A altura nao pode ser maior que o comprimento."
+
+Usando a interface pública em inglês:
+
+  servicos = frete.calculate :sedex, :pac
+
+  servico = frete.calculate_sedex
+  servico.success? # => true
+  servico.error?   # => false
+
+
+=== Usando pacotes
+
+Você pode "montar" um pacote com vários itens. Com o cálculo do volume dos itens adicionados, o pacote único será gerado em formato de cubo.
+
+  item1 = Correios::Frete::PacoteItem.new :peso => 0.3, :comprimento => 30, :largura => 15, :altura => 2
+  item2 = Correios::Frete::PacoteItem.new :peso => 0.7, :comprimento => 70, :largura => 25, :altura => 3
+
+  pacote = Correios::Frete::Pacote.new
+  pacote.adicionar_item(item1)
+  pacote.adicionar_item(item2)
+
+  pacote.peso        # => 1.0
+  pacote.comprimento # => 18.32138799447962
+  pacote.largura     # => 18.32138799447962
+  pacote.altura      # => 18.32138799447962
+  pacote.volume      # => 6150.0
+  pacote.formato     # => :caixa_pacote
+  pacote.itens.size  # => 2
+
+Caso alguma dimensão do pacote montado seja menor que o tamanho mínimo exigido pelos Correios, o valor mínimo será atribuído à dimensão.
+
+  item1 = Correios::Frete::PacoteItem.new :peso => 0.3, :comprimento => 30, :largura => 15, :altura => 2
+  item2 = Correios::Frete::PacoteItem.new :peso => 0.7, :comprimento => 40, :largura => 10, :altura => 3
+
+  pacote = Correios::Frete::Pacote.new
+  pacote.adicionar_item(item1)
+  pacote.adicionar_item(item2)
+
+  pacote.comprimento # => 16.0
+  pacote.largura     # => 12.80579164987494
+  pacote.altura      # => 12.80579164987494
+
+Montado o pacote, basta passá-lo pelo parâmetro <b>encomenda</b> no construtor de Correios::Frete::Calculador.
+
+  frete = Correios::Frete::Calculador.new :cep_origem => "04094-050",
+                                          :cep_destino => "90619-900",
+                                          :encomenda => pacote
+
+  servicos = frete.calcular :sedex, :pac
+
+  servicos[:sedex].valor         # => 29.2
+  servicos[:sedex].prazo_entrega # => 1
+
+  servicos[:pac].valor         # => 13.3
+  servicos[:pac].prazo_entrega # => 5
+
+<b>Observação:</b> Quando uma encomenda é fornecida ao calculador de frete, os parâmetros <b>peso</b>, <b>comprimento</b>, <b>largura</b>, <b>altura</b> e <b>formato</b> serão ignorados, sendo utilizados os valores da encomenda.
+
+Usando a interface pública em inglês:
+
+  item1 = Correios::Frete::PacoteItem.new :peso => 0.3, :comprimento => 30, :largura => 15, :altura => 2
+  item2 = Correios::Frete::PacoteItem.new :peso => 0.7, :comprimento => 70, :largura => 25, :altura => 3
+
+  pacote = Correios::Frete::Pacote.new
+  pacote.add_item(item1)
+  pacote.add_item(item2)
+  pacote.items.size # => 2
+
+
+== Configurações
+
+=== Timeout
+
+Por padrão, o tempo de espera de resposta (timeout) para uma requisição ao Web Service dos Correios é de <b>10 segundos</b>. Após isso, se o Web Service dos Correios não responder, uma exceção do tipo <b>Timeout::Error</b> será lançada.
+Você pode configurar esse tempo de espera usando o módulo <b>Correios::Frete</b>.
+
+  Correios::Frete.configure do |config|
+    config.request_timeout = 3  # Configura o tempo de espera para 3 segundos
+  end
+
+
+=== Log
+
+Por padrão, cada chamada ao Web Service dos Correios é logada em STDOUT, com nível de log <b>:info</b>, usando a gem {LogMe}[http://github.com/prodis/log-me].
+
+Exemplo de log:
+  I, [2011-10-01T00:26:16.864990 #5631]  INFO -- : Correios-Frete Request:
+  http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?sCepOrigem=04094-050&sCepDestino=90619-900&nVlPeso=0.3&nVlComprimento=30&nVlAltura=2&nVlLargura=15&nVlDiametro=0.0&nCdFormato=1&sCdMaoPropria=N&sCdAvisoRecebimento=N&nVlValorDeclarado=0,00&nCdServico=04510&nCdEmpresa=&sDsSenha=&StrRetorno=xml
+
+  I, [2011-10-01T00:26:17.121822 #5631]  INFO -- : Correios-Frete Response:
+  HTTP/1.1 200 OK
+  <?xml version="1.0" encoding="ISO-8859-1" ?>
+  <Servicos><cServico><Codigo>04510</Codigo><Valor>10,00</Valor><PrazoEntrega>5</PrazoEntrega><ValorMaoPropria>0,00</ValorMaoPropria><ValorAvisoRecebimento>0,00</ValorAvisoRecebimento><ValorValorDeclarado>0,00</ValorValorDeclarado><EntregaDomiciliar>S</EntregaDomiciliar><EntregaSabado>N</EntregaSabado><Erro>0</Erro><MsgErro></MsgErro></cServico></Servicos>
+
+Se você configurar o nível de log como <b>:debug</b>, serão logados também todos os cabeçalhos HTTP da resposta:
+  D, [2011-10-01T00:27:50.597961 #5631] DEBUG -- : Correios-Frete Request:
+  http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?sCepOrigem=04094-050&sCepDestino=90619-900&nVlPeso=0.3&nVlComprimento=30&nVlAltura=2&nVlLargura=15&nVlDiametro=0.0&nCdFormato=1&sCdMaoPropria=N&sCdAvisoRecebimento=N&nVlValorDeclarado=0,00&nCdServico=04510&nCdEmpresa=&sDsSenha=&StrRetorno=xml
+
+  D, [2011-10-01T00:27:50.812046 #5631] DEBUG -- : Correios-Frete Response:
+  HTTP/1.1 200 OK
+  date: Sat, 01 Oct 2011 03:27:55 GMT
+  server: Microsoft-IIS/6.0
+  x-powered-by: ASP.NET
+  x-aspnet-version: 1.1.4322
+  set-cookie: ASP.NET_SessionId=cnoejn3dpioxapejc0c3np55; path=/
+  cache-control: private
+  expires: Sat, 01 Oct 2011 03:27:55 GMT
+  content-type: text/xml; charset=iso-8859-1
+  content-length: 401
+  <?xml version="1.0" encoding="ISO-8859-1" ?>
+  <Servicos><cServico><Codigo>04510</Codigo><Valor>10,00</Valor><PrazoEntrega>5</PrazoEntrega><ValorMaoPropria>0,00</ValorMaoPropria><ValorAvisoRecebimento>0,00</ValorAvisoRecebimento><ValorValorDeclarado>0,00</ValorValorDeclarado><EntregaDomiciliar>S</EntregaDomiciliar><EntregaSabado>N</EntregaSabado><Erro>0</Erro><MsgErro></MsgErro></cServico></Servicos>
+
+Para desabilitar o log, mudar o nível do log ou configurar um outro mecanismo de log, use o módulo <b>Correios::Frete</b>.
+
+  Correios::Frete.configure do |config|
+    config.log_enabled = false   # Desabilita o log
+    config.log_level = :debug    # Altera o nível do log
+    config.logger = Rails.logger # Usa o logger do Rails
+  end
+
+=== Exemplo de configuração
+
+  Correios::Frete.configure do |config|
+    config.log_level = :debug
+    config.logger = Rails.logger
+    config.request_timeout = 3
+  end
+
+== Informações adicionais
+
+=== Serviços suportados
+
+  :pac                         # 04510 - PAC sem contrato
+  :pac_com_contrato            # 41068 - PAC com contrato
+  :pac_com_contrato_2          # 04669 - PAC com contrato
+  :pac_gf                      # 41300 - PAC para grandes formatos
+  :sedex                       # 04014 - SEDEX sem contrato
+  :sedex_a_cobrar              # 40045 - SEDEX a Cobrar, sem contrato
+  :sedex_a_cobrar_com_contrato # 40126 - SEDEX a Cobrar, com contrato
+  :sedex_10                    # 40215 - SEDEX 10, sem contrato
+  :sedex_hoje                  # 40290 - SEDEX Hoje, sem contrato
+  :sedex_com_contrato_1        # 40096 - SEDEX com contrato
+  :sedex_com_contrato_2        # 40436 - SEDEX com contrato
+  :sedex_com_contrato_3        # 40444 - SEDEX com contrato
+  :sedex_com_contrato_4        # 40568 - SEDEX com contrato
+  :sedex_com_contrato_5        # 40606 - SEDEX com contrato
+  :sedex_com_contrato_6        # 04162 - SEDEX com contrato
+  :e_sedex                     # 81019 - e-SEDEX, com contrato
+  :e_sedex_prioritario         # 81027 - e-SEDEX Prioritário, com contrato
+  :e_sedex_express             # 81035 - e-SEDEX Express, com contrato
+  :e_sedex_grupo_1             # 81868 - (Grupo 1) e-SEDEX, com contrato
+  :e_sedex_grupo_2             # 81833 - (Grupo 2) e-SEDEX, com contrato
+  :e_sedex_grupo_3             # 81850 - (Grupo 3) e-SEDEX, com contrato
+
+=== Maneiras de configurar atributos no construtor de Correios::Frete::Calculador
+
+==== Com um hash
+  frete = Correios::Frete::Calculador.new :cep_origem => "04094-050",
+                                          :cep_destino => "90619-900",
+                                          :peso => 0.3,
+                                          :comprimento => 30,
+                                          :largura => 15,
+                                          :altura => 2
+
+==== Com um bloco
+  frete = Correios::Frete::Calculador.new do |f|
+    f.cep_origem = "04094-050"
+    f.cep_destino = "90619-900"
+    f.peso = 0.3
+    f.comprimento = 30
+    f.largura = 15
+    f.altura = 2
+  end
+
+=== Maneiras de adicionar itens em Correios::Frete::Pacote
+
+==== Pelo método adicionar_item passando instâncias de Correios::Frete::PacoteItem
+
+  item1 = Correios::Frete::PacoteItem.new :peso => 0.3, :comprimento => 30, :largura => 15, :altura => 2
+  item2 = Correios::Frete::PacoteItem.new :peso => 0.7, :comprimento => 70, :largura => 25, :altura => 3
+
+  pacote = Correios::Frete::Pacote.new
+  pacote.adicionar_item(item1)
+  pacote.adicionar_item(item2)
+
+==== Pelo construtor passando instâncias de Correios::Frete::PacoteItem
+
+  pacote = Correios::Frete::Pacote.new [
+    Correios::Frete::PacoteItem.new(:peso => 0.3, :comprimento => 30, :largura => 15, :altura => 2),
+    Correios::Frete::PacoteItem.new(:peso => 0.7, :comprimento => 70, :largura => 25, :altura => 3)
+  ]
+
+==== Pelo método adicionar_item passando parâmetros dos itens
+
+  pacote = Correios::Frete::Pacote.new
+  pacote.adicionar_item(:peso => 0.3, :comprimento => 30, :largura => 15, :altura => 2)
+  pacote.adicionar_item(:peso => 0.7, :comprimento => 70, :largura => 25, :altura => 3)
+
+==== Pelo construtor passando parâmetros dos itens
+
+  pacote = Correios::Frete::Pacote.new [
+    { :peso => 0.3, :comprimento => 30, :largura => 15, :altura => 2 },
+    { :peso => 0.7, :comprimento => 70, :largura => 25, :altura => 3 }
+  ]
+
+
+=== Atributos de Correios::Frete::Calculador
+
+==== String
+  cep_origem, cep_destino, codigo_empresa, senha
+==== Float
+  peso, comprimento, largura, altura, diametro, valor_declarado
+==== Boolean
+  mao_propria, aviso_recebimento
+==== Symbol
+  formato (:caixa_pacote, :rolo_prisma, :envelope)
+
+
+=== Atributos de Correios::Frete::Pacote
+
+==== Float
+  peso, comprimento, largura, altura, volume
+==== Array de Correios::Frete::PacoteItem
+  itens
+==== Symbol
+  formato (:caixa_pacote)
+
+=== Atributos de Correios::Frete::PacoteItem
+
+==== Float
+  peso, comprimento, largura, altura, volume
+
+
+=== Atributos de Correios::Frete::Servico
+
+==== String
+  codigo, erro, msg_erro, nome, descricao
+==== Float
+  valor, valor_mao_propria, valor_aviso_recebimento, valor_valor_declarado
+==== Fixnum
+  prazo_entrega
+==== Boolean
+  entrega_domiciliar, entrega_sabado
+==== Symbol
+  tipo (:pac, :pac_com_contrato, :pac_gf, :sedex, :sedex_a_cobrar, :sedex_a_cobrar_com_contrato, :sedex_10, :sedex_hoje, :sedex_com_contrato_1, :sedex_com_contrato_2, :sedex_com_contrato_3, :sedex_com_contrato_4, :sedex_com_contrato_5, :e_sedex, :e_sedex_prioritario, :e_sedex_express, :e_sedex_grupo_1, :e_sedex_grupo_2, :e_sedex_grupo_3)
+
+
+== Autor
+- {Fernando Hamasaki de Amorim (prodis)}[http://prodis.blog.br]
+
+== Colaboradores
+- {Daniel Konishi (dkonishi)}[https://github.com/dkonishi]
+- {Denis Tierno (detierno)}[https://github.com/detierno]
+- {Flavio Wuensche (fwuensche)}[https://github.com/fwuensche]
+- {Gui Albuk (guialbuk)}[https://github.com/guialbuk]
+- {Ian Obraczka (ianobraczka)}[https://github.com/ianobraczka]
+- {Paulo Henrique Sacramento (henriquesacramento)}[https://github.com/henriquesacramento]
+- {Rafael Barbolo (barbolo)}[https://github.com/barbolo]
+- {Rafael Souza (rafaelss)}[https://github.com/rafaelss]
+- {Ricardo Bernardelli (bernardelli)}[https://github.com/bernardelli]
+- {Rodolfo Ferreira (rodolfo42)}[https://github.com/rodolfo42]
+
+
+== Copyright
+
+(The MIT License)
+
+{Prodis a.k.a. Fernando Hamasaki de Amorim}[http://prodis.blog.br]
+
+Copyright (c) 2011-2017 Prodis
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+

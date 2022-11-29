@@ -1,0 +1,218 @@
+= DDEX
+
+{<img src="https://github.com/sshaw/ddex/workflows/CI/badge.svg"/>}[https://github.com/sshaw/ddex/actions/workflows/ci.yml]
+
+{DDEX}[http://ddex.net] metadata serialization for Ruby
+
+=== Overview
+
+ require "ddex"
+
+ message = DDEX.read("path/to/metadata.xml")  # ERN
+ puts message.update_indicator
+ message.resource_list.sound_recordings.each do |sr|
+   title = sr.reference_title.title_text
+   puts title.value
+   puts title.language_and_script_code
+   puts sr.remastered?
+ end
+
+ puts "Supported!" if DDEX.supports?("ern/341")
+
+ message = DDEX.read(string)
+ message = DDEX.read(io)
+ p message.to_hash
+
+ include DDEX::ERN::V341   # v3.4.1
+ message = NewReleaseMessage.new(:resource_list => ResourceList.new)
+ record  = SoundRecording.new(:language_and_script_code => "en-US")
+ # ...
+ message.resource_list.sound_recordings = [record]
+
+ xml = DDEX.write(message)
+ File.open("bloat.xml", "w") { |io| io.puts(xml) }
+
+=== Installation
+
+Rubygems:
+
+  gem install ddex
+
+Bundler:
+
+  gem "ddex"
+
+=== Supported Versions
+
+See: https://github.com/sshaw/ddex/tree/master/lib/ddex
+
+=== How This Differs From the Spec
+
+Every DDEX version handled by this module is fully supported, but there are some things you'll need to know.
+
+==== Naming Conventions
+
+DDEX elements and attributes use the {CamelCase naming convention}[https://en.wikipedia.org/wiki/CamelCase], this module uses Ruby naming conversions:
+CamelCase for classes, and {snake_case}[https://en.wikipedia.org/wiki/Snake_case] for class attributes. For example, this DDEX XML:
+
+  <PartyName>
+    <FullName>sshaw</FullName>
+  </PartyName>
+
+Would be manipulated via:
+
+  party = PartyName.new(:full_name => "sshaw")
+  puts party.full_name
+  party.full_name = "gwozdzie"
+
+
+See also {Boolean elements and attributes}[rdoc-ref:README@Boolean+Elements+and+Attributes]
+
+==== Cardinally
+
+Elements that _can_ occur more than once will be placed in an <code>Array</code> and their parent classes' accessor methods will use the plural form of
+the element/attribute's name. For example:
+
+  <Release>
+    <!-- More data -->
+    <PLine>
+      <Year>1994</Year>
+      <PLineText>Track Copyright</PLineText>
+    </PLine>
+    <PLine>
+      <Year>2001</Year>
+      <PLineText>Another Track Copyright</PLineText>
+    </PLine>
+  </Release>
+
+Would be manipulated via:
+
+  release.p_lines.each { |line| puts line.p_line_text }
+  release.p_lines << PLine.new(:year => 1999)
+
+==== Boolean Elements and Attributes
+
+The following are applied to accessors derived from DDEX elements and attributes with an XML schema type of +boolean+:
+
+* <code>"Is"</code> is removed from the beginning of the name
+* The *reader* *method* is turned into a predicate accessor, i.e., has a <code>"?"</code> appended to it
+
+For example, <code>SoundRecording/IsArtistRelated</code>:
+
+  recording = SoundRecording.new(:artist_related => true)
+  p recording.artist_related?  # true
+  recording.artist_related = false
+
+==== Version Specific Changes
+
+These changes only affect the object model, the resulting XML will conform to the appropriate DDEX schema.
+
+===== ERN >= v3.6 < v4.0
+
+<code>PriceInformation/@PriceType</code> has been renamed to <code>PriceInformation#type</code> to avoid conflicting with the
+element of the same name (<code>PriceInformation/PriceType</code>).
+
+=== Specification Version Detection
+
+An attempt is made to detect the version. How this is done varies by spec and version. See below for details.
+
+The version can always be explicitly given to <code>DDEX.read</code> via the <code>:version</code> option.
+
+==== ERN >= 4
+
+Version is determined by the DDEX XML namespace associated with the doc.
+
+For example, given a namespace of: <code>http://ddex.net/xml/ern/41</code> we'll try to match the end, either
+<code>"ern/41"</code> or <code>"ern/41/"</code>. The values used to match the come from
+<code>DDEX::ERN.config[V][:message_schema_version_id]</code> where <code>V</code> is a version string, e.g., <code>"V41"</code>.
+
+==== ERN < 4
+
+The version is detected based on the root element's value i.e., <code>/node()/@MessageSchemaVersionId</code>.
+
+By default the <code>MessageSchemaVersionId</code> is assumed to be in <code>SPEC/VERSION</code> or <code>VERSION</code> format
+(any leading, trailing, or duplicate slashes will be stripped), as this seems to be the convention used by most instance docs -though the DDEX specifications
+{are not strict about this}[http://www.ddex.net/format-messageschemaversionid]. If you're dealing with <code>MessageSchemaVersionId</code>s
+that vary from this format, and explicitly setting the version is not practical, you can set the global default(s):
+
+  DDEX::ERN.config["V35"][:message_schema_version_id] = "ern tray_fever!"
+  DDEX::ERN.config["V351"][:message_schema_version_id] = "ern/35-punto-1"
+  # ...
+
+Note that the version key must match the version's module name.
+
+=== Validation
+
+Not yet!
+
+=== DDEX Parsing Service (Rack Endpoint)
+
+If you want to parse DDEX metadata but don't want to use Ruby to process the results you can setup a parsing service
+using <code>Rack::DDEX</code>. <code>Rack::DDEX</code> is a {Rack endpoint}[http://rack.github.io] that parses a DDEX file
+and returns JSON.
+
+For example, from the repository's root:
+
+  ~/code/ruby/ddex >cat etc/config.ru
+  require "rack/ddex"
+
+  run Rack::DDEX.new
+
+  ~/code/ruby/ddex >rackup -I lib etc/config.ru  # Note that -D has problems with autoloading
+  [2014-12-15 20:35:40] INFO  WEBrick 1.3.1
+  [2014-12-15 20:35:40] INFO  ruby 2.1.2 (2014-05-08) [x86_64-darwin13.0]
+  [2014-12-15 20:35:40] INFO  WEBrick::HTTPServer#start: pid=76385 port=9292
+
+Then, from another terminal
+
+  ~/code/ruby/ddex >curl -d @spec/fixtures/ern/36/instance1.xml http://localhost:9292
+  {"message_header":{"message_thread_id":"Bu._UcZLsNbTVitjYnci","message_id":"DbVn-iuUB-SiHl05B2IqW3_","message_file_name":"wz9RHX_Eu1d"
+  ...
+
+  ~/code/ruby/ddex >curl http://localhost:9292  # HTTP 400
+  {"error":"XML parsing error: Start tag expected, '<' not found"}
+
+=== Contributing
+
+See CONTRIBUTING.md
+
+=== More Info
+
+* {Source code}[https://github.com/sshaw/ddex]
+* {Bugs}[https://github.com/sshaw/ddex/issues]
+* {jaxb2ruby}[https://github.com/sshaw/jaxb2ruby] (Generate Ruby objects from an XML schema)
+* {DDEX Schemas}[http://ddex.net/xml]
+
+=== TODO/Known Problems
+
+* <code>ROXML.from_xml</code> does not check the root element's name. Need to add something like:
+
+    raise "unknown element #{xml.name}" unless xml.name == tag_name
+
+* When an ROXML accessor expects an ROXML class, and one is not provided, <code>to_xml</code> will result in a <code>NoMethodError</code>:
+
+    # in SomeClass
+    xml_accessor :x, :as => AnotherClass
+
+    # Then
+    x = SomeClass.new(:x => "123")
+    x.to_xml  # undefined method `to_xml' for "123":String
+
+  Raised here: https://github.com/Empact/roxml/blob/v2.5.1/lib/roxml/xml/references.rb#L262
+
+=== See Also
+
+* {grid-number}[https://github.com/ScreenStaring/grid-number] - Class for managing Global Release Identifiers
+* {iTunes Store Transporter: GUI}[http://transportergui.com] - GUI and workflow automation for the iTunes Store’s Transporter (+iTMSTransporter+)
+
+=== Author
+
+Skye Shaw  [skye.shaw {AT} gmail.com]
+
+=== License
+
+Copyright (c) 2013-2020 Skye Shaw. Released under the {MIT License}[www.opensource.org/licenses/MIT].
+
+---
+
+Made by {ScreenStaring}[http://screenstaring.com]

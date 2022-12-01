@@ -1,1 +1,0 @@
-https://github.com/umeng/android_download_manager/wiki/android_download_manager

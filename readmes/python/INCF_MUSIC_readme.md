@@ -1,0 +1,145 @@
+* What is MUSIC?
+
+MUSIC is an API allowing large scale neuron simulators using MPI
+internally to exchange data during runtime.  MUSIC provides mechanisms
+to transfer massive amounts of event information and continuous values
+from one parallel application to another.  Special care has been taken
+to ensure that existing simulators can be adapted to MUSIC.  In
+particular, MUSIC handles data transfer between applications that use
+different time steps and different data allocation strategies.
+
+This is the MUSIC pilot implementation.
+
+The two most important components built from this software
+distribution is the music library `libmusic.a' and the music utility
+`music'.  A MUSIC-aware simulator links against the C++ library and
+can be launched using mpirun together with the music utility as
+described below.  MUSIC can also be used from a C program using the
+API in music-c.h.
+
+MUSIC is distributed under the GNU General Public License v3.
+
+
+* Required external packages
+
+MUSIC is written in C++ and makes use of the MPI message passing
+library.  MUSIC has been tested with versions 1.2 and 1.3 of OpenMPI,
+mpich and on BG/L.  A visualization tool `viewevents' can be built if
+the GLUT toolkit is installed.
+
+MUSIC version 1.0 makes use of the "long long" data type supported by,
+for example, the GNU C++ compiler g++.
+
+
+* Getting started
+
+MUSIC can be built and installed using the generic installation
+instructions found in the file INSTALL.  At the top of the source
+distribution directory, do:
+
+./autogen.sh
+./configure --prefix=<PREFIX>
+make
+make install
+
+(On some UNIX distributions you might need to run `ldconfig' or define
+LD_LIBRARY_PATH:
+
+  export LD_LIBRARY_PATH=/usr/local/lib
+
+for the music utility to find its library.)
+
+A MUSIC co-simulation is specified in a configuration file given as
+the first argument to the music utility.  The test subdirectory
+contains a collection of examples, for example:
+
+cd test
+mpirun -np 4 /usr/local/bin/music demo.music
+
+On some systems, this way of invoking a MUSIC co-simulation isn't
+supported. Se blow for an alternative method.
+
+
+* Compilation and linking flags
+
+configure.ac contains mechanisms which try to identify which MPI
+implementation/environment is in use and, based on this, decide
+automagically which compiler, compilation flags and linking flags to
+use. To circumvent, pass variable definitions ro configure, e.g.:
+
+  ./configure MPI_CXXFLAGS="-g -O3"
+
+The variables are:
+
+MPI_CXX       The compiler to use for MPI code
+MPI_CXXFLAGS  C++ compilation flags
+MPI_CFLAGS    C compilation flags
+MPI_LDFLAGS   Linking flags
+
+
+* Python support
+
+MUSIC comes with Python bindings. By default, the configure script
+looks for a Python interpreter in the path. If you want to use a
+particular Python interpreter, you can specify the path to it using
+the option --with-python:
+
+./configure --with-python=/my/bin/python
+
+Python support can be disabled using:
+
+./configure --without-python
+
+
+* Porting
+
+When launching a set of applications in a co-simulation, MUSIC needs
+to go outside the MPI standard in two respects:
+
+1. It needs to know the MPI process rank of the running process before
+calling MPI::Init.
+
+2. It needs to extract the first argument given to the music utility
+before calling MPI::Init.
+
+The configuration script tries to figure out which MPI distribution is
+installed and how to compiler MUSIC for that distribution.  The
+subdirectory mpidep contains all non-standard code.  If you are trying
+to port the MUSIC library to a new version of MPI, please supply new
+definitions for the functions getRank and getConfig in
+mpidep/mpidep.c.  For more details, see the file PORTING in this
+directory.
+
+
+* Alternative way to invoke MUSIC co-simulations
+
+In case the method of launching MUSIC described under "Getting
+started" above fails, there is an alternative method:
+
+Let's assume that we want to launch application A with binary a and Na
+processes, and application B with binary b and Nb processes. These are
+listed in a standard MUSIC config file ab.music with block labels A
+and B. The standard way to launch these would be:
+
+  mpirun -np <Na+Nb> music ab.music
+
+(where <Na+Nb> is a number). These can alternatively be launched in
+MPMD style as:
+
+  mpirun -np Na ./a --music-config ab.music --app-label A : -np Nb ./b --music-config ab.music --app-label B
+
+
+* Where to find more information
+
+The MUSIC manual and other information can be found on the MUSIC wiki:
+
+  https://github.com/INCF/MUSIC/wiki
+
+Questions and requests can be sent to mdj@pdc.kth.se.
+
+
+* Submitting bug reports
+
+Bug reports should be submitted as issues on the MUSIC github page:
+
+  https://github.com/INCF/MUSIC/issues

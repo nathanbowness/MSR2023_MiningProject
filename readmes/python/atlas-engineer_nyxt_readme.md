@@ -1,0 +1,114 @@
+#+html: <img src="https://nyxt.atlas.engineer/static/image/nyxt_256x256.png" align="right"/>
+
+* Nyxt browser
+
+*Nyxt* [nýkst] is a keyboard-driven web browser designed for power users.  Inspired by
+Emacs and Vim, it has familiar keybindings ([[https://en.wikipedia.org/wiki/Emacs][Emacs]], [[https://en.wikipedia.org/wiki/Vim_(text_editor)][vi]], [[https://en.wikipedia.org/wiki/IBM_Common_User_Access][CUA]]), and is infinitely
+extensible in Lisp.
+
+If you like Nyxt and you would like to help future development, please give us a
+star, spread the word, and support us on [[https://www.patreon.com/nyxt][Patreon]], thank you!
+
+*Attention:* Nyxt is under active development.  Feel free to [[https://github.com/atlas-engineer/nyxt/issues][report]] bugs,
+instabilities or feature wishes.
+
+-----
+
+#+html: <div align="center"> <a href="http://nyxt.atlas.engineer/">Homepage</a> | <a href="https://nyxt.atlas.engineer/download">Downloads</a> | <a href="https://nyxt.atlas.engineer/articles">Articles</a> | <a href="https://store.nyxt.atlas.engineer/">Store</a> | <a href="https://github.com/atlas-engineer/nyxt/blob/master/documents/README.org">Developer's Manual</a> | <a href="https://discourse.atlas.engineer/">Forum</a> | <a href="https://kiwiirc.com/nextclient/irc.libera.chat/nyxt">Chat</a> </div>
+
+-----
+
+* Features
+For an exhaustive description of all of the features, please refer to the
+manual.
+
+** Fast tab switching
+
+Switch easily between your open tabs via fuzzy search.  If you are looking for
+~https://www.example.com~, you could type in ~ele~, ~exa~, ~epl~, or any other
+matching series of letters.
+
+#+html: <img src="https://nyxt.atlas.engineer/static/image/switch-buffer.png?" align="center"/>
+
+** Multiple selection
+
+Commands can accept multiple inputs, allowing you to quickly perform an
+operation against multiple objects.  In the example below we search for
+cactuses, and open up several images simultaneously:
+
+#+html: <img src="https://nyxt.atlas.engineer/static/image/multi-select.png?" align="center"/>
+
+** Powerful bookmarks
+
+Bookmark a page with tags.  Search bookmarks with compound queries.  Capture
+more data about your bookmarks, and group and wrangle them in any way you like.
+
+#+html: <img src="https://nyxt.atlas.engineer/static/image/bookmark.png?" align="center"/>
+
+** Multi tab search
+
+Search multiple tabs at the same time, and view all the results in a single
+window.  Jump quickly through your open tabs to find what you need.
+
+#+html: <img src="https://nyxt.atlas.engineer/static/image/multi-search.png?" align="center"/>
+
+** History as a tree
+
+History is represented as a tree that you can traverse.  Smarter than the
+"forwards-backwards" abstraction found in other browsers, the tree makes sure
+you never lose track of where you've been.
+
+#+html: <img src="https://nyxt.atlas.engineer/static/image/history.png?" align="center"/>
+
+* Getting started
+** Install Nyxt
+
+Nyxt supports:
+
+- GNU/Linux
+- macOS (unofficial)
+- FreeBSD (unofficial)
+
+Nyxt has engine support for WebKit and _experimental support_ for
+WebEngine/Blink.
+
+Please find pre-built binaries at [[https://nyxt.atlas.engineer/download][Nyxt's downloads page]].  Nyxt is available on
+the following platforms:
+
+- [[https://www.alpinelinux.org/][Alpine]].
+- [[https://www.debian.org][Debian]] and derivatives such as [[https://ubuntu.com/][Ubuntu]] and [[https://linuxmint.com/][Linux Mint]].
+- [[https://github.com/atlas-engineer/ports][MacPorts]].
+- [[https://archlinux.org/][Arch Linux]]: Install with =pacman -Syu nyxt=.
+- [[https://nixos.org/nix/][Nix]]: Install with =nix-env --install nyxt=.
+- [[https://guix.gnu.org][Guix]]: Install with =guix install nyxt=.
+- [[https://voidlinux.org/][Void]]: Install with =xbps-install nyxt=.
+- [[https://www.opensuse.org/][OpenSuse]] (user-maintained package of the latest `master` build):
+  - Tumbleweed:
+
+    #+begin_src sh
+    zypper ar https://download.opensuse.org/repositories/home:/bobbie424242/openSUSE_Tumbleweed/ nyxt-git
+    #+end_src
+
+  - LEAP:
+
+    #+begin_src sh
+    zypper ar https://download.opensuse.org/repositories/home:/bobbie424242/15.4/ nyxt-git
+    #+end_src
+
+  Then install with =zypper in nyxt=.
+
+To install from source, please refer to the [[file:documents/README.org][developer's manual]].
+
+** Documentation & Customization
+
+For full documentation about Nyxt, how it works, and how to extend it please
+refer to the embedded manual.  To get started, run the =manual= command (press
+=control= + =space=, type =manual= and confirm with =return=).
+
+If you want to help with development, or build Nyxt from source, read the
+developer's documentation at [[file:documents/README.org][documents/README.org]].
+
+** History of changes
+
+If you are running a recent version of Nyxt please run the =changelog= command.
+For older versions, please refer to the [[https://github.com/atlas-engineer/nyxt/blob/2.2.1/documents/CHANGELOG.org][CHANGELOG]].
